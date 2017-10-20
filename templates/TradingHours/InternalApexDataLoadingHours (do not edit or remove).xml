@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<NinjaTrader>
+  <TradingHours xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <HolidaysSerializable />
+    <PartialHolidaysSerializable />
+    <Sessions>
+      <Session>
+        <BeginDay>Sunday</BeginDay>
+        <BeginTime>0</BeginTime>
+        <EndDay>Monday</EndDay>
+        <EndTime>0</EndTime>
+        <TradingDay>Sunday</TradingDay>
+      </Session>
+      <Session>
+        <BeginDay>Monday</BeginDay>
+        <BeginTime>0</BeginTime>
+        <EndDay>Tuesday</EndDay>
+        <EndTime>0</EndTime>
+        <TradingDay>Monday</TradingDay>
+      </Session>
+      <Session>
+        <BeginDay>Tuesday</BeginDay>
+        <BeginTime>0</BeginTime>
+        <EndDay>Wednesday</EndDay>
+        <EndTime>0</EndTime>
+        <TradingDay>Tuesday</TradingDay>
+      </Session>
+      <Session>
+        <BeginDay>Wednesday</BeginDay>
+        <BeginTime>0</BeginTime>
+        <EndDay>Thursday</EndDay>
+        <EndTime>0</EndTime>
+        <TradingDay>Wednesday</TradingDay>
+      </Session>
+      <Session>
+        <BeginDay>Thursday</BeginDay>
+        <BeginTime>0</BeginTime>
+        <EndDay>Friday</EndDay>
+        <EndTime>0</EndTime>
+        <TradingDay>Thursday</TradingDay>
+      </Session>
+      <Session>
+        <BeginDay>Friday</BeginDay>
+        <BeginTime>0</BeginTime>
+        <EndDay>Saturday</EndDay>
+        <EndTime>0</EndTime>
+        <TradingDay>Friday</TradingDay>
+      </Session>
+      <Session>
+        <BeginDay>Saturday</BeginDay>
+        <BeginTime>0</BeginTime>
+        <EndDay>Sunday</EndDay>
+        <EndTime>0</EndTime>
+        <TradingDay>Saturday</TradingDay>
+      </Session>
+    </Sessions>
+    <TimeZone>UTC</TimeZone>
+    <Version>3000</Version>
+    <Name>InternalApexDataLoadingHours (do not edit or remove)</Name>
+  </TradingHours>
+</NinjaTrader>
