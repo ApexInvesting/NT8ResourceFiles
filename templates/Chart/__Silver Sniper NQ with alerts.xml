@@ -51,7 +51,7 @@
           <PositionPenWinnerSerialize>DEFAULT</PositionPenWinnerSerialize>
           <ShortExecutionBrushSerialize>DEFAULT</ShortExecutionBrushSerialize>
           <BarsSeriesId>cbef7f2d627e4fe6bdb92ce1530160d0</BarsSeriesId>
-          <Id>26bbb3bdf6754b98a365282f576b9d43</Id>
+          <Id>8f6a7e62c0b44ab6b7a0bdf03722cd6a</Id>
           <Instrument>NQ 09-20</Instrument>
           <IsLinked>true</IsLinked>
           <IsPrimarySeries>true</IsPrimarySeries>
@@ -101,11 +101,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2020-07-25T00:00:00</From>
+          <From>2020-07-28T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2020-07-30T00:00:00</To>
+          <To>2020-08-02T00:00:00</To>
           <Calculate>OnEachTick</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>false</IsAutoScale>
@@ -123,7 +123,7 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>true</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>14029</IndicatorId>
+          <IndicatorId>8169</IndicatorId>
           <InstrumentDeserialized>NQ 09-20 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -154,11 +154,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2020-07-25T00:00:00</From>
+          <From>2020-07-28T00:00:00</From>
           <Panel>1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2020-07-30T00:00:00</To>
+          <To>2020-08-02T00:00:00</To>
           <Calculate>OnEachTick</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -226,7 +226,7 @@
           <DrawOnPricePanel>false</DrawOnPricePanel>
           <PaintPriceMarkers>true</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>14032</IndicatorId>
+          <IndicatorId>8172</IndicatorId>
           <InstrumentDeserialized>NQ 09-20 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -256,11 +256,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>false</DisplayInDataBox>
-          <From>2020-07-25T00:00:00</From>
+          <From>2020-07-28T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2020-07-30T00:00:00</To>
+          <To>2020-08-02T00:00:00</To>
           <Calculate>OnBarClose</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -278,7 +278,7 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>14035</IndicatorId>
+          <IndicatorId>8175</IndicatorId>
           <InstrumentDeserialized>NQ 09-20 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -308,11 +308,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>false</DisplayInDataBox>
-          <From>2020-07-25T00:00:00</From>
+          <From>2020-07-28T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2020-07-30T00:00:00</To>
+          <To>2020-08-02T00:00:00</To>
           <Calculate>OnBarClose</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -330,7 +330,7 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>14038</IndicatorId>
+          <IndicatorId>8178</IndicatorId>
           <InstrumentDeserialized>NQ 09-20 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -360,11 +360,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2020-07-25T00:00:00</From>
+          <From>2020-07-28T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2020-07-30T00:00:00</To>
+          <To>2020-08-02T00:00:00</To>
           <Calculate>OnBarClose</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -382,7 +382,7 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>true</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>14041</IndicatorId>
+          <IndicatorId>8181</IndicatorId>
           <InstrumentDeserialized>NQ 09-20 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -412,11 +412,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>false</DisplayInDataBox>
-          <From>2020-07-25T00:00:00</From>
+          <From>2020-07-28T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2020-07-30T00:00:00</To>
+          <To>2020-08-02T00:00:00</To>
           <Calculate>OnPriceChange</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -459,7 +459,7 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>14044</IndicatorId>
+          <IndicatorId>8184</IndicatorId>
           <InstrumentDeserialized>NQ 09-20 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -489,11 +489,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>false</DisplayInDataBox>
-          <From>2020-07-25T00:00:00</From>
+          <From>2020-07-28T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2020-07-30T00:00:00</To>
+          <To>2020-08-02T00:00:00</To>
           <Calculate>OnPriceChange</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -536,7 +536,7 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>14047</IndicatorId>
+          <IndicatorId>8187</IndicatorId>
           <InstrumentDeserialized>NQ 09-20 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -566,11 +566,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>false</DisplayInDataBox>
-          <From>2020-07-25T00:00:00</From>
+          <From>2020-07-28T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2020-07-30T00:00:00</To>
+          <To>2020-08-02T00:00:00</To>
           <Calculate>OnPriceChange</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -613,7 +613,7 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>14050</IndicatorId>
+          <IndicatorId>8190</IndicatorId>
           <InstrumentDeserialized>NQ 09-20 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -643,11 +643,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2020-07-25T00:00:00</From>
+          <From>2020-07-28T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2020-07-30T00:00:00</To>
+          <To>2020-08-02T00:00:00</To>
           <Calculate>OnEachTick</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>false</IsAutoScale>
@@ -678,7 +678,7 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>14053</IndicatorId>
+          <IndicatorId>8193</IndicatorId>
           <InstrumentDeserialized>NQ 09-20 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -708,11 +708,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>false</DisplayInDataBox>
-          <From>2020-07-25T00:00:00</From>
+          <From>2020-07-28T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2020-07-30T00:00:00</To>
+          <To>2020-08-02T00:00:00</To>
           <Calculate>OnPriceChange</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>false</IsAutoScale>
@@ -730,13 +730,13 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>14056</IndicatorId>
+          <IndicatorId>8196</IndicatorId>
           <InstrumentDeserialized>NQ 09-20 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
           <ZOrder>10011</ZOrder>
           <SettingsSerialized>e30=</SettingsSerialized>
-          <UserSettingsSerialized>eyJzaG93TGFiZWxzIjp0cnVlLCJhYmJyZXZpYXRlTGFiZWxzIjp0cnVlLCJsYWJlbEFsaWdubWVudCI6MCwibGFiZWxGb250Ijp7ImZvbnRGYW1pbHkiOiJBcmlhbCIsInNpemUiOjEyLjAsImJvbGQiOmZhbHNlLCJpdGFsaWMiOmZhbHNlfSwic2hvd1pvbmVzIjpmYWxzZSwiem9uZVdpZHRoQXNQZXJjZW50T2ZEZXZpYXRpb24iOjUsImxldmVsU2V0dGluZ3MiOnsiLTMiOnsidmlzaWJsZSI6dHJ1ZSwibGluZVN0cm9rZSI6eyJicnVzaCI6IiNGRjg3Q0VFQiIsIndpZHRoIjoxLjAsImRhc2hTdHlsZSI6MCwib3BhY2l0eSI6MTAwfSwiem9uZU9wYWNpdHkiOjEwfSwiLTIiOnsidmlzaWJsZSI6dHJ1ZSwibGluZVN0cm9rZSI6eyJicnVzaCI6IiNGRjg3Q0VFQiIsIndpZHRoIjoxLjAsImRhc2hTdHlsZSI6MCwib3BhY2l0eSI6MTAwfSwiem9uZU9wYWNpdHkiOjEwfSwiLTEuNSI6eyJ2aXNpYmxlIjp0cnVlLCJsaW5lU3Ryb2tlIjp7ImJydXNoIjoiI0ZGODdDRUVCIiwid2lkdGgiOjEuMCwiZGFzaFN0eWxlIjowLCJvcGFjaXR5IjoxMDB9LCJ6b25lT3BhY2l0eSI6MTB9LCItMSI6eyJ2aXNpYmxlIjp0cnVlLCJsaW5lU3Ryb2tlIjp7ImJydXNoIjoiI0ZGODdDRUVCIiwid2lkdGgiOjEuMCwiZGFzaFN0eWxlIjowLCJvcGFjaXR5IjoxMDB9LCJ6b25lT3BhY2l0eSI6MTB9LCItMC43Ijp7InZpc2libGUiOnRydWUsImxpbmVTdHJva2UiOnsiYnJ1c2giOiIjRkY4N0NFRUIiLCJ3aWR0aCI6MS4wLCJkYXNoU3R5bGUiOjAsIm9wYWNpdHkiOjEwMH0sInpvbmVPcGFjaXR5IjoxMH0sIi0wLjUiOnsidmlzaWJsZSI6dHJ1ZSwibGluZVN0cm9rZSI6eyJicnVzaCI6IiNGRjg3Q0VFQiIsIndpZHRoIjoxLjAsImRhc2hTdHlsZSI6MCwib3BhY2l0eSI6MTAwfSwiem9uZU9wYWNpdHkiOjEwfSwiLTAuMjUiOnsidmlzaWJsZSI6dHJ1ZSwibGluZVN0cm9rZSI6eyJicnVzaCI6IiNGRjg3Q0VFQiIsIndpZHRoIjoxLjAsImRhc2hTdHlsZSI6MCwib3BhY2l0eSI6MTAwfSwiem9uZU9wYWNpdHkiOjEwfSwiMCI6eyJ2aXNpYmxlIjp0cnVlLCJsaW5lU3Ryb2tlIjp7ImJydXNoIjoiI0ZGMDBGRkZGIiwid2lkdGgiOjIuMCwiZGFzaFN0eWxlIjowLCJvcGFjaXR5IjozMH0sInpvbmVPcGFjaXR5IjozMH0sIjAuMjUiOnsidmlzaWJsZSI6dHJ1ZSwibGluZVN0cm9rZSI6eyJicnVzaCI6IiNGRjg3Q0VFQiIsIndpZHRoIjoxLjAsImRhc2hTdHlsZSI6MCwib3BhY2l0eSI6MTAwfSwiem9uZU9wYWNpdHkiOjEwfSwiMC41Ijp7InZpc2libGUiOnRydWUsImxpbmVTdHJva2UiOnsiYnJ1c2giOiIjRkY4N0NFRUIiLCJ3aWR0aCI6MS4wLCJkYXNoU3R5bGUiOjAsIm9wYWNpdHkiOjEwMH0sInpvbmVPcGFjaXR5IjoxMH0sIjAuNyI6eyJ2aXNpYmxlIjp0cnVlLCJsaW5lU3Ryb2tlIjp7ImJydXNoIjoiI0ZGODdDRUVCIiwid2lkdGgiOjEuMCwiZGFzaFN0eWxlIjowLCJvcGFjaXR5IjoxMDB9LCJ6b25lT3BhY2l0eSI6MTB9LCIxIjp7InZpc2libGUiOnRydWUsImxpbmVTdHJva2UiOnsiYnJ1c2giOiIjRkY4N0NFRUIiLCJ3aWR0aCI6MS4wLCJkYXNoU3R5bGUiOjAsIm9wYWNpdHkiOjEwMH0sInpvbmVPcGFjaXR5IjoxMH0sIjEuNSI6eyJ2aXNpYmxlIjp0cnVlLCJsaW5lU3Ryb2tlIjp7ImJydXNoIjoiI0ZGODdDRUVCIiwid2lkdGgiOjEuMCwiZGFzaFN0eWxlIjowLCJvcGFjaXR5IjoxMDB9LCJ6b25lT3BhY2l0eSI6MTB9LCIyIjp7InZpc2libGUiOnRydWUsImxpbmVTdHJva2UiOnsiYnJ1c2giOiIjRkY4N0NFRUIiLCJ3aWR0aCI6MS4wLCJkYXNoU3R5bGUiOjAsIm9wYWNpdHkiOjEwMH0sInpvbmVPcGFjaXR5IjoxMH0sIjMiOnsidmlzaWJsZSI6dHJ1ZSwibGluZVN0cm9rZSI6eyJicnVzaCI6IiNGRjg3Q0VFQiIsIndpZHRoIjoxLjAsImRhc2hTdHlsZSI6MCwib3BhY2l0eSI6MTAwfSwiem9uZU9wYWNpdHkiOjEwfX19</UserSettingsSerialized>
+          <UserSettingsSerialized>eyJzaG93TGFiZWxzIjp0cnVlLCJhYmJyZXZpYXRlTGFiZWxzIjp0cnVlLCJsYWJlbEFsaWdubWVudCI6MCwibGFiZWxGb250Ijp7ImZvbnRGYW1pbHkiOiJBcmlhbCIsInNpemUiOjEyLjAsImJvbGQiOmZhbHNlLCJpdGFsaWMiOmZhbHNlfSwic2hvd1pvbmVzIjpmYWxzZSwiem9uZVdpZHRoQXNQZXJjZW50T2ZEZXZpYXRpb24iOjUsImxldmVsU2V0dGluZ3MiOnsiLTMiOnsidmlzaWJsZSI6dHJ1ZSwibGluZVN0cm9rZSI6eyJicnVzaCI6IiNGRjg3Q0VFQiIsIndpZHRoIjoxLjAsImRhc2hTdHlsZSI6MCwib3BhY2l0eSI6MTAwfSwiem9uZU9wYWNpdHkiOjEwfSwiLTIiOnsidmlzaWJsZSI6dHJ1ZSwibGluZVN0cm9rZSI6eyJicnVzaCI6IiNGRjg3Q0VFQiIsIndpZHRoIjoyLjAsImRhc2hTdHlsZSI6MCwib3BhY2l0eSI6MTAwfSwiem9uZU9wYWNpdHkiOjEwfSwiLTEuNSI6eyJ2aXNpYmxlIjp0cnVlLCJsaW5lU3Ryb2tlIjp7ImJydXNoIjoiI0ZGODdDRUVCIiwid2lkdGgiOjIuMCwiZGFzaFN0eWxlIjowLCJvcGFjaXR5IjoxMDB9LCJ6b25lT3BhY2l0eSI6MTB9LCItMSI6eyJ2aXNpYmxlIjp0cnVlLCJsaW5lU3Ryb2tlIjp7ImJydXNoIjoiI0ZGODdDRUVCIiwid2lkdGgiOjIuMCwiZGFzaFN0eWxlIjowLCJvcGFjaXR5IjoxMDB9LCJ6b25lT3BhY2l0eSI6MTB9LCItMC43Ijp7InZpc2libGUiOnRydWUsImxpbmVTdHJva2UiOnsiYnJ1c2giOiIjRkY4N0NFRUIiLCJ3aWR0aCI6MS4wLCJkYXNoU3R5bGUiOjAsIm9wYWNpdHkiOjEwMH0sInpvbmVPcGFjaXR5IjoxMH0sIi0wLjUiOnsidmlzaWJsZSI6dHJ1ZSwibGluZVN0cm9rZSI6eyJicnVzaCI6IiNGRjg3Q0VFQiIsIndpZHRoIjoyLjAsImRhc2hTdHlsZSI6MCwib3BhY2l0eSI6MTAwfSwiem9uZU9wYWNpdHkiOjEwfSwiLTAuMjUiOnsidmlzaWJsZSI6dHJ1ZSwibGluZVN0cm9rZSI6eyJicnVzaCI6IiNGRjg3Q0VFQiIsIndpZHRoIjoyLjAsImRhc2hTdHlsZSI6MCwib3BhY2l0eSI6MTAwfSwiem9uZU9wYWNpdHkiOjEwfSwiMCI6eyJ2aXNpYmxlIjp0cnVlLCJsaW5lU3Ryb2tlIjp7ImJydXNoIjoiI0ZGMDBGRkZGIiwid2lkdGgiOjMuMCwiZGFzaFN0eWxlIjowLCJvcGFjaXR5IjozMH0sInpvbmVPcGFjaXR5IjozMH0sIjAuMjUiOnsidmlzaWJsZSI6dHJ1ZSwibGluZVN0cm9rZSI6eyJicnVzaCI6IiNGRjg3Q0VFQiIsIndpZHRoIjoyLjAsImRhc2hTdHlsZSI6MCwib3BhY2l0eSI6MTAwfSwiem9uZU9wYWNpdHkiOjEwfSwiMC41Ijp7InZpc2libGUiOnRydWUsImxpbmVTdHJva2UiOnsiYnJ1c2giOiIjRkY4N0NFRUIiLCJ3aWR0aCI6Mi4wLCJkYXNoU3R5bGUiOjAsIm9wYWNpdHkiOjEwMH0sInpvbmVPcGFjaXR5IjoxMH0sIjAuNyI6eyJ2aXNpYmxlIjp0cnVlLCJsaW5lU3Ryb2tlIjp7ImJydXNoIjoiI0ZGODdDRUVCIiwid2lkdGgiOjEuMCwiZGFzaFN0eWxlIjowLCJvcGFjaXR5IjoxMDB9LCJ6b25lT3BhY2l0eSI6MTB9LCIxIjp7InZpc2libGUiOnRydWUsImxpbmVTdHJva2UiOnsiYnJ1c2giOiIjRkY4N0NFRUIiLCJ3aWR0aCI6Mi4wLCJkYXNoU3R5bGUiOjAsIm9wYWNpdHkiOjEwMH0sInpvbmVPcGFjaXR5IjoxMH0sIjEuNSI6eyJ2aXNpYmxlIjp0cnVlLCJsaW5lU3Ryb2tlIjp7ImJydXNoIjoiI0ZGODdDRUVCIiwid2lkdGgiOjIuMCwiZGFzaFN0eWxlIjowLCJvcGFjaXR5IjoxMDB9LCJ6b25lT3BhY2l0eSI6MTB9LCIyIjp7InZpc2libGUiOnRydWUsImxpbmVTdHJva2UiOnsiYnJ1c2giOiIjRkY4N0NFRUIiLCJ3aWR0aCI6Mi4wLCJkYXNoU3R5bGUiOjAsIm9wYWNpdHkiOjEwMH0sInpvbmVPcGFjaXR5IjoxMH0sIjMiOnsidmlzaWJsZSI6dHJ1ZSwibGluZVN0cm9rZSI6eyJicnVzaCI6IiNGRjg3Q0VFQiIsIndpZHRoIjoxLjAsImRhc2hTdHlsZSI6MCwib3BhY2l0eSI6MTAwfSwiem9uZU9wYWNpdHkiOjEwfX19</UserSettingsSerialized>
         </ApexDeviationLevels>
         <Input>
           <PriceType>Close</PriceType>
@@ -760,11 +760,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2020-07-25T00:00:00</From>
+          <From>2020-07-28T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2020-07-30T00:00:00</To>
+          <To>2020-08-02T00:00:00</To>
           <Calculate>OnPriceChange</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>false</IsAutoScale>
@@ -819,7 +819,7 @@
           <DrawOnPricePanel>false</DrawOnPricePanel>
           <PaintPriceMarkers>true</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>14059</IndicatorId>
+          <IndicatorId>8199</IndicatorId>
           <InstrumentDeserialized>NQ 09-20 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -849,11 +849,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>false</DisplayInDataBox>
-          <From>2020-07-25T00:00:00</From>
+          <From>2020-07-28T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2020-07-30T00:00:00</To>
+          <To>2020-08-02T00:00:00</To>
           <Calculate>OnPriceChange</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -884,7 +884,7 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>true</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>14062</IndicatorId>
+          <IndicatorId>8202</IndicatorId>
           <InstrumentDeserialized>NQ 09-20 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -914,11 +914,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>false</DisplayInDataBox>
-          <From>2020-07-25T00:00:00</From>
+          <From>2020-07-28T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2020-07-30T00:00:00</To>
+          <To>2020-08-02T00:00:00</To>
           <Calculate>OnPriceChange</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>false</IsAutoScale>
@@ -936,13 +936,13 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>true</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>14065</IndicatorId>
+          <IndicatorId>8205</IndicatorId>
           <InstrumentDeserialized>NQ 09-20 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
           <ZOrder>10007</ZOrder>
           <SettingsSerialized>e30=</SettingsSerialized>
-          <UserSettingsSerialized>eyJ0b3BPZmZzZXQiOjEwLjAsImxlZnRPZmZzZXQiOjUuMCwic2hvd0JhY2tncm91bmQiOnRydWUsInVzZTI0SG91clRpbWVGb3JtYXQiOmZhbHNlLCJzaG93SGVhZGVyIjpmYWxzZSwiZGVidWciOmZhbHNlLCJ0b2RheXNOZXdzT25seSI6dHJ1ZSwidVNPbmx5RXZlbnRzIjp0cnVlLCJzaG93TG93UHJpb3JpdHkiOnRydWUsIndhcm5pbmdJbnRlcnZhbCI6NSwidmVydGljYWxTcGFjaW5nIjoxLCJoZWFkZXJGb250Ijp7ImZvbnRGYW1pbHkiOiJBcmlhbCIsInNpemUiOjEwLjAsImJvbGQiOnRydWUsIml0YWxpYyI6ZmFsc2V9LCJkZWZhdWx0Rm9udCI6eyJmb250RmFtaWx5IjoiQXJpYWwiLCJzaXplIjoxMC4wLCJib2xkIjpmYWxzZSwiaXRhbGljIjpmYWxzZX0sIndhcm5pbmdGb250Ijp7ImZvbnRGYW1pbHkiOiJBcmlhbCIsInNpemUiOjEwLjAsImJvbGQiOnRydWUsIml0YWxpYyI6dHJ1ZX0sImhlYWRlckNvbG9yIjoiI0ZGMDAwMDAwIiwiaGlnaFByaW9yaXR5Q29sb3IiOiIjRkZGRjAwMDAiLCJtZWRpdW1Qcmlvcml0eUNvbG9yIjoiI0ZGRkZGRjAwIiwibG93UHJpb3JpdHlDb2xvciI6IiNGRkFERkYyRiIsIm5vcm1hbENvbG9yIjoiI0ZGODdDRUZBIiwiYmFja2dyb3VuZENvbG9yIjoiI0ZGMDAwMDAwIiwidmlzdWFsQWxlcnRzIjpmYWxzZSwidm9pY2VBbGVydHMiOnRydWUsImZsYXNoV2luZG93IjpmYWxzZSwibWF4TmV3c0l0ZW1zIjo1fQ==</UserSettingsSerialized>
+          <UserSettingsSerialized>eyJ0b3BPZmZzZXQiOjIwLjAsImxlZnRPZmZzZXQiOjUuMCwic2hvd0JhY2tncm91bmQiOnRydWUsInVzZTI0SG91clRpbWVGb3JtYXQiOmZhbHNlLCJzaG93SGVhZGVyIjpmYWxzZSwiZGVidWciOmZhbHNlLCJ0b2RheXNOZXdzT25seSI6dHJ1ZSwidVNPbmx5RXZlbnRzIjp0cnVlLCJzaG93TG93UHJpb3JpdHkiOnRydWUsIndhcm5pbmdJbnRlcnZhbCI6NSwidmVydGljYWxTcGFjaW5nIjoxLCJoZWFkZXJGb250Ijp7ImZvbnRGYW1pbHkiOiJBcmlhbCIsInNpemUiOjEwLjAsImJvbGQiOnRydWUsIml0YWxpYyI6ZmFsc2V9LCJkZWZhdWx0Rm9udCI6eyJmb250RmFtaWx5IjoiQXJpYWwiLCJzaXplIjoxMC4wLCJib2xkIjpmYWxzZSwiaXRhbGljIjpmYWxzZX0sIndhcm5pbmdGb250Ijp7ImZvbnRGYW1pbHkiOiJBcmlhbCIsInNpemUiOjEwLjAsImJvbGQiOnRydWUsIml0YWxpYyI6dHJ1ZX0sImhlYWRlckNvbG9yIjoiI0ZGMDAwMDAwIiwiaGlnaFByaW9yaXR5Q29sb3IiOiIjRkZGRjAwMDAiLCJtZWRpdW1Qcmlvcml0eUNvbG9yIjoiI0ZGRkZGRjAwIiwibG93UHJpb3JpdHlDb2xvciI6IiNGRkFERkYyRiIsIm5vcm1hbENvbG9yIjoiI0ZGODdDRUZBIiwiYmFja2dyb3VuZENvbG9yIjoiI0ZGMDAwMDAwIiwidmlzdWFsQWxlcnRzIjpmYWxzZSwidm9pY2VBbGVydHMiOnRydWUsImZsYXNoV2luZG93IjpmYWxzZSwibWF4TmV3c0l0ZW1zIjo1fQ==</UserSettingsSerialized>
         </ApexDiagnosticEconomicNews>
         <Input>
           <PriceType>Close</PriceType>
@@ -966,11 +966,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>false</DisplayInDataBox>
-          <From>2020-07-25T00:00:00</From>
+          <From>2020-07-28T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2020-07-30T00:00:00</To>
+          <To>2020-08-02T00:00:00</To>
           <Calculate>OnBarClose</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>false</IsAutoScale>
@@ -988,7 +988,7 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>14068</IndicatorId>
+          <IndicatorId>8208</IndicatorId>
           <InstrumentDeserialized>NQ 09-20 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -1016,11 +1016,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2020-07-25T00:00:00</From>
+          <From>2020-07-28T00:00:00</From>
           <Panel>2</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2020-07-30T00:00:00</To>
+          <To>2020-08-02T00:00:00</To>
           <Calculate>OnEachTick</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -1061,7 +1061,7 @@
           <DrawOnPricePanel>false</DrawOnPricePanel>
           <PaintPriceMarkers>true</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>14071</IndicatorId>
+          <IndicatorId>8211</IndicatorId>
           <InstrumentDeserialized>NQ 09-20 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -1089,11 +1089,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2020-07-25T00:00:00</From>
+          <From>2020-07-28T00:00:00</From>
           <Panel>2</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2020-07-30T00:00:00</To>
+          <To>2020-08-02T00:00:00</To>
           <Calculate>OnEachTick</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -1134,7 +1134,7 @@
           <DrawOnPricePanel>false</DrawOnPricePanel>
           <PaintPriceMarkers>true</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>14074</IndicatorId>
+          <IndicatorId>8214</IndicatorId>
           <InstrumentDeserialized>NQ 09-20 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -1162,11 +1162,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2020-07-25T00:00:00</From>
+          <From>2020-07-28T00:00:00</From>
           <Panel>2</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2020-07-30T00:00:00</To>
+          <To>2020-08-02T00:00:00</To>
           <Calculate>OnEachTick</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -1207,7 +1207,7 @@
           <DrawOnPricePanel>false</DrawOnPricePanel>
           <PaintPriceMarkers>true</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>14077</IndicatorId>
+          <IndicatorId>8217</IndicatorId>
           <InstrumentDeserialized>NQ 09-20 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -1235,11 +1235,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2020-07-25T00:00:00</From>
+          <From>2020-07-28T00:00:00</From>
           <Panel>2</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2020-07-30T00:00:00</To>
+          <To>2020-08-02T00:00:00</To>
           <Calculate>OnEachTick</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -1280,7 +1280,7 @@
           <DrawOnPricePanel>false</DrawOnPricePanel>
           <PaintPriceMarkers>true</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>14080</IndicatorId>
+          <IndicatorId>8220</IndicatorId>
           <InstrumentDeserialized>NQ 09-20 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -1308,11 +1308,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2020-07-25T00:00:00</From>
+          <From>2020-07-28T00:00:00</From>
           <Panel>2</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2020-07-30T00:00:00</To>
+          <To>2020-08-02T00:00:00</To>
           <Calculate>OnEachTick</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -1353,7 +1353,7 @@
           <DrawOnPricePanel>false</DrawOnPricePanel>
           <PaintPriceMarkers>true</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>14083</IndicatorId>
+          <IndicatorId>8223</IndicatorId>
           <InstrumentDeserialized>NQ 09-20 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -1381,11 +1381,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2020-07-25T00:00:00</From>
+          <From>2020-07-28T00:00:00</From>
           <Panel>2</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2020-07-30T00:00:00</To>
+          <To>2020-08-02T00:00:00</To>
           <Calculate>OnEachTick</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -1426,7 +1426,7 @@
           <DrawOnPricePanel>false</DrawOnPricePanel>
           <PaintPriceMarkers>true</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>14086</IndicatorId>
+          <IndicatorId>8226</IndicatorId>
           <InstrumentDeserialized>NQ 09-20 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -1454,11 +1454,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2020-07-25T00:00:00</From>
+          <From>2020-07-28T00:00:00</From>
           <Panel>2</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2020-07-30T00:00:00</To>
+          <To>2020-08-02T00:00:00</To>
           <Calculate>OnEachTick</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -1499,7 +1499,7 @@
           <DrawOnPricePanel>false</DrawOnPricePanel>
           <PaintPriceMarkers>true</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>14089</IndicatorId>
+          <IndicatorId>8229</IndicatorId>
           <InstrumentDeserialized>NQ 09-20 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -1577,7 +1577,7 @@
     </Properties>
     <ChartPanels>
       <ChartPanel>
-        <Height>518</Height>
+        <Height>523</Height>
         <HoldChartTraderOrders>false</HoldChartTraderOrders>
         <IsMaximized>false</IsMaximized>
         <Right>
@@ -1588,11 +1588,11 @@
             <HorizontalGridlinesIntervalType>Points</HorizontalGridlinesIntervalType>
             <HorizontalGridlinesInterval>0</HorizontalGridlinesInterval>
             <AutoScaleMarginType>Percent</AutoScaleMarginType>
-            <AutoScaleMarginLower>80</AutoScaleMarginLower>
-            <AutoScaleMarginUpper>80</AutoScaleMarginUpper>
+            <AutoScaleMarginLower>40</AutoScaleMarginLower>
+            <AutoScaleMarginUpper>40</AutoScaleMarginUpper>
             <YAxisScalingType>Linear</YAxisScalingType>
-            <FixedScaleMaxSerialize>10655.25</FixedScaleMaxSerialize>
-            <FixedScaleMinSerialize>10624.5</FixedScaleMinSerialize>
+            <FixedScaleMaxSerialize>10921</FixedScaleMaxSerialize>
+            <FixedScaleMinSerialize>10892</FixedScaleMinSerialize>
           </ChartScaleProperties>
         </Right>
         <Left>
@@ -1641,7 +1641,7 @@
             <AutoScaleMarginLower>6</AutoScaleMarginLower>
             <AutoScaleMarginUpper>6</AutoScaleMarginUpper>
             <YAxisScalingType>Linear</YAxisScalingType>
-            <FixedScaleMaxSerialize>1.8914191419167192</FixedScaleMaxSerialize>
+            <FixedScaleMaxSerialize>2.2519247759709757</FixedScaleMaxSerialize>
             <FixedScaleMinSerialize>0</FixedScaleMinSerialize>
           </ChartScaleProperties>
         </Right>
@@ -1782,6 +1782,7 @@
 &lt;/Pen&gt;</StopMarketSerialize>
       </ChartTraderProperties>
     </Properties>
+    <Account>Sim101</Account>
     <ATM></ATM>
     <Instrument>NQ 09-20</Instrument>
     <Quantity>1</Quantity>
