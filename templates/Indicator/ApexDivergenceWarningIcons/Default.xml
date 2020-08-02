@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<NinjaTrader>
+  <ApexDivergenceWarningIcons>
+    <ApexDivergenceWarningIcons xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+      <IsVisible>true</IsVisible>
+      <AreLinesConfigurable>true</AreLinesConfigurable>
+      <ArePlotsConfigurable>false</ArePlotsConfigurable>
+      <BarsPeriodSerializable>
+        <BarsPeriodTypeSerialize>5132</BarsPeriodTypeSerialize>
+        <BaseBarsPeriodType>Tick</BaseBarsPeriodType>
+        <BaseBarsPeriodValue>100</BaseBarsPeriodValue>
+        <VolumetricDeltaType>BidAsk</VolumetricDeltaType>
+        <MarketDataType>Last</MarketDataType>
+        <PointAndFigurePriceType>Close</PointAndFigurePriceType>
+        <ReversalType>Tick</ReversalType>
+        <Value>10</Value>
+        <Value2>50</Value2>
+      </BarsPeriodSerializable>
+      <BarsToLoad>0</BarsToLoad>
+      <DisplayInDataBox>true</DisplayInDataBox>
+      <From>2020-07-27T00:00:00</From>
+      <Panel>-1</Panel>
+      <ScaleJustification>Right</ScaleJustification>
+      <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
+      <To>2020-08-01T00:00:00</To>
+      <Calculate>OnBarClose</Calculate>
+      <Displacement>0</Displacement>
+      <IsAutoScale>true</IsAutoScale>
+      <IsDataSeriesRequired>true</IsDataSeriesRequired>
+      <IsOverlay>true</IsOverlay>
+      <Lines />
+      <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
+      <Name>_APEX Divergence Warning Icons</Name>
+      <Plots />
+      <SelectedValueSeries>0</SelectedValueSeries>
+      <InputPlot>0</InputPlot>
+      <IsTradingHoursBreakLineVisible>true</IsTradingHoursBreakLineVisible>
+      <DrawHorizontalGridLines>true</DrawHorizontalGridLines>
+      <DrawVerticalGridLines>true</DrawVerticalGridLines>
+      <DrawOnPricePanel>true</DrawOnPricePanel>
+      <PaintPriceMarkers>true</PaintPriceMarkers>
+      <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
+      <IndicatorId>2147</IndicatorId>
+      <InstrumentDeserialized>NQ 09-20 Globex</InstrumentDeserialized>
+      <MaxSerialized>0</MaxSerialized>
+      <MinSerialized>0</MinSerialized>
+      <ZOrder>10006</ZOrder>
+      <SettingsSerialized>eyJTdWJncmFwaFNldHRpbmdzIjp7IkxvZ2ljIjowLCJNb2RlMV9QZXJpb2QiOjE0LCJNb2RlMl9QZXJpb2QiOjE0fSwiUmVndWxhckRpdmVyZ2VuY2VFbmFibGVkIjp0cnVlLCJIaWRkZW5EaXZlcmdlbmNlRW5hYmxlZCI6dHJ1ZX0=</SettingsSerialized>
+      <UserSettingsSerialized>eyJBbGVydHMiOnsidmlzdWFsIjpmYWxzZSwiYXVkaWJsZSI6ZmFsc2UsIndpbmRvd0ZsYXNoIjpmYWxzZX0sIlJlZ3VsYXJEaXZlcmdlbmNlU3ltYm9sQ29sb3IiOiIjRkZGRkZGMDAiLCJIaWRkZW5EaXZlcmdlbmNlU3ltYm9sQ29sb3IiOiIjRkZGRkZGMDAiLCJTeW1ib2xTaXplIjoxMCwiU3ltYm9sUG9zaXRpb25PZmZzZXQiOjN9</UserSettingsSerialized>
+    </ApexDivergenceWarningIcons>
+  </ApexDivergenceWarningIcons>
+</NinjaTrader>

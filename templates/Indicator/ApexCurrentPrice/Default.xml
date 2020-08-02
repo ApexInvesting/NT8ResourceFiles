@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<NinjaTrader>
+  <ApexCurrentPrice>
+    <ApexCurrentPrice xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+      <IsVisible>true</IsVisible>
+      <AreLinesConfigurable>true</AreLinesConfigurable>
+      <ArePlotsConfigurable>true</ArePlotsConfigurable>
+      <BarsPeriodSerializable>
+        <BarsPeriodTypeSerialize>5132</BarsPeriodTypeSerialize>
+        <BaseBarsPeriodType>Tick</BaseBarsPeriodType>
+        <BaseBarsPeriodValue>100</BaseBarsPeriodValue>
+        <VolumetricDeltaType>BidAsk</VolumetricDeltaType>
+        <MarketDataType>Last</MarketDataType>
+        <PointAndFigurePriceType>Close</PointAndFigurePriceType>
+        <ReversalType>Tick</ReversalType>
+        <Value>10</Value>
+        <Value2>50</Value2>
+      </BarsPeriodSerializable>
+      <BarsToLoad>0</BarsToLoad>
+      <DisplayInDataBox>false</DisplayInDataBox>
+      <From>2020-07-27T00:00:00</From>
+      <Panel>-1</Panel>
+      <ScaleJustification>Right</ScaleJustification>
+      <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
+      <To>2020-08-01T00:00:00</To>
+      <Calculate>OnPriceChange</Calculate>
+      <Displacement>0</Displacement>
+      <IsAutoScale>true</IsAutoScale>
+      <IsDataSeriesRequired>true</IsDataSeriesRequired>
+      <IsOverlay>true</IsOverlay>
+      <Lines />
+      <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
+      <Name>_APEX Current Price</Name>
+      <Plots />
+      <SelectedValueSeries>0</SelectedValueSeries>
+      <InputPlot>0</InputPlot>
+      <IsTradingHoursBreakLineVisible>true</IsTradingHoursBreakLineVisible>
+      <DrawHorizontalGridLines>true</DrawHorizontalGridLines>
+      <DrawVerticalGridLines>true</DrawVerticalGridLines>
+      <DrawOnPricePanel>true</DrawOnPricePanel>
+      <PaintPriceMarkers>true</PaintPriceMarkers>
+      <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
+      <IndicatorId>2168</IndicatorId>
+      <InstrumentDeserialized>NQ 09-20 Globex</InstrumentDeserialized>
+      <MaxSerialized>0</MaxSerialized>
+      <MinSerialized>0</MinSerialized>
+      <ZOrder>10013</ZOrder>
+      <SettingsSerialized>e30=</SettingsSerialized>
+      <UserSettingsSerialized>eyJDdXJyZW50U3Ryb2tlIjp7ImJydXNoIjoiI0ZGMDAwMDAwIiwid2lkdGgiOjIuMCwiZGFzaFN0eWxlIjoxLCJvcGFjaXR5IjoxMDB9LCJTaG93UHJpY2VMYWJlbCI6ZmFsc2UsIkxhYmVsRm9udCI6eyJmb250RmFtaWx5IjoiQ291cmllciBOZXciLCJzaXplIjoxMi4wLCJib2xkIjp0cnVlLCJpdGFsaWMiOmZhbHNlfSwiTGFiZWxDb2xvciI6IiNGRjAwMDAwMCJ9</UserSettingsSerialized>
+    </ApexCurrentPrice>
+  </ApexCurrentPrice>
+</NinjaTrader>
