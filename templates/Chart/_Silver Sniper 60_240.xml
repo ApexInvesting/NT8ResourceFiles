@@ -22,7 +22,7 @@
           <RangeType>Days</RangeType>
           <BarsBack>50</BarsBack>
           <DaysBack>30</DaysBack>
-          <From>2020-07-22T00:00:00</From>
+          <From>2020-07-28T00:00:00</From>
           <IsStableSession>true</IsStableSession>
           <To>2099-12-01T00:00:00</To>
           <TradingHoursSerializable>Default 24 x 7</TradingHoursSerializable>
@@ -34,7 +34,7 @@
           <MinSerialized>0</MinSerialized>
           <Panel>0</Panel>
           <PriceMarker>
-            <BackgroundSerialize>DEFAULT</BackgroundSerialize>
+            <BackgroundSerialize>&lt;SolidColorBrush xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;#FFDCDCDC&lt;/SolidColorBrush&gt;</BackgroundSerialize>
             <IsVisible>true</IsVisible>
           </PriceMarker>
           <ShowGlobalDrawObjects>true</ShowGlobalDrawObjects>
@@ -50,8 +50,8 @@
           <PositionPenLoserSerialize>DEFAULT</PositionPenLoserSerialize>
           <PositionPenWinnerSerialize>DEFAULT</PositionPenWinnerSerialize>
           <ShortExecutionBrushSerialize>DEFAULT</ShortExecutionBrushSerialize>
-          <BarsSeriesId>e873626b5b1b49bfb44bfc41cd135c05</BarsSeriesId>
-          <Id>e873626b5b1b49bfb44bfc41cd135c05</Id>
+          <BarsSeriesId>0ced12548f1443a4961b8dc2443145b6</BarsSeriesId>
+          <Id>0ced12548f1443a4961b8dc2443145b6</Id>
           <Instrument>NQ 09-20</Instrument>
           <IsLinked>true</IsLinked>
           <IsPrimarySeries>true</IsPrimarySeries>
@@ -66,8 +66,16 @@
                 <ChartStyleTypeSerialize>1</ChartStyleTypeSerialize>
                 <DownBrushSerialize>DEFAULT</DownBrushSerialize>
                 <UpBrushSerialize>DEFAULT</UpBrushSerialize>
-                <StrokeSerialize>DEFAULT</StrokeSerialize>
-                <Stroke2Serialize>DEFAULT</Stroke2Serialize>
+                <StrokeSerialize>&lt;Pen Brush="#FF696969" Thickness="2" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
+  &lt;Pen.DashStyle&gt;
+    &lt;DashStyle /&gt;
+  &lt;/Pen.DashStyle&gt;
+&lt;/Pen&gt;</StrokeSerialize>
+                <Stroke2Serialize>&lt;Pen Brush="#FF696969" Thickness="3" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
+  &lt;Pen.DashStyle&gt;
+    &lt;DashStyle /&gt;
+  &lt;/Pen.DashStyle&gt;
+&lt;/Pen&gt;</Stroke2Serialize>
               </CandleStyle>
             </CandleStyle>
           </ChartStyle>
@@ -93,11 +101,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2020-07-02T00:00:00</From>
+          <From>2020-07-03T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2020-08-01T00:00:00</To>
+          <To>2020-08-02T00:00:00</To>
           <Calculate>OnEachTick</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -115,12 +123,13 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>true</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>3737</IndicatorId>
+          <IndicatorId>948</IndicatorId>
+          <InstrumentDeserialized>NQ 09-20 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
           <ZOrder>10004</ZOrder>
-          <SettingsSerialized>eyJQaXZvdFN0cmVuZ3RoIjo1LCJNYXhMb29rQmFja0JhcnMiOjIwMCwiUGl2b3RUaWNrRGlmZiI6MTAsIk1heExldmVscyI6MywiWm9uZVRpY2tTaXplIjoyfQ==</SettingsSerialized>
-          <UserSettingsSerialized>eyJDb2xvckFib3ZlIjoiI0ZGRkYwMDAwIiwiQ29sb3JCZWxvdyI6IiNGRjAwMDBGRiJ9</UserSettingsSerialized>
+          <SettingsSerialized>eyJQaXZvdFN0cmVuZ3RoIjo1LCJNYXhMb29rQmFja0JhcnMiOjIwMCwiUGl2b3RUaWNrRGlmZiI6MTAsIk1heExldmVscyI6MywiWm9uZVRpY2tTaXplIjozfQ==</SettingsSerialized>
+          <UserSettingsSerialized>eyJDb2xvckFib3ZlIjoiI0ZGRkYwMDAwIiwiQ29sb3JCZWxvdyI6IiNGRjAwMDBGRiIsIlNob3dMYWJlbHMiOnRydWUsIk1ha2VMZXZlbExpbmVzR2xvYmFsIjpmYWxzZX0=</UserSettingsSerialized>
         </ApexFluxPivotLevel>
         <Input>
           <PriceType>Close</PriceType>
@@ -150,14 +159,22 @@
         <TabName>@INSTRUMENT_FULL</TabName>
         <LoadBackgroundImage>false</LoadBackgroundImage>
         <BackgroundImageStretch>Fill</BackgroundImageStretch>
-        <ChartBackgroundSerialize>&lt;SolidColorBrush xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;#FFF5F5F5&lt;/SolidColorBrush&gt;</ChartBackgroundSerialize>
-        <ChartTextSerialize>DEFAULT</ChartTextSerialize>
-        <CrosshairLabelBackgroundSerialize>&lt;SolidColorBrush xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;#FF000000&lt;/SolidColorBrush&gt;</CrosshairLabelBackgroundSerialize>
+        <ChartBackgroundSerialize>&lt;SolidColorBrush xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;#FFA9A9A9&lt;/SolidColorBrush&gt;</ChartBackgroundSerialize>
+        <ChartTextSerialize>&lt;SolidColorBrush xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;#FF696969&lt;/SolidColorBrush&gt;</ChartTextSerialize>
+        <CrosshairLabelBackgroundSerialize>&lt;SolidColorBrush xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;#FF696969&lt;/SolidColorBrush&gt;</CrosshairLabelBackgroundSerialize>
         <InactivePriceMarkersBrushSerialize>&lt;SolidColorBrush xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;#FFA9A9A9&lt;/SolidColorBrush&gt;</InactivePriceMarkersBrushSerialize>
-        <AreHGridLinesVisible>true</AreHGridLinesVisible>
-        <AreVGridLinesVisible>true</AreVGridLinesVisible>
-        <AxisPenSerialize>DEFAULT</AxisPenSerialize>
-        <CrosshairPen>DEFAULT</CrosshairPen>
+        <AreHGridLinesVisible>false</AreHGridLinesVisible>
+        <AreVGridLinesVisible>false</AreVGridLinesVisible>
+        <AxisPenSerialize>&lt;Pen Brush="#FF696969" Thickness="1" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
+  &lt;Pen.DashStyle&gt;
+    &lt;DashStyle /&gt;
+  &lt;/Pen.DashStyle&gt;
+&lt;/Pen&gt;</AxisPenSerialize>
+        <CrosshairPen>&lt;Pen Brush="#FF696969" Thickness="1" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
+  &lt;Pen.DashStyle&gt;
+    &lt;DashStyle /&gt;
+  &lt;/Pen.DashStyle&gt;
+&lt;/Pen&gt;</CrosshairPen>
         <CrosshairIsLocked>false</CrosshairIsLocked>
         <CrosshairCrosshairType>Local</CrosshairCrosshairType>
         <CrosshairDrawCursorOnly>false</CrosshairDrawCursorOnly>
@@ -172,7 +189,7 @@
     </Properties>
     <ChartPanels>
       <ChartPanel>
-        <Height>605</Height>
+        <Height>493</Height>
         <HoldChartTraderOrders>false</HoldChartTraderOrders>
         <IsMaximized>false</IsMaximized>
         <Right>
@@ -187,7 +204,7 @@
             <AutoScaleMarginUpper>6</AutoScaleMarginUpper>
             <YAxisScalingType>Linear</YAxisScalingType>
             <FixedScaleMaxSerialize>10939</FixedScaleMaxSerialize>
-            <FixedScaleMinSerialize>10675</FixedScaleMinSerialize>
+            <FixedScaleMinSerialize>10691</FixedScaleMinSerialize>
           </ChartScaleProperties>
         </Right>
         <Left>
@@ -277,7 +294,6 @@
 &lt;/Pen&gt;</StopMarketSerialize>
       </ChartTraderProperties>
     </Properties>
-    <Account>Sim101</Account>
     <ATM></ATM>
     <Instrument>NQ 09-20</Instrument>
     <Quantity>1</Quantity>
