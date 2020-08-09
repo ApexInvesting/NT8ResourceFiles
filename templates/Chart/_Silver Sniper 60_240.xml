@@ -16,13 +16,13 @@
             <MarketDataType>Last</MarketDataType>
             <PointAndFigurePriceType>Close</PointAndFigurePriceType>
             <ReversalType>Tick</ReversalType>
-            <Value>60</Value>
+            <Value>10</Value>
             <Value2>1</Value2>
           </BarsPeriod>
           <RangeType>Days</RangeType>
           <BarsBack>50</BarsBack>
-          <DaysBack>30</DaysBack>
-          <From>2020-07-28T00:00:00</From>
+          <DaysBack>5</DaysBack>
+          <From>2020-08-03T00:00:00</From>
           <IsStableSession>true</IsStableSession>
           <To>2099-12-01T00:00:00</To>
           <TradingHoursSerializable>Default 24 x 7</TradingHoursSerializable>
@@ -46,12 +46,12 @@
   &lt;/Pen.DashStyle&gt;
 &lt;/Pen&gt;</TradingHoursBreakPenSerialize>
           <LongExecutionBrushSerialize>DEFAULT</LongExecutionBrushSerialize>
-          <PlotExecutions>TextAndMarker</PlotExecutions>
+          <PlotExecutions>DoNotPlot</PlotExecutions>
           <PositionPenLoserSerialize>DEFAULT</PositionPenLoserSerialize>
           <PositionPenWinnerSerialize>DEFAULT</PositionPenWinnerSerialize>
           <ShortExecutionBrushSerialize>DEFAULT</ShortExecutionBrushSerialize>
-          <BarsSeriesId>0ced12548f1443a4961b8dc2443145b6</BarsSeriesId>
-          <Id>0ced12548f1443a4961b8dc2443145b6</Id>
+          <BarsSeriesId>de74f636475346ce8416803e79338340</BarsSeriesId>
+          <Id>de74f636475346ce8416803e79338340</Id>
           <Instrument>NQ 09-20</Instrument>
           <IsLinked>true</IsLinked>
           <IsPrimarySeries>true</IsPrimarySeries>
@@ -96,19 +96,19 @@
             <MarketDataType>Last</MarketDataType>
             <PointAndFigurePriceType>Close</PointAndFigurePriceType>
             <ReversalType>Tick</ReversalType>
-            <Value>60</Value>
+            <Value>10</Value>
             <Value2>1</Value2>
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2020-07-03T00:00:00</From>
+          <From>2020-08-03T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2020-08-02T00:00:00</To>
+          <To>2020-08-08T00:00:00</To>
           <Calculate>OnEachTick</Calculate>
           <Displacement>0</Displacement>
-          <IsAutoScale>true</IsAutoScale>
+          <IsAutoScale>false</IsAutoScale>
           <IsDataSeriesRequired>true</IsDataSeriesRequired>
           <IsOverlay>true</IsOverlay>
           <Lines />
@@ -123,13 +123,13 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>true</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>948</IndicatorId>
+          <IndicatorId>66</IndicatorId>
           <InstrumentDeserialized>NQ 09-20 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
           <ZOrder>10004</ZOrder>
-          <SettingsSerialized>eyJQaXZvdFN0cmVuZ3RoIjo1LCJNYXhMb29rQmFja0JhcnMiOjIwMCwiUGl2b3RUaWNrRGlmZiI6MTAsIk1heExldmVscyI6MywiWm9uZVRpY2tTaXplIjozfQ==</SettingsSerialized>
-          <UserSettingsSerialized>eyJDb2xvckFib3ZlIjoiI0ZGRkYwMDAwIiwiQ29sb3JCZWxvdyI6IiNGRjAwMDBGRiIsIlNob3dMYWJlbHMiOnRydWUsIk1ha2VMZXZlbExpbmVzR2xvYmFsIjpmYWxzZX0=</UserSettingsSerialized>
+          <SettingsSerialized>eyJQaXZvdFN0cmVuZ3RoIjo1LCJNYXhMb29rQmFja0JhcnMiOjIwMCwiUGl2b3RUaWNrRGlmZiI6MTAsIk1heExldmVscyI6MywiSXNTdGlja3kxIjp0cnVlLCJfc3RpY2t5VGltZTEiOiIxOTc0LTA2LTI3VDEzOjMwOjAwWiIsIklzU3RpY2t5MiI6dHJ1ZSwiX3N0aWNreVRpbWUyIjoiMTk3NC0wNi0yN1QyMjowMDowMFoiLCJTdGlja3lUaW1lMSI6IjE5NzQtMDYtMjdUMDk6MzA6MDAtMDQ6MDAiLCJTdGlja3lUaW1lMiI6IjE5NzQtMDYtMjdUMTg6MDA6MDAtMDQ6MDAifQ==</SettingsSerialized>
+          <UserSettingsSerialized>eyJMaW5lQWJvdmUiOnsiYnJ1c2giOiIjRkZGRjAwMDAiLCJ3aWR0aCI6Mi4wLCJkYXNoU3R5bGUiOjAsIm9wYWNpdHkiOjEwMH0sIkxpbmVCZWxvdyI6eyJicnVzaCI6IiNGRjAwMDBGRiIsIndpZHRoIjoyLjAsImRhc2hTdHlsZSI6MCwib3BhY2l0eSI6MTAwfSwiU2hvd0xhYmVscyI6dHJ1ZSwiTWFrZUxldmVsTGluZXNHbG9iYWwiOnRydWV9</UserSettingsSerialized>
         </ApexFluxPivotLevel>
         <Input>
           <PriceType>Close</PriceType>
@@ -189,7 +189,7 @@
     </Properties>
     <ChartPanels>
       <ChartPanel>
-        <Height>493</Height>
+        <Height>563</Height>
         <HoldChartTraderOrders>false</HoldChartTraderOrders>
         <IsMaximized>false</IsMaximized>
         <Right>
@@ -203,8 +203,8 @@
             <AutoScaleMarginLower>6</AutoScaleMarginLower>
             <AutoScaleMarginUpper>6</AutoScaleMarginUpper>
             <YAxisScalingType>Linear</YAxisScalingType>
-            <FixedScaleMaxSerialize>10939</FixedScaleMaxSerialize>
-            <FixedScaleMinSerialize>10691</FixedScaleMinSerialize>
+            <FixedScaleMaxSerialize>11139.25</FixedScaleMaxSerialize>
+            <FixedScaleMinSerialize>11035.25</FixedScaleMinSerialize>
           </ChartScaleProperties>
         </Right>
         <Left>
@@ -294,6 +294,7 @@
 &lt;/Pen&gt;</StopMarketSerialize>
       </ChartTraderProperties>
     </Properties>
+    <Account>Sim101</Account>
     <ATM></ATM>
     <Instrument>NQ 09-20</Instrument>
     <Quantity>1</Quantity>

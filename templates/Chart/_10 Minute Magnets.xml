@@ -21,8 +21,8 @@
           </BarsPeriod>
           <RangeType>Days</RangeType>
           <BarsBack>50</BarsBack>
-          <DaysBack>30</DaysBack>
-          <From>2020-07-28T00:00:00</From>
+          <DaysBack>5</DaysBack>
+          <From>2020-08-03T00:00:00</From>
           <IsStableSession>true</IsStableSession>
           <To>2099-12-01T00:00:00</To>
           <TradingHoursSerializable>Default 24 x 7</TradingHoursSerializable>
@@ -46,12 +46,12 @@
   &lt;/Pen.DashStyle&gt;
 &lt;/Pen&gt;</TradingHoursBreakPenSerialize>
           <LongExecutionBrushSerialize>DEFAULT</LongExecutionBrushSerialize>
-          <PlotExecutions>TextAndMarker</PlotExecutions>
+          <PlotExecutions>DoNotPlot</PlotExecutions>
           <PositionPenLoserSerialize>DEFAULT</PositionPenLoserSerialize>
           <PositionPenWinnerSerialize>DEFAULT</PositionPenWinnerSerialize>
           <ShortExecutionBrushSerialize>DEFAULT</ShortExecutionBrushSerialize>
-          <BarsSeriesId>0ced12548f1443a4961b8dc2443145b6</BarsSeriesId>
-          <Id>0ced12548f1443a4961b8dc2443145b6</Id>
+          <BarsSeriesId>de74f636475346ce8416803e79338340</BarsSeriesId>
+          <Id>de74f636475346ce8416803e79338340</Id>
           <Instrument>NQ 09-20</Instrument>
           <IsLinked>true</IsLinked>
           <IsPrimarySeries>true</IsPrimarySeries>
@@ -101,11 +101,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2020-07-03T00:00:00</From>
+          <From>2020-08-03T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2020-08-02T00:00:00</To>
+          <To>2020-08-08T00:00:00</To>
           <Calculate>OnBarClose</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>false</IsAutoScale>
@@ -123,13 +123,13 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>true</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>954</IndicatorId>
+          <IndicatorId>294</IndicatorId>
           <InstrumentDeserialized>NQ 09-20 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
           <ZOrder>10004</ZOrder>
           <SettingsSerialized>eyJ1c2VGdXR1cmVzVm9sdW1lRm9yRm9yZXgiOnRydWUsInZvbHVtZVNNQVBlcmlvZCI6MTAwMCwidm9sdW1lU3RkRGV2UGVyaW9kIjoxMDAwLCJzdGREZXZNdWx0aXBsaWVyIjo0LjB9</SettingsSerialized>
-          <UserSettingsSerialized>eyJ1cE1hZ25ldFBlbiI6eyJzdHJva2UiOnsiYnJ1c2giOiIjRkZGRkE1MDAiLCJ3aWR0aCI6NS4wLCJkYXNoU3R5bGUiOjIsIm9wYWNpdHkiOjEwMH19LCJkb3duTWFnbmV0UGVuIjp7InN0cm9rZSI6eyJicnVzaCI6IiNGRkZGQTUwMCIsIndpZHRoIjo1LjAsImRhc2hTdHlsZSI6Miwib3BhY2l0eSI6MTAwfX19</UserSettingsSerialized>
+          <UserSettingsSerialized>eyJ1cE1hZ25ldFBlbiI6eyJzdHJva2UiOnsiYnJ1c2giOiIjRkZGRkE1MDAiLCJ3aWR0aCI6My4wLCJkYXNoU3R5bGUiOjIsIm9wYWNpdHkiOjEwMH19LCJkb3duTWFnbmV0UGVuIjp7InN0cm9rZSI6eyJicnVzaCI6IiNGRkZGQTUwMCIsIndpZHRoIjozLjAsImRhc2hTdHlsZSI6Miwib3BhY2l0eSI6MTAwfX19</UserSettingsSerialized>
         </ApexDynamicMagnetLevels>
         <Input>
           <PriceType>Close</PriceType>
@@ -189,7 +189,7 @@
     </Properties>
     <ChartPanels>
       <ChartPanel>
-        <Height>493</Height>
+        <Height>563</Height>
         <HoldChartTraderOrders>false</HoldChartTraderOrders>
         <IsMaximized>false</IsMaximized>
         <Right>
@@ -203,8 +203,8 @@
             <AutoScaleMarginLower>6</AutoScaleMarginLower>
             <AutoScaleMarginUpper>6</AutoScaleMarginUpper>
             <YAxisScalingType>Linear</YAxisScalingType>
-            <FixedScaleMaxSerialize>10921</FixedScaleMaxSerialize>
-            <FixedScaleMinSerialize>10702.75</FixedScaleMinSerialize>
+            <FixedScaleMaxSerialize>11139.25</FixedScaleMaxSerialize>
+            <FixedScaleMinSerialize>11035.25</FixedScaleMinSerialize>
           </ChartScaleProperties>
         </Right>
         <Left>
@@ -294,6 +294,7 @@
 &lt;/Pen&gt;</StopMarketSerialize>
       </ChartTraderProperties>
     </Properties>
+    <Account>Sim101</Account>
     <ATM></ATM>
     <Instrument>NQ 09-20</Instrument>
     <Quantity>1</Quantity>
