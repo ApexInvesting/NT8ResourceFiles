@@ -53,9 +53,9 @@
     <TestPeriod>28</TestPeriod>
     <TradingHoursSerializable />
     <Gtd>1800-01-01T00:00:00</Gtd>
-    <Template>1_5_11</Template>
+    <Template>1_5_13</Template>
     <TimeInForce>Gtc</TimeInForce>
-    <AtmSelector>3fdcf4e05b7947ffa5932bd515cf12a4</AtmSelector>
+    <AtmSelector>a61ad41023d7491fb8d36117a263333a</AtmSelector>
     <OnBehalfOf />
     <ReverseAtStopStrategyId>-1</ReverseAtStopStrategyId>
     <ReverseAtTargetStrategyId>-1</ReverseAtTargetStrategyId>
@@ -64,7 +64,7 @@
     <Brackets>
       <Bracket>
         <Quantity>1</Quantity>
-        <StopLoss>11</StopLoss>
+        <StopLoss>13</StopLoss>
         <Target>5</Target>
       </Bracket>
     </Brackets>

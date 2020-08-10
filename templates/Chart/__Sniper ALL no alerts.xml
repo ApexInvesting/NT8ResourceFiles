@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <NinjaTrader>
   <NTTabPage>
     <InstrumentLink>0</InstrumentLink>
@@ -21,7 +21,7 @@
           </BarsPeriod>
           <RangeType>Days</RangeType>
           <BarsBack>50</BarsBack>
-          <DaysBack>10</DaysBack>
+          <DaysBack>5</DaysBack>
           <From>2020-06-15T00:00:00</From>
           <IsStableSession>true</IsStableSession>
           <To>2099-12-01T00:00:00</To>
@@ -50,8 +50,8 @@
           <PositionPenLoserSerialize>DEFAULT</PositionPenLoserSerialize>
           <PositionPenWinnerSerialize>DEFAULT</PositionPenWinnerSerialize>
           <ShortExecutionBrushSerialize>DEFAULT</ShortExecutionBrushSerialize>
-          <BarsSeriesId>9b51966a360041cd8e5d76163ccc73d1</BarsSeriesId>
-          <Id>a71790a182b74f8db6de467a5686ffcd</Id>
+          <BarsSeriesId>cbef7f2d627e4fe6bdb92ce1530160d0</BarsSeriesId>
+          <Id>de74f636475346ce8416803e79338340</Id>
           <Instrument>NQ 09-20</Instrument>
           <IsLinked>true</IsLinked>
           <IsPrimarySeries>true</IsPrimarySeries>
@@ -101,11 +101,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2020-07-28T00:00:00</From>
+          <From>2020-08-04T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2020-08-07T00:00:00</To>
+          <To>2020-08-09T00:00:00</To>
           <Calculate>OnEachTick</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>false</IsAutoScale>
@@ -123,13 +123,13 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>true</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>12682</IndicatorId>
+          <IndicatorId>1502</IndicatorId>
           <InstrumentDeserialized>NQ 09-20 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
           <ZOrder>0</ZOrder>
           <SettingsSerialized>eyJ1c2VGdXR1cmVzVm9sdW1lRm9yRm9yZXgiOnRydWUsInBhdyI6eyJzdHJlbmd0aCI6MzAuMCwib25seVNob3dPbldpY2siOnRydWV9LCJpbWJhbGFuY2UiOnsic3RyZW5ndGgiOjMuMCwidm9sdW1lRmlsdGVyIjowfSwiem9uZU9mSW50ZXJlc3QiOnsibWluVm9sdW1lIjowLCJtaW5MZXZlbHMiOjN9LCJleGhhdXN0aW9uIjp7InN0cmVuZ3RoIjozLjAsInZvbHVtZUZpbHRlciI6MH0sIm5ldFZvbHVtZUFjY2VsZXJhdGlvbiI6eyJjYWxjT25CYXJDbG9zZSI6ZmFsc2UsInBlcmlvZCI6NCwic3RyZW5ndGgiOjIuMCwidm9sdW1lRmlsdGVyIjowfSwidG90YWxWb2x1bWUiOnsiYWxlcnRUaHJlc2hvbGQiOjcwMDB9LCJ0b3RhbFZvbHVtZUFjY2VsZXJhdGlvbiI6eyJwZXJpb2QiOjQsInN0cmVuZ3RoIjoyLjB9LCJ0cmFwcGVkT3JkZXJzIjp7Im1pblZvbHVtZSI6MTAsIm1pbkxldmVscyI6MywicmV2ZXJzYWxPbmx5QWxlcnQiOmZhbHNlfSwibGVhZGluZ1ZvbHVtZXMiOnsibWluVm9sdW1lIjoxMCwibWluTGV2ZWxzIjozfSwiYmxvY2tPcmRlclNldHRpbmdzIjp7ImJsb2NrU2l6ZSI6NTAsIm1heERheXNUb1Nob3dQYXN0QnJva2VuIjoxfSwiYmxvY2tWb2x1bWVBY2NlbGVyYXRpb24iOnsiY2FsY09uQmFyQ2xvc2UiOmZhbHNlLCJwZXJpb2QiOjcsInN0cmVuZ3RoIjoyLjAsInZvbHVtZUZpbHRlciI6MH0sIm1vbWVudHVtIjp7InN0cmVuZ3RoIjozLjAsInNpemUiOjMsIm1pbmltdW1Ub3RhbFZvbHVtZVRocmVzaG9sZCI6MTAsImxvd1ZvbHVtZVNjb3JlVGhyZXNob2xkIjoxM30sImFic29ycHRpb24iOnsic3RyZW5ndGgiOjMuMCwic2l6ZSI6MywibWluaW11bVRvdGFsVm9sdW1lVGhyZXNob2xkIjoxMH0sIm1pbmlNYWduZXRzIjp7Im1pbmltdW1Wb2x1bWUiOjEsInRocmVzaG9sZCI6MSwibWF4RGF5c1RvU2hvd1Bhc3RCcm9rZW4iOjEsImNhbGN1bGF0ZU9uQmFyQ2xvc2UiOmZhbHNlfSwiZGlzcGxheU1pc2MiOnsidm9sdW1lT2Zmc2V0IjowfSwiQ2x1c3RlciI6eyJncmVhdGVyVGhhbk11bHRpcGxpZXIiOjIuMCwicGVyaW9kIjo0LCJtaW5pbXVtVG90YWxWb2x1bWUiOjEwfSwiYnJpY2tXYWxsIjp7Im1pbkVudGl0aWVzUmVxdWlyZWQiOjMsIm1heFByb3hpbWl0eUluVGlja3MiOjMsIm1heFRpbWVCZXR3ZWVuRW50aXRpZXMiOiIwODowMDowMCJ9LCJ2b2x1bWVTY29yZSI6eyJ1cHBlckFsZXJ0VGhyZXNob2xkIjoxMDAwLCJsb3dlckFsZXJ0VGhyZXNob2xkIjoxM30sInRoaXJkQmFyU2xpbmciOnsicmVxdWlyZW1lbnRzIjozfSwic3RhckxWU1pPSSI6eyJ0cmFwcGVkT3JkZXJzQW5kRXhoYXVzdGlvbkJveFJlcXVpcmVkIjpmYWxzZX0sImVsZXZhdG9yIjp7Im1pbmlNYWduZXRQYXdSZXF1aXJlbWVudHMiOjIsImNsdXN0ZXJSZXF1aXJlbWVudHMiOjJ9LCJkb3VibGVUWCI6eyJwZXJpb2QiOjMwLCJzdHJlbmd0aCI6NX0sIm9wcmVqZWN0aW9uIjp7InNldHVwQmFyQ2FsY3VsYXRpb25zIjoxLCJQcmV2aW91c0JhckNhbGN1bGF0aW9ucyI6MSwic2V0dXBCYXJEZXB0aE1pbmludW1Wb2x1bWUiOjAsImVuYWJsZU9QUmVqZWN0aW9uQWxlcnRzIjp0cnVlLCJlbmFibGVMaXZlT1BSZWplY3Rpb25BbGVydHMiOmZhbHNlLCJzZXR1cEJhck11bHRpcGxpZXIiOjMuMCwic2V0dXBCYXJEZXB0aCI6Miwic2V0dXBCYXJUaHJlc2hvbGQiOjEwLCJwcmV2aW91c0Jhck11bHRpcGxpZXIiOjIuNSwicHJldmlvdXNCYXJEZXB0aCI6MSwicHJldmlvdXNCYXJUaHJlc2hvbGQiOjEwLCJwZXJpb2QiOjMsInJlcXVpcmVQQVciOmZhbHNlLCJyZXF1aXJlVHJhcHBlZE9yZGVyIjpmYWxzZSwicmVxdWlyZUV4aGF1c3Rpb24iOmZhbHNlfSwib3BkaXZlcmdlbmNlIjp7ImVuYWJsZU9QRGl2ZXJnZW5jZUFsZXJ0cyI6dHJ1ZSwiZW5hYmxlTGl2ZU9QRGl2ZXJnZW5jZUFsZXJ0cyI6ZmFsc2UsInNldHVwQmFyTXVsdGlwbGllciI6Mi4wLCJzZXR1cEJhckRlcHRoIjoyLCJzZXR1cEJhclRocmVzaG9sZCI6MTAsInByZXZpb3VzQmFyTXVsdGlwbGllciI6MC4wLCJwcmV2aW91c0JhckRlcHRoIjowLCJwZXJpb2QiOjN9LCJkaXZlcmdlbnRMb3dSZXZlcnNhbEdvIjp7InRyYXBwZWRPcmRlcnNBbmRFeGhhdXN0aW9uQm94UmVxdWlyZWQiOmZhbHNlLCJpbmNsdWRlTG93RGl2ZXJnZW50UmV2ZXJzYWxHbyI6ZmFsc2UsImJhcnNCZWZvcmVTZXR1cCI6NH19</SettingsSerialized>
-          <UserSettingsSerialized>eyJhbGVydHMiOnsidmlzdWFsIjpmYWxzZSwiYXVkaWJsZSI6dHJ1ZSwid2luZG93Rmxhc2giOmZhbHNlfSwicGF3UHJpbnRzIjp7InNob3ciOnRydWUsInNob3dSZWN0YW5nbGUiOnRydWUsInNob3dMaW5lIjp0cnVlLCJ1cHBlckxpbmUiOnsiYnJ1c2giOiIjRkZGRjhDMDAiLCJ3aWR0aCI6MS4wLCJkYXNoU3R5bGUiOjAsIm9wYWNpdHkiOjEwMH0sImxvd2VyTGluZSI6eyJicnVzaCI6IiNGRkZGOEMwMCIsIndpZHRoIjoxLjAsImRhc2hTdHlsZSI6MCwib3BhY2l0eSI6MTAwfSwiaW5zdGFudEFsZXJ0cyI6ZmFsc2UsImJhckNsb3NlQWxlcnRzIjpmYWxzZSwibWluV2lkdGgiOjE1fSwiaW1iYWxhbmNlIjp7InNob3ciOmZhbHNlLCJhc2tDb2xvciI6IiNGRjY5Njk2OSIsImJpZENvbG9yIjoiI0ZGNjk2OTY5Iiwid2Vha0NvbG9yIjoiI0ZGNjk2OTY5Iiwic2hvd1dlYWtJbWJhbGFuY2VzIjpmYWxzZX0sImJhbGFuY2VkVm9sdW1lIjp7IlNob3ciOmZhbHNlLCJGb250Q29sb3IiOiIjRkYwMDAwMDAifSwiem9uZU9mSW50ZXJlc3QiOnsic2hvdyI6dHJ1ZSwiZG93bkNvbG9yIjoiI0ZGQkE1NUQzIiwidXBDb2xvciI6IiNGRjAwQ0VEMSIsInNob3dCb3giOnRydWUsImluc3RhbnRBbGVydHMiOmZhbHNlLCJiYXJDbG9zZUFsZXJ0cyI6ZmFsc2UsIm9wYWNpdHkiOjQwLCJicm9rZW5PcGFjaXR5Ijo0MCwiYm94TWluV2lkdGgiOjI1fSwiZXhoYXVzdGlvbiI6eyJzaG93Ijp0cnVlLCJ0b3BMaW5lU3R5bGUiOnsiYnJ1c2giOiIjRkZCMjIyMjIiLCJ3aWR0aCI6Mi4wLCJkYXNoU3R5bGUiOjAsIm9wYWNpdHkiOjEwMH0sImJvdHRvbUxpbmVTdHlsZSI6eyJicnVzaCI6IiNGRjMyQ0QzMiIsIndpZHRoIjoyLjAsImRhc2hTdHlsZSI6MCwib3BhY2l0eSI6MTAwfSwiaW5zdGFudEFsZXJ0cyI6ZmFsc2UsImJhckNsb3NlQWxlcnRzIjpmYWxzZX0sIm5ld1ZvbHVtZUFjY2VsZXJ0aW9uIjp7InNob3ciOmZhbHNlLCJpY29uUG9zaXRpdmVDb2xvciI6IiNGRjhGQkM4RiIsImljb25OZWdhdGl2ZUNvbG9yIjoiI0ZGRkYwMDAwIiwiaWNvbkRpdmVyZ2VuY2VDb2xvciI6IiNGRkZGQTUwMCIsImljb25CYWNrZ3JvdW5kQ29sb3IiOiIjRkZGRkZGRkYiLCJpbnN0YW50QWxlcnRzIjpmYWxzZSwiYmFyQ2xvc2VBbGVydHMiOmZhbHNlfSwidG90YWxWb2x1bWVBY2NlbGVyYXRpb24iOnsic2hvdyI6ZmFsc2UsImljb25CYWNrZ3JvdW5kUG9zaXRpdmVDb2xvciI6IiNGRjdCNjhFRSIsImljb25CYWNrZ3JvdW5kTmVnYXRpdmVDb2xvciI6IiNGRjdCNjhFRSIsImljb25Gb3JlQ29sb3IiOiIjRkZGRkZGRkYiLCJpbnN0YW50QWxlcnRzIjpmYWxzZSwiYmFyQ2xvc2VBbGVydHMiOmZhbHNlfSwidHJhcHBlZE9yZGVycyI6eyJzaG93Ijp0cnVlLCJoaWdobGlnaHRDb2xvciI6IiNGRjFFOTBGRiIsImZvbnRDb2xvciI6IiMwMEZGRkZGRiIsImluc3RhbnRBbGVydHMiOmZhbHNlLCJiYXJDbG9zZUFsZXJ0cyI6ZmFsc2UsIndpdGhFeGhhdXN0aW9uSW5zdGFudEFsZXJ0cyI6ZmFsc2UsIndpdGhFeGhhdXN0aW9uQmFyQ2xvc2VBbGVydHMiOmZhbHNlLCJtaW5CbG9ja1dpZHRoIjoyMH0sImJsb2NrT3JkZXJzIjp7InNob3ciOnRydWUsImZvbnRDb2xvciI6IiNGRkZGRkZGRiIsImhpZ2hsaWdodEJsb2NrcyI6dHJ1ZSwic2hvd0Jsb2NrTGluZSI6dHJ1ZSwiZXh0ZW5kUGFzdEJyb2tlbiI6ZmFsc2UsImJpZExpbmVTdHlsZSI6eyJicnVzaCI6IiNGRkZGMDAwMCIsIndpZHRoIjoyLjAsImRhc2hTdHlsZSI6MCwib3BhY2l0eSI6MTAwfSwiYXNrTGluZVN0eWxlIjp7ImJydXNoIjoiI0ZGMDBGRjAwIiwid2lkdGgiOjIuMCwiZGFzaFN0eWxlIjowLCJvcGFjaXR5IjoxMDB9LCJtaW5CbG9ja1dpZHRoIjoxMn0sImJsb2NrTmV0Vm9sdW1lIjp7InNob3dEaXZlcmdlbmNlIjpmYWxzZSwiZGl2ZXJnZW5jZUNvbG9yIjoiI0ZGRkZBNTAwIiwiZGl2ZXJnZW5jZUJvcmRlclN0eWxlIjp7ImJydXNoIjoiI0ZGRkZBNTAwIiwid2lkdGgiOjEuMCwiZGFzaFN0eWxlIjowLCJvcGFjaXR5IjoxMDB9LCJkaXZlcmdlbmNlRm9udENvbG9yIjoiI0ZGRkZGRkZGIiwic2hvd0Jsb2NrTmV0VG90YWwiOmZhbHNlLCJuZXRWb2x1bWVGb250Ijp7ImZvbnRGYW1pbHkiOiJBcmlhbCIsInNpemUiOjEyLjAsImJvbGQiOnRydWUsIml0YWxpYyI6ZmFsc2V9LCJuZXRWb2x1bWVQb3NpdGl2ZUZvbnRDb2xvciI6IiNGRkZGRkZGRiIsIm5ldFZvbHVtZU5lZ2F0aXZlRm9udENvbG9yIjoiI0ZGRkZGRkZGIiwicG9zaXRpdmVCb3JkZXJTdHlsZSI6eyJicnVzaCI6IiNGRjAwODAwMCIsIndpZHRoIjoxLjAsImRhc2hTdHlsZSI6MCwib3BhY2l0eSI6MTAwfSwibmVnYXRpdmVCb3JkZXJTdHlsZSI6eyJicnVzaCI6IiNGRkZGMDAwMCIsIndpZHRoIjoxLjAsImRhc2hTdHlsZSI6MCwib3BhY2l0eSI6MTAwfX0sIm1vbWVudHVtIjp7InNob3dNb21lbnR1bSI6dHJ1ZSwidXBDb2xvciI6IiNGRjdGRkYwMCIsImRvd25Db2xvciI6IiNGRkZGMDAwMCIsImljb25VcENvbG9yIjoiI0ZGMDAwMDAwIiwiaWNvbkRvd25Db2xvciI6IiNGRkZGRkZGRiIsInNob3dEaWFtb25kIjpmYWxzZSwiaW5zdGFudEFsZXJ0cyI6ZmFsc2UsImJhckNsb3NlQWxlcnRzIjpmYWxzZSwid2l0aExvd1ZTSW5zdGFudEFsZXJ0cyI6ZmFsc2UsIndpdGhMb3dWU0JhckNsb3NlQWxlcnRzIjpmYWxzZSwiaWNvblZlcnRpY2FsT2Zmc2V0IjoyLjAsImljb25TaXplIjoyfSwiYWJzb3JwdGlvbiI6eyJTaG93Ijp0cnVlLCJVcENvbG9yIjoiI0ZGNTU2QjJGIiwiRG93bkNvbG9yIjoiI0ZGODAwMDAwIiwiSWNvblVwQ29sb3IiOiIjRkYwMDAwMDAiLCJJY29uRG93bkNvbG9yIjoiI0ZGMDAwMDAwIiwiSW5zdGFudEFsZXJ0cyI6ZmFsc2UsIkJhckNsb3NlQWxlcnRzIjpmYWxzZSwiSWNvblZlcnRpY2FsT2Zmc2V0IjowLjAsIkljb25TaXplIjoyfSwibWluaU1hZ25ldHMiOnsiZXh0ZW5kUGFzdEJyb2tlbiI6ZmFsc2UsImxpdmVCb3JkZXIiOnsiYnJ1c2giOiIjRkZGRjY5QjQiLCJ3aWR0aCI6My4wLCJkYXNoU3R5bGUiOjAsIm9wYWNpdHkiOjEwMH0sImNsb3NlZEJvcmRlciI6eyJicnVzaCI6IiNGRkZBRkFEMiIsIndpZHRoIjozLjAsImRhc2hTdHlsZSI6MCwib3BhY2l0eSI6MTAwfSwiYnJva2VuQm9yZGVyIjp7ImJydXNoIjoiI0ZGRkFGMEU2Iiwid2lkdGgiOjMuMCwiZGFzaFN0eWxlIjowLCJvcGFjaXR5IjoxMDB9LCJzaG93Ijp0cnVlLCJpbnN0YW50QWxlcnRzIjpmYWxzZSwiYmFyQ2xvc2VBbGVydHMiOmZhbHNlLCJ3aXRoUGF3SW5zdGFudEFsZXJ0cyI6ZmFsc2UsIndpdGhQYXJCYXJDbG9zZUFsZXJ0cyI6ZmFsc2V9LCJsZWFkaW5nVm9sdW1lIjp7InNob3ciOnRydWUsImNvbG9yIjoiI0ZGREMxNDNDIiwiZm9udENvbG9yIjoiI0ZGREMxNDNDIiwiYmFyQ2xvc2VBbGVydHMiOmZhbHNlfSwibmV0Vm9sdW1lIjp7InNob3ciOmZhbHNlLCJwb3NpdGl2ZUJvcmRlclN0eWxlIjp7ImJydXNoIjoiI0ZGOEZCQzhGIiwid2lkdGgiOjEuMCwiZGFzaFN0eWxlIjowLCJvcGFjaXR5IjoxMDB9LCJuZWdhdGl2ZUJvcmRlclN0eWxlIjp7ImJydXNoIjoiI0ZGQjIyMjIyIiwid2lkdGgiOjEuMCwiZGFzaFN0eWxlIjowLCJvcGFjaXR5IjoxMDB9LCJwb3NpdGl2ZVRleHRDb2xvciI6IiNGRkZGRkZGRiIsIm5lZ2F0aXZlVGV4dENvbG9yIjoiI0ZGRkZGRkZGIiwiZm9udCI6eyJmb250RmFtaWx5IjoiQXJpYWwiLCJzaXplIjoxMi4wLCJib2xkIjp0cnVlLCJpdGFsaWMiOmZhbHNlfSwic2hvd0RpdmVyZ2VuY2UiOnRydWUsImRpdmVyZ2VuY2VCb3JkZXJTdHlsZSI6eyJicnVzaCI6IiNGRkZGQTUwMCIsIndpZHRoIjoxLjAsImRhc2hTdHlsZSI6MCwib3BhY2l0eSI6MTAwfSwiZGl2ZXJnZW5jZVRleHRDb2xvciI6IiNGRkZGRkZGRiJ9LCJ0b3RhbFZvbHVtZSI6eyJzaG93IjpmYWxzZSwidGV4dENvbG9yIjoiI0ZGQjg4NjBCIiwiYmFja2dyb3VuZENvbG9yIjoiI0ZGRjVGNUY1IiwiZm9udCI6eyJmb250RmFtaWx5IjoiQXJpYWwiLCJzaXplIjoxMi4wLCJib2xkIjp0cnVlLCJpdGFsaWMiOmZhbHNlfSwiaW5zdGFudEFsZXJ0cyI6ZmFsc2UsImJhckNsb3NlQWxlcnRzIjpmYWxzZX0sImJhckNvbnRyb2wiOnsiYXV0b3NjYWxlIjp0cnVlLCJzaG93QmFyT3V0bGluZSI6ZmFsc2UsInNob3dMaW5lcyI6ZmFsc2UsInNob3dHcmFkaWVudCI6ZmFsc2UsInZvbHVtZVBvc2l0aXZlR3JhZGllbnRTdGFydCI6IiNGRkY1RkZGQSIsInZvbHVtZVBvc2l0aXZlR3JhZGllbnRFbmQiOiIjRkY4RkJDOEYiLCJ2b2x1bWVOZWdhdGl2ZUdyYWRpZW50U3RhcnQiOiIjRkZGQUYwRTYiLCJ2b2x1bWVOZWdhdGl2ZUdyYWRpZW50RW5kIjoiI0ZGQkM4RjhGIiwiYmFyQ29sb3JVcCI6IiNGRjhGQkM4RiIsImJhckNvbG9yRG93biI6IiNGRkJDOEY4RiIsInNob3dWb2x1bWVzIjpmYWxzZSwidm9sdW1lRm9udCI6eyJmb250RmFtaWx5IjoiQXJpYWwiLCJzaXplIjoxNC4wLCJib2xkIjp0cnVlLCJpdGFsaWMiOmZhbHNlfSwiYmFyV2lkdGhGYWN0b3IiOjcwfSwidm9sdW1lQ29udHJvbCI6eyJHcmFkaWVudFN0YXJ0IjoiI0ZGRDNEM0QzIiwiR3JhZGllbnRFbmQiOiIjRkY2OTY5NjkiLCJTaG93IjpmYWxzZSwiR3JhZGllbnRPcGFjaXR5Ijo1MH0sIkNsdXN0ZXIiOnsic2hvdyI6dHJ1ZSwiYm9yZGVyQ29sb3IiOnsiYnJ1c2giOiIjRkZGRkZGMDAiLCJ3aWR0aCI6NC4wLCJkYXNoU3R5bGUiOjAsIm9wYWNpdHkiOjEwMH0sImluc3RhbnRBbGVydHMiOmZhbHNlLCJiYXJDbG9zZUFsZXJ0cyI6ZmFsc2UsImRvdWJsZUNsdXN0ZXJBbGVydHMiOnRydWUsIm1pbkNsdXN0ZXJXaWR0aFRvRXhwYW5kIjoyNX0sImJsb2NrVm9sdW1lQWNjZWxlcmF0aW9uIjp7InNob3ciOmZhbHNlLCJpY29uQmFja2dyb3VuZFBvc2l0aXZlQ29sb3IiOiIjRkY3QjY4RUUiLCJpY29uQmFja2dyb3VuZE5lZ2F0aXZlQ29sb3IiOiIjRkY3QjY4RUUiLCJpY29uQmFja2dyb3VuZERpdmVyZ2VuY2VDb2xvciI6IiNGRkZGQTUwMCIsImljb25Gb3JlQ29sb3IiOiIjRkZGRkZGRkYifSwidm9sdW1lU2NvcmUiOnsiU2hvdyI6dHJ1ZSwiVXBUZXh0Q29sb3IiOiIjRkZEM0QzRDMiLCJVcEJvcmRlciI6eyJicnVzaCI6IiMwMEZGRkZGRiIsIndpZHRoIjoxLjAsImRhc2hTdHlsZSI6MCwib3BhY2l0eSI6MTAwfSwiRG93blRleHRDb2xvciI6IiNGRkQzRDNEMyIsIkRvd25Cb3JkZXIiOnsiYnJ1c2giOiIjMDBGRkZGRkYiLCJ3aWR0aCI6MS4wLCJkYXNoU3R5bGUiOjAsIm9wYWNpdHkiOjEwMH0sIkRpdmVyZ2VudFRleHRDb2xvciI6IiNGRkZGQTUwMCIsIkRpdmVyZ2VudEJvcmRlciI6eyJicnVzaCI6IiMwMEZGRkZGRiIsIndpZHRoIjoxLjAsImRhc2hTdHlsZSI6MCwib3BhY2l0eSI6MTAwfSwiQXV0b1NjYWxlIjpmYWxzZSwiRm9udCI6eyJmb250RmFtaWx5IjoiQXJpYWwiLCJzaXplIjoxMi4wLCJib2xkIjp0cnVlLCJpdGFsaWMiOmZhbHNlfSwiSW5zdGFudEFsZXJ0cyI6ZmFsc2UsIkJhckNsb3NlQWxlcnRzIjpmYWxzZX0sIm9wUmVqZWN0aW9uIjp7Imluc3RhbnRBbGVydHMiOnRydWUsImJhckNsb3NlQWxlcnRzIjp0cnVlLCJzaG93T1BSZWplY3Rpb24iOnRydWUsImljb25VcENvbG9yIjoiI0ZGQURGRjJGIiwiaWNvbkRvd25Db2xvciI6IiNGRkZGNjM0NyIsInZlcnRpY2FsT2Zmc2V0IjowLjAsInNjYWxlT2Zmc2V0IjoyfSwib3BEaXZlcmdlbmNlIjp7Imluc3RhbnRBbGVydHMiOmZhbHNlLCJiYXJDbG9zZUFsZXJ0cyI6ZmFsc2UsInNob3dPUERpdmVyZ2VuY2UiOmZhbHNlLCJpY29uVXBDb2xvciI6IiNGRkFERkYyRiIsImljb25Eb3duQ29sb3IiOiIjRkZGRjYzNDciLCJ2ZXJ0aWNhbE9mZnNldCI6MC4wLCJzY2FsZU9mZnNldCI6Mn0sInRoaXJkQmFyU2xpbmciOnsiaW5zdGFudEFsZXJ0cyI6dHJ1ZSwiYmFyQ2xvc2VBbGVydHMiOnRydWV9LCJzdGFyTFZTWk9JIjp7Imluc3RhbnRBbGVydHMiOnRydWUsImJhckNsb3NlQWxlcnRzIjp0cnVlfSwiZWxldmF0b3IiOnsiaW5zdGFudEFsZXJ0cyI6dHJ1ZSwiYmFyQ2xvc2VBbGVydHMiOnRydWV9LCJkaXZlcmdlbnRMb3dSZXZlcnNhbEdvIjp7Imluc3RhbnRBbGVydHMiOmZhbHNlLCJiYXJDbG9zZUFsZXJ0cyI6ZmFsc2V9LCJkb3VibGVUWCI6eyJpbnN0YW50QWxlcnRzIjp0cnVlLCJiYXJDbG9zZUFsZXJ0cyI6dHJ1ZX19</UserSettingsSerialized>
+          <UserSettingsSerialized>eyJhbGVydHMiOnsidmlzdWFsIjpmYWxzZSwiYXVkaWJsZSI6dHJ1ZSwid2luZG93Rmxhc2giOmZhbHNlfSwicGF3UHJpbnRzIjp7InNob3ciOnRydWUsInNob3dSZWN0YW5nbGUiOnRydWUsInNob3dMaW5lIjp0cnVlLCJ1cHBlckxpbmUiOnsiYnJ1c2giOiIjRkZGRjhDMDAiLCJ3aWR0aCI6MS4wLCJkYXNoU3R5bGUiOjAsIm9wYWNpdHkiOjEwMH0sImxvd2VyTGluZSI6eyJicnVzaCI6IiNGRkZGOEMwMCIsIndpZHRoIjoxLjAsImRhc2hTdHlsZSI6MCwib3BhY2l0eSI6MTAwfSwiaW5zdGFudEFsZXJ0cyI6ZmFsc2UsImJhckNsb3NlQWxlcnRzIjpmYWxzZSwibWluV2lkdGgiOjE1fSwiaW1iYWxhbmNlIjp7InNob3ciOmZhbHNlLCJhc2tDb2xvciI6IiNGRjY5Njk2OSIsImJpZENvbG9yIjoiI0ZGNjk2OTY5Iiwid2Vha0NvbG9yIjoiI0ZGNjk2OTY5Iiwic2hvd1dlYWtJbWJhbGFuY2VzIjpmYWxzZX0sImJhbGFuY2VkVm9sdW1lIjp7IlNob3ciOmZhbHNlLCJGb250Q29sb3IiOiIjRkYwMDAwMDAifSwiem9uZU9mSW50ZXJlc3QiOnsic2hvdyI6dHJ1ZSwiZG93bkNvbG9yIjoiI0ZGQkE1NUQzIiwidXBDb2xvciI6IiNGRjAwQ0VEMSIsInNob3dCb3giOnRydWUsImluc3RhbnRBbGVydHMiOmZhbHNlLCJiYXJDbG9zZUFsZXJ0cyI6ZmFsc2UsIm9wYWNpdHkiOjQwLCJicm9rZW5PcGFjaXR5Ijo0MCwiYm94TWluV2lkdGgiOjI1fSwiZXhoYXVzdGlvbiI6eyJzaG93Ijp0cnVlLCJ0b3BMaW5lU3R5bGUiOnsiYnJ1c2giOiIjRkZCMjIyMjIiLCJ3aWR0aCI6Mi4wLCJkYXNoU3R5bGUiOjAsIm9wYWNpdHkiOjEwMH0sImJvdHRvbUxpbmVTdHlsZSI6eyJicnVzaCI6IiNGRjMyQ0QzMiIsIndpZHRoIjoyLjAsImRhc2hTdHlsZSI6MCwib3BhY2l0eSI6MTAwfSwiaW5zdGFudEFsZXJ0cyI6ZmFsc2UsImJhckNsb3NlQWxlcnRzIjpmYWxzZX0sIm5ld1ZvbHVtZUFjY2VsZXJ0aW9uIjp7InNob3ciOmZhbHNlLCJpY29uUG9zaXRpdmVDb2xvciI6IiNGRjhGQkM4RiIsImljb25OZWdhdGl2ZUNvbG9yIjoiI0ZGRkYwMDAwIiwiaWNvbkRpdmVyZ2VuY2VDb2xvciI6IiNGRkZGQTUwMCIsImljb25CYWNrZ3JvdW5kQ29sb3IiOiIjRkZGRkZGRkYiLCJpbnN0YW50QWxlcnRzIjpmYWxzZSwiYmFyQ2xvc2VBbGVydHMiOmZhbHNlfSwidG90YWxWb2x1bWVBY2NlbGVyYXRpb24iOnsic2hvdyI6ZmFsc2UsImljb25CYWNrZ3JvdW5kUG9zaXRpdmVDb2xvciI6IiNGRjdCNjhFRSIsImljb25CYWNrZ3JvdW5kTmVnYXRpdmVDb2xvciI6IiNGRjdCNjhFRSIsImljb25Gb3JlQ29sb3IiOiIjRkZGRkZGRkYiLCJpbnN0YW50QWxlcnRzIjpmYWxzZSwiYmFyQ2xvc2VBbGVydHMiOmZhbHNlfSwidHJhcHBlZE9yZGVycyI6eyJzaG93Ijp0cnVlLCJoaWdobGlnaHRDb2xvciI6IiNGRjFFOTBGRiIsImZvbnRDb2xvciI6IiMwMEZGRkZGRiIsImluc3RhbnRBbGVydHMiOmZhbHNlLCJiYXJDbG9zZUFsZXJ0cyI6ZmFsc2UsIndpdGhFeGhhdXN0aW9uSW5zdGFudEFsZXJ0cyI6ZmFsc2UsIndpdGhFeGhhdXN0aW9uQmFyQ2xvc2VBbGVydHMiOmZhbHNlLCJtaW5CbG9ja1dpZHRoIjoyMH0sImJsb2NrT3JkZXJzIjp7InNob3ciOnRydWUsImZvbnRDb2xvciI6IiNGRkZGRkZGRiIsImhpZ2hsaWdodEJsb2NrcyI6dHJ1ZSwic2hvd0Jsb2NrTGluZSI6dHJ1ZSwiZXh0ZW5kUGFzdEJyb2tlbiI6ZmFsc2UsImJpZExpbmVTdHlsZSI6eyJicnVzaCI6IiNGRkZGMDAwMCIsIndpZHRoIjoyLjAsImRhc2hTdHlsZSI6MCwib3BhY2l0eSI6MTAwfSwiYXNrTGluZVN0eWxlIjp7ImJydXNoIjoiI0ZGMDBGRjAwIiwid2lkdGgiOjIuMCwiZGFzaFN0eWxlIjowLCJvcGFjaXR5IjoxMDB9LCJtaW5CbG9ja1dpZHRoIjoxMn0sImJsb2NrTmV0Vm9sdW1lIjp7InNob3dEaXZlcmdlbmNlIjpmYWxzZSwiZGl2ZXJnZW5jZUNvbG9yIjoiI0ZGRkZBNTAwIiwiZGl2ZXJnZW5jZUJvcmRlclN0eWxlIjp7ImJydXNoIjoiI0ZGRkZBNTAwIiwid2lkdGgiOjEuMCwiZGFzaFN0eWxlIjowLCJvcGFjaXR5IjoxMDB9LCJkaXZlcmdlbmNlRm9udENvbG9yIjoiI0ZGRkZGRkZGIiwic2hvd0Jsb2NrTmV0VG90YWwiOmZhbHNlLCJuZXRWb2x1bWVGb250Ijp7ImZvbnRGYW1pbHkiOiJBcmlhbCIsInNpemUiOjEyLjAsImJvbGQiOnRydWUsIml0YWxpYyI6ZmFsc2V9LCJuZXRWb2x1bWVQb3NpdGl2ZUZvbnRDb2xvciI6IiNGRkZGRkZGRiIsIm5ldFZvbHVtZU5lZ2F0aXZlRm9udENvbG9yIjoiI0ZGRkZGRkZGIiwicG9zaXRpdmVCb3JkZXJTdHlsZSI6eyJicnVzaCI6IiNGRjAwODAwMCIsIndpZHRoIjoxLjAsImRhc2hTdHlsZSI6MCwib3BhY2l0eSI6MTAwfSwibmVnYXRpdmVCb3JkZXJTdHlsZSI6eyJicnVzaCI6IiNGRkZGMDAwMCIsIndpZHRoIjoxLjAsImRhc2hTdHlsZSI6MCwib3BhY2l0eSI6MTAwfX0sIm1vbWVudHVtIjp7InNob3dNb21lbnR1bSI6dHJ1ZSwidXBDb2xvciI6IiNGRjdGRkYwMCIsImRvd25Db2xvciI6IiNGRkZGMDAwMCIsImljb25VcENvbG9yIjoiI0ZGMDAwMDAwIiwiaWNvbkRvd25Db2xvciI6IiNGRkZGRkZGRiIsInNob3dEaWFtb25kIjpmYWxzZSwiaW5zdGFudEFsZXJ0cyI6ZmFsc2UsImJhckNsb3NlQWxlcnRzIjpmYWxzZSwid2l0aExvd1ZTSW5zdGFudEFsZXJ0cyI6ZmFsc2UsIndpdGhMb3dWU0JhckNsb3NlQWxlcnRzIjpmYWxzZSwiaWNvblZlcnRpY2FsT2Zmc2V0IjoyLjAsImljb25TaXplIjoyfSwiYWJzb3JwdGlvbiI6eyJTaG93Ijp0cnVlLCJVcENvbG9yIjoiI0ZGNTU2QjJGIiwiRG93bkNvbG9yIjoiI0ZGODAwMDAwIiwiSWNvblVwQ29sb3IiOiIjRkYwMDAwMDAiLCJJY29uRG93bkNvbG9yIjoiI0ZGMDAwMDAwIiwiSW5zdGFudEFsZXJ0cyI6ZmFsc2UsIkJhckNsb3NlQWxlcnRzIjpmYWxzZSwiSWNvblZlcnRpY2FsT2Zmc2V0IjowLjAsIkljb25TaXplIjoyfSwibWluaU1hZ25ldHMiOnsiZXh0ZW5kUGFzdEJyb2tlbiI6ZmFsc2UsImxpdmVCb3JkZXIiOnsiYnJ1c2giOiIjRkZGRjY5QjQiLCJ3aWR0aCI6My4wLCJkYXNoU3R5bGUiOjAsIm9wYWNpdHkiOjEwMH0sImNsb3NlZEJvcmRlciI6eyJicnVzaCI6IiNGRkZBRkFEMiIsIndpZHRoIjozLjAsImRhc2hTdHlsZSI6MCwib3BhY2l0eSI6MTAwfSwiYnJva2VuQm9yZGVyIjp7ImJydXNoIjoiI0ZGRkFGMEU2Iiwid2lkdGgiOjMuMCwiZGFzaFN0eWxlIjowLCJvcGFjaXR5IjoxMDB9LCJzaG93Ijp0cnVlLCJpbnN0YW50QWxlcnRzIjpmYWxzZSwiYmFyQ2xvc2VBbGVydHMiOmZhbHNlLCJ3aXRoUGF3SW5zdGFudEFsZXJ0cyI6ZmFsc2UsIndpdGhQYXJCYXJDbG9zZUFsZXJ0cyI6ZmFsc2V9LCJsZWFkaW5nVm9sdW1lIjp7InNob3ciOnRydWUsImNvbG9yIjoiI0ZGREMxNDNDIiwiZm9udENvbG9yIjoiI0ZGREMxNDNDIiwiYmFyQ2xvc2VBbGVydHMiOmZhbHNlfSwibmV0Vm9sdW1lIjp7InNob3ciOmZhbHNlLCJwb3NpdGl2ZUJvcmRlclN0eWxlIjp7ImJydXNoIjoiI0ZGOEZCQzhGIiwid2lkdGgiOjEuMCwiZGFzaFN0eWxlIjowLCJvcGFjaXR5IjoxMDB9LCJuZWdhdGl2ZUJvcmRlclN0eWxlIjp7ImJydXNoIjoiI0ZGQjIyMjIyIiwid2lkdGgiOjEuMCwiZGFzaFN0eWxlIjowLCJvcGFjaXR5IjoxMDB9LCJwb3NpdGl2ZVRleHRDb2xvciI6IiNGRkZGRkZGRiIsIm5lZ2F0aXZlVGV4dENvbG9yIjoiI0ZGRkZGRkZGIiwiZm9udCI6eyJmb250RmFtaWx5IjoiQXJpYWwiLCJzaXplIjoxMi4wLCJib2xkIjp0cnVlLCJpdGFsaWMiOmZhbHNlfSwic2hvd0RpdmVyZ2VuY2UiOnRydWUsImRpdmVyZ2VuY2VCb3JkZXJTdHlsZSI6eyJicnVzaCI6IiNGRkZGQTUwMCIsIndpZHRoIjoxLjAsImRhc2hTdHlsZSI6MCwib3BhY2l0eSI6MTAwfSwiZGl2ZXJnZW5jZVRleHRDb2xvciI6IiNGRkZGRkZGRiJ9LCJ0b3RhbFZvbHVtZSI6eyJzaG93IjpmYWxzZSwidGV4dENvbG9yIjoiI0ZGQjg4NjBCIiwiYmFja2dyb3VuZENvbG9yIjoiI0ZGRjVGNUY1IiwiZm9udCI6eyJmb250RmFtaWx5IjoiQXJpYWwiLCJzaXplIjoxMi4wLCJib2xkIjp0cnVlLCJpdGFsaWMiOmZhbHNlfSwiaW5zdGFudEFsZXJ0cyI6ZmFsc2UsImJhckNsb3NlQWxlcnRzIjpmYWxzZX0sImJhckNvbnRyb2wiOnsiYXV0b3NjYWxlIjp0cnVlLCJzaG93QmFyT3V0bGluZSI6ZmFsc2UsInNob3dMaW5lcyI6ZmFsc2UsInNob3dHcmFkaWVudCI6ZmFsc2UsInZvbHVtZVBvc2l0aXZlR3JhZGllbnRTdGFydCI6IiNGRkY1RkZGQSIsInZvbHVtZVBvc2l0aXZlR3JhZGllbnRFbmQiOiIjRkY4RkJDOEYiLCJ2b2x1bWVOZWdhdGl2ZUdyYWRpZW50U3RhcnQiOiIjRkZGQUYwRTYiLCJ2b2x1bWVOZWdhdGl2ZUdyYWRpZW50RW5kIjoiI0ZGQkM4RjhGIiwiYmFyQ29sb3JVcCI6IiNGRjhGQkM4RiIsImJhckNvbG9yRG93biI6IiNGRkJDOEY4RiIsInNob3dWb2x1bWVzIjpmYWxzZSwidm9sdW1lRm9udCI6eyJmb250RmFtaWx5IjoiQXJpYWwiLCJzaXplIjoxNC4wLCJib2xkIjp0cnVlLCJpdGFsaWMiOmZhbHNlfSwiYmFyV2lkdGhGYWN0b3IiOjcwfSwidm9sdW1lQ29udHJvbCI6eyJHcmFkaWVudFN0YXJ0IjoiI0ZGRDNEM0QzIiwiR3JhZGllbnRFbmQiOiIjRkY2OTY5NjkiLCJTaG93IjpmYWxzZSwiR3JhZGllbnRPcGFjaXR5Ijo1MH0sIkNsdXN0ZXIiOnsic2hvdyI6dHJ1ZSwiYm9yZGVyQ29sb3IiOnsiYnJ1c2giOiIjRkZGRkZGMDAiLCJ3aWR0aCI6NC4wLCJkYXNoU3R5bGUiOjAsIm9wYWNpdHkiOjEwMH0sImluc3RhbnRBbGVydHMiOmZhbHNlLCJiYXJDbG9zZUFsZXJ0cyI6ZmFsc2UsImRvdWJsZUNsdXN0ZXJJbnN0YW50QWxlcnRzIjpmYWxzZSwiZG91YmxlQ2x1c3RlckFsZXJ0cyI6ZmFsc2UsIm1pbkNsdXN0ZXJXaWR0aFRvRXhwYW5kIjoyNX0sImJsb2NrVm9sdW1lQWNjZWxlcmF0aW9uIjp7InNob3ciOmZhbHNlLCJpY29uQmFja2dyb3VuZFBvc2l0aXZlQ29sb3IiOiIjRkY3QjY4RUUiLCJpY29uQmFja2dyb3VuZE5lZ2F0aXZlQ29sb3IiOiIjRkY3QjY4RUUiLCJpY29uQmFja2dyb3VuZERpdmVyZ2VuY2VDb2xvciI6IiNGRkZGQTUwMCIsImljb25Gb3JlQ29sb3IiOiIjRkZGRkZGRkYifSwidm9sdW1lU2NvcmUiOnsiU2hvdyI6dHJ1ZSwiVXBUZXh0Q29sb3IiOiIjRkZEM0QzRDMiLCJVcEJvcmRlciI6eyJicnVzaCI6IiMwMEZGRkZGRiIsIndpZHRoIjoxLjAsImRhc2hTdHlsZSI6MCwib3BhY2l0eSI6MTAwfSwiRG93blRleHRDb2xvciI6IiNGRkQzRDNEMyIsIkRvd25Cb3JkZXIiOnsiYnJ1c2giOiIjMDBGRkZGRkYiLCJ3aWR0aCI6MS4wLCJkYXNoU3R5bGUiOjAsIm9wYWNpdHkiOjEwMH0sIkRpdmVyZ2VudFRleHRDb2xvciI6IiNGRkZGQTUwMCIsIkRpdmVyZ2VudEJvcmRlciI6eyJicnVzaCI6IiMwMEZGRkZGRiIsIndpZHRoIjoxLjAsImRhc2hTdHlsZSI6MCwib3BhY2l0eSI6MTAwfSwiQXV0b1NjYWxlIjpmYWxzZSwiRm9udCI6eyJmb250RmFtaWx5IjoiQXJpYWwiLCJzaXplIjoxMi4wLCJib2xkIjp0cnVlLCJpdGFsaWMiOmZhbHNlfSwiSW5zdGFudEFsZXJ0cyI6ZmFsc2UsIkJhckNsb3NlQWxlcnRzIjpmYWxzZX0sIm9wUmVqZWN0aW9uIjp7Imluc3RhbnRBbGVydHMiOmZhbHNlLCJiYXJDbG9zZUFsZXJ0cyI6ZmFsc2UsInNob3dPUFJlamVjdGlvbiI6dHJ1ZSwiaWNvblVwQ29sb3IiOiIjRkZBREZGMkYiLCJpY29uRG93bkNvbG9yIjoiI0ZGRkY2MzQ3IiwidmVydGljYWxPZmZzZXQiOjAuMCwic2NhbGVPZmZzZXQiOjJ9LCJvcERpdmVyZ2VuY2UiOnsiaW5zdGFudEFsZXJ0cyI6ZmFsc2UsImJhckNsb3NlQWxlcnRzIjpmYWxzZSwic2hvd09QRGl2ZXJnZW5jZSI6ZmFsc2UsImljb25VcENvbG9yIjoiI0ZGQURGRjJGIiwiaWNvbkRvd25Db2xvciI6IiNGRkZGNjM0NyIsInZlcnRpY2FsT2Zmc2V0IjowLjAsInNjYWxlT2Zmc2V0IjoyfSwidGhpcmRCYXJTbGluZyI6eyJpbnN0YW50QWxlcnRzIjpmYWxzZSwiYmFyQ2xvc2VBbGVydHMiOmZhbHNlfSwic3RhckxWU1pPSSI6eyJpbnN0YW50QWxlcnRzIjpmYWxzZSwiYmFyQ2xvc2VBbGVydHMiOmZhbHNlfSwiZWxldmF0b3IiOnsiaW5zdGFudEFsZXJ0cyI6ZmFsc2UsImJhckNsb3NlQWxlcnRzIjpmYWxzZX0sImRpdmVyZ2VudExvd1JldmVyc2FsR28iOnsiaW5zdGFudEFsZXJ0cyI6ZmFsc2UsImJhckNsb3NlQWxlcnRzIjpmYWxzZX0sImRvdWJsZVRYIjp7Imluc3RhbnRBbGVydHMiOmZhbHNlLCJiYXJDbG9zZUFsZXJ0cyI6ZmFsc2V9fQ==</UserSettingsSerialized>
           <MasterTickSize>0.25</MasterTickSize>
         </ApexOrderPrints>
         <Input>
@@ -154,11 +154,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2020-07-28T00:00:00</From>
+          <From>2020-08-04T00:00:00</From>
           <Panel>1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2020-08-07T00:00:00</To>
+          <To>2020-08-09T00:00:00</To>
           <Calculate>OnEachTick</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -226,7 +226,7 @@
           <DrawOnPricePanel>false</DrawOnPricePanel>
           <PaintPriceMarkers>true</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>12685</IndicatorId>
+          <IndicatorId>1505</IndicatorId>
           <InstrumentDeserialized>NQ 09-20 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -256,11 +256,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>false</DisplayInDataBox>
-          <From>2020-07-28T00:00:00</From>
+          <From>2020-08-04T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2020-08-07T00:00:00</To>
+          <To>2020-08-09T00:00:00</To>
           <Calculate>OnBarClose</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -278,7 +278,7 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>12688</IndicatorId>
+          <IndicatorId>1508</IndicatorId>
           <InstrumentDeserialized>NQ 09-20 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -308,11 +308,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>false</DisplayInDataBox>
-          <From>2020-07-28T00:00:00</From>
+          <From>2020-08-04T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2020-08-07T00:00:00</To>
+          <To>2020-08-09T00:00:00</To>
           <Calculate>OnBarClose</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -330,7 +330,7 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>12691</IndicatorId>
+          <IndicatorId>1511</IndicatorId>
           <InstrumentDeserialized>NQ 09-20 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -360,11 +360,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2020-07-28T00:00:00</From>
+          <From>2020-08-04T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2020-08-07T00:00:00</To>
+          <To>2020-08-09T00:00:00</To>
           <Calculate>OnBarClose</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -382,7 +382,7 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>true</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>12694</IndicatorId>
+          <IndicatorId>1514</IndicatorId>
           <InstrumentDeserialized>NQ 09-20 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -412,11 +412,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>false</DisplayInDataBox>
-          <From>2020-07-28T00:00:00</From>
+          <From>2020-08-04T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2020-08-07T00:00:00</To>
+          <To>2020-08-09T00:00:00</To>
           <Calculate>OnPriceChange</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -459,7 +459,7 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>12697</IndicatorId>
+          <IndicatorId>1517</IndicatorId>
           <InstrumentDeserialized>NQ 09-20 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -489,11 +489,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>false</DisplayInDataBox>
-          <From>2020-07-28T00:00:00</From>
+          <From>2020-08-04T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2020-08-07T00:00:00</To>
+          <To>2020-08-09T00:00:00</To>
           <Calculate>OnPriceChange</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -536,7 +536,7 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>12700</IndicatorId>
+          <IndicatorId>1520</IndicatorId>
           <InstrumentDeserialized>NQ 09-20 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -566,11 +566,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>false</DisplayInDataBox>
-          <From>2020-07-28T00:00:00</From>
+          <From>2020-08-04T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2020-08-07T00:00:00</To>
+          <To>2020-08-09T00:00:00</To>
           <Calculate>OnPriceChange</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -613,7 +613,7 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>12703</IndicatorId>
+          <IndicatorId>1523</IndicatorId>
           <InstrumentDeserialized>NQ 09-20 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -643,11 +643,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2020-07-28T00:00:00</From>
+          <From>2020-08-04T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2020-08-07T00:00:00</To>
+          <To>2020-08-09T00:00:00</To>
           <Calculate>OnEachTick</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>false</IsAutoScale>
@@ -678,7 +678,7 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>12706</IndicatorId>
+          <IndicatorId>1526</IndicatorId>
           <InstrumentDeserialized>NQ 09-20 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -708,11 +708,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>false</DisplayInDataBox>
-          <From>2020-07-28T00:00:00</From>
+          <From>2020-08-04T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2020-08-07T00:00:00</To>
+          <To>2020-08-09T00:00:00</To>
           <Calculate>OnPriceChange</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>false</IsAutoScale>
@@ -730,7 +730,7 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>12709</IndicatorId>
+          <IndicatorId>1529</IndicatorId>
           <InstrumentDeserialized>NQ 09-20 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -760,11 +760,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2020-07-28T00:00:00</From>
+          <From>2020-08-04T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2020-08-07T00:00:00</To>
+          <To>2020-08-09T00:00:00</To>
           <Calculate>OnPriceChange</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>false</IsAutoScale>
@@ -819,7 +819,7 @@
           <DrawOnPricePanel>false</DrawOnPricePanel>
           <PaintPriceMarkers>true</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>12712</IndicatorId>
+          <IndicatorId>1532</IndicatorId>
           <InstrumentDeserialized>NQ 09-20 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -849,11 +849,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>false</DisplayInDataBox>
-          <From>2020-07-28T00:00:00</From>
+          <From>2020-08-04T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2020-08-07T00:00:00</To>
+          <To>2020-08-09T00:00:00</To>
           <Calculate>OnPriceChange</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -884,7 +884,7 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>true</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>12715</IndicatorId>
+          <IndicatorId>1535</IndicatorId>
           <InstrumentDeserialized>NQ 09-20 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -914,11 +914,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>false</DisplayInDataBox>
-          <From>2020-07-28T00:00:00</From>
+          <From>2020-08-04T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2020-08-07T00:00:00</To>
+          <To>2020-08-09T00:00:00</To>
           <Calculate>OnPriceChange</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>false</IsAutoScale>
@@ -936,13 +936,13 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>true</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>12718</IndicatorId>
+          <IndicatorId>1538</IndicatorId>
           <InstrumentDeserialized>NQ 09-20 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
           <ZOrder>10007</ZOrder>
           <SettingsSerialized>e30=</SettingsSerialized>
-          <UserSettingsSerialized>eyJ0b3BPZmZzZXQiOjIwLjAsImxlZnRPZmZzZXQiOjUuMCwic2hvd0JhY2tncm91bmQiOnRydWUsInVzZTI0SG91clRpbWVGb3JtYXQiOmZhbHNlLCJzaG93SGVhZGVyIjpmYWxzZSwiZGVidWciOmZhbHNlLCJ0b2RheXNOZXdzT25seSI6dHJ1ZSwidVNPbmx5RXZlbnRzIjp0cnVlLCJzaG93TG93UHJpb3JpdHkiOnRydWUsIndhcm5pbmdJbnRlcnZhbCI6NSwidmVydGljYWxTcGFjaW5nIjoxLCJoZWFkZXJGb250Ijp7ImZvbnRGYW1pbHkiOiJBcmlhbCIsInNpemUiOjEwLjAsImJvbGQiOnRydWUsIml0YWxpYyI6ZmFsc2V9LCJkZWZhdWx0Rm9udCI6eyJmb250RmFtaWx5IjoiQXJpYWwiLCJzaXplIjoxMC4wLCJib2xkIjpmYWxzZSwiaXRhbGljIjpmYWxzZX0sIndhcm5pbmdGb250Ijp7ImZvbnRGYW1pbHkiOiJBcmlhbCIsInNpemUiOjEwLjAsImJvbGQiOnRydWUsIml0YWxpYyI6dHJ1ZX0sImhlYWRlckNvbG9yIjoiI0ZGMDAwMDAwIiwiaGlnaFByaW9yaXR5Q29sb3IiOiIjRkZGRjAwMDAiLCJtZWRpdW1Qcmlvcml0eUNvbG9yIjoiI0ZGRkZGRjAwIiwibG93UHJpb3JpdHlDb2xvciI6IiNGRkFERkYyRiIsIm5vcm1hbENvbG9yIjoiI0ZGODdDRUZBIiwiYmFja2dyb3VuZENvbG9yIjoiI0ZGMDAwMDAwIiwidmlzdWFsQWxlcnRzIjpmYWxzZSwidm9pY2VBbGVydHMiOnRydWUsImZsYXNoV2luZG93IjpmYWxzZSwibWF4TmV3c0l0ZW1zIjo1fQ==</UserSettingsSerialized>
+          <UserSettingsSerialized>eyJ0b3BPZmZzZXQiOjIwLjAsImxlZnRPZmZzZXQiOjUuMCwic2hvd0JhY2tncm91bmQiOnRydWUsInVzZTI0SG91clRpbWVGb3JtYXQiOmZhbHNlLCJzaG93SGVhZGVyIjpmYWxzZSwiZGVidWciOmZhbHNlLCJ0b2RheXNOZXdzT25seSI6dHJ1ZSwidVNPbmx5RXZlbnRzIjpmYWxzZSwic2hvd0xvd1ByaW9yaXR5Ijp0cnVlLCJ3YXJuaW5nSW50ZXJ2YWwiOjUsInZlcnRpY2FsU3BhY2luZyI6MSwiaGVhZGVyRm9udCI6eyJmb250RmFtaWx5IjoiQXJpYWwiLCJzaXplIjoxMC4wLCJib2xkIjp0cnVlLCJpdGFsaWMiOmZhbHNlfSwiZGVmYXVsdEZvbnQiOnsiZm9udEZhbWlseSI6IkFyaWFsIiwic2l6ZSI6MTAuMCwiYm9sZCI6ZmFsc2UsIml0YWxpYyI6ZmFsc2V9LCJ3YXJuaW5nRm9udCI6eyJmb250RmFtaWx5IjoiQXJpYWwiLCJzaXplIjoxMC4wLCJib2xkIjp0cnVlLCJpdGFsaWMiOnRydWV9LCJoZWFkZXJDb2xvciI6IiNGRjAwMDAwMCIsImhpZ2hQcmlvcml0eUNvbG9yIjoiI0ZGRkYwMDAwIiwibWVkaXVtUHJpb3JpdHlDb2xvciI6IiNGRkZGRkYwMCIsImxvd1ByaW9yaXR5Q29sb3IiOiIjRkZBREZGMkYiLCJub3JtYWxDb2xvciI6IiNGRjg3Q0VGQSIsImJhY2tncm91bmRDb2xvciI6IiNGRjAwMDAwMCIsInZpc3VhbEFsZXJ0cyI6ZmFsc2UsInZvaWNlQWxlcnRzIjp0cnVlLCJmbGFzaFdpbmRvdyI6ZmFsc2UsIm1heE5ld3NJdGVtcyI6NX0=</UserSettingsSerialized>
         </ApexDiagnosticEconomicNews>
         <Input>
           <PriceType>Close</PriceType>
@@ -966,11 +966,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>false</DisplayInDataBox>
-          <From>2020-07-28T00:00:00</From>
+          <From>2020-08-04T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2020-08-07T00:00:00</To>
+          <To>2020-08-09T00:00:00</To>
           <Calculate>OnBarClose</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>false</IsAutoScale>
@@ -988,7 +988,7 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>12721</IndicatorId>
+          <IndicatorId>1541</IndicatorId>
           <InstrumentDeserialized>NQ 09-20 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -1016,11 +1016,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2020-07-28T00:00:00</From>
+          <From>2020-08-04T00:00:00</From>
           <Panel>2</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2020-08-07T00:00:00</To>
+          <To>2020-08-09T00:00:00</To>
           <Calculate>OnEachTick</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -1061,7 +1061,7 @@
           <DrawOnPricePanel>false</DrawOnPricePanel>
           <PaintPriceMarkers>true</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>12724</IndicatorId>
+          <IndicatorId>1544</IndicatorId>
           <InstrumentDeserialized>NQ 09-20 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -1089,11 +1089,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2020-07-28T00:00:00</From>
+          <From>2020-08-04T00:00:00</From>
           <Panel>2</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2020-08-07T00:00:00</To>
+          <To>2020-08-09T00:00:00</To>
           <Calculate>OnEachTick</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -1134,7 +1134,7 @@
           <DrawOnPricePanel>false</DrawOnPricePanel>
           <PaintPriceMarkers>true</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>12727</IndicatorId>
+          <IndicatorId>1547</IndicatorId>
           <InstrumentDeserialized>NQ 09-20 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -1162,11 +1162,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2020-07-28T00:00:00</From>
+          <From>2020-08-04T00:00:00</From>
           <Panel>2</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2020-08-07T00:00:00</To>
+          <To>2020-08-09T00:00:00</To>
           <Calculate>OnEachTick</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -1207,7 +1207,7 @@
           <DrawOnPricePanel>false</DrawOnPricePanel>
           <PaintPriceMarkers>true</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>12730</IndicatorId>
+          <IndicatorId>1550</IndicatorId>
           <InstrumentDeserialized>NQ 09-20 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -1235,11 +1235,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2020-07-28T00:00:00</From>
+          <From>2020-08-04T00:00:00</From>
           <Panel>2</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2020-08-07T00:00:00</To>
+          <To>2020-08-09T00:00:00</To>
           <Calculate>OnEachTick</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -1280,7 +1280,7 @@
           <DrawOnPricePanel>false</DrawOnPricePanel>
           <PaintPriceMarkers>true</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>12733</IndicatorId>
+          <IndicatorId>1553</IndicatorId>
           <InstrumentDeserialized>NQ 09-20 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -1358,7 +1358,7 @@
     </Properties>
     <ChartPanels>
       <ChartPanel>
-        <Height>646</Height>
+        <Height>623</Height>
         <HoldChartTraderOrders>false</HoldChartTraderOrders>
         <IsMaximized>false</IsMaximized>
         <Right>
@@ -1372,8 +1372,8 @@
             <AutoScaleMarginLower>40</AutoScaleMarginLower>
             <AutoScaleMarginUpper>40</AutoScaleMarginUpper>
             <YAxisScalingType>Linear</YAxisScalingType>
-            <FixedScaleMaxSerialize>10921</FixedScaleMaxSerialize>
-            <FixedScaleMinSerialize>10883.75</FixedScaleMinSerialize>
+            <FixedScaleMaxSerialize>11139</FixedScaleMaxSerialize>
+            <FixedScaleMinSerialize>11073</FixedScaleMinSerialize>
           </ChartScaleProperties>
         </Right>
         <Left>
@@ -1408,7 +1408,7 @@
         </Overlay>
       </ChartPanel>
       <ChartPanel>
-        <Height>64</Height>
+        <Height>62</Height>
         <HoldChartTraderOrders>false</HoldChartTraderOrders>
         <IsMaximized>false</IsMaximized>
         <Right>
@@ -1422,7 +1422,7 @@
             <AutoScaleMarginLower>6</AutoScaleMarginLower>
             <AutoScaleMarginUpper>6</AutoScaleMarginUpper>
             <YAxisScalingType>Linear</YAxisScalingType>
-            <FixedScaleMaxSerialize>2.2519247759709757</FixedScaleMaxSerialize>
+            <FixedScaleMaxSerialize>2.1409070893861522</FixedScaleMaxSerialize>
             <FixedScaleMinSerialize>0</FixedScaleMinSerialize>
           </ChartScaleProperties>
         </Right>
@@ -1458,7 +1458,7 @@
         </Overlay>
       </ChartPanel>
       <ChartPanel>
-        <Height>53</Height>
+        <Height>51</Height>
         <HoldChartTraderOrders>false</HoldChartTraderOrders>
         <IsMaximized>false</IsMaximized>
         <Right>
@@ -1513,10 +1513,10 @@
   <ChartTrader>
     <Properties>
       <ChartTraderProperties xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-        <AtmStrategySelectionMode>SelectActiveAtmStrategyOnOrderSubmission</AtmStrategySelectionMode>
+        <AtmStrategySelectionMode>KeepSelectedAtmStrategyTemplateOnOrderSubmission</AtmStrategySelectionMode>
         <AutoScale>true</AutoScale>
         <OrderDisplayBarLength>25</OrderDisplayBarLength>
-        <PnLDisplayUnit>Ticks</PnLDisplayUnit>
+        <PnLDisplayUnit>Currency</PnLDisplayUnit>
         <QuantityModificationForStocks>IncreaseQuantity</QuantityModificationForStocks>
         <ScaleQuantity>0</ScaleQuantity>
         <ShowRealizedPnLWhenFlat>true</ShowRealizedPnLWhenFlat>
@@ -1563,9 +1563,10 @@
 &lt;/Pen&gt;</StopMarketSerialize>
       </ChartTraderProperties>
     </Properties>
+    <Account>Sim101</Account>
     <ATM></ATM>
     <Instrument>NQ 09-20</Instrument>
     <Quantity>1</Quantity>
-    <TIF>Day</TIF>
+    <TIF>Gtc</TIF>
   </ChartTrader>
 </NinjaTrader>
