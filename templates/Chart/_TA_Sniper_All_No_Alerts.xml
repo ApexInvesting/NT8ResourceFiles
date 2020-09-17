@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <NinjaTrader>
   <NTTabPage>
     <InstrumentLink>0</InstrumentLink>
@@ -21,8 +21,8 @@
           </BarsPeriod>
           <RangeType>Days</RangeType>
           <BarsBack>50</BarsBack>
-          <DaysBack>5</DaysBack>
-          <From>2020-07-26T00:00:00</From>
+          <DaysBack>3</DaysBack>
+          <From>2020-05-25T00:00:00</From>
           <IsStableSession>true</IsStableSession>
           <To>2099-12-01T00:00:00</To>
           <TradingHoursSerializable>Default 24 x 7</TradingHoursSerializable>
@@ -50,8 +50,8 @@
           <PositionPenLoserSerialize>DEFAULT</PositionPenLoserSerialize>
           <PositionPenWinnerSerialize>DEFAULT</PositionPenWinnerSerialize>
           <ShortExecutionBrushSerialize>DEFAULT</ShortExecutionBrushSerialize>
-          <BarsSeriesId>0f4bf95800f24d38a6817cdac7d9ad94</BarsSeriesId>
-          <Id>5e2129ce376b48c497f2afdb82c4560e</Id>
+          <BarsSeriesId>f48118feab8949a7a1f37d1b451d9b3d</BarsSeriesId>
+          <Id>f310e09638454f5d9196a7b4a4bbbc80</Id>
           <Instrument>NQ 09-20</Instrument>
           <IsLinked>true</IsLinked>
           <IsPrimarySeries>true</IsPrimarySeries>
@@ -101,11 +101,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2020-08-29T00:00:00</From>
+          <From>2020-09-07T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2020-09-03T00:00:00</To>
+          <To>2020-09-10T00:00:00</To>
           <Calculate>OnEachTick</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>false</IsAutoScale>
@@ -123,599 +123,17 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>true</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>237</IndicatorId>
+          <IndicatorId>1</IndicatorId>
           <InstrumentDeserialized>NQ 09-20 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
           <ZOrder>0</ZOrder>
-          <SettingsSerialized>eyJ1c2VGdXR1cmVzVm9sdW1lRm9yRm9yZXgiOnRydWUsInBhdyI6eyJzdHJlbmd0aCI6MzAuMCwib25seVNob3dPbldpY2siOnRydWV9LCJpbWJhbGFuY2UiOnsic3RyZW5ndGgiOjMuMCwidm9sdW1lRmlsdGVyIjowfSwiem9uZU9mSW50ZXJlc3QiOnsibWluVm9sdW1lIjowLCJtaW5MZXZlbHMiOjN9LCJleGhhdXN0aW9uIjp7InN0cmVuZ3RoIjozLjAsInZvbHVtZUZpbHRlciI6MH0sIm5ldFZvbHVtZUFjY2VsZXJhdGlvbiI6eyJjYWxjT25CYXJDbG9zZSI6ZmFsc2UsInBlcmlvZCI6NCwic3RyZW5ndGgiOjIuMCwidm9sdW1lRmlsdGVyIjowfSwidG90YWxWb2x1bWUiOnsiYWxlcnRUaHJlc2hvbGQiOjcwMDB9LCJ0b3RhbFZvbHVtZUFjY2VsZXJhdGlvbiI6eyJwZXJpb2QiOjQsInN0cmVuZ3RoIjoyLjB9LCJ0cmFwcGVkT3JkZXJzIjp7Im1pblZvbHVtZSI6MTAsIm1pbkxldmVscyI6MywicmV2ZXJzYWxPbmx5QWxlcnQiOnRydWV9LCJsZWFkaW5nVm9sdW1lcyI6eyJtaW5Wb2x1bWUiOjEwLCJtaW5MZXZlbHMiOjN9LCJibG9ja09yZGVyU2V0dGluZ3MiOnsiYmxvY2tTaXplIjo1MCwibWF4RGF5c1RvU2hvd1Bhc3RCcm9rZW4iOjF9LCJibG9ja1ZvbHVtZUFjY2VsZXJhdGlvbiI6eyJjYWxjT25CYXJDbG9zZSI6ZmFsc2UsInBlcmlvZCI6Nywic3RyZW5ndGgiOjIuMCwidm9sdW1lRmlsdGVyIjowfSwibW9tZW50dW0iOnsic3RyZW5ndGgiOjMuMCwic2l6ZSI6MywibWluaW11bVRvdGFsVm9sdW1lVGhyZXNob2xkIjoxMCwibG93Vm9sdW1lU2NvcmVUaHJlc2hvbGQiOjEzfSwiYWJzb3JwdGlvbiI6eyJzdHJlbmd0aCI6My4wLCJzaXplIjozLCJtaW5pbXVtVG90YWxWb2x1bWVUaHJlc2hvbGQiOjEwfSwibWluaU1hZ25ldHMiOnsibWluaW11bVZvbHVtZSI6MSwidGhyZXNob2xkIjoxLCJtYXhEYXlzVG9TaG93UGFzdEJyb2tlbiI6MSwiY2FsY3VsYXRlT25CYXJDbG9zZSI6ZmFsc2V9LCJkaXNwbGF5TWlzYyI6eyJ2b2x1bWVPZmZzZXQiOjB9LCJDbHVzdGVyIjp7ImdyZWF0ZXJUaGFuTXVsdGlwbGllciI6Mi4wLCJwZXJpb2QiOjQsIm1pbmltdW1Ub3RhbFZvbHVtZSI6MTB9LCJicmlja1dhbGwiOnsibWluRW50aXRpZXNSZXF1aXJlZCI6MywibWF4UHJveGltaXR5SW5UaWNrcyI6MywibWF4VGltZUJldHdlZW5FbnRpdGllcyI6IjA4OjAwOjAwIn0sInZvbHVtZVNjb3JlIjp7InVwcGVyQWxlcnRUaHJlc2hvbGQiOjEwMDAsImxvd2VyQWxlcnRUaHJlc2hvbGQiOjEzfSwidGhpcmRCYXJTbGluZyI6eyJyZXF1aXJlbWVudHMiOjN9LCJzdGFyTFZTWk9JIjp7InRyYXBwZWRPcmRlcnNBbmRFeGhhdXN0aW9uQm94UmVxdWlyZWQiOmZhbHNlfSwiZWxldmF0b3IiOnsibWluaU1hZ25ldFBhd1JlcXVpcmVtZW50cyI6MiwiY2x1c3RlclJlcXVpcmVtZW50cyI6Mn0sImRvdWJsZVRYIjp7InBlcmlvZCI6MzAsInN0cmVuZ3RoIjo1fSwib3ByZWplY3Rpb24iOnsic2V0dXBCYXJDYWxjdWxhdGlvbnMiOjEsIlByZXZpb3VzQmFyQ2FsY3VsYXRpb25zIjoxLCJzZXR1cEJhckRlcHRoTWluaW51bVZvbHVtZSI6MCwiZW5hYmxlT1BSZWplY3Rpb25BbGVydHMiOnRydWUsImVuYWJsZUxpdmVPUFJlamVjdGlvbkFsZXJ0cyI6ZmFsc2UsInNldHVwQmFyTXVsdGlwbGllciI6My4wLCJzZXR1cEJhckRlcHRoIjoyLCJzZXR1cEJhclRocmVzaG9sZCI6MTAsInByZXZpb3VzQmFyTXVsdGlwbGllciI6Mi41LCJwcmV2aW91c0JhckRlcHRoIjoxLCJwcmV2aW91c0JhclRocmVzaG9sZCI6MTAsInBlcmlvZCI6MywicmVxdWlyZVBBVyI6ZmFsc2UsInJlcXVpcmVUcmFwcGVkT3JkZXIiOmZhbHNlLCJyZXF1aXJlRXhoYXVzdGlvbiI6ZmFsc2V9LCJvcGRpdmVyZ2VuY2UiOnsiZW5hYmxlT1BEaXZlcmdlbmNlQWxlcnRzIjp0cnVlLCJlbmFibGVMaXZlT1BEaXZlcmdlbmNlQWxlcnRzIjpmYWxzZSwic2V0dXBCYXJNdWx0aXBsaWVyIjoyLjAsInNldHVwQmFyRGVwdGgiOjIsInNldHVwQmFyVGhyZXNob2xkIjoxMCwicHJldmlvdXNCYXJNdWx0aXBsaWVyIjowLjAsInByZXZpb3VzQmFyRGVwdGgiOjAsInBlcmlvZCI6M30sImRpdmVyZ2VudExvd1JldmVyc2FsR28iOnsidHJhcHBlZE9yZGVyc0FuZEV4aGF1c3Rpb25Cb3hSZXF1aXJlZCI6ZmFsc2UsImluY2x1ZGVMb3dEaXZlcmdlbnRSZXZlcnNhbEdvIjpmYWxzZSwiYmFyc0JlZm9yZVNldHVwIjo0fX0=</SettingsSerialized>
-          <UserSettingsSerialized>eyJhbGVydHMiOnsidmlzdWFsIjpmYWxzZSwiYXVkaWJsZSI6dHJ1ZSwid2luZG93Rmxhc2giOmZhbHNlfSwicGF3UHJpbnRzIjp7InNob3ciOnRydWUsInNob3dSZWN0YW5nbGUiOnRydWUsInNob3dMaW5lIjp0cnVlLCJ1cHBlckxpbmUiOnsiYnJ1c2giOiIjRkZGRjhDMDAiLCJ3aWR0aCI6MS4wLCJkYXNoU3R5bGUiOjAsIm9wYWNpdHkiOjEwMH0sImxvd2VyTGluZSI6eyJicnVzaCI6IiNGRkZGOEMwMCIsIndpZHRoIjoxLjAsImRhc2hTdHlsZSI6MCwib3BhY2l0eSI6MTAwfSwiaW5zdGFudEFsZXJ0cyI6ZmFsc2UsImJhckNsb3NlQWxlcnRzIjpmYWxzZSwibWluV2lkdGgiOjE1fSwiaW1iYWxhbmNlIjp7InNob3ciOmZhbHNlLCJhc2tDb2xvciI6IiNGRjY5Njk2OSIsImJpZENvbG9yIjoiI0ZGNjk2OTY5Iiwid2Vha0NvbG9yIjoiI0ZGNjk2OTY5Iiwic2hvd1dlYWtJbWJhbGFuY2VzIjpmYWxzZX0sImJhbGFuY2VkVm9sdW1lIjp7IlNob3ciOmZhbHNlLCJGb250Q29sb3IiOiIjRkYwMDAwMDAifSwiem9uZU9mSW50ZXJlc3QiOnsic2hvdyI6dHJ1ZSwiZG93bkNvbG9yIjoiI0ZGQkE1NUQzIiwidXBDb2xvciI6IiNGRjAwQ0VEMSIsInNob3dCb3giOnRydWUsImluc3RhbnRBbGVydHMiOmZhbHNlLCJiYXJDbG9zZUFsZXJ0cyI6ZmFsc2UsIm9wYWNpdHkiOjQwLCJicm9rZW5PcGFjaXR5Ijo0MCwiYm94T3BhY2l0eSI6MTAwLCJib3hNaW5XaWR0aCI6MjV9LCJleGhhdXN0aW9uIjp7InNob3ciOnRydWUsInRvcExpbmVTdHlsZSI6eyJicnVzaCI6IiNGRkIyMjIyMiIsIndpZHRoIjoyLjAsImRhc2hTdHlsZSI6MCwib3BhY2l0eSI6MTAwfSwiYm90dG9tTGluZVN0eWxlIjp7ImJydXNoIjoiI0ZGMzJDRDMyIiwid2lkdGgiOjIuMCwiZGFzaFN0eWxlIjowLCJvcGFjaXR5IjoxMDB9LCJpbnN0YW50QWxlcnRzIjpmYWxzZSwiYmFyQ2xvc2VBbGVydHMiOmZhbHNlfSwibmV3Vm9sdW1lQWNjZWxlcnRpb24iOnsic2hvdyI6ZmFsc2UsImljb25Qb3NpdGl2ZUNvbG9yIjoiI0ZGOEZCQzhGIiwiaWNvbk5lZ2F0aXZlQ29sb3IiOiIjRkZGRjAwMDAiLCJpY29uRGl2ZXJnZW5jZUNvbG9yIjoiI0ZGRkZBNTAwIiwiaWNvbkJhY2tncm91bmRDb2xvciI6IiNGRkZGRkZGRiIsImluc3RhbnRBbGVydHMiOmZhbHNlLCJiYXJDbG9zZUFsZXJ0cyI6ZmFsc2V9LCJ0b3RhbFZvbHVtZUFjY2VsZXJhdGlvbiI6eyJzaG93IjpmYWxzZSwiaWNvbkJhY2tncm91bmRQb3NpdGl2ZUNvbG9yIjoiI0ZGN0I2OEVFIiwiaWNvbkJhY2tncm91bmROZWdhdGl2ZUNvbG9yIjoiI0ZGN0I2OEVFIiwiaWNvbkZvcmVDb2xvciI6IiNGRkZGRkZGRiIsImluc3RhbnRBbGVydHMiOmZhbHNlLCJiYXJDbG9zZUFsZXJ0cyI6ZmFsc2V9LCJ0cmFwcGVkT3JkZXJzIjp7InNob3ciOnRydWUsImhpZ2hsaWdodENvbG9yIjoiI0ZGMUU5MEZGIiwiZm9udENvbG9yIjoiIzAwRkZGRkZGIiwiaW5zdGFudEFsZXJ0cyI6ZmFsc2UsImJhckNsb3NlQWxlcnRzIjpmYWxzZSwid2l0aEV4aGF1c3Rpb25JbnN0YW50QWxlcnRzIjpmYWxzZSwid2l0aEV4aGF1c3Rpb25CYXJDbG9zZUFsZXJ0cyI6ZmFsc2UsIm1pbkJsb2NrV2lkdGgiOjIwfSwiYmxvY2tPcmRlcnMiOnsic2hvdyI6dHJ1ZSwiZm9udENvbG9yIjoiI0ZGRkZGRkZGIiwiaGlnaGxpZ2h0QmxvY2tzIjp0cnVlLCJzaG93QmxvY2tMaW5lIjp0cnVlLCJleHRlbmRQYXN0QnJva2VuIjpmYWxzZSwiYmlkTGluZVN0eWxlIjp7ImJydXNoIjoiI0ZGRkYwMDAwIiwid2lkdGgiOjIuMCwiZGFzaFN0eWxlIjowLCJvcGFjaXR5IjoxMDB9LCJhc2tMaW5lU3R5bGUiOnsiYnJ1c2giOiIjRkYwMEZGMDAiLCJ3aWR0aCI6Mi4wLCJkYXNoU3R5bGUiOjAsIm9wYWNpdHkiOjEwMH0sIm1pbkJsb2NrV2lkdGgiOjEyfSwiYmxvY2tOZXRWb2x1bWUiOnsic2hvd0RpdmVyZ2VuY2UiOmZhbHNlLCJkaXZlcmdlbmNlQ29sb3IiOiIjRkZGRkE1MDAiLCJkaXZlcmdlbmNlQm9yZGVyU3R5bGUiOnsiYnJ1c2giOiIjRkZGRkE1MDAiLCJ3aWR0aCI6MS4wLCJkYXNoU3R5bGUiOjAsIm9wYWNpdHkiOjEwMH0sImRpdmVyZ2VuY2VGb250Q29sb3IiOiIjRkZGRkZGRkYiLCJzaG93QmxvY2tOZXRUb3RhbCI6ZmFsc2UsIm5ldFZvbHVtZUZvbnQiOnsiZm9udEZhbWlseSI6IkFyaWFsIiwic2l6ZSI6MTIuMCwiYm9sZCI6dHJ1ZSwiaXRhbGljIjpmYWxzZX0sIm5ldFZvbHVtZVBvc2l0aXZlRm9udENvbG9yIjoiI0ZGRkZGRkZGIiwibmV0Vm9sdW1lTmVnYXRpdmVGb250Q29sb3IiOiIjRkZGRkZGRkYiLCJwb3NpdGl2ZUJvcmRlclN0eWxlIjp7ImJydXNoIjoiI0ZGMDA4MDAwIiwid2lkdGgiOjEuMCwiZGFzaFN0eWxlIjowLCJvcGFjaXR5IjoxMDB9LCJuZWdhdGl2ZUJvcmRlclN0eWxlIjp7ImJydXNoIjoiI0ZGRkYwMDAwIiwid2lkdGgiOjEuMCwiZGFzaFN0eWxlIjowLCJvcGFjaXR5IjoxMDB9fSwibW9tZW50dW0iOnsic2hvd01vbWVudHVtIjp0cnVlLCJ1cENvbG9yIjoiI0ZGN0ZGRjAwIiwiZG93bkNvbG9yIjoiI0ZGRkYwMDAwIiwiaWNvblVwQ29sb3IiOiIjRkYwMDAwMDAiLCJpY29uRG93bkNvbG9yIjoiI0ZGRkZGRkZGIiwic2hvd0RpYW1vbmQiOmZhbHNlLCJpbnN0YW50QWxlcnRzIjpmYWxzZSwiYmFyQ2xvc2VBbGVydHMiOmZhbHNlLCJ3aXRoTG93VlNJbnN0YW50QWxlcnRzIjpmYWxzZSwid2l0aExvd1ZTQmFyQ2xvc2VBbGVydHMiOmZhbHNlLCJpY29uVmVydGljYWxPZmZzZXQiOjIuMCwiaWNvblNpemUiOjJ9LCJhYnNvcnB0aW9uIjp7IlNob3ciOnRydWUsIlVwQ29sb3IiOiIjRkY1NTZCMkYiLCJEb3duQ29sb3IiOiIjRkY4MDAwMDAiLCJJY29uVXBDb2xvciI6IiNGRjAwMDAwMCIsIkljb25Eb3duQ29sb3IiOiIjRkYwMDAwMDAiLCJJbnN0YW50QWxlcnRzIjpmYWxzZSwiQmFyQ2xvc2VBbGVydHMiOmZhbHNlLCJJY29uVmVydGljYWxPZmZzZXQiOjAuMCwiSWNvblNpemUiOjJ9LCJtaW5pTWFnbmV0cyI6eyJleHRlbmRQYXN0QnJva2VuIjpmYWxzZSwibGl2ZUJvcmRlciI6eyJicnVzaCI6IiNGRkZGNjlCNCIsIndpZHRoIjozLjAsImRhc2hTdHlsZSI6MCwib3BhY2l0eSI6MTAwfSwiY2xvc2VkQm9yZGVyIjp7ImJydXNoIjoiI0ZGRkFGQUQyIiwid2lkdGgiOjMuMCwiZGFzaFN0eWxlIjowLCJvcGFjaXR5IjoxMDB9LCJicm9rZW5Cb3JkZXIiOnsiYnJ1c2giOiIjRkZGQUYwRTYiLCJ3aWR0aCI6My4wLCJkYXNoU3R5bGUiOjAsIm9wYWNpdHkiOjEwMH0sInNob3ciOnRydWUsImluc3RhbnRBbGVydHMiOmZhbHNlLCJiYXJDbG9zZUFsZXJ0cyI6ZmFsc2UsIndpdGhQYXdJbnN0YW50QWxlcnRzIjpmYWxzZSwid2l0aFBhckJhckNsb3NlQWxlcnRzIjpmYWxzZX0sImxlYWRpbmdWb2x1bWUiOnsic2hvdyI6dHJ1ZSwiY29sb3IiOiIjRkZEQzE0M0MiLCJmb250Q29sb3IiOiIjRkZEQzE0M0MiLCJiYXJDbG9zZUFsZXJ0cyI6ZmFsc2V9LCJuZXRWb2x1bWUiOnsic2hvdyI6ZmFsc2UsInBvc2l0aXZlQm9yZGVyU3R5bGUiOnsiYnJ1c2giOiIjRkY4RkJDOEYiLCJ3aWR0aCI6MS4wLCJkYXNoU3R5bGUiOjAsIm9wYWNpdHkiOjEwMH0sIm5lZ2F0aXZlQm9yZGVyU3R5bGUiOnsiYnJ1c2giOiIjRkZCMjIyMjIiLCJ3aWR0aCI6MS4wLCJkYXNoU3R5bGUiOjAsIm9wYWNpdHkiOjEwMH0sInBvc2l0aXZlVGV4dENvbG9yIjoiI0ZGRkZGRkZGIiwibmVnYXRpdmVUZXh0Q29sb3IiOiIjRkZGRkZGRkYiLCJmb250Ijp7ImZvbnRGYW1pbHkiOiJBcmlhbCIsInNpemUiOjEyLjAsImJvbGQiOnRydWUsIml0YWxpYyI6ZmFsc2V9LCJzaG93RGl2ZXJnZW5jZSI6dHJ1ZSwiZGl2ZXJnZW5jZUJvcmRlclN0eWxlIjp7ImJydXNoIjoiI0ZGRkZBNTAwIiwid2lkdGgiOjEuMCwiZGFzaFN0eWxlIjowLCJvcGFjaXR5IjoxMDB9LCJkaXZlcmdlbmNlVGV4dENvbG9yIjoiI0ZGRkZGRkZGIn0sInRvdGFsVm9sdW1lIjp7InNob3ciOmZhbHNlLCJ0ZXh0Q29sb3IiOiIjRkZCODg2MEIiLCJiYWNrZ3JvdW5kQ29sb3IiOiIjRkZGNUY1RjUiLCJmb250Ijp7ImZvbnRGYW1pbHkiOiJBcmlhbCIsInNpemUiOjEyLjAsImJvbGQiOnRydWUsIml0YWxpYyI6ZmFsc2V9LCJpbnN0YW50QWxlcnRzIjpmYWxzZSwiYmFyQ2xvc2VBbGVydHMiOmZhbHNlfSwiYmFyQ29udHJvbCI6eyJhdXRvc2NhbGUiOnRydWUsInNob3dCYXJPdXRsaW5lIjpmYWxzZSwic2hvd0xpbmVzIjpmYWxzZSwic2hvd0dyYWRpZW50IjpmYWxzZSwidm9sdW1lUG9zaXRpdmVHcmFkaWVudFN0YXJ0IjoiI0ZGRjVGRkZBIiwidm9sdW1lUG9zaXRpdmVHcmFkaWVudEVuZCI6IiNGRjhGQkM4RiIsInZvbHVtZU5lZ2F0aXZlR3JhZGllbnRTdGFydCI6IiNGRkZBRjBFNiIsInZvbHVtZU5lZ2F0aXZlR3JhZGllbnRFbmQiOiIjRkZCQzhGOEYiLCJiYXJDb2xvclVwIjoiI0ZGOEZCQzhGIiwiYmFyQ29sb3JEb3duIjoiI0ZGQkM4RjhGIiwic2hvd1ZvbHVtZXMiOmZhbHNlLCJ2b2x1bWVGb250Ijp7ImZvbnRGYW1pbHkiOiJBcmlhbCIsInNpemUiOjE0LjAsImJvbGQiOnRydWUsIml0YWxpYyI6ZmFsc2V9LCJiYXJXaWR0aEZhY3RvciI6NzB9LCJ2b2x1bWVDb250cm9sIjp7IkdyYWRpZW50U3RhcnQiOiIjRkZEM0QzRDMiLCJHcmFkaWVudEVuZCI6IiNGRjY5Njk2OSIsIlNob3ciOmZhbHNlLCJHcmFkaWVudE9wYWNpdHkiOjUwfSwiQ2x1c3RlciI6eyJzaG93Ijp0cnVlLCJib3JkZXJDb2xvciI6eyJicnVzaCI6IiNGRkZGRkYwMCIsIndpZHRoIjo0LjAsImRhc2hTdHlsZSI6MCwib3BhY2l0eSI6MTAwfSwiaW5zdGFudEFsZXJ0cyI6ZmFsc2UsImJhckNsb3NlQWxlcnRzIjpmYWxzZSwiZG91YmxlQ2x1c3Rlckluc3RhbnRBbGVydHMiOmZhbHNlLCJkb3VibGVDbHVzdGVyQWxlcnRzIjpmYWxzZSwibWluQ2x1c3RlcldpZHRoVG9FeHBhbmQiOjI1fSwiYmxvY2tWb2x1bWVBY2NlbGVyYXRpb24iOnsic2hvdyI6ZmFsc2UsImljb25CYWNrZ3JvdW5kUG9zaXRpdmVDb2xvciI6IiNGRjdCNjhFRSIsImljb25CYWNrZ3JvdW5kTmVnYXRpdmVDb2xvciI6IiNGRjdCNjhFRSIsImljb25CYWNrZ3JvdW5kRGl2ZXJnZW5jZUNvbG9yIjoiI0ZGRkZBNTAwIiwiaWNvbkZvcmVDb2xvciI6IiNGRkZGRkZGRiJ9LCJ2b2x1bWVTY29yZSI6eyJTaG93Ijp0cnVlLCJVcFRleHRDb2xvciI6IiNGRkQzRDNEMyIsIlVwQm9yZGVyIjp7ImJydXNoIjoiIzAwRkZGRkZGIiwid2lkdGgiOjEuMCwiZGFzaFN0eWxlIjowLCJvcGFjaXR5IjoxMDB9LCJEb3duVGV4dENvbG9yIjoiI0ZGRDNEM0QzIiwiRG93bkJvcmRlciI6eyJicnVzaCI6IiMwMEZGRkZGRiIsIndpZHRoIjoxLjAsImRhc2hTdHlsZSI6MCwib3BhY2l0eSI6MTAwfSwiRGl2ZXJnZW50VGV4dENvbG9yIjoiI0ZGRkZBNTAwIiwiRGl2ZXJnZW50Qm9yZGVyIjp7ImJydXNoIjoiIzAwRkZGRkZGIiwid2lkdGgiOjEuMCwiZGFzaFN0eWxlIjowLCJvcGFjaXR5IjoxMDB9LCJBdXRvU2NhbGUiOmZhbHNlLCJGb250Ijp7ImZvbnRGYW1pbHkiOiJBcmlhbCIsInNpemUiOjEyLjAsImJvbGQiOnRydWUsIml0YWxpYyI6ZmFsc2V9LCJVcHBlckluc3RhbnRBbGVydHMiOmZhbHNlLCJVcHBlckJhckNsb3NlQWxlcnRzIjpmYWxzZSwiTG93ZXJJbnN0YW50QWxlcnRzIjpmYWxzZSwiTG93ZXJCYXJDbG9zZUFsZXJ0cyI6ZmFsc2V9LCJvcFJlamVjdGlvbiI6eyJpbnN0YW50QWxlcnRzIjpmYWxzZSwiYmFyQ2xvc2VBbGVydHMiOmZhbHNlLCJzaG93T1BSZWplY3Rpb24iOmZhbHNlLCJpY29uVXBDb2xvciI6IiNGRkFERkYyRiIsImljb25Eb3duQ29sb3IiOiIjRkZGRjYzNDciLCJ2ZXJ0aWNhbE9mZnNldCI6MC4wLCJzY2FsZU9mZnNldCI6Mn0sIm9wRGl2ZXJnZW5jZSI6eyJpbnN0YW50QWxlcnRzIjpmYWxzZSwiYmFyQ2xvc2VBbGVydHMiOmZhbHNlLCJzaG93T1BEaXZlcmdlbmNlIjpmYWxzZSwiaWNvblVwQ29sb3IiOiIjRkZBREZGMkYiLCJpY29uRG93bkNvbG9yIjoiI0ZGRkY2MzQ3IiwidmVydGljYWxPZmZzZXQiOjAuMCwic2NhbGVPZmZzZXQiOjJ9LCJ0aGlyZEJhclNsaW5nIjp7Imluc3RhbnRBbGVydHMiOmZhbHNlLCJiYXJDbG9zZUFsZXJ0cyI6ZmFsc2V9LCJzdGFyTFZTWk9JIjp7Imluc3RhbnRBbGVydHMiOmZhbHNlLCJiYXJDbG9zZUFsZXJ0cyI6ZmFsc2V9LCJlbGV2YXRvciI6eyJpbnN0YW50QWxlcnRzIjpmYWxzZSwiYmFyQ2xvc2VBbGVydHMiOmZhbHNlfSwiZGl2ZXJnZW50TG93UmV2ZXJzYWxHbyI6eyJpbnN0YW50QWxlcnRzIjpmYWxzZSwiYmFyQ2xvc2VBbGVydHMiOmZhbHNlfSwiZG91YmxlVFgiOnsiaW5zdGFudEFsZXJ0cyI6ZmFsc2UsImJhckNsb3NlQWxlcnRzIjpmYWxzZX19</UserSettingsSerialized>
+          <SettingsSerialized>eyJ1c2VGdXR1cmVzVm9sdW1lRm9yRm9yZXgiOnRydWUsInBhdyI6eyJzdHJlbmd0aCI6MzAuMCwib25seVNob3dPbldpY2siOnRydWV9LCJpbWJhbGFuY2UiOnsic3RyZW5ndGgiOjMuMCwidm9sdW1lRmlsdGVyIjowfSwiem9uZU9mSW50ZXJlc3QiOnsibWluVm9sdW1lIjowLCJtaW5MZXZlbHMiOjN9LCJleGhhdXN0aW9uIjp7InN0cmVuZ3RoIjozLjAsInZvbHVtZUZpbHRlciI6MH0sIm5ldFZvbHVtZUFjY2VsZXJhdGlvbiI6eyJjYWxjT25CYXJDbG9zZSI6ZmFsc2UsInBlcmlvZCI6NCwic3RyZW5ndGgiOjIuMCwidm9sdW1lRmlsdGVyIjowfSwidG90YWxWb2x1bWUiOnsiYWxlcnRUaHJlc2hvbGQiOjcwMDB9LCJ0b3RhbFZvbHVtZUFjY2VsZXJhdGlvbiI6eyJwZXJpb2QiOjQsInN0cmVuZ3RoIjoyLjB9LCJ0cmFwcGVkT3JkZXJzIjp7Im1pblZvbHVtZSI6MTAsIm1pbkxldmVscyI6MywicmV2ZXJzYWxPbmx5QWxlcnQiOmZhbHNlfSwibGVhZGluZ1ZvbHVtZXMiOnsibWluVm9sdW1lIjoxMCwibWluTGV2ZWxzIjozfSwiYmxvY2tPcmRlclNldHRpbmdzIjp7ImJsb2NrU2l6ZSI6NTAsIm1heERheXNUb1Nob3dQYXN0QnJva2VuIjoxfSwiYmxvY2tWb2x1bWVBY2NlbGVyYXRpb24iOnsiY2FsY09uQmFyQ2xvc2UiOmZhbHNlLCJwZXJpb2QiOjcsInN0cmVuZ3RoIjoyLjAsInZvbHVtZUZpbHRlciI6MH0sIm1vbWVudHVtIjp7InN0cmVuZ3RoIjozLjAsInNpemUiOjMsIm1pbmltdW1Ub3RhbFZvbHVtZVRocmVzaG9sZCI6MTAsImxvd1ZvbHVtZVNjb3JlVGhyZXNob2xkIjoxM30sImFic29ycHRpb24iOnsic3RyZW5ndGgiOjMuMCwic2l6ZSI6MywibWluaW11bVRvdGFsVm9sdW1lVGhyZXNob2xkIjoxMH0sIm1pbmlNYWduZXRzIjp7Im1pbmltdW1Wb2x1bWUiOjEsInRocmVzaG9sZCI6MSwibWF4RGF5c1RvU2hvd1Bhc3RCcm9rZW4iOjEsImNhbGN1bGF0ZU9uQmFyQ2xvc2UiOmZhbHNlfSwiZGlzcGxheU1pc2MiOnsidm9sdW1lT2Zmc2V0IjowfSwiQ2x1c3RlciI6eyJncmVhdGVyVGhhbk11bHRpcGxpZXIiOjIuMCwicGVyaW9kIjo0LCJtaW5pbXVtVG90YWxWb2x1bWUiOjEwfSwiYnJpY2tXYWxsIjp7Im1pbkVudGl0aWVzUmVxdWlyZWQiOjMsIm1heFByb3hpbWl0eUluVGlja3MiOjMsIm1heFRpbWVCZXR3ZWVuRW50aXRpZXMiOiIwODowMDowMCJ9LCJ2b2x1bWVTY29yZSI6eyJ1cHBlckFsZXJ0VGhyZXNob2xkIjoxMDAwLCJsb3dlckFsZXJ0VGhyZXNob2xkIjoxM30sInRoaXJkQmFyU2xpbmciOnsicmVxdWlyZW1lbnRzIjozfSwic3RhckxWU1pPSSI6eyJ0cmFwcGVkT3JkZXJzQW5kRXhoYXVzdGlvbkJveFJlcXVpcmVkIjpmYWxzZX0sImVsZXZhdG9yIjp7Im1pbmlNYWduZXRQYXdSZXF1aXJlbWVudHMiOjIsImNsdXN0ZXJSZXF1aXJlbWVudHMiOjJ9LCJkb3VibGVUWCI6eyJwZXJpb2QiOjMwLCJzdHJlbmd0aCI6NX0sIm9wcmVqZWN0aW9uIjp7InNldHVwQmFyQ2FsY3VsYXRpb25zIjoxLCJQcmV2aW91c0JhckNhbGN1bGF0aW9ucyI6MSwic2V0dXBCYXJEZXB0aE1pbmludW1Wb2x1bWUiOjAsImVuYWJsZU9QUmVqZWN0aW9uQWxlcnRzIjp0cnVlLCJlbmFibGVMaXZlT1BSZWplY3Rpb25BbGVydHMiOmZhbHNlLCJzZXR1cEJhck11bHRpcGxpZXIiOjMuMCwic2V0dXBCYXJEZXB0aCI6Miwic2V0dXBCYXJUaHJlc2hvbGQiOjEwLCJwcmV2aW91c0Jhck11bHRpcGxpZXIiOjIuNSwicHJldmlvdXNCYXJEZXB0aCI6MSwicHJldmlvdXNCYXJUaHJlc2hvbGQiOjEwLCJwZXJpb2QiOjMsInJlcXVpcmVQQVciOmZhbHNlLCJyZXF1aXJlVHJhcHBlZE9yZGVyIjpmYWxzZSwicmVxdWlyZUV4aGF1c3Rpb24iOmZhbHNlfSwib3BkaXZlcmdlbmNlIjp7ImVuYWJsZU9QRGl2ZXJnZW5jZUFsZXJ0cyI6dHJ1ZSwiZW5hYmxlTGl2ZU9QRGl2ZXJnZW5jZUFsZXJ0cyI6ZmFsc2UsInNldHVwQmFyTXVsdGlwbGllciI6Mi4wLCJzZXR1cEJhckRlcHRoIjoyLCJzZXR1cEJhclRocmVzaG9sZCI6MTAsInByZXZpb3VzQmFyTXVsdGlwbGllciI6MC4wLCJwcmV2aW91c0JhckRlcHRoIjowLCJwZXJpb2QiOjN9LCJkaXZlcmdlbnRMb3dSZXZlcnNhbEdvIjp7InRyYXBwZWRPcmRlcnNBbmRFeGhhdXN0aW9uQm94UmVxdWlyZWQiOmZhbHNlLCJpbmNsdWRlTG93RGl2ZXJnZW50UmV2ZXJzYWxHbyI6ZmFsc2UsImJhcnNCZWZvcmVTZXR1cCI6NH19</SettingsSerialized>
+          <UserSettingsSerialized>eyJhbGVydHMiOnsidmlzdWFsIjpmYWxzZSwiYXVkaWJsZSI6dHJ1ZSwid2luZG93Rmxhc2giOmZhbHNlfSwicGF3UHJpbnRzIjp7InNob3ciOnRydWUsInNob3dSZWN0YW5nbGUiOnRydWUsInNob3dMaW5lIjp0cnVlLCJ1cHBlckxpbmUiOnsiYnJ1c2giOiIjRkZGRjhDMDAiLCJ3aWR0aCI6MS4wLCJkYXNoU3R5bGUiOjAsIm9wYWNpdHkiOjEwMH0sImxvd2VyTGluZSI6eyJicnVzaCI6IiNGRkZGOEMwMCIsIndpZHRoIjoxLjAsImRhc2hTdHlsZSI6MCwib3BhY2l0eSI6MTAwfSwiaW5zdGFudEFsZXJ0cyI6ZmFsc2UsImJhckNsb3NlQWxlcnRzIjpmYWxzZSwibWluV2lkdGgiOjE1fSwiaW1iYWxhbmNlIjp7InNob3ciOmZhbHNlLCJhc2tDb2xvciI6IiNGRjY5Njk2OSIsImJpZENvbG9yIjoiI0ZGNjk2OTY5Iiwid2Vha0NvbG9yIjoiI0ZGNjk2OTY5Iiwic2hvd1dlYWtJbWJhbGFuY2VzIjpmYWxzZX0sImJhbGFuY2VkVm9sdW1lIjp7IlNob3ciOmZhbHNlLCJGb250Q29sb3IiOiIjRkYwMDAwMDAifSwiem9uZU9mSW50ZXJlc3QiOnsic2hvdyI6dHJ1ZSwiZG93bkNvbG9yIjoiI0ZGQkE1NUQzIiwidXBDb2xvciI6IiNGRjAwQ0VEMSIsInNob3dCb3giOnRydWUsImluc3RhbnRBbGVydHMiOmZhbHNlLCJiYXJDbG9zZUFsZXJ0cyI6ZmFsc2UsIm9wYWNpdHkiOjQwLCJicm9rZW5PcGFjaXR5Ijo0MCwiYm94T3BhY2l0eSI6MTAwLCJib3hNaW5XaWR0aCI6MjV9LCJleGhhdXN0aW9uIjp7InNob3ciOnRydWUsInRvcExpbmVTdHlsZSI6eyJicnVzaCI6IiNGRkIyMjIyMiIsIndpZHRoIjoyLjAsImRhc2hTdHlsZSI6MCwib3BhY2l0eSI6MTAwfSwiYm90dG9tTGluZVN0eWxlIjp7ImJydXNoIjoiI0ZGMzJDRDMyIiwid2lkdGgiOjIuMCwiZGFzaFN0eWxlIjowLCJvcGFjaXR5IjoxMDB9LCJpbnN0YW50QWxlcnRzIjpmYWxzZSwiYmFyQ2xvc2VBbGVydHMiOmZhbHNlfSwibmV3Vm9sdW1lQWNjZWxlcnRpb24iOnsic2hvdyI6ZmFsc2UsImljb25Qb3NpdGl2ZUNvbG9yIjoiI0ZGOEZCQzhGIiwiaWNvbk5lZ2F0aXZlQ29sb3IiOiIjRkZGRjAwMDAiLCJpY29uRGl2ZXJnZW5jZUNvbG9yIjoiI0ZGRkZBNTAwIiwiaWNvbkJhY2tncm91bmRDb2xvciI6IiNGRkZGRkZGRiIsImluc3RhbnRBbGVydHMiOmZhbHNlLCJiYXJDbG9zZUFsZXJ0cyI6ZmFsc2V9LCJ0b3RhbFZvbHVtZUFjY2VsZXJhdGlvbiI6eyJzaG93IjpmYWxzZSwiaWNvbkJhY2tncm91bmRQb3NpdGl2ZUNvbG9yIjoiI0ZGN0I2OEVFIiwiaWNvbkJhY2tncm91bmROZWdhdGl2ZUNvbG9yIjoiI0ZGN0I2OEVFIiwiaWNvbkZvcmVDb2xvciI6IiNGRkZGRkZGRiIsImluc3RhbnRBbGVydHMiOmZhbHNlLCJiYXJDbG9zZUFsZXJ0cyI6ZmFsc2V9LCJ0cmFwcGVkT3JkZXJzIjp7InNob3ciOnRydWUsImhpZ2hsaWdodENvbG9yIjoiI0ZGMUU5MEZGIiwiZm9udENvbG9yIjoiIzAwRkZGRkZGIiwiaW5zdGFudEFsZXJ0cyI6ZmFsc2UsImJhckNsb3NlQWxlcnRzIjpmYWxzZSwid2l0aEV4aGF1c3Rpb25JbnN0YW50QWxlcnRzIjpmYWxzZSwid2l0aEV4aGF1c3Rpb25CYXJDbG9zZUFsZXJ0cyI6dHJ1ZSwibWluQmxvY2tXaWR0aCI6MjB9LCJibG9ja09yZGVycyI6eyJzaG93Ijp0cnVlLCJmb250Q29sb3IiOiIjRkZGRkZGRkYiLCJoaWdobGlnaHRCbG9ja3MiOnRydWUsInNob3dCbG9ja0xpbmUiOnRydWUsImV4dGVuZFBhc3RCcm9rZW4iOmZhbHNlLCJiaWRMaW5lU3R5bGUiOnsiYnJ1c2giOiIjRkZGRjAwMDAiLCJ3aWR0aCI6Mi4wLCJkYXNoU3R5bGUiOjAsIm9wYWNpdHkiOjEwMH0sImFza0xpbmVTdHlsZSI6eyJicnVzaCI6IiNGRjAwRkYwMCIsIndpZHRoIjoyLjAsImRhc2hTdHlsZSI6MCwib3BhY2l0eSI6MTAwfSwibWluQmxvY2tXaWR0aCI6MTJ9LCJibG9ja05ldFZvbHVtZSI6eyJzaG93RGl2ZXJnZW5jZSI6ZmFsc2UsImRpdmVyZ2VuY2VDb2xvciI6IiNGRkZGQTUwMCIsImRpdmVyZ2VuY2VCb3JkZXJTdHlsZSI6eyJicnVzaCI6IiNGRkZGQTUwMCIsIndpZHRoIjoxLjAsImRhc2hTdHlsZSI6MCwib3BhY2l0eSI6MTAwfSwiZGl2ZXJnZW5jZUZvbnRDb2xvciI6IiNGRkZGRkZGRiIsInNob3dCbG9ja05ldFRvdGFsIjpmYWxzZSwibmV0Vm9sdW1lRm9udCI6eyJmb250RmFtaWx5IjoiQXJpYWwiLCJzaXplIjoxMi4wLCJib2xkIjp0cnVlLCJpdGFsaWMiOmZhbHNlfSwibmV0Vm9sdW1lUG9zaXRpdmVGb250Q29sb3IiOiIjRkZGRkZGRkYiLCJuZXRWb2x1bWVOZWdhdGl2ZUZvbnRDb2xvciI6IiNGRkZGRkZGRiIsInBvc2l0aXZlQm9yZGVyU3R5bGUiOnsiYnJ1c2giOiIjRkYwMDgwMDAiLCJ3aWR0aCI6MS4wLCJkYXNoU3R5bGUiOjAsIm9wYWNpdHkiOjEwMH0sIm5lZ2F0aXZlQm9yZGVyU3R5bGUiOnsiYnJ1c2giOiIjRkZGRjAwMDAiLCJ3aWR0aCI6MS4wLCJkYXNoU3R5bGUiOjAsIm9wYWNpdHkiOjEwMH19LCJtb21lbnR1bSI6eyJzaG93TW9tZW50dW0iOnRydWUsInVwQ29sb3IiOiIjRkY3RkZGMDAiLCJkb3duQ29sb3IiOiIjRkZGRjAwMDAiLCJpY29uVXBDb2xvciI6IiNGRjAwMDAwMCIsImljb25Eb3duQ29sb3IiOiIjRkZGRkZGRkYiLCJzaG93RGlhbW9uZCI6ZmFsc2UsImluc3RhbnRBbGVydHMiOmZhbHNlLCJiYXJDbG9zZUFsZXJ0cyI6ZmFsc2UsIndpdGhMb3dWU0luc3RhbnRBbGVydHMiOmZhbHNlLCJ3aXRoTG93VlNCYXJDbG9zZUFsZXJ0cyI6ZmFsc2UsImljb25WZXJ0aWNhbE9mZnNldCI6Mi4wLCJpY29uU2l6ZSI6Mn0sImFic29ycHRpb24iOnsiU2hvdyI6dHJ1ZSwiVXBDb2xvciI6IiNGRjU1NkIyRiIsIkRvd25Db2xvciI6IiNGRjgwMDAwMCIsIkljb25VcENvbG9yIjoiI0ZGMDAwMDAwIiwiSWNvbkRvd25Db2xvciI6IiNGRjAwMDAwMCIsIkluc3RhbnRBbGVydHMiOmZhbHNlLCJCYXJDbG9zZUFsZXJ0cyI6ZmFsc2UsIkljb25WZXJ0aWNhbE9mZnNldCI6MC4wLCJJY29uU2l6ZSI6Mn0sIm1pbmlNYWduZXRzIjp7ImV4dGVuZFBhc3RCcm9rZW4iOmZhbHNlLCJsaXZlQm9yZGVyIjp7ImJydXNoIjoiI0ZGRkY2OUI0Iiwid2lkdGgiOjMuMCwiZGFzaFN0eWxlIjowLCJvcGFjaXR5IjoxMDB9LCJjbG9zZWRCb3JkZXIiOnsiYnJ1c2giOiIjRkZGQUZBRDIiLCJ3aWR0aCI6My4wLCJkYXNoU3R5bGUiOjAsIm9wYWNpdHkiOjEwMH0sImJyb2tlbkJvcmRlciI6eyJicnVzaCI6IiNGRkZBRjBFNiIsIndpZHRoIjozLjAsImRhc2hTdHlsZSI6MCwib3BhY2l0eSI6MTAwfSwic2hvdyI6dHJ1ZSwiaW5zdGFudEFsZXJ0cyI6ZmFsc2UsImJhckNsb3NlQWxlcnRzIjpmYWxzZSwid2l0aFBhd0luc3RhbnRBbGVydHMiOmZhbHNlLCJ3aXRoUGFyQmFyQ2xvc2VBbGVydHMiOmZhbHNlfSwibGVhZGluZ1ZvbHVtZSI6eyJzaG93Ijp0cnVlLCJjb2xvciI6IiNGRkRDMTQzQyIsImZvbnRDb2xvciI6IiNGRkRDMTQzQyIsImJhckNsb3NlQWxlcnRzIjpmYWxzZX0sIm5ldFZvbHVtZSI6eyJzaG93IjpmYWxzZSwicG9zaXRpdmVCb3JkZXJTdHlsZSI6eyJicnVzaCI6IiNGRjhGQkM4RiIsIndpZHRoIjoxLjAsImRhc2hTdHlsZSI6MCwib3BhY2l0eSI6MTAwfSwibmVnYXRpdmVCb3JkZXJTdHlsZSI6eyJicnVzaCI6IiNGRkIyMjIyMiIsIndpZHRoIjoxLjAsImRhc2hTdHlsZSI6MCwib3BhY2l0eSI6MTAwfSwicG9zaXRpdmVUZXh0Q29sb3IiOiIjRkZGRkZGRkYiLCJuZWdhdGl2ZVRleHRDb2xvciI6IiNGRkZGRkZGRiIsImZvbnQiOnsiZm9udEZhbWlseSI6IkFyaWFsIiwic2l6ZSI6MTIuMCwiYm9sZCI6dHJ1ZSwiaXRhbGljIjpmYWxzZX0sInNob3dEaXZlcmdlbmNlIjp0cnVlLCJkaXZlcmdlbmNlQm9yZGVyU3R5bGUiOnsiYnJ1c2giOiIjRkZGRkE1MDAiLCJ3aWR0aCI6MS4wLCJkYXNoU3R5bGUiOjAsIm9wYWNpdHkiOjEwMH0sImRpdmVyZ2VuY2VUZXh0Q29sb3IiOiIjRkZGRkZGRkYifSwidG90YWxWb2x1bWUiOnsic2hvdyI6ZmFsc2UsInRleHRDb2xvciI6IiNGRkI4ODYwQiIsImJhY2tncm91bmRDb2xvciI6IiNGRkY1RjVGNSIsImZvbnQiOnsiZm9udEZhbWlseSI6IkFyaWFsIiwic2l6ZSI6MTIuMCwiYm9sZCI6dHJ1ZSwiaXRhbGljIjpmYWxzZX0sImluc3RhbnRBbGVydHMiOmZhbHNlLCJiYXJDbG9zZUFsZXJ0cyI6ZmFsc2V9LCJiYXJDb250cm9sIjp7ImF1dG9zY2FsZSI6dHJ1ZSwic2hvd0Jhck91dGxpbmUiOmZhbHNlLCJzaG93TGluZXMiOmZhbHNlLCJzaG93R3JhZGllbnQiOmZhbHNlLCJ2b2x1bWVQb3NpdGl2ZUdyYWRpZW50U3RhcnQiOiIjRkZGNUZGRkEiLCJ2b2x1bWVQb3NpdGl2ZUdyYWRpZW50RW5kIjoiI0ZGOEZCQzhGIiwidm9sdW1lTmVnYXRpdmVHcmFkaWVudFN0YXJ0IjoiI0ZGRkFGMEU2Iiwidm9sdW1lTmVnYXRpdmVHcmFkaWVudEVuZCI6IiNGRkJDOEY4RiIsImJhckNvbG9yVXAiOiIjRkY4RkJDOEYiLCJiYXJDb2xvckRvd24iOiIjRkZCQzhGOEYiLCJzaG93Vm9sdW1lcyI6ZmFsc2UsInZvbHVtZUZvbnQiOnsiZm9udEZhbWlseSI6IkFyaWFsIiwic2l6ZSI6MTQuMCwiYm9sZCI6dHJ1ZSwiaXRhbGljIjpmYWxzZX0sImJhcldpZHRoRmFjdG9yIjo3MH0sInZvbHVtZUNvbnRyb2wiOnsiR3JhZGllbnRTdGFydCI6IiNGRkQzRDNEMyIsIkdyYWRpZW50RW5kIjoiI0ZGNjk2OTY5IiwiU2hvdyI6ZmFsc2UsIkdyYWRpZW50T3BhY2l0eSI6NTB9LCJDbHVzdGVyIjp7InNob3ciOnRydWUsImJvcmRlckNvbG9yIjp7ImJydXNoIjoiI0ZGRkZGRjAwIiwid2lkdGgiOjQuMCwiZGFzaFN0eWxlIjowLCJvcGFjaXR5IjoxMDB9LCJpbnN0YW50QWxlcnRzIjpmYWxzZSwiYmFyQ2xvc2VBbGVydHMiOmZhbHNlLCJkb3VibGVDbHVzdGVySW5zdGFudEFsZXJ0cyI6ZmFsc2UsImRvdWJsZUNsdXN0ZXJBbGVydHMiOmZhbHNlLCJtaW5DbHVzdGVyV2lkdGhUb0V4cGFuZCI6MjV9LCJibG9ja1ZvbHVtZUFjY2VsZXJhdGlvbiI6eyJzaG93IjpmYWxzZSwiaWNvbkJhY2tncm91bmRQb3NpdGl2ZUNvbG9yIjoiI0ZGN0I2OEVFIiwiaWNvbkJhY2tncm91bmROZWdhdGl2ZUNvbG9yIjoiI0ZGN0I2OEVFIiwiaWNvbkJhY2tncm91bmREaXZlcmdlbmNlQ29sb3IiOiIjRkZGRkE1MDAiLCJpY29uRm9yZUNvbG9yIjoiI0ZGRkZGRkZGIn0sInZvbHVtZVNjb3JlIjp7IlNob3ciOnRydWUsIlVwVGV4dENvbG9yIjoiI0ZGRDNEM0QzIiwiVXBCb3JkZXIiOnsiYnJ1c2giOiIjMDBGRkZGRkYiLCJ3aWR0aCI6MS4wLCJkYXNoU3R5bGUiOjAsIm9wYWNpdHkiOjEwMH0sIkRvd25UZXh0Q29sb3IiOiIjRkZEM0QzRDMiLCJEb3duQm9yZGVyIjp7ImJydXNoIjoiIzAwRkZGRkZGIiwid2lkdGgiOjEuMCwiZGFzaFN0eWxlIjowLCJvcGFjaXR5IjoxMDB9LCJEaXZlcmdlbnRUZXh0Q29sb3IiOiIjRkZGRkE1MDAiLCJEaXZlcmdlbnRCb3JkZXIiOnsiYnJ1c2giOiIjMDBGRkZGRkYiLCJ3aWR0aCI6MS4wLCJkYXNoU3R5bGUiOjAsIm9wYWNpdHkiOjEwMH0sIkF1dG9TY2FsZSI6ZmFsc2UsIkZvbnQiOnsiZm9udEZhbWlseSI6IkFyaWFsIiwic2l6ZSI6MTIuMCwiYm9sZCI6dHJ1ZSwiaXRhbGljIjpmYWxzZX0sIlVwcGVySW5zdGFudEFsZXJ0cyI6ZmFsc2UsIlVwcGVyQmFyQ2xvc2VBbGVydHMiOmZhbHNlLCJMb3dlckluc3RhbnRBbGVydHMiOmZhbHNlLCJMb3dlckJhckNsb3NlQWxlcnRzIjpmYWxzZX0sIm9wUmVqZWN0aW9uIjp7Imluc3RhbnRBbGVydHMiOmZhbHNlLCJiYXJDbG9zZUFsZXJ0cyI6ZmFsc2UsInNob3dPUFJlamVjdGlvbiI6ZmFsc2UsImljb25VcENvbG9yIjoiI0ZGQURGRjJGIiwiaWNvbkRvd25Db2xvciI6IiNGRkZGNjM0NyIsInZlcnRpY2FsT2Zmc2V0IjowLjAsInNjYWxlT2Zmc2V0IjoyfSwib3BEaXZlcmdlbmNlIjp7Imluc3RhbnRBbGVydHMiOmZhbHNlLCJiYXJDbG9zZUFsZXJ0cyI6ZmFsc2UsInNob3dPUERpdmVyZ2VuY2UiOmZhbHNlLCJpY29uVXBDb2xvciI6IiNGRkFERkYyRiIsImljb25Eb3duQ29sb3IiOiIjRkZGRjYzNDciLCJ2ZXJ0aWNhbE9mZnNldCI6MC4wLCJzY2FsZU9mZnNldCI6Mn0sInRoaXJkQmFyU2xpbmciOnsiaW5zdGFudEFsZXJ0cyI6ZmFsc2UsImJhckNsb3NlQWxlcnRzIjpmYWxzZX0sInN0YXJMVlNaT0kiOnsiaW5zdGFudEFsZXJ0cyI6ZmFsc2UsImJhckNsb3NlQWxlcnRzIjpmYWxzZX0sImVsZXZhdG9yIjp7Imluc3RhbnRBbGVydHMiOmZhbHNlLCJiYXJDbG9zZUFsZXJ0cyI6ZmFsc2V9LCJkaXZlcmdlbnRMb3dSZXZlcnNhbEdvIjp7Imluc3RhbnRBbGVydHMiOmZhbHNlLCJiYXJDbG9zZUFsZXJ0cyI6ZmFsc2V9LCJkb3VibGVUWCI6eyJpbnN0YW50QWxlcnRzIjpmYWxzZSwiYmFyQ2xvc2VBbGVydHMiOmZhbHNlfX0=</UserSettingsSerialized>
           <MasterTickSize>0.25</MasterTickSize>
         </ApexOrderPrints>
         <Input>
           <PriceType>Close</PriceType>
-        </Input>
-      </Indicator>
-      <Indicator BarsIndex="0" Instrument="NQ 09-20 Globex" Name="NinjaTrader.NinjaScript.Indicators._The_Indicator_Store.Markers_Copy" Panel="2" DisplayName="slz(0,slz,0,True)">
-        <Markers_Copy xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-          <IsVisible>true</IsVisible>
-          <AreLinesConfigurable>true</AreLinesConfigurable>
-          <ArePlotsConfigurable>true</ArePlotsConfigurable>
-          <BarsPeriodSerializable>
-            <BarsPeriodTypeSerialize>5132</BarsPeriodTypeSerialize>
-            <BaseBarsPeriodType>Tick</BaseBarsPeriodType>
-            <BaseBarsPeriodValue>100</BaseBarsPeriodValue>
-            <VolumetricDeltaType>BidAsk</VolumetricDeltaType>
-            <MarketDataType>Last</MarketDataType>
-            <PointAndFigurePriceType>Close</PointAndFigurePriceType>
-            <ReversalType>Tick</ReversalType>
-            <Value>10</Value>
-            <Value2>50</Value2>
-          </BarsPeriodSerializable>
-          <BarsToLoad>0</BarsToLoad>
-          <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2020-08-29T00:00:00</From>
-          <Panel>2</Panel>
-          <ScaleJustification>Right</ScaleJustification>
-          <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2020-09-03T00:00:00</To>
-          <Calculate>OnBarClose</Calculate>
-          <Displacement>0</Displacement>
-          <IsAutoScale>true</IsAutoScale>
-          <IsDataSeriesRequired>true</IsDataSeriesRequired>
-          <IsOverlay>true</IsOverlay>
-          <Lines />
-          <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
-          <Name>slz</Name>
-          <Plots>
-            <Plot>
-              <IsOpacityVisible>false</IsOpacityVisible>
-              <BrushSerialize>&lt;SolidColorBrush xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;#FF0000FF&lt;/SolidColorBrush&gt;</BrushSerialize>
-              <DashStyleHelper>Solid</DashStyleHelper>
-              <Opacity>100</Opacity>
-              <Width>1</Width>
-              <AutoWidth>false</AutoWidth>
-              <Max>1.7976931348623157E+308</Max>
-              <Min>-1.7976931348623157E+308</Min>
-              <Name>Copy</Name>
-              <PlotStyle>Bar</PlotStyle>
-            </Plot>
-          </Plots>
-          <SelectedValueSeries>0</SelectedValueSeries>
-          <InputPlot>0</InputPlot>
-          <IsTradingHoursBreakLineVisible>true</IsTradingHoursBreakLineVisible>
-          <DrawHorizontalGridLines>true</DrawHorizontalGridLines>
-          <DrawVerticalGridLines>true</DrawVerticalGridLines>
-          <DrawOnPricePanel>true</DrawOnPricePanel>
-          <PaintPriceMarkers>false</PaintPriceMarkers>
-          <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>241</IndicatorId>
-          <InstrumentDeserialized>NQ 09-20 Globex</InstrumentDeserialized>
-          <MaxSerialized>0</MaxSerialized>
-          <MinSerialized>0</MinSerialized>
-          <ZOrder>10024</ZOrder>
-          <System_Version>Markers Line Copy - The Force 2020-08-31</System_Version>
-          <Link_ID>1</Link_ID>
-          <Copy_Offset>0</Copy_Offset>
-          <Show_Line>true</Show_Line>
-          <Aux_Line_Name>slz</Aux_Line_Name>
-          <Aux_Line_Displacement>0</Aux_Line_Displacement>
-          <Use_As_Fast_Signal>true</Use_As_Fast_Signal>
-        </Markers_Copy>
-        <Input>
-          <ClassName>NinjaTrader.NinjaScript.Indicators.ApexOrderPrintsDetector_StarLVSZOI</ClassName>
-          <Input>
-            <PriceType>Close</PriceType>
-          </Input>
-          <Indicator>
-            <ApexOrderPrintsDetector_StarLVSZOI xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <IsVisible>true</IsVisible>
-              <AreLinesConfigurable>true</AreLinesConfigurable>
-              <ArePlotsConfigurable>true</ArePlotsConfigurable>
-              <BarsPeriodSerializable>
-                <BarsPeriodTypeSerialize>5132</BarsPeriodTypeSerialize>
-                <BaseBarsPeriodType>Tick</BaseBarsPeriodType>
-                <BaseBarsPeriodValue>100</BaseBarsPeriodValue>
-                <VolumetricDeltaType>BidAsk</VolumetricDeltaType>
-                <MarketDataType>Last</MarketDataType>
-                <PointAndFigurePriceType>Close</PointAndFigurePriceType>
-                <ReversalType>Tick</ReversalType>
-                <Value>10</Value>
-                <Value2>50</Value2>
-              </BarsPeriodSerializable>
-              <BarsToLoad>0</BarsToLoad>
-              <DisplayInDataBox>true</DisplayInDataBox>
-              <From>2020-08-29T00:00:00</From>
-              <Panel>0</Panel>
-              <ScaleJustification>Right</ScaleJustification>
-              <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-              <To>2020-09-03T00:00:00</To>
-              <Calculate>OnBarClose</Calculate>
-              <Displacement>0</Displacement>
-              <IsAutoScale>true</IsAutoScale>
-              <IsDataSeriesRequired>true</IsDataSeriesRequired>
-              <IsOverlay>false</IsOverlay>
-              <Lines>
-                <Line>
-                  <IsOpacityVisible>false</IsOpacityVisible>
-                  <BrushSerialize>&lt;SolidColorBrush xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;#FF000000&lt;/SolidColorBrush&gt;</BrushSerialize>
-                  <DashStyleHelper>Solid</DashStyleHelper>
-                  <Opacity>100</Opacity>
-                  <Width>1</Width>
-                  <Name>Zero</Name>
-                  <Value>0</Value>
-                </Line>
-              </Lines>
-              <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
-              <Name>_APEX Order Prints Star LVS ZOI Detector</Name>
-              <Plots>
-                <Plot>
-                  <IsOpacityVisible>false</IsOpacityVisible>
-                  <BrushSerialize>&lt;SolidColorBrush xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;#FFD8BFD8&lt;/SolidColorBrush&gt;</BrushSerialize>
-                  <DashStyleHelper>Solid</DashStyleHelper>
-                  <Opacity>100</Opacity>
-                  <Width>4</Width>
-                  <AutoWidth>false</AutoWidth>
-                  <Max>1.7976931348623157E+308</Max>
-                  <Min>-1.7976931348623157E+308</Min>
-                  <Name>Value</Name>
-                  <PlotStyle>Bar</PlotStyle>
-                </Plot>
-              </Plots>
-              <SelectedValueSeries>0</SelectedValueSeries>
-              <InputPlot>0</InputPlot>
-              <IsTradingHoursBreakLineVisible>true</IsTradingHoursBreakLineVisible>
-              <DrawHorizontalGridLines>true</DrawHorizontalGridLines>
-              <DrawVerticalGridLines>true</DrawVerticalGridLines>
-              <DrawOnPricePanel>false</DrawOnPricePanel>
-              <PaintPriceMarkers>true</PaintPriceMarkers>
-              <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-              <IndicatorId>1086</IndicatorId>
-              <MaxSerialized>0</MaxSerialized>
-              <MinSerialized>0</MinSerialized>
-              <ZOrder>-2147483648</ZOrder>
-              <SettingsSerialized>eyJJc1VwQ2xvc2VCYXIiOnRydWUsIklzRG93bkNsb3NlQmFyIjp0cnVlLCJVcENsb3NlVmFsdWUiOjEuMCwiVXBDbG9zZUxpdmVWYWx1ZSI6LTEuMCwiRG93bkNsb3NlVmFsdWUiOi0xLjAsIkRvd25DbG9zZUxpdmVWYWx1ZSI6LTEuMH0=</SettingsSerialized>
-              <UserSettingsSerialized>e30=</UserSettingsSerialized>
-            </ApexOrderPrintsDetector_StarLVSZOI>
-          </Indicator>
-        </Input>
-      </Indicator>
-      <Indicator BarsIndex="0" Instrument="NQ 09-20 Globex" Name="NinjaTrader.NinjaScript.Indicators._The_Indicator_Store.Markers_Copy" Panel="2" DisplayName="tbs(0,tbs,0,True)">
-        <Markers_Copy xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-          <IsVisible>true</IsVisible>
-          <AreLinesConfigurable>true</AreLinesConfigurable>
-          <ArePlotsConfigurable>true</ArePlotsConfigurable>
-          <BarsPeriodSerializable>
-            <BarsPeriodTypeSerialize>5132</BarsPeriodTypeSerialize>
-            <BaseBarsPeriodType>Tick</BaseBarsPeriodType>
-            <BaseBarsPeriodValue>100</BaseBarsPeriodValue>
-            <VolumetricDeltaType>BidAsk</VolumetricDeltaType>
-            <MarketDataType>Last</MarketDataType>
-            <PointAndFigurePriceType>Close</PointAndFigurePriceType>
-            <ReversalType>Tick</ReversalType>
-            <Value>10</Value>
-            <Value2>50</Value2>
-          </BarsPeriodSerializable>
-          <BarsToLoad>0</BarsToLoad>
-          <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2020-08-29T00:00:00</From>
-          <Panel>2</Panel>
-          <ScaleJustification>Right</ScaleJustification>
-          <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2020-09-03T00:00:00</To>
-          <Calculate>OnBarClose</Calculate>
-          <Displacement>0</Displacement>
-          <IsAutoScale>true</IsAutoScale>
-          <IsDataSeriesRequired>true</IsDataSeriesRequired>
-          <IsOverlay>true</IsOverlay>
-          <Lines />
-          <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
-          <Name>tbs</Name>
-          <Plots>
-            <Plot>
-              <IsOpacityVisible>false</IsOpacityVisible>
-              <BrushSerialize>&lt;SolidColorBrush xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;#FF0000FF&lt;/SolidColorBrush&gt;</BrushSerialize>
-              <DashStyleHelper>Solid</DashStyleHelper>
-              <Opacity>100</Opacity>
-              <Width>1</Width>
-              <AutoWidth>false</AutoWidth>
-              <Max>1.7976931348623157E+308</Max>
-              <Min>-1.7976931348623157E+308</Min>
-              <Name>Copy</Name>
-              <PlotStyle>Bar</PlotStyle>
-            </Plot>
-          </Plots>
-          <SelectedValueSeries>0</SelectedValueSeries>
-          <InputPlot>0</InputPlot>
-          <IsTradingHoursBreakLineVisible>true</IsTradingHoursBreakLineVisible>
-          <DrawHorizontalGridLines>true</DrawHorizontalGridLines>
-          <DrawVerticalGridLines>true</DrawVerticalGridLines>
-          <DrawOnPricePanel>true</DrawOnPricePanel>
-          <PaintPriceMarkers>false</PaintPriceMarkers>
-          <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>245</IndicatorId>
-          <InstrumentDeserialized>NQ 09-20 Globex</InstrumentDeserialized>
-          <MaxSerialized>0</MaxSerialized>
-          <MinSerialized>0</MinSerialized>
-          <ZOrder>10027</ZOrder>
-          <System_Version>Markers Line Copy - The Force 2020-08-31</System_Version>
-          <Link_ID>1</Link_ID>
-          <Copy_Offset>0</Copy_Offset>
-          <Show_Line>true</Show_Line>
-          <Aux_Line_Name>tbs</Aux_Line_Name>
-          <Aux_Line_Displacement>0</Aux_Line_Displacement>
-          <Use_As_Fast_Signal>true</Use_As_Fast_Signal>
-        </Markers_Copy>
-        <Input>
-          <ClassName>NinjaTrader.NinjaScript.Indicators.ApexOrderPrintsDetector_ThirdBarSling</ClassName>
-          <Input>
-            <PriceType>Close</PriceType>
-          </Input>
-          <Indicator>
-            <ApexOrderPrintsDetector_ThirdBarSling xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <IsVisible>true</IsVisible>
-              <AreLinesConfigurable>true</AreLinesConfigurable>
-              <ArePlotsConfigurable>true</ArePlotsConfigurable>
-              <BarsPeriodSerializable>
-                <BarsPeriodTypeSerialize>5132</BarsPeriodTypeSerialize>
-                <BaseBarsPeriodType>Tick</BaseBarsPeriodType>
-                <BaseBarsPeriodValue>100</BaseBarsPeriodValue>
-                <VolumetricDeltaType>BidAsk</VolumetricDeltaType>
-                <MarketDataType>Last</MarketDataType>
-                <PointAndFigurePriceType>Close</PointAndFigurePriceType>
-                <ReversalType>Tick</ReversalType>
-                <Value>10</Value>
-                <Value2>50</Value2>
-              </BarsPeriodSerializable>
-              <BarsToLoad>0</BarsToLoad>
-              <DisplayInDataBox>true</DisplayInDataBox>
-              <From>2020-08-29T00:00:00</From>
-              <Panel>0</Panel>
-              <ScaleJustification>Right</ScaleJustification>
-              <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-              <To>2020-09-03T00:00:00</To>
-              <Calculate>OnBarClose</Calculate>
-              <Displacement>0</Displacement>
-              <IsAutoScale>true</IsAutoScale>
-              <IsDataSeriesRequired>true</IsDataSeriesRequired>
-              <IsOverlay>false</IsOverlay>
-              <Lines>
-                <Line>
-                  <IsOpacityVisible>false</IsOpacityVisible>
-                  <BrushSerialize>&lt;SolidColorBrush xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;#FF000000&lt;/SolidColorBrush&gt;</BrushSerialize>
-                  <DashStyleHelper>Solid</DashStyleHelper>
-                  <Opacity>100</Opacity>
-                  <Width>1</Width>
-                  <Name>Zero</Name>
-                  <Value>0</Value>
-                </Line>
-              </Lines>
-              <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
-              <Name>_APEX Order Prints Third Bar Sling Detector</Name>
-              <Plots>
-                <Plot>
-                  <IsOpacityVisible>false</IsOpacityVisible>
-                  <BrushSerialize>&lt;SolidColorBrush xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;#FFFFF5EE&lt;/SolidColorBrush&gt;</BrushSerialize>
-                  <DashStyleHelper>Solid</DashStyleHelper>
-                  <Opacity>100</Opacity>
-                  <Width>4</Width>
-                  <AutoWidth>false</AutoWidth>
-                  <Max>1.7976931348623157E+308</Max>
-                  <Min>-1.7976931348623157E+308</Min>
-                  <Name>Value</Name>
-                  <PlotStyle>Bar</PlotStyle>
-                </Plot>
-              </Plots>
-              <SelectedValueSeries>0</SelectedValueSeries>
-              <InputPlot>0</InputPlot>
-              <IsTradingHoursBreakLineVisible>true</IsTradingHoursBreakLineVisible>
-              <DrawHorizontalGridLines>true</DrawHorizontalGridLines>
-              <DrawVerticalGridLines>true</DrawVerticalGridLines>
-              <DrawOnPricePanel>false</DrawOnPricePanel>
-              <PaintPriceMarkers>true</PaintPriceMarkers>
-              <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-              <IndicatorId>1687</IndicatorId>
-              <MaxSerialized>0</MaxSerialized>
-              <MinSerialized>0</MinSerialized>
-              <ZOrder>-2147483648</ZOrder>
-              <SettingsSerialized>eyJJc1VwQ2xvc2VCYXIiOnRydWUsIklzRG93bkNsb3NlQmFyIjp0cnVlLCJVcENsb3NlVmFsdWUiOjEuMCwiVXBDbG9zZUxpdmVWYWx1ZSI6LTEuMCwiRG93bkNsb3NlVmFsdWUiOi0xLjAsIkRvd25DbG9zZUxpdmVWYWx1ZSI6LTEuMH0=</SettingsSerialized>
-              <UserSettingsSerialized>e30=</UserSettingsSerialized>
-            </ApexOrderPrintsDetector_ThirdBarSling>
-          </Indicator>
-        </Input>
-      </Indicator>
-      <Indicator BarsIndex="0" Instrument="NQ 09-20 Globex" Name="NinjaTrader.NinjaScript.Indicators._The_Indicator_Store.Markers_Copy" Panel="2" DisplayName="elev(0,elev,0,True)">
-        <Markers_Copy xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-          <IsVisible>true</IsVisible>
-          <AreLinesConfigurable>true</AreLinesConfigurable>
-          <ArePlotsConfigurable>true</ArePlotsConfigurable>
-          <BarsPeriodSerializable>
-            <BarsPeriodTypeSerialize>5132</BarsPeriodTypeSerialize>
-            <BaseBarsPeriodType>Tick</BaseBarsPeriodType>
-            <BaseBarsPeriodValue>100</BaseBarsPeriodValue>
-            <VolumetricDeltaType>BidAsk</VolumetricDeltaType>
-            <MarketDataType>Last</MarketDataType>
-            <PointAndFigurePriceType>Close</PointAndFigurePriceType>
-            <ReversalType>Tick</ReversalType>
-            <Value>10</Value>
-            <Value2>50</Value2>
-          </BarsPeriodSerializable>
-          <BarsToLoad>0</BarsToLoad>
-          <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2020-08-29T00:00:00</From>
-          <Panel>2</Panel>
-          <ScaleJustification>Right</ScaleJustification>
-          <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2020-09-03T00:00:00</To>
-          <Calculate>OnBarClose</Calculate>
-          <Displacement>0</Displacement>
-          <IsAutoScale>true</IsAutoScale>
-          <IsDataSeriesRequired>true</IsDataSeriesRequired>
-          <IsOverlay>true</IsOverlay>
-          <Lines />
-          <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
-          <Name>elev</Name>
-          <Plots>
-            <Plot>
-              <IsOpacityVisible>false</IsOpacityVisible>
-              <BrushSerialize>&lt;SolidColorBrush xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;#FF0000FF&lt;/SolidColorBrush&gt;</BrushSerialize>
-              <DashStyleHelper>Solid</DashStyleHelper>
-              <Opacity>100</Opacity>
-              <Width>1</Width>
-              <AutoWidth>false</AutoWidth>
-              <Max>1.7976931348623157E+308</Max>
-              <Min>-1.7976931348623157E+308</Min>
-              <Name>Copy</Name>
-              <PlotStyle>Bar</PlotStyle>
-            </Plot>
-          </Plots>
-          <SelectedValueSeries>0</SelectedValueSeries>
-          <InputPlot>0</InputPlot>
-          <IsTradingHoursBreakLineVisible>true</IsTradingHoursBreakLineVisible>
-          <DrawHorizontalGridLines>true</DrawHorizontalGridLines>
-          <DrawVerticalGridLines>true</DrawVerticalGridLines>
-          <DrawOnPricePanel>true</DrawOnPricePanel>
-          <PaintPriceMarkers>false</PaintPriceMarkers>
-          <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>249</IndicatorId>
-          <InstrumentDeserialized>NQ 09-20 Globex</InstrumentDeserialized>
-          <MaxSerialized>0</MaxSerialized>
-          <MinSerialized>0</MinSerialized>
-          <ZOrder>10026</ZOrder>
-          <System_Version>Markers Line Copy - The Force 2020-08-31</System_Version>
-          <Link_ID>1</Link_ID>
-          <Copy_Offset>0</Copy_Offset>
-          <Show_Line>true</Show_Line>
-          <Aux_Line_Name>elev</Aux_Line_Name>
-          <Aux_Line_Displacement>0</Aux_Line_Displacement>
-          <Use_As_Fast_Signal>true</Use_As_Fast_Signal>
-        </Markers_Copy>
-        <Input>
-          <ClassName>NinjaTrader.NinjaScript.Indicators.ApexOrderPrintsDetector_Elevator</ClassName>
-          <Input>
-            <PriceType>Close</PriceType>
-          </Input>
-          <Indicator>
-            <ApexOrderPrintsDetector_Elevator xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <IsVisible>true</IsVisible>
-              <AreLinesConfigurable>true</AreLinesConfigurable>
-              <ArePlotsConfigurable>true</ArePlotsConfigurable>
-              <BarsPeriodSerializable>
-                <BarsPeriodTypeSerialize>5132</BarsPeriodTypeSerialize>
-                <BaseBarsPeriodType>Tick</BaseBarsPeriodType>
-                <BaseBarsPeriodValue>100</BaseBarsPeriodValue>
-                <VolumetricDeltaType>BidAsk</VolumetricDeltaType>
-                <MarketDataType>Last</MarketDataType>
-                <PointAndFigurePriceType>Close</PointAndFigurePriceType>
-                <ReversalType>Tick</ReversalType>
-                <Value>10</Value>
-                <Value2>50</Value2>
-              </BarsPeriodSerializable>
-              <BarsToLoad>0</BarsToLoad>
-              <DisplayInDataBox>true</DisplayInDataBox>
-              <From>2020-08-29T00:00:00</From>
-              <Panel>0</Panel>
-              <ScaleJustification>Right</ScaleJustification>
-              <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-              <To>2020-09-03T00:00:00</To>
-              <Calculate>OnBarClose</Calculate>
-              <Displacement>0</Displacement>
-              <IsAutoScale>true</IsAutoScale>
-              <IsDataSeriesRequired>true</IsDataSeriesRequired>
-              <IsOverlay>false</IsOverlay>
-              <Lines>
-                <Line>
-                  <IsOpacityVisible>false</IsOpacityVisible>
-                  <BrushSerialize>&lt;SolidColorBrush xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;#FF000000&lt;/SolidColorBrush&gt;</BrushSerialize>
-                  <DashStyleHelper>Solid</DashStyleHelper>
-                  <Opacity>100</Opacity>
-                  <Width>1</Width>
-                  <Name>Zero</Name>
-                  <Value>0</Value>
-                </Line>
-              </Lines>
-              <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
-              <Name>_APEX Order Prints Elevator Detector</Name>
-              <Plots>
-                <Plot>
-                  <IsOpacityVisible>false</IsOpacityVisible>
-                  <BrushSerialize>&lt;SolidColorBrush xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;#FF66CDAA&lt;/SolidColorBrush&gt;</BrushSerialize>
-                  <DashStyleHelper>Solid</DashStyleHelper>
-                  <Opacity>100</Opacity>
-                  <Width>4</Width>
-                  <AutoWidth>false</AutoWidth>
-                  <Max>1.7976931348623157E+308</Max>
-                  <Min>-1.7976931348623157E+308</Min>
-                  <Name>Value</Name>
-                  <PlotStyle>Bar</PlotStyle>
-                </Plot>
-              </Plots>
-              <SelectedValueSeries>0</SelectedValueSeries>
-              <InputPlot>0</InputPlot>
-              <IsTradingHoursBreakLineVisible>true</IsTradingHoursBreakLineVisible>
-              <DrawHorizontalGridLines>true</DrawHorizontalGridLines>
-              <DrawVerticalGridLines>true</DrawVerticalGridLines>
-              <DrawOnPricePanel>false</DrawOnPricePanel>
-              <PaintPriceMarkers>true</PaintPriceMarkers>
-              <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-              <IndicatorId>1477</IndicatorId>
-              <MaxSerialized>0</MaxSerialized>
-              <MinSerialized>0</MinSerialized>
-              <ZOrder>-2147483648</ZOrder>
-              <SettingsSerialized>eyJJc1VwQ2xvc2VCYXIiOnRydWUsIklzRG93bkNsb3NlQmFyIjp0cnVlLCJVcENsb3NlVmFsdWUiOjEuMCwiVXBDbG9zZUxpdmVWYWx1ZSI6LTEuMCwiRG93bkNsb3NlVmFsdWUiOi0xLjAsIkRvd25DbG9zZUxpdmVWYWx1ZSI6LTEuMH0=</SettingsSerialized>
-              <UserSettingsSerialized>e30=</UserSettingsSerialized>
-            </ApexOrderPrintsDetector_Elevator>
-          </Indicator>
-        </Input>
-      </Indicator>
-      <Indicator BarsIndex="0" Instrument="NQ 09-20 Globex" Name="NinjaTrader.NinjaScript.Indicators._The_Indicator_Store.Markers_Copy" Panel="2" DisplayName="tx(0,tx,0,True)">
-        <Markers_Copy xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-          <IsVisible>true</IsVisible>
-          <AreLinesConfigurable>true</AreLinesConfigurable>
-          <ArePlotsConfigurable>true</ArePlotsConfigurable>
-          <BarsPeriodSerializable>
-            <BarsPeriodTypeSerialize>5132</BarsPeriodTypeSerialize>
-            <BaseBarsPeriodType>Tick</BaseBarsPeriodType>
-            <BaseBarsPeriodValue>100</BaseBarsPeriodValue>
-            <VolumetricDeltaType>BidAsk</VolumetricDeltaType>
-            <MarketDataType>Last</MarketDataType>
-            <PointAndFigurePriceType>Close</PointAndFigurePriceType>
-            <ReversalType>Tick</ReversalType>
-            <Value>10</Value>
-            <Value2>50</Value2>
-          </BarsPeriodSerializable>
-          <BarsToLoad>0</BarsToLoad>
-          <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2020-08-29T00:00:00</From>
-          <Panel>2</Panel>
-          <ScaleJustification>Right</ScaleJustification>
-          <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2020-09-03T00:00:00</To>
-          <Calculate>OnBarClose</Calculate>
-          <Displacement>0</Displacement>
-          <IsAutoScale>true</IsAutoScale>
-          <IsDataSeriesRequired>true</IsDataSeriesRequired>
-          <IsOverlay>true</IsOverlay>
-          <Lines />
-          <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
-          <Name>tx</Name>
-          <Plots>
-            <Plot>
-              <IsOpacityVisible>false</IsOpacityVisible>
-              <BrushSerialize>&lt;SolidColorBrush xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;#FF0000FF&lt;/SolidColorBrush&gt;</BrushSerialize>
-              <DashStyleHelper>Solid</DashStyleHelper>
-              <Opacity>100</Opacity>
-              <Width>1</Width>
-              <AutoWidth>false</AutoWidth>
-              <Max>1.7976931348623157E+308</Max>
-              <Min>-1.7976931348623157E+308</Min>
-              <Name>Copy</Name>
-              <PlotStyle>Dot</PlotStyle>
-            </Plot>
-          </Plots>
-          <SelectedValueSeries>0</SelectedValueSeries>
-          <InputPlot>0</InputPlot>
-          <IsTradingHoursBreakLineVisible>true</IsTradingHoursBreakLineVisible>
-          <DrawHorizontalGridLines>true</DrawHorizontalGridLines>
-          <DrawVerticalGridLines>true</DrawVerticalGridLines>
-          <DrawOnPricePanel>true</DrawOnPricePanel>
-          <PaintPriceMarkers>false</PaintPriceMarkers>
-          <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>253</IndicatorId>
-          <InstrumentDeserialized>NQ 09-20 Globex</InstrumentDeserialized>
-          <MaxSerialized>0</MaxSerialized>
-          <MinSerialized>0</MinSerialized>
-          <ZOrder>10028</ZOrder>
-          <System_Version>Markers Line Copy - The Force 2020-08-31</System_Version>
-          <Link_ID>1</Link_ID>
-          <Copy_Offset>0</Copy_Offset>
-          <Show_Line>true</Show_Line>
-          <Aux_Line_Name>tx</Aux_Line_Name>
-          <Aux_Line_Displacement>0</Aux_Line_Displacement>
-          <Use_As_Fast_Signal>true</Use_As_Fast_Signal>
-        </Markers_Copy>
-        <Input>
-          <ClassName>NinjaTrader.NinjaScript.Indicators.ApexOrderPrintsDetector_TrappedOrdersWithExauhstionBox</ClassName>
-          <Input>
-            <PriceType>Close</PriceType>
-          </Input>
-          <Indicator>
-            <ApexOrderPrintsDetector_TrappedOrdersWithExauhstionBox xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <IsVisible>true</IsVisible>
-              <AreLinesConfigurable>true</AreLinesConfigurable>
-              <ArePlotsConfigurable>true</ArePlotsConfigurable>
-              <BarsPeriodSerializable>
-                <BarsPeriodTypeSerialize>5132</BarsPeriodTypeSerialize>
-                <BaseBarsPeriodType>Tick</BaseBarsPeriodType>
-                <BaseBarsPeriodValue>100</BaseBarsPeriodValue>
-                <VolumetricDeltaType>BidAsk</VolumetricDeltaType>
-                <MarketDataType>Last</MarketDataType>
-                <PointAndFigurePriceType>Close</PointAndFigurePriceType>
-                <ReversalType>Tick</ReversalType>
-                <Value>10</Value>
-                <Value2>50</Value2>
-              </BarsPeriodSerializable>
-              <BarsToLoad>0</BarsToLoad>
-              <DisplayInDataBox>true</DisplayInDataBox>
-              <From>2020-08-29T00:00:00</From>
-              <Panel>0</Panel>
-              <ScaleJustification>Right</ScaleJustification>
-              <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-              <To>2020-09-03T00:00:00</To>
-              <Calculate>OnBarClose</Calculate>
-              <Displacement>0</Displacement>
-              <IsAutoScale>true</IsAutoScale>
-              <IsDataSeriesRequired>true</IsDataSeriesRequired>
-              <IsOverlay>false</IsOverlay>
-              <Lines>
-                <Line>
-                  <IsOpacityVisible>false</IsOpacityVisible>
-                  <BrushSerialize>&lt;SolidColorBrush xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;#FF000000&lt;/SolidColorBrush&gt;</BrushSerialize>
-                  <DashStyleHelper>Solid</DashStyleHelper>
-                  <Opacity>100</Opacity>
-                  <Width>1</Width>
-                  <Name>Zero</Name>
-                  <Value>0</Value>
-                </Line>
-              </Lines>
-              <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
-              <Name>_APEX Order Prints Trapped Orders with Exhaustion Box Detector</Name>
-              <Plots>
-                <Plot>
-                  <IsOpacityVisible>false</IsOpacityVisible>
-                  <BrushSerialize>&lt;SolidColorBrush xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;#FFFF1493&lt;/SolidColorBrush&gt;</BrushSerialize>
-                  <DashStyleHelper>Solid</DashStyleHelper>
-                  <Opacity>100</Opacity>
-                  <Width>4</Width>
-                  <AutoWidth>false</AutoWidth>
-                  <Max>1.7976931348623157E+308</Max>
-                  <Min>-1.7976931348623157E+308</Min>
-                  <Name>Value</Name>
-                  <PlotStyle>Bar</PlotStyle>
-                </Plot>
-              </Plots>
-              <SelectedValueSeries>0</SelectedValueSeries>
-              <InputPlot>0</InputPlot>
-              <IsTradingHoursBreakLineVisible>true</IsTradingHoursBreakLineVisible>
-              <DrawHorizontalGridLines>true</DrawHorizontalGridLines>
-              <DrawVerticalGridLines>true</DrawVerticalGridLines>
-              <DrawOnPricePanel>false</DrawOnPricePanel>
-              <PaintPriceMarkers>true</PaintPriceMarkers>
-              <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-              <IndicatorId>1711</IndicatorId>
-              <MaxSerialized>0</MaxSerialized>
-              <MinSerialized>0</MinSerialized>
-              <ZOrder>-2147483648</ZOrder>
-              <SettingsSerialized>eyJJc1VwQ2xvc2VCYXIiOnRydWUsIklzRG93bkNsb3NlQmFyIjp0cnVlLCJVcENsb3NlVmFsdWUiOjEuMCwiVXBDbG9zZUxpdmVWYWx1ZSI6LTEuMCwiRG93bkNsb3NlVmFsdWUiOi0xLjAsIkRvd25DbG9zZUxpdmVWYWx1ZSI6LTEuMH0=</SettingsSerialized>
-              <UserSettingsSerialized>e30=</UserSettingsSerialized>
-              <TrappedOrdersRequireReversalBar>true</TrappedOrdersRequireReversalBar>
-              <TrappedOrdersRequireDRConfirmation>false</TrappedOrdersRequireDRConfirmation>
-              <TrappedOrdersDeviationReversalStrength>22</TrappedOrdersDeviationReversalStrength>
-              <TrappedOrdersDeviationReversalNumBars>2</TrappedOrdersDeviationReversalNumBars>
-              <TrappedOrdersExcludeChop>false</TrappedOrdersExcludeChop>
-              <TrappedOrdersExcludeDoubleClusters>false</TrappedOrdersExcludeDoubleClusters>
-            </ApexOrderPrintsDetector_TrappedOrdersWithExauhstionBox>
-          </Indicator>
         </Input>
       </Indicator>
       <Indicator BarsIndex="0" Instrument="NQ 09-20 Globex" Name="NinjaTrader.NinjaScript.Indicators._The_Indicator_Store.Markers_Copy" Panel="2" DisplayName="dtx(0,dtx,0,True)">
@@ -736,11 +154,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2020-08-29T00:00:00</From>
+          <From>2020-09-07T00:00:00</From>
           <Panel>2</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2020-09-03T00:00:00</To>
+          <To>2020-09-10T00:00:00</To>
           <Calculate>OnBarClose</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -771,7 +189,7 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>257</IndicatorId>
+          <IndicatorId>21</IndicatorId>
           <InstrumentDeserialized>NQ 09-20 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -807,11 +225,11 @@
               </BarsPeriodSerializable>
               <BarsToLoad>0</BarsToLoad>
               <DisplayInDataBox>true</DisplayInDataBox>
-              <From>2020-08-29T00:00:00</From>
+              <From>2020-09-07T00:00:00</From>
               <Panel>0</Panel>
               <ScaleJustification>Right</ScaleJustification>
               <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-              <To>2020-09-03T00:00:00</To>
+              <To>2020-09-10T00:00:00</To>
               <Calculate>OnBarClose</Calculate>
               <Displacement>0</Displacement>
               <IsAutoScale>true</IsAutoScale>
@@ -858,7 +276,7 @@
               <ZOrder>-2147483648</ZOrder>
               <SettingsSerialized>eyJJc1VwQ2xvc2VCYXIiOnRydWUsIklzRG93bkNsb3NlQmFyIjp0cnVlLCJVcENsb3NlVmFsdWUiOjEuMCwiVXBDbG9zZUxpdmVWYWx1ZSI6LTEuMCwiRG93bkNsb3NlVmFsdWUiOi0xLjAsIkRvd25DbG9zZUxpdmVWYWx1ZSI6LTEuMH0=</SettingsSerialized>
               <UserSettingsSerialized>e30=</UserSettingsSerialized>
-              <TrappedOrdersRequireDRConfirmation>false</TrappedOrdersRequireDRConfirmation>
+              <TrappedOrdersRequireDRConfirmation>true</TrappedOrdersRequireDRConfirmation>
               <TrappedOrdersDeviationReversalStrength>22</TrappedOrdersDeviationReversalStrength>
               <TrappedOrdersDeviationReversalNumBars>2</TrappedOrdersDeviationReversalNumBars>
             </ApexOrderPrintsDetector_DoubleTX>
@@ -883,11 +301,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2020-08-29T00:00:00</From>
+          <From>2020-09-07T00:00:00</From>
           <Panel>2</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2020-09-03T00:00:00</To>
+          <To>2020-09-10T00:00:00</To>
           <Calculate>OnBarClose</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -918,7 +336,7 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>261</IndicatorId>
+          <IndicatorId>25</IndicatorId>
           <InstrumentDeserialized>NQ 09-20 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -954,11 +372,11 @@
               </BarsPeriodSerializable>
               <BarsToLoad>0</BarsToLoad>
               <DisplayInDataBox>true</DisplayInDataBox>
-              <From>2020-08-29T00:00:00</From>
+              <From>2020-09-07T00:00:00</From>
               <Panel>0</Panel>
               <ScaleJustification>Right</ScaleJustification>
               <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-              <To>2020-09-03T00:00:00</To>
+              <To>2020-09-10T00:00:00</To>
               <Calculate>OnBarClose</Calculate>
               <Displacement>0</Displacement>
               <IsAutoScale>true</IsAutoScale>
@@ -1033,11 +451,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2020-08-29T00:00:00</From>
+          <From>2020-09-07T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2020-09-03T00:00:00</To>
+          <To>2020-09-10T00:00:00</To>
           <Calculate>OnBarClose</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -1055,1237 +473,7 @@
           <DrawOnPricePanel>false</DrawOnPricePanel>
           <PaintPriceMarkers>true</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>265</IndicatorId>
-          <InstrumentDeserialized>NQ 09-20 Globex</InstrumentDeserialized>
-          <MaxSerialized>0</MaxSerialized>
-          <MinSerialized>0</MinSerialized>
-          <ZOrder>10015</ZOrder>
-          <SettingsSerialized>e30=</SettingsSerialized>
-          <UserSettingsSerialized>eyJVcENsb3NlU3ltYm9sIjo0LCJVcENsb3NlU2l6ZSI6MjYsIlVwU3RhcnRQb3NpdGlvbiI6MiwiVXBDbG9zZVZlcnRpY2xlT2Zmc2V0Ijo4NCwiVXBDbG9zZUhvcml6b250YWxPZmZzZXQiOjAsIkRvd25DbG9zZVN5bWJvbCI6NCwiRG93blN0YXJ0UG9zaXRpb24iOjEsIkRvd25DbG9zZVNpemUiOjI2LCJEb3duQ2xvc2VWZXJ0aWNsZU9mZnNldCI6ODQsIkRvd25DbG9zZUhvcml6b250YWxPZmZzZXQiOjAsIlVwQ2xvc2VDb2xvciI6IiNGRjdDRkMwMCIsIkRvd25DbG9zZUNvbG9yIjoiI0ZGQ0Q1QzVDIn0=</UserSettingsSerialized>
-        </ApexChartMarkers>
-        <Input>
-          <ClassName>NinjaTrader.NinjaScript.Indicators.ApexOrderPrintsDetector_StarLVSZOI</ClassName>
-          <Input>
-            <PriceType>Close</PriceType>
-          </Input>
-          <Indicator>
-            <ApexOrderPrintsDetector_StarLVSZOI xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <IsVisible>true</IsVisible>
-              <AreLinesConfigurable>true</AreLinesConfigurable>
-              <ArePlotsConfigurable>true</ArePlotsConfigurable>
-              <BarsPeriodSerializable>
-                <BarsPeriodTypeSerialize>5132</BarsPeriodTypeSerialize>
-                <BaseBarsPeriodType>Tick</BaseBarsPeriodType>
-                <BaseBarsPeriodValue>100</BaseBarsPeriodValue>
-                <VolumetricDeltaType>BidAsk</VolumetricDeltaType>
-                <MarketDataType>Last</MarketDataType>
-                <PointAndFigurePriceType>Close</PointAndFigurePriceType>
-                <ReversalType>Tick</ReversalType>
-                <Value>10</Value>
-                <Value2>50</Value2>
-              </BarsPeriodSerializable>
-              <BarsToLoad>0</BarsToLoad>
-              <DisplayInDataBox>true</DisplayInDataBox>
-              <From>2020-08-29T00:00:00</From>
-              <Panel>0</Panel>
-              <ScaleJustification>Right</ScaleJustification>
-              <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-              <To>2020-09-03T00:00:00</To>
-              <Calculate>OnBarClose</Calculate>
-              <Displacement>0</Displacement>
-              <IsAutoScale>true</IsAutoScale>
-              <IsDataSeriesRequired>true</IsDataSeriesRequired>
-              <IsOverlay>false</IsOverlay>
-              <Lines>
-                <Line>
-                  <IsOpacityVisible>false</IsOpacityVisible>
-                  <BrushSerialize>&lt;SolidColorBrush xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;#FF000000&lt;/SolidColorBrush&gt;</BrushSerialize>
-                  <DashStyleHelper>Solid</DashStyleHelper>
-                  <Opacity>100</Opacity>
-                  <Width>1</Width>
-                  <Name>Zero</Name>
-                  <Value>0</Value>
-                </Line>
-              </Lines>
-              <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
-              <Name>_APEX Order Prints Star LVS ZOI Detector</Name>
-              <Plots>
-                <Plot>
-                  <IsOpacityVisible>false</IsOpacityVisible>
-                  <BrushSerialize>&lt;SolidColorBrush xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;#FF1E90FF&lt;/SolidColorBrush&gt;</BrushSerialize>
-                  <DashStyleHelper>Solid</DashStyleHelper>
-                  <Opacity>100</Opacity>
-                  <Width>4</Width>
-                  <AutoWidth>false</AutoWidth>
-                  <Max>1.7976931348623157E+308</Max>
-                  <Min>-1.7976931348623157E+308</Min>
-                  <Name>Value</Name>
-                  <PlotStyle>Bar</PlotStyle>
-                </Plot>
-              </Plots>
-              <SelectedValueSeries>0</SelectedValueSeries>
-              <InputPlot>0</InputPlot>
-              <IsTradingHoursBreakLineVisible>true</IsTradingHoursBreakLineVisible>
-              <DrawHorizontalGridLines>true</DrawHorizontalGridLines>
-              <DrawVerticalGridLines>true</DrawVerticalGridLines>
-              <DrawOnPricePanel>false</DrawOnPricePanel>
-              <PaintPriceMarkers>true</PaintPriceMarkers>
-              <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-              <IndicatorId>1314</IndicatorId>
-              <MaxSerialized>0</MaxSerialized>
-              <MinSerialized>0</MinSerialized>
-              <ZOrder>-2147483648</ZOrder>
-              <SettingsSerialized>eyJJc1VwQ2xvc2VCYXIiOnRydWUsIklzRG93bkNsb3NlQmFyIjp0cnVlLCJVcENsb3NlVmFsdWUiOjEuMCwiVXBDbG9zZUxpdmVWYWx1ZSI6LTEuMCwiRG93bkNsb3NlVmFsdWUiOjEuMCwiRG93bkNsb3NlTGl2ZVZhbHVlIjotMS4wfQ==</SettingsSerialized>
-              <UserSettingsSerialized>e30=</UserSettingsSerialized>
-            </ApexOrderPrintsDetector_StarLVSZOI>
-          </Indicator>
-        </Input>
-      </Indicator>
-      <Indicator BarsIndex="0" Instrument="NQ 09-20 Globex" Name="NinjaTrader.NinjaScript.Indicators._The_Indicator_Store.Markers_Plus_The_Force" Panel="-1" DisplayName="Apex Sniper SLZ  [Dot]                                  ">
-        <Markers_Plus_The_Force xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-          <IsVisible>true</IsVisible>
-          <AreLinesConfigurable>true</AreLinesConfigurable>
-          <ArePlotsConfigurable>true</ArePlotsConfigurable>
-          <BarsPeriodSerializable>
-            <BarsPeriodTypeSerialize>5132</BarsPeriodTypeSerialize>
-            <BaseBarsPeriodType>Tick</BaseBarsPeriodType>
-            <BaseBarsPeriodValue>100</BaseBarsPeriodValue>
-            <VolumetricDeltaType>BidAsk</VolumetricDeltaType>
-            <MarketDataType>Last</MarketDataType>
-            <PointAndFigurePriceType>Close</PointAndFigurePriceType>
-            <ReversalType>Tick</ReversalType>
-            <Value>10</Value>
-            <Value2>50</Value2>
-          </BarsPeriodSerializable>
-          <BarsToLoad>0</BarsToLoad>
-          <DisplayInDataBox>false</DisplayInDataBox>
-          <From>2020-08-29T00:00:00</From>
-          <Panel>-1</Panel>
-          <ScaleJustification>Right</ScaleJustification>
-          <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2020-09-03T00:00:00</To>
-          <Calculate>OnEachTick</Calculate>
-          <Displacement>0</Displacement>
-          <IsAutoScale>true</IsAutoScale>
-          <IsDataSeriesRequired>true</IsDataSeriesRequired>
-          <IsOverlay>true</IsOverlay>
-          <Lines />
-          <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
-          <Name>Apex Sniper SLZ  [Dot]                                  </Name>
-          <Plots>
-            <Plot>
-              <IsOpacityVisible>false</IsOpacityVisible>
-              <BrushSerialize>&lt;SolidColorBrush xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;#FF808080&lt;/SolidColorBrush&gt;</BrushSerialize>
-              <DashStyleHelper>Solid</DashStyleHelper>
-              <Opacity>100</Opacity>
-              <Width>2</Width>
-              <AutoWidth>false</AutoWidth>
-              <Max>1.7976931348623157E+308</Max>
-              <Min>-1.7976931348623157E+308</Min>
-              <Name>PnL</Name>
-              <PlotStyle>Bar</PlotStyle>
-            </Plot>
-          </Plots>
-          <SelectedValueSeries>0</SelectedValueSeries>
-          <InputPlot>0</InputPlot>
-          <IsTradingHoursBreakLineVisible>true</IsTradingHoursBreakLineVisible>
-          <DrawHorizontalGridLines>true</DrawHorizontalGridLines>
-          <DrawVerticalGridLines>true</DrawVerticalGridLines>
-          <DrawOnPricePanel>true</DrawOnPricePanel>
-          <PaintPriceMarkers>false</PaintPriceMarkers>
-          <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>268</IndicatorId>
-          <InstrumentDeserialized>NQ 09-20 Globex</InstrumentDeserialized>
-          <MaxSerialized>0</MaxSerialized>
-          <MinSerialized>0</MinSerialized>
-          <ZOrder>500</ZOrder>
-          <nfiusa>
-            <CurrencyDecimalDigits>2</CurrencyDecimalDigits>
-            <CurrencyDecimalSeparator>.</CurrencyDecimalSeparator>
-            <CurrencyGroupSizes>
-              <int>3</int>
-            </CurrencyGroupSizes>
-            <NumberGroupSizes>
-              <int>3</int>
-            </NumberGroupSizes>
-            <PercentGroupSizes>
-              <int>3</int>
-            </PercentGroupSizes>
-            <CurrencyGroupSeparator>,</CurrencyGroupSeparator>
-            <CurrencySymbol>$</CurrencySymbol>
-            <NaNSymbol>NaN</NaNSymbol>
-            <CurrencyNegativePattern>0</CurrencyNegativePattern>
-            <NumberNegativePattern>1</NumberNegativePattern>
-            <PercentPositivePattern>1</PercentPositivePattern>
-            <PercentNegativePattern>1</PercentNegativePattern>
-            <NegativeInfinitySymbol>-???</NegativeInfinitySymbol>
-            <NegativeSign>-</NegativeSign>
-            <NumberDecimalDigits>2</NumberDecimalDigits>
-            <NumberDecimalSeparator>.</NumberDecimalSeparator>
-            <NumberGroupSeparator>,</NumberGroupSeparator>
-            <CurrencyPositivePattern>0</CurrencyPositivePattern>
-            <PositiveInfinitySymbol>???</PositiveInfinitySymbol>
-            <PositiveSign>+</PositiveSign>
-            <PercentDecimalDigits>2</PercentDecimalDigits>
-            <PercentDecimalSeparator>.</PercentDecimalSeparator>
-            <PercentGroupSeparator>,</PercentGroupSeparator>
-            <PercentSymbol>%</PercentSymbol>
-            <PerMilleSymbol>???</PerMilleSymbol>
-            <NativeDigits>
-              <string>0</string>
-              <string>1</string>
-              <string>2</string>
-              <string>3</string>
-              <string>4</string>
-              <string>5</string>
-              <string>6</string>
-              <string>7</string>
-              <string>8</string>
-              <string>9</string>
-            </NativeDigits>
-            <DigitSubstitution>None</DigitSubstitution>
-          </nfiusa>
-          <System_Version>Markers Plus - 2020-08-31</System_Version>
-          <Link_ID>1</Link_ID>
-          <MM_Reset_the_PnL>false</MM_Reset_the_PnL>
-          <Cuenta_Seleccionada>Sim101</Cuenta_Seleccionada>
-          <Modo_Menu>OFF</Modo_Menu>
-          <ATM_Name>Select  ATM</ATM_Name>
-          <Trade_Size>1</Trade_Size>
-          <Time_In_Force>Gtc</Time_In_Force>
-          <Enable_Longs>false</Enable_Longs>
-          <Enable_Shorts>false</Enable_Shorts>
-          <Fast_Signals>true</Fast_Signals>
-          <Fast_Long>slz</Fast_Long>
-          <Fast_Short>slz</Fast_Short>
-          <Fast_Long_Exit>exitlong</Fast_Long_Exit>
-          <Fast_Short_Exit>exitshort</Fast_Short_Exit>
-          <Long_Object>ArrowUp</Long_Object>
-          <Short_Object>ArrowDown</Short_Object>
-          <buySignalColor_Serialize>&lt;SolidColorBrush xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;#FF0000FF&lt;/SolidColorBrush&gt;</buySignalColor_Serialize>
-          <sellSignalColor_Serialize>&lt;SolidColorBrush xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;#FFFF0000&lt;/SolidColorBrush&gt;</sellSignalColor_Serialize>
-          <Text_Contains_Up>text of your long signal</Text_Contains_Up>
-          <Text_Contains_Dn>text of your short signal</Text_Contains_Dn>
-          <Text_Match_Up>Contains</Text_Match_Up>
-          <Text_Match_Dn>Contains</Text_Match_Dn>
-          <Long_Objectx>Dot</Long_Objectx>
-          <Short_Objectx>Dot</Short_Objectx>
-          <buySignalColorx_Serialize>&lt;SolidColorBrush xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;#FFFFFF00&lt;/SolidColorBrush&gt;</buySignalColorx_Serialize>
-          <sellSignalColorx_Serialize>&lt;SolidColorBrush xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;#FFFFFF00&lt;/SolidColorBrush&gt;</sellSignalColorx_Serialize>
-          <Enable_Exits>false</Enable_Exits>
-          <Text_Contains_Upx>text of your exit long signal</Text_Contains_Upx>
-          <Text_Contains_Dnx>text of your exit short signal</Text_Contains_Dnx>
-          <Text_Match_Upx>Contains</Text_Match_Upx>
-          <Text_Match_Dnx>Contains</Text_Match_Dnx>
-          <Show_PnL>true</Show_PnL>
-          <MM_Max_Daily_Profit>9999</MM_Max_Daily_Profit>
-          <MM_Max_Daily_Loss>-9999</MM_Max_Daily_Loss>
-          <MM_Session_Reset>true</MM_Session_Reset>
-          <MM_Plot_the_PnL>false</MM_Plot_the_PnL>
-          <Time_Windows>0</Time_Windows>
-          <W1_Time_Begin>0</W1_Time_Begin>
-          <W1_Time_Stop>235959</W1_Time_Stop>
-          <W2_Time_Begin>120000</W2_Time_Begin>
-          <W2_Time_Stop>123000</W2_Time_Stop>
-          <W3_Time_Begin>140000</W3_Time_Begin>
-          <W3_Time_Stop>144500</W3_Time_Stop>
-          <Show_Trigger_Info>false</Show_Trigger_Info>
-          <Lag_Max_Bars>3</Lag_Max_Bars>
-          <One_Trade_x_Bar>true</One_Trade_x_Bar>
-          <Enable_Reversal>false</Enable_Reversal>
-          <Trades_per_Side>0</Trades_per_Side>
-          <Show_Title>false</Show_Title>
-          <Show_PnL_Settings>false</Show_PnL_Settings>
-          <Filter_Enable>false</Filter_Enable>
-          <Entry_L_Type>High</Entry_L_Type>
-          <Entry_L_Mode>Limit</Entry_L_Mode>
-          <Entry_S_Type>Low</Entry_S_Type>
-          <Entry_S_Mode>Limit</Entry_S_Mode>
-          <Entry_Offset>-2</Entry_Offset>
-          <Entry_Bars_Life>2</Entry_Bars_Life>
-          <Ref_Bars_Back>2</Ref_Bars_Back>
-          <Lista_filtro_compras_Serialize />
-          <Lista_filtro_ventas_Serialize />
-          <Sustain_Bars>0</Sustain_Bars>
-          <Panel_Opacity>0.2</Panel_Opacity>
-          <areaBrush_Serialize>&lt;SolidColorBrush xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;#FFD3D3D3&lt;/SolidColorBrush&gt;</areaBrush_Serialize>
-          <textBrush_Serialize>&lt;SolidColorBrush xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;#FF00008B&lt;/SolidColorBrush&gt;</textBrush_Serialize>
-          <textGreenBrush_Serialize>&lt;SolidColorBrush xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;#FF008000&lt;/SolidColorBrush&gt;</textGreenBrush_Serialize>
-          <textRedBrush_Serialize>&lt;SolidColorBrush xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;#FFFF0000&lt;/SolidColorBrush&gt;</textRedBrush_Serialize>
-          <titleBrush_Serialize>&lt;SolidColorBrush xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;#FF0000FF&lt;/SolidColorBrush&gt;</titleBrush_Serialize>
-          <Alert_Enable>false</Alert_Enable>
-          <Alert_File_U>C:\Program Files (x86)\NinjaTrader 8\sounds\alert2.wav</Alert_File_U>
-          <Alert_File_D>C:\Program Files (x86)\NinjaTrader 8\sounds\alert2.wav</Alert_File_D>
-        </Markers_Plus_The_Force>
-        <Input>
-          <PriceType>Close</PriceType>
-        </Input>
-      </Indicator>
-      <Indicator BarsIndex="0" Instrument="NQ 09-20 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexChartMarkers" Panel="-1" DisplayName="_APEX Chart Markers">
-        <ApexChartMarkers xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-          <IsVisible>true</IsVisible>
-          <AreLinesConfigurable>true</AreLinesConfigurable>
-          <ArePlotsConfigurable>true</ArePlotsConfigurable>
-          <BarsPeriodSerializable>
-            <BarsPeriodTypeSerialize>5132</BarsPeriodTypeSerialize>
-            <BaseBarsPeriodType>Tick</BaseBarsPeriodType>
-            <BaseBarsPeriodValue>100</BaseBarsPeriodValue>
-            <VolumetricDeltaType>BidAsk</VolumetricDeltaType>
-            <MarketDataType>Last</MarketDataType>
-            <PointAndFigurePriceType>Close</PointAndFigurePriceType>
-            <ReversalType>Tick</ReversalType>
-            <Value>10</Value>
-            <Value2>50</Value2>
-          </BarsPeriodSerializable>
-          <BarsToLoad>0</BarsToLoad>
-          <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2020-08-29T00:00:00</From>
-          <Panel>-1</Panel>
-          <ScaleJustification>Right</ScaleJustification>
-          <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2020-09-03T00:00:00</To>
-          <Calculate>OnBarClose</Calculate>
-          <Displacement>0</Displacement>
-          <IsAutoScale>true</IsAutoScale>
-          <IsDataSeriesRequired>true</IsDataSeriesRequired>
-          <IsOverlay>true</IsOverlay>
-          <Lines />
-          <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
-          <Name>_APEX Chart Markers</Name>
-          <Plots />
-          <SelectedValueSeries>0</SelectedValueSeries>
-          <InputPlot>0</InputPlot>
-          <IsTradingHoursBreakLineVisible>true</IsTradingHoursBreakLineVisible>
-          <DrawHorizontalGridLines>true</DrawHorizontalGridLines>
-          <DrawVerticalGridLines>true</DrawVerticalGridLines>
-          <DrawOnPricePanel>false</DrawOnPricePanel>
-          <PaintPriceMarkers>true</PaintPriceMarkers>
-          <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>272</IndicatorId>
-          <InstrumentDeserialized>NQ 09-20 Globex</InstrumentDeserialized>
-          <MaxSerialized>0</MaxSerialized>
-          <MinSerialized>0</MinSerialized>
-          <ZOrder>10019</ZOrder>
-          <SettingsSerialized>e30=</SettingsSerialized>
-          <UserSettingsSerialized>eyJVcENsb3NlU3ltYm9sIjo3LCJVcENsb3NlU2l6ZSI6MzgsIlVwU3RhcnRQb3NpdGlvbiI6MiwiVXBDbG9zZVZlcnRpY2xlT2Zmc2V0IjoxNSwiVXBDbG9zZUhvcml6b250YWxPZmZzZXQiOjAsIkRvd25DbG9zZVN5bWJvbCI6NywiRG93blN0YXJ0UG9zaXRpb24iOjEsIkRvd25DbG9zZVNpemUiOjM4LCJEb3duQ2xvc2VWZXJ0aWNsZU9mZnNldCI6MTUsIkRvd25DbG9zZUhvcml6b250YWxPZmZzZXQiOjAsIlVwQ2xvc2VDb2xvciI6IiNGRjAwRkYwMCIsIkRvd25DbG9zZUNvbG9yIjoiI0ZGRkY3RjUwIn0=</UserSettingsSerialized>
-        </ApexChartMarkers>
-        <Input>
-          <ClassName>NinjaTrader.NinjaScript.Indicators.ApexOrderPrintsDetector_ThirdBarSling</ClassName>
-          <Input>
-            <PriceType>Close</PriceType>
-          </Input>
-          <Indicator>
-            <ApexOrderPrintsDetector_ThirdBarSling xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <IsVisible>true</IsVisible>
-              <AreLinesConfigurable>true</AreLinesConfigurable>
-              <ArePlotsConfigurable>true</ArePlotsConfigurable>
-              <BarsPeriodSerializable>
-                <BarsPeriodTypeSerialize>5132</BarsPeriodTypeSerialize>
-                <BaseBarsPeriodType>Tick</BaseBarsPeriodType>
-                <BaseBarsPeriodValue>100</BaseBarsPeriodValue>
-                <VolumetricDeltaType>BidAsk</VolumetricDeltaType>
-                <MarketDataType>Last</MarketDataType>
-                <PointAndFigurePriceType>Close</PointAndFigurePriceType>
-                <ReversalType>Tick</ReversalType>
-                <Value>10</Value>
-                <Value2>50</Value2>
-              </BarsPeriodSerializable>
-              <BarsToLoad>0</BarsToLoad>
-              <DisplayInDataBox>true</DisplayInDataBox>
-              <From>2020-08-29T00:00:00</From>
-              <Panel>0</Panel>
-              <ScaleJustification>Right</ScaleJustification>
-              <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-              <To>2020-09-03T00:00:00</To>
-              <Calculate>OnBarClose</Calculate>
-              <Displacement>0</Displacement>
-              <IsAutoScale>true</IsAutoScale>
-              <IsDataSeriesRequired>true</IsDataSeriesRequired>
-              <IsOverlay>false</IsOverlay>
-              <Lines>
-                <Line>
-                  <IsOpacityVisible>false</IsOpacityVisible>
-                  <BrushSerialize>&lt;SolidColorBrush xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;#FF000000&lt;/SolidColorBrush&gt;</BrushSerialize>
-                  <DashStyleHelper>Solid</DashStyleHelper>
-                  <Opacity>100</Opacity>
-                  <Width>1</Width>
-                  <Name>Zero</Name>
-                  <Value>0</Value>
-                </Line>
-              </Lines>
-              <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
-              <Name>_APEX Order Prints Third Bar Sling Detector</Name>
-              <Plots>
-                <Plot>
-                  <IsOpacityVisible>false</IsOpacityVisible>
-                  <BrushSerialize>&lt;SolidColorBrush xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;#FF800080&lt;/SolidColorBrush&gt;</BrushSerialize>
-                  <DashStyleHelper>Solid</DashStyleHelper>
-                  <Opacity>100</Opacity>
-                  <Width>4</Width>
-                  <AutoWidth>false</AutoWidth>
-                  <Max>1.7976931348623157E+308</Max>
-                  <Min>-1.7976931348623157E+308</Min>
-                  <Name>Value</Name>
-                  <PlotStyle>Bar</PlotStyle>
-                </Plot>
-              </Plots>
-              <SelectedValueSeries>0</SelectedValueSeries>
-              <InputPlot>0</InputPlot>
-              <IsTradingHoursBreakLineVisible>true</IsTradingHoursBreakLineVisible>
-              <DrawHorizontalGridLines>true</DrawHorizontalGridLines>
-              <DrawVerticalGridLines>true</DrawVerticalGridLines>
-              <DrawOnPricePanel>false</DrawOnPricePanel>
-              <PaintPriceMarkers>true</PaintPriceMarkers>
-              <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-              <IndicatorId>2294</IndicatorId>
-              <MaxSerialized>0</MaxSerialized>
-              <MinSerialized>0</MinSerialized>
-              <ZOrder>-2147483648</ZOrder>
-              <SettingsSerialized>eyJJc1VwQ2xvc2VCYXIiOnRydWUsIklzRG93bkNsb3NlQmFyIjp0cnVlLCJVcENsb3NlVmFsdWUiOjEuMCwiVXBDbG9zZUxpdmVWYWx1ZSI6LTEuMCwiRG93bkNsb3NlVmFsdWUiOjEuMCwiRG93bkNsb3NlTGl2ZVZhbHVlIjotMS4wfQ==</SettingsSerialized>
-              <UserSettingsSerialized>e30=</UserSettingsSerialized>
-            </ApexOrderPrintsDetector_ThirdBarSling>
-          </Indicator>
-        </Input>
-      </Indicator>
-      <Indicator BarsIndex="0" Instrument="NQ 09-20 Globex" Name="NinjaTrader.NinjaScript.Indicators._The_Indicator_Store.Markers_Plus_The_Force" Panel="-1" DisplayName="Apex Sniper TBS  [Triangle Down]               ">
-        <Markers_Plus_The_Force xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-          <IsVisible>true</IsVisible>
-          <AreLinesConfigurable>true</AreLinesConfigurable>
-          <ArePlotsConfigurable>true</ArePlotsConfigurable>
-          <BarsPeriodSerializable>
-            <BarsPeriodTypeSerialize>5132</BarsPeriodTypeSerialize>
-            <BaseBarsPeriodType>Tick</BaseBarsPeriodType>
-            <BaseBarsPeriodValue>100</BaseBarsPeriodValue>
-            <VolumetricDeltaType>BidAsk</VolumetricDeltaType>
-            <MarketDataType>Last</MarketDataType>
-            <PointAndFigurePriceType>Close</PointAndFigurePriceType>
-            <ReversalType>Tick</ReversalType>
-            <Value>10</Value>
-            <Value2>50</Value2>
-          </BarsPeriodSerializable>
-          <BarsToLoad>0</BarsToLoad>
-          <DisplayInDataBox>false</DisplayInDataBox>
-          <From>2020-08-29T00:00:00</From>
-          <Panel>-1</Panel>
-          <ScaleJustification>Right</ScaleJustification>
-          <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2020-09-03T00:00:00</To>
-          <Calculate>OnEachTick</Calculate>
-          <Displacement>0</Displacement>
-          <IsAutoScale>true</IsAutoScale>
-          <IsDataSeriesRequired>true</IsDataSeriesRequired>
-          <IsOverlay>true</IsOverlay>
-          <Lines />
-          <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
-          <Name>Apex Sniper TBS  [Triangle Down]               </Name>
-          <Plots>
-            <Plot>
-              <IsOpacityVisible>false</IsOpacityVisible>
-              <BrushSerialize>&lt;SolidColorBrush xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;#FF808080&lt;/SolidColorBrush&gt;</BrushSerialize>
-              <DashStyleHelper>Solid</DashStyleHelper>
-              <Opacity>100</Opacity>
-              <Width>2</Width>
-              <AutoWidth>false</AutoWidth>
-              <Max>1.7976931348623157E+308</Max>
-              <Min>-1.7976931348623157E+308</Min>
-              <Name>PnL</Name>
-              <PlotStyle>Bar</PlotStyle>
-            </Plot>
-          </Plots>
-          <SelectedValueSeries>0</SelectedValueSeries>
-          <InputPlot>0</InputPlot>
-          <IsTradingHoursBreakLineVisible>true</IsTradingHoursBreakLineVisible>
-          <DrawHorizontalGridLines>true</DrawHorizontalGridLines>
-          <DrawVerticalGridLines>true</DrawVerticalGridLines>
-          <DrawOnPricePanel>true</DrawOnPricePanel>
-          <PaintPriceMarkers>false</PaintPriceMarkers>
-          <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>275</IndicatorId>
-          <InstrumentDeserialized>NQ 09-20 Globex</InstrumentDeserialized>
-          <MaxSerialized>0</MaxSerialized>
-          <MinSerialized>0</MinSerialized>
-          <ZOrder>500</ZOrder>
-          <nfiusa>
-            <CurrencyDecimalDigits>2</CurrencyDecimalDigits>
-            <CurrencyDecimalSeparator>.</CurrencyDecimalSeparator>
-            <CurrencyGroupSizes>
-              <int>3</int>
-            </CurrencyGroupSizes>
-            <NumberGroupSizes>
-              <int>3</int>
-            </NumberGroupSizes>
-            <PercentGroupSizes>
-              <int>3</int>
-            </PercentGroupSizes>
-            <CurrencyGroupSeparator>,</CurrencyGroupSeparator>
-            <CurrencySymbol>$</CurrencySymbol>
-            <NaNSymbol>NaN</NaNSymbol>
-            <CurrencyNegativePattern>0</CurrencyNegativePattern>
-            <NumberNegativePattern>1</NumberNegativePattern>
-            <PercentPositivePattern>1</PercentPositivePattern>
-            <PercentNegativePattern>1</PercentNegativePattern>
-            <NegativeInfinitySymbol>-???</NegativeInfinitySymbol>
-            <NegativeSign>-</NegativeSign>
-            <NumberDecimalDigits>2</NumberDecimalDigits>
-            <NumberDecimalSeparator>.</NumberDecimalSeparator>
-            <NumberGroupSeparator>,</NumberGroupSeparator>
-            <CurrencyPositivePattern>0</CurrencyPositivePattern>
-            <PositiveInfinitySymbol>???</PositiveInfinitySymbol>
-            <PositiveSign>+</PositiveSign>
-            <PercentDecimalDigits>2</PercentDecimalDigits>
-            <PercentDecimalSeparator>.</PercentDecimalSeparator>
-            <PercentGroupSeparator>,</PercentGroupSeparator>
-            <PercentSymbol>%</PercentSymbol>
-            <PerMilleSymbol>???</PerMilleSymbol>
-            <NativeDigits>
-              <string>0</string>
-              <string>1</string>
-              <string>2</string>
-              <string>3</string>
-              <string>4</string>
-              <string>5</string>
-              <string>6</string>
-              <string>7</string>
-              <string>8</string>
-              <string>9</string>
-            </NativeDigits>
-            <DigitSubstitution>None</DigitSubstitution>
-          </nfiusa>
-          <System_Version>Markers Plus - 2020-08-31</System_Version>
-          <Link_ID>1</Link_ID>
-          <MM_Reset_the_PnL>false</MM_Reset_the_PnL>
-          <Cuenta_Seleccionada>Sim101</Cuenta_Seleccionada>
-          <Modo_Menu>OFF</Modo_Menu>
-          <ATM_Name>Select  ATM</ATM_Name>
-          <Trade_Size>1</Trade_Size>
-          <Time_In_Force>Gtc</Time_In_Force>
-          <Enable_Longs>false</Enable_Longs>
-          <Enable_Shorts>false</Enable_Shorts>
-          <Fast_Signals>true</Fast_Signals>
-          <Fast_Long>tbs</Fast_Long>
-          <Fast_Short>tbs</Fast_Short>
-          <Fast_Long_Exit>exitlong</Fast_Long_Exit>
-          <Fast_Short_Exit>exitshort</Fast_Short_Exit>
-          <Long_Object>ArrowUp</Long_Object>
-          <Short_Object>ArrowDown</Short_Object>
-          <buySignalColor_Serialize>&lt;SolidColorBrush xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;#FF0000FF&lt;/SolidColorBrush&gt;</buySignalColor_Serialize>
-          <sellSignalColor_Serialize>&lt;SolidColorBrush xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;#FFFF0000&lt;/SolidColorBrush&gt;</sellSignalColor_Serialize>
-          <Text_Contains_Up>text of your long signal</Text_Contains_Up>
-          <Text_Contains_Dn>text of your short signal</Text_Contains_Dn>
-          <Text_Match_Up>Contains</Text_Match_Up>
-          <Text_Match_Dn>Contains</Text_Match_Dn>
-          <Long_Objectx>Dot</Long_Objectx>
-          <Short_Objectx>Dot</Short_Objectx>
-          <buySignalColorx_Serialize>&lt;SolidColorBrush xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;#FFFFFF00&lt;/SolidColorBrush&gt;</buySignalColorx_Serialize>
-          <sellSignalColorx_Serialize>&lt;SolidColorBrush xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;#FFFFFF00&lt;/SolidColorBrush&gt;</sellSignalColorx_Serialize>
-          <Enable_Exits>false</Enable_Exits>
-          <Text_Contains_Upx>text of your exit long signal</Text_Contains_Upx>
-          <Text_Contains_Dnx>text of your exit short signal</Text_Contains_Dnx>
-          <Text_Match_Upx>Contains</Text_Match_Upx>
-          <Text_Match_Dnx>Contains</Text_Match_Dnx>
-          <Show_PnL>true</Show_PnL>
-          <MM_Max_Daily_Profit>9999</MM_Max_Daily_Profit>
-          <MM_Max_Daily_Loss>-9999</MM_Max_Daily_Loss>
-          <MM_Session_Reset>true</MM_Session_Reset>
-          <MM_Plot_the_PnL>false</MM_Plot_the_PnL>
-          <Time_Windows>0</Time_Windows>
-          <W1_Time_Begin>0</W1_Time_Begin>
-          <W1_Time_Stop>235959</W1_Time_Stop>
-          <W2_Time_Begin>120000</W2_Time_Begin>
-          <W2_Time_Stop>123000</W2_Time_Stop>
-          <W3_Time_Begin>140000</W3_Time_Begin>
-          <W3_Time_Stop>144500</W3_Time_Stop>
-          <Show_Trigger_Info>false</Show_Trigger_Info>
-          <Lag_Max_Bars>3</Lag_Max_Bars>
-          <One_Trade_x_Bar>true</One_Trade_x_Bar>
-          <Enable_Reversal>false</Enable_Reversal>
-          <Trades_per_Side>0</Trades_per_Side>
-          <Show_Title>false</Show_Title>
-          <Show_PnL_Settings>false</Show_PnL_Settings>
-          <Filter_Enable>false</Filter_Enable>
-          <Entry_L_Type>High</Entry_L_Type>
-          <Entry_L_Mode>Limit</Entry_L_Mode>
-          <Entry_S_Type>Low</Entry_S_Type>
-          <Entry_S_Mode>Limit</Entry_S_Mode>
-          <Entry_Offset>-2</Entry_Offset>
-          <Entry_Bars_Life>2</Entry_Bars_Life>
-          <Ref_Bars_Back>2</Ref_Bars_Back>
-          <Lista_filtro_compras_Serialize />
-          <Lista_filtro_ventas_Serialize />
-          <Sustain_Bars>0</Sustain_Bars>
-          <Panel_Opacity>0.2</Panel_Opacity>
-          <areaBrush_Serialize>&lt;SolidColorBrush xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;#FFD3D3D3&lt;/SolidColorBrush&gt;</areaBrush_Serialize>
-          <textBrush_Serialize>&lt;SolidColorBrush xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;#FF00008B&lt;/SolidColorBrush&gt;</textBrush_Serialize>
-          <textGreenBrush_Serialize>&lt;SolidColorBrush xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;#FF008000&lt;/SolidColorBrush&gt;</textGreenBrush_Serialize>
-          <textRedBrush_Serialize>&lt;SolidColorBrush xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;#FFFF0000&lt;/SolidColorBrush&gt;</textRedBrush_Serialize>
-          <titleBrush_Serialize>&lt;SolidColorBrush xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;#FF0000FF&lt;/SolidColorBrush&gt;</titleBrush_Serialize>
-          <Alert_Enable>false</Alert_Enable>
-          <Alert_File_U>C:\Program Files (x86)\NinjaTrader 8\sounds\alert2.wav</Alert_File_U>
-          <Alert_File_D>C:\Program Files (x86)\NinjaTrader 8\sounds\alert2.wav</Alert_File_D>
-        </Markers_Plus_The_Force>
-        <Input>
-          <PriceType>Close</PriceType>
-        </Input>
-      </Indicator>
-      <Indicator BarsIndex="0" Instrument="NQ 09-20 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexChartMarkers" Panel="-1" DisplayName="_APEX Chart Markers">
-        <ApexChartMarkers xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-          <IsVisible>true</IsVisible>
-          <AreLinesConfigurable>true</AreLinesConfigurable>
-          <ArePlotsConfigurable>true</ArePlotsConfigurable>
-          <BarsPeriodSerializable>
-            <BarsPeriodTypeSerialize>5132</BarsPeriodTypeSerialize>
-            <BaseBarsPeriodType>Tick</BaseBarsPeriodType>
-            <BaseBarsPeriodValue>100</BaseBarsPeriodValue>
-            <VolumetricDeltaType>BidAsk</VolumetricDeltaType>
-            <MarketDataType>Last</MarketDataType>
-            <PointAndFigurePriceType>Close</PointAndFigurePriceType>
-            <ReversalType>Tick</ReversalType>
-            <Value>10</Value>
-            <Value2>50</Value2>
-          </BarsPeriodSerializable>
-          <BarsToLoad>0</BarsToLoad>
-          <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2020-08-29T00:00:00</From>
-          <Panel>-1</Panel>
-          <ScaleJustification>Right</ScaleJustification>
-          <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2020-09-03T00:00:00</To>
-          <Calculate>OnBarClose</Calculate>
-          <Displacement>0</Displacement>
-          <IsAutoScale>true</IsAutoScale>
-          <IsDataSeriesRequired>true</IsDataSeriesRequired>
-          <IsOverlay>true</IsOverlay>
-          <Lines />
-          <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
-          <Name>_APEX Chart Markers</Name>
-          <Plots />
-          <SelectedValueSeries>0</SelectedValueSeries>
-          <InputPlot>0</InputPlot>
-          <IsTradingHoursBreakLineVisible>true</IsTradingHoursBreakLineVisible>
-          <DrawHorizontalGridLines>true</DrawHorizontalGridLines>
-          <DrawVerticalGridLines>true</DrawVerticalGridLines>
-          <DrawOnPricePanel>false</DrawOnPricePanel>
-          <PaintPriceMarkers>true</PaintPriceMarkers>
-          <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>279</IndicatorId>
-          <InstrumentDeserialized>NQ 09-20 Globex</InstrumentDeserialized>
-          <MaxSerialized>0</MaxSerialized>
-          <MinSerialized>0</MinSerialized>
-          <ZOrder>10020</ZOrder>
-          <SettingsSerialized>e30=</SettingsSerialized>
-          <UserSettingsSerialized>eyJVcENsb3NlU3ltYm9sIjo1LCJVcENsb3NlU2l6ZSI6MjAsIlVwU3RhcnRQb3NpdGlvbiI6MiwiVXBDbG9zZVZlcnRpY2xlT2Zmc2V0Ijo3MCwiVXBDbG9zZUhvcml6b250YWxPZmZzZXQiOjAsIkRvd25DbG9zZVN5bWJvbCI6NSwiRG93blN0YXJ0UG9zaXRpb24iOjEsIkRvd25DbG9zZVNpemUiOjIwLCJEb3duQ2xvc2VWZXJ0aWNsZU9mZnNldCI6NzAsIkRvd25DbG9zZUhvcml6b250YWxPZmZzZXQiOjAsIlVwQ2xvc2VDb2xvciI6IiNGRjJFOEI1NyIsIkRvd25DbG9zZUNvbG9yIjoiI0ZGQjIyMjIyIn0=</UserSettingsSerialized>
-        </ApexChartMarkers>
-        <Input>
-          <ClassName>NinjaTrader.NinjaScript.Indicators.ApexOrderPrintsDetector_Elevator</ClassName>
-          <Input>
-            <PriceType>Close</PriceType>
-          </Input>
-          <Indicator>
-            <ApexOrderPrintsDetector_Elevator xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <IsVisible>true</IsVisible>
-              <AreLinesConfigurable>true</AreLinesConfigurable>
-              <ArePlotsConfigurable>true</ArePlotsConfigurable>
-              <BarsPeriodSerializable>
-                <BarsPeriodTypeSerialize>5132</BarsPeriodTypeSerialize>
-                <BaseBarsPeriodType>Tick</BaseBarsPeriodType>
-                <BaseBarsPeriodValue>100</BaseBarsPeriodValue>
-                <VolumetricDeltaType>BidAsk</VolumetricDeltaType>
-                <MarketDataType>Last</MarketDataType>
-                <PointAndFigurePriceType>Close</PointAndFigurePriceType>
-                <ReversalType>Tick</ReversalType>
-                <Value>10</Value>
-                <Value2>50</Value2>
-              </BarsPeriodSerializable>
-              <BarsToLoad>0</BarsToLoad>
-              <DisplayInDataBox>true</DisplayInDataBox>
-              <From>2020-08-29T00:00:00</From>
-              <Panel>0</Panel>
-              <ScaleJustification>Right</ScaleJustification>
-              <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-              <To>2020-09-03T00:00:00</To>
-              <Calculate>OnBarClose</Calculate>
-              <Displacement>0</Displacement>
-              <IsAutoScale>true</IsAutoScale>
-              <IsDataSeriesRequired>true</IsDataSeriesRequired>
-              <IsOverlay>false</IsOverlay>
-              <Lines>
-                <Line>
-                  <IsOpacityVisible>false</IsOpacityVisible>
-                  <BrushSerialize>&lt;SolidColorBrush xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;#FF000000&lt;/SolidColorBrush&gt;</BrushSerialize>
-                  <DashStyleHelper>Solid</DashStyleHelper>
-                  <Opacity>100</Opacity>
-                  <Width>1</Width>
-                  <Name>Zero</Name>
-                  <Value>0</Value>
-                </Line>
-              </Lines>
-              <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
-              <Name>_APEX Order Prints Elevator Detector</Name>
-              <Plots>
-                <Plot>
-                  <IsOpacityVisible>false</IsOpacityVisible>
-                  <BrushSerialize>&lt;SolidColorBrush xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;#FFFFD700&lt;/SolidColorBrush&gt;</BrushSerialize>
-                  <DashStyleHelper>Solid</DashStyleHelper>
-                  <Opacity>100</Opacity>
-                  <Width>4</Width>
-                  <AutoWidth>false</AutoWidth>
-                  <Max>1.7976931348623157E+308</Max>
-                  <Min>-1.7976931348623157E+308</Min>
-                  <Name>Value</Name>
-                  <PlotStyle>Bar</PlotStyle>
-                </Plot>
-              </Plots>
-              <SelectedValueSeries>0</SelectedValueSeries>
-              <InputPlot>0</InputPlot>
-              <IsTradingHoursBreakLineVisible>true</IsTradingHoursBreakLineVisible>
-              <DrawHorizontalGridLines>true</DrawHorizontalGridLines>
-              <DrawVerticalGridLines>true</DrawVerticalGridLines>
-              <DrawOnPricePanel>false</DrawOnPricePanel>
-              <PaintPriceMarkers>true</PaintPriceMarkers>
-              <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-              <IndicatorId>3052</IndicatorId>
-              <MaxSerialized>0</MaxSerialized>
-              <MinSerialized>0</MinSerialized>
-              <ZOrder>-2147483648</ZOrder>
-              <SettingsSerialized>eyJJc1VwQ2xvc2VCYXIiOnRydWUsIklzRG93bkNsb3NlQmFyIjp0cnVlLCJVcENsb3NlVmFsdWUiOjEuMCwiVXBDbG9zZUxpdmVWYWx1ZSI6LTEuMCwiRG93bkNsb3NlVmFsdWUiOjEuMCwiRG93bkNsb3NlTGl2ZVZhbHVlIjotMS4wfQ==</SettingsSerialized>
-              <UserSettingsSerialized>e30=</UserSettingsSerialized>
-            </ApexOrderPrintsDetector_Elevator>
-          </Indicator>
-        </Input>
-      </Indicator>
-      <Indicator BarsIndex="0" Instrument="NQ 09-20 Globex" Name="NinjaTrader.NinjaScript.Indicators._The_Indicator_Store.Markers_Plus_The_Force" Panel="-1" DisplayName="Apex Sniper ELEV  [Square]                          ">
-        <Markers_Plus_The_Force xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-          <IsVisible>true</IsVisible>
-          <AreLinesConfigurable>true</AreLinesConfigurable>
-          <ArePlotsConfigurable>true</ArePlotsConfigurable>
-          <BarsPeriodSerializable>
-            <BarsPeriodTypeSerialize>5132</BarsPeriodTypeSerialize>
-            <BaseBarsPeriodType>Tick</BaseBarsPeriodType>
-            <BaseBarsPeriodValue>100</BaseBarsPeriodValue>
-            <VolumetricDeltaType>BidAsk</VolumetricDeltaType>
-            <MarketDataType>Last</MarketDataType>
-            <PointAndFigurePriceType>Close</PointAndFigurePriceType>
-            <ReversalType>Tick</ReversalType>
-            <Value>10</Value>
-            <Value2>50</Value2>
-          </BarsPeriodSerializable>
-          <BarsToLoad>0</BarsToLoad>
-          <DisplayInDataBox>false</DisplayInDataBox>
-          <From>2020-08-29T00:00:00</From>
-          <Panel>-1</Panel>
-          <ScaleJustification>Right</ScaleJustification>
-          <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2020-09-03T00:00:00</To>
-          <Calculate>OnEachTick</Calculate>
-          <Displacement>0</Displacement>
-          <IsAutoScale>true</IsAutoScale>
-          <IsDataSeriesRequired>true</IsDataSeriesRequired>
-          <IsOverlay>true</IsOverlay>
-          <Lines />
-          <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
-          <Name>Apex Sniper ELEV  [Square]                          </Name>
-          <Plots>
-            <Plot>
-              <IsOpacityVisible>false</IsOpacityVisible>
-              <BrushSerialize>&lt;SolidColorBrush xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;#FF808080&lt;/SolidColorBrush&gt;</BrushSerialize>
-              <DashStyleHelper>Solid</DashStyleHelper>
-              <Opacity>100</Opacity>
-              <Width>2</Width>
-              <AutoWidth>false</AutoWidth>
-              <Max>1.7976931348623157E+308</Max>
-              <Min>-1.7976931348623157E+308</Min>
-              <Name>PnL</Name>
-              <PlotStyle>Bar</PlotStyle>
-            </Plot>
-          </Plots>
-          <SelectedValueSeries>0</SelectedValueSeries>
-          <InputPlot>0</InputPlot>
-          <IsTradingHoursBreakLineVisible>true</IsTradingHoursBreakLineVisible>
-          <DrawHorizontalGridLines>true</DrawHorizontalGridLines>
-          <DrawVerticalGridLines>true</DrawVerticalGridLines>
-          <DrawOnPricePanel>true</DrawOnPricePanel>
-          <PaintPriceMarkers>false</PaintPriceMarkers>
-          <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>282</IndicatorId>
-          <InstrumentDeserialized>NQ 09-20 Globex</InstrumentDeserialized>
-          <MaxSerialized>0</MaxSerialized>
-          <MinSerialized>0</MinSerialized>
-          <ZOrder>500</ZOrder>
-          <nfiusa>
-            <CurrencyDecimalDigits>2</CurrencyDecimalDigits>
-            <CurrencyDecimalSeparator>.</CurrencyDecimalSeparator>
-            <CurrencyGroupSizes>
-              <int>3</int>
-            </CurrencyGroupSizes>
-            <NumberGroupSizes>
-              <int>3</int>
-            </NumberGroupSizes>
-            <PercentGroupSizes>
-              <int>3</int>
-            </PercentGroupSizes>
-            <CurrencyGroupSeparator>,</CurrencyGroupSeparator>
-            <CurrencySymbol>$</CurrencySymbol>
-            <NaNSymbol>NaN</NaNSymbol>
-            <CurrencyNegativePattern>0</CurrencyNegativePattern>
-            <NumberNegativePattern>1</NumberNegativePattern>
-            <PercentPositivePattern>1</PercentPositivePattern>
-            <PercentNegativePattern>1</PercentNegativePattern>
-            <NegativeInfinitySymbol>-???</NegativeInfinitySymbol>
-            <NegativeSign>-</NegativeSign>
-            <NumberDecimalDigits>2</NumberDecimalDigits>
-            <NumberDecimalSeparator>.</NumberDecimalSeparator>
-            <NumberGroupSeparator>,</NumberGroupSeparator>
-            <CurrencyPositivePattern>0</CurrencyPositivePattern>
-            <PositiveInfinitySymbol>???</PositiveInfinitySymbol>
-            <PositiveSign>+</PositiveSign>
-            <PercentDecimalDigits>2</PercentDecimalDigits>
-            <PercentDecimalSeparator>.</PercentDecimalSeparator>
-            <PercentGroupSeparator>,</PercentGroupSeparator>
-            <PercentSymbol>%</PercentSymbol>
-            <PerMilleSymbol>???</PerMilleSymbol>
-            <NativeDigits>
-              <string>0</string>
-              <string>1</string>
-              <string>2</string>
-              <string>3</string>
-              <string>4</string>
-              <string>5</string>
-              <string>6</string>
-              <string>7</string>
-              <string>8</string>
-              <string>9</string>
-            </NativeDigits>
-            <DigitSubstitution>None</DigitSubstitution>
-          </nfiusa>
-          <System_Version>Markers Plus - 2020-08-31</System_Version>
-          <Link_ID>1</Link_ID>
-          <MM_Reset_the_PnL>false</MM_Reset_the_PnL>
-          <Cuenta_Seleccionada>Sim101</Cuenta_Seleccionada>
-          <Modo_Menu>OFF</Modo_Menu>
-          <ATM_Name>Select  ATM</ATM_Name>
-          <Trade_Size>1</Trade_Size>
-          <Time_In_Force>Gtc</Time_In_Force>
-          <Enable_Longs>false</Enable_Longs>
-          <Enable_Shorts>false</Enable_Shorts>
-          <Fast_Signals>true</Fast_Signals>
-          <Fast_Long>elev</Fast_Long>
-          <Fast_Short>elev</Fast_Short>
-          <Fast_Long_Exit>exitlong</Fast_Long_Exit>
-          <Fast_Short_Exit>exitshort</Fast_Short_Exit>
-          <Long_Object>ArrowUp</Long_Object>
-          <Short_Object>ArrowDown</Short_Object>
-          <buySignalColor_Serialize>&lt;SolidColorBrush xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;#FF0000FF&lt;/SolidColorBrush&gt;</buySignalColor_Serialize>
-          <sellSignalColor_Serialize>&lt;SolidColorBrush xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;#FFFF0000&lt;/SolidColorBrush&gt;</sellSignalColor_Serialize>
-          <Text_Contains_Up>text of your long signal</Text_Contains_Up>
-          <Text_Contains_Dn>text of your short signal</Text_Contains_Dn>
-          <Text_Match_Up>Contains</Text_Match_Up>
-          <Text_Match_Dn>Contains</Text_Match_Dn>
-          <Long_Objectx>Dot</Long_Objectx>
-          <Short_Objectx>Dot</Short_Objectx>
-          <buySignalColorx_Serialize>&lt;SolidColorBrush xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;#FFFFFF00&lt;/SolidColorBrush&gt;</buySignalColorx_Serialize>
-          <sellSignalColorx_Serialize>&lt;SolidColorBrush xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;#FFFFFF00&lt;/SolidColorBrush&gt;</sellSignalColorx_Serialize>
-          <Enable_Exits>false</Enable_Exits>
-          <Text_Contains_Upx>text of your exit long signal</Text_Contains_Upx>
-          <Text_Contains_Dnx>text of your exit short signal</Text_Contains_Dnx>
-          <Text_Match_Upx>Contains</Text_Match_Upx>
-          <Text_Match_Dnx>Contains</Text_Match_Dnx>
-          <Show_PnL>true</Show_PnL>
-          <MM_Max_Daily_Profit>9999</MM_Max_Daily_Profit>
-          <MM_Max_Daily_Loss>-9999</MM_Max_Daily_Loss>
-          <MM_Session_Reset>true</MM_Session_Reset>
-          <MM_Plot_the_PnL>false</MM_Plot_the_PnL>
-          <Time_Windows>0</Time_Windows>
-          <W1_Time_Begin>0</W1_Time_Begin>
-          <W1_Time_Stop>235959</W1_Time_Stop>
-          <W2_Time_Begin>120000</W2_Time_Begin>
-          <W2_Time_Stop>123000</W2_Time_Stop>
-          <W3_Time_Begin>140000</W3_Time_Begin>
-          <W3_Time_Stop>144500</W3_Time_Stop>
-          <Show_Trigger_Info>false</Show_Trigger_Info>
-          <Lag_Max_Bars>3</Lag_Max_Bars>
-          <One_Trade_x_Bar>true</One_Trade_x_Bar>
-          <Enable_Reversal>false</Enable_Reversal>
-          <Trades_per_Side>0</Trades_per_Side>
-          <Show_Title>false</Show_Title>
-          <Show_PnL_Settings>false</Show_PnL_Settings>
-          <Filter_Enable>false</Filter_Enable>
-          <Entry_L_Type>High</Entry_L_Type>
-          <Entry_L_Mode>Limit</Entry_L_Mode>
-          <Entry_S_Type>Low</Entry_S_Type>
-          <Entry_S_Mode>Limit</Entry_S_Mode>
-          <Entry_Offset>-2</Entry_Offset>
-          <Entry_Bars_Life>2</Entry_Bars_Life>
-          <Ref_Bars_Back>2</Ref_Bars_Back>
-          <Lista_filtro_compras_Serialize />
-          <Lista_filtro_ventas_Serialize />
-          <Sustain_Bars>0</Sustain_Bars>
-          <Panel_Opacity>0.2</Panel_Opacity>
-          <areaBrush_Serialize>&lt;SolidColorBrush xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;#FFD3D3D3&lt;/SolidColorBrush&gt;</areaBrush_Serialize>
-          <textBrush_Serialize>&lt;SolidColorBrush xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;#FF00008B&lt;/SolidColorBrush&gt;</textBrush_Serialize>
-          <textGreenBrush_Serialize>&lt;SolidColorBrush xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;#FF008000&lt;/SolidColorBrush&gt;</textGreenBrush_Serialize>
-          <textRedBrush_Serialize>&lt;SolidColorBrush xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;#FFFF0000&lt;/SolidColorBrush&gt;</textRedBrush_Serialize>
-          <titleBrush_Serialize>&lt;SolidColorBrush xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;#FF0000FF&lt;/SolidColorBrush&gt;</titleBrush_Serialize>
-          <Alert_Enable>false</Alert_Enable>
-          <Alert_File_U>C:\Program Files (x86)\NinjaTrader 8\sounds\alert2.wav</Alert_File_U>
-          <Alert_File_D>C:\Program Files (x86)\NinjaTrader 8\sounds\alert2.wav</Alert_File_D>
-        </Markers_Plus_The_Force>
-        <Input>
-          <PriceType>Close</PriceType>
-        </Input>
-      </Indicator>
-      <Indicator BarsIndex="0" Instrument="NQ 09-20 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexChartMarkers" Panel="-1" DisplayName="_APEX Chart Markers">
-        <ApexChartMarkers xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-          <IsVisible>true</IsVisible>
-          <AreLinesConfigurable>true</AreLinesConfigurable>
-          <ArePlotsConfigurable>true</ArePlotsConfigurable>
-          <BarsPeriodSerializable>
-            <BarsPeriodTypeSerialize>5132</BarsPeriodTypeSerialize>
-            <BaseBarsPeriodType>Tick</BaseBarsPeriodType>
-            <BaseBarsPeriodValue>100</BaseBarsPeriodValue>
-            <VolumetricDeltaType>BidAsk</VolumetricDeltaType>
-            <MarketDataType>Last</MarketDataType>
-            <PointAndFigurePriceType>Close</PointAndFigurePriceType>
-            <ReversalType>Tick</ReversalType>
-            <Value>10</Value>
-            <Value2>50</Value2>
-          </BarsPeriodSerializable>
-          <BarsToLoad>0</BarsToLoad>
-          <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2020-08-29T00:00:00</From>
-          <Panel>-1</Panel>
-          <ScaleJustification>Right</ScaleJustification>
-          <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2020-09-03T00:00:00</To>
-          <Calculate>OnBarClose</Calculate>
-          <Displacement>0</Displacement>
-          <IsAutoScale>true</IsAutoScale>
-          <IsDataSeriesRequired>true</IsDataSeriesRequired>
-          <IsOverlay>true</IsOverlay>
-          <Lines />
-          <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
-          <Name>_APEX Chart Markers</Name>
-          <Plots />
-          <SelectedValueSeries>0</SelectedValueSeries>
-          <InputPlot>0</InputPlot>
-          <IsTradingHoursBreakLineVisible>true</IsTradingHoursBreakLineVisible>
-          <DrawHorizontalGridLines>true</DrawHorizontalGridLines>
-          <DrawVerticalGridLines>true</DrawVerticalGridLines>
-          <DrawOnPricePanel>false</DrawOnPricePanel>
-          <PaintPriceMarkers>true</PaintPriceMarkers>
-          <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>286</IndicatorId>
-          <InstrumentDeserialized>NQ 09-20 Globex</InstrumentDeserialized>
-          <MaxSerialized>0</MaxSerialized>
-          <MinSerialized>0</MinSerialized>
-          <ZOrder>10016</ZOrder>
-          <SettingsSerialized>e30=</SettingsSerialized>
-          <UserSettingsSerialized>eyJVcENsb3NlU3ltYm9sIjozLCJVcENsb3NlU2l6ZSI6MjYsIlVwU3RhcnRQb3NpdGlvbiI6MiwiVXBDbG9zZVZlcnRpY2xlT2Zmc2V0Ijo1NCwiVXBDbG9zZUhvcml6b250YWxPZmZzZXQiOjAsIkRvd25DbG9zZVN5bWJvbCI6MywiRG93blN0YXJ0UG9zaXRpb24iOjEsIkRvd25DbG9zZVNpemUiOjI2LCJEb3duQ2xvc2VWZXJ0aWNsZU9mZnNldCI6NTQsIkRvd25DbG9zZUhvcml6b250YWxPZmZzZXQiOjAsIlVwQ2xvc2VDb2xvciI6IiNGRjAwNjQwMCIsIkRvd25DbG9zZUNvbG9yIjoiI0ZGODAwMDAwIn0=</UserSettingsSerialized>
-        </ApexChartMarkers>
-        <Input>
-          <ClassName>NinjaTrader.NinjaScript.Indicators.ApexOrderPrintsDetector_TrappedOrdersWithExauhstionBox</ClassName>
-          <Input>
-            <PriceType>Close</PriceType>
-          </Input>
-          <Indicator>
-            <ApexOrderPrintsDetector_TrappedOrdersWithExauhstionBox xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <IsVisible>true</IsVisible>
-              <AreLinesConfigurable>true</AreLinesConfigurable>
-              <ArePlotsConfigurable>true</ArePlotsConfigurable>
-              <BarsPeriodSerializable>
-                <BarsPeriodTypeSerialize>5132</BarsPeriodTypeSerialize>
-                <BaseBarsPeriodType>Tick</BaseBarsPeriodType>
-                <BaseBarsPeriodValue>100</BaseBarsPeriodValue>
-                <VolumetricDeltaType>BidAsk</VolumetricDeltaType>
-                <MarketDataType>Last</MarketDataType>
-                <PointAndFigurePriceType>Close</PointAndFigurePriceType>
-                <ReversalType>Tick</ReversalType>
-                <Value>10</Value>
-                <Value2>50</Value2>
-              </BarsPeriodSerializable>
-              <BarsToLoad>0</BarsToLoad>
-              <DisplayInDataBox>true</DisplayInDataBox>
-              <From>2020-08-29T00:00:00</From>
-              <Panel>0</Panel>
-              <ScaleJustification>Right</ScaleJustification>
-              <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-              <To>2020-09-03T00:00:00</To>
-              <Calculate>OnBarClose</Calculate>
-              <Displacement>0</Displacement>
-              <IsAutoScale>true</IsAutoScale>
-              <IsDataSeriesRequired>true</IsDataSeriesRequired>
-              <IsOverlay>false</IsOverlay>
-              <Lines>
-                <Line>
-                  <IsOpacityVisible>false</IsOpacityVisible>
-                  <BrushSerialize>&lt;SolidColorBrush xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;#FF000000&lt;/SolidColorBrush&gt;</BrushSerialize>
-                  <DashStyleHelper>Solid</DashStyleHelper>
-                  <Opacity>100</Opacity>
-                  <Width>1</Width>
-                  <Name>Zero</Name>
-                  <Value>0</Value>
-                </Line>
-              </Lines>
-              <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
-              <Name>_APEX Order Prints Trapped Orders with Exhaustion Box Detector</Name>
-              <Plots>
-                <Plot>
-                  <IsOpacityVisible>false</IsOpacityVisible>
-                  <BrushSerialize>&lt;SolidColorBrush xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;#FFFF1493&lt;/SolidColorBrush&gt;</BrushSerialize>
-                  <DashStyleHelper>Solid</DashStyleHelper>
-                  <Opacity>100</Opacity>
-                  <Width>4</Width>
-                  <AutoWidth>false</AutoWidth>
-                  <Max>1.7976931348623157E+308</Max>
-                  <Min>-1.7976931348623157E+308</Min>
-                  <Name>Value</Name>
-                  <PlotStyle>Bar</PlotStyle>
-                </Plot>
-              </Plots>
-              <SelectedValueSeries>0</SelectedValueSeries>
-              <InputPlot>0</InputPlot>
-              <IsTradingHoursBreakLineVisible>true</IsTradingHoursBreakLineVisible>
-              <DrawHorizontalGridLines>true</DrawHorizontalGridLines>
-              <DrawVerticalGridLines>true</DrawVerticalGridLines>
-              <DrawOnPricePanel>false</DrawOnPricePanel>
-              <PaintPriceMarkers>true</PaintPriceMarkers>
-              <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-              <IndicatorId>1733</IndicatorId>
-              <MaxSerialized>0</MaxSerialized>
-              <MinSerialized>0</MinSerialized>
-              <ZOrder>-2147483648</ZOrder>
-              <SettingsSerialized>eyJJc1VwQ2xvc2VCYXIiOnRydWUsIklzRG93bkNsb3NlQmFyIjp0cnVlLCJVcENsb3NlVmFsdWUiOjEuMCwiVXBDbG9zZUxpdmVWYWx1ZSI6LTEuMCwiRG93bkNsb3NlVmFsdWUiOjEuMCwiRG93bkNsb3NlTGl2ZVZhbHVlIjotMS4wfQ==</SettingsSerialized>
-              <UserSettingsSerialized>e30=</UserSettingsSerialized>
-              <TrappedOrdersRequireReversalBar>true</TrappedOrdersRequireReversalBar>
-              <TrappedOrdersRequireDRConfirmation>false</TrappedOrdersRequireDRConfirmation>
-              <TrappedOrdersDeviationReversalStrength>22</TrappedOrdersDeviationReversalStrength>
-              <TrappedOrdersDeviationReversalNumBars>2</TrappedOrdersDeviationReversalNumBars>
-              <TrappedOrdersExcludeChop>false</TrappedOrdersExcludeChop>
-              <TrappedOrdersExcludeDoubleClusters>false</TrappedOrdersExcludeDoubleClusters>
-            </ApexOrderPrintsDetector_TrappedOrdersWithExauhstionBox>
-          </Indicator>
-        </Input>
-      </Indicator>
-      <Indicator BarsIndex="0" Instrument="NQ 09-20 Globex" Name="NinjaTrader.NinjaScript.Indicators._The_Indicator_Store.Markers_Plus_The_Force" Panel="-1" DisplayName="Apex Sniper TX ODD DRD ETX  [Diamond]">
-        <Markers_Plus_The_Force xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-          <IsVisible>true</IsVisible>
-          <AreLinesConfigurable>true</AreLinesConfigurable>
-          <ArePlotsConfigurable>true</ArePlotsConfigurable>
-          <BarsPeriodSerializable>
-            <BarsPeriodTypeSerialize>5132</BarsPeriodTypeSerialize>
-            <BaseBarsPeriodType>Tick</BaseBarsPeriodType>
-            <BaseBarsPeriodValue>100</BaseBarsPeriodValue>
-            <VolumetricDeltaType>BidAsk</VolumetricDeltaType>
-            <MarketDataType>Last</MarketDataType>
-            <PointAndFigurePriceType>Close</PointAndFigurePriceType>
-            <ReversalType>Tick</ReversalType>
-            <Value>10</Value>
-            <Value2>50</Value2>
-          </BarsPeriodSerializable>
-          <BarsToLoad>0</BarsToLoad>
-          <DisplayInDataBox>false</DisplayInDataBox>
-          <From>2020-08-29T00:00:00</From>
-          <Panel>-1</Panel>
-          <ScaleJustification>Right</ScaleJustification>
-          <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2020-09-03T00:00:00</To>
-          <Calculate>OnEachTick</Calculate>
-          <Displacement>0</Displacement>
-          <IsAutoScale>true</IsAutoScale>
-          <IsDataSeriesRequired>true</IsDataSeriesRequired>
-          <IsOverlay>true</IsOverlay>
-          <Lines />
-          <MaximumBarsLookBack>Infinite</MaximumBarsLookBack>
-          <Name>Apex Sniper TX ODD DRD ETX  [Diamond]</Name>
-          <Plots>
-            <Plot>
-              <IsOpacityVisible>false</IsOpacityVisible>
-              <BrushSerialize>&lt;SolidColorBrush xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;#FF808080&lt;/SolidColorBrush&gt;</BrushSerialize>
-              <DashStyleHelper>Solid</DashStyleHelper>
-              <Opacity>100</Opacity>
-              <Width>2</Width>
-              <AutoWidth>false</AutoWidth>
-              <Max>1.7976931348623157E+308</Max>
-              <Min>-1.7976931348623157E+308</Min>
-              <Name>PnL</Name>
-              <PlotStyle>Bar</PlotStyle>
-            </Plot>
-          </Plots>
-          <SelectedValueSeries>0</SelectedValueSeries>
-          <InputPlot>0</InputPlot>
-          <IsTradingHoursBreakLineVisible>true</IsTradingHoursBreakLineVisible>
-          <DrawHorizontalGridLines>true</DrawHorizontalGridLines>
-          <DrawVerticalGridLines>true</DrawVerticalGridLines>
-          <DrawOnPricePanel>true</DrawOnPricePanel>
-          <PaintPriceMarkers>false</PaintPriceMarkers>
-          <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>289</IndicatorId>
-          <InstrumentDeserialized>NQ 09-20 Globex</InstrumentDeserialized>
-          <MaxSerialized>0</MaxSerialized>
-          <MinSerialized>0</MinSerialized>
-          <ZOrder>500</ZOrder>
-          <nfiusa>
-            <CurrencyDecimalDigits>2</CurrencyDecimalDigits>
-            <CurrencyDecimalSeparator>.</CurrencyDecimalSeparator>
-            <CurrencyGroupSizes>
-              <int>3</int>
-            </CurrencyGroupSizes>
-            <NumberGroupSizes>
-              <int>3</int>
-            </NumberGroupSizes>
-            <PercentGroupSizes>
-              <int>3</int>
-            </PercentGroupSizes>
-            <CurrencyGroupSeparator>,</CurrencyGroupSeparator>
-            <CurrencySymbol>$</CurrencySymbol>
-            <NaNSymbol>NaN</NaNSymbol>
-            <CurrencyNegativePattern>0</CurrencyNegativePattern>
-            <NumberNegativePattern>1</NumberNegativePattern>
-            <PercentPositivePattern>1</PercentPositivePattern>
-            <PercentNegativePattern>1</PercentNegativePattern>
-            <NegativeInfinitySymbol>-???</NegativeInfinitySymbol>
-            <NegativeSign>-</NegativeSign>
-            <NumberDecimalDigits>2</NumberDecimalDigits>
-            <NumberDecimalSeparator>.</NumberDecimalSeparator>
-            <NumberGroupSeparator>,</NumberGroupSeparator>
-            <CurrencyPositivePattern>0</CurrencyPositivePattern>
-            <PositiveInfinitySymbol>???</PositiveInfinitySymbol>
-            <PositiveSign>+</PositiveSign>
-            <PercentDecimalDigits>2</PercentDecimalDigits>
-            <PercentDecimalSeparator>.</PercentDecimalSeparator>
-            <PercentGroupSeparator>,</PercentGroupSeparator>
-            <PercentSymbol>%</PercentSymbol>
-            <PerMilleSymbol>???</PerMilleSymbol>
-            <NativeDigits>
-              <string>0</string>
-              <string>1</string>
-              <string>2</string>
-              <string>3</string>
-              <string>4</string>
-              <string>5</string>
-              <string>6</string>
-              <string>7</string>
-              <string>8</string>
-              <string>9</string>
-            </NativeDigits>
-            <DigitSubstitution>None</DigitSubstitution>
-          </nfiusa>
-          <System_Version>Markers Plus - 2020-08-31</System_Version>
-          <Link_ID>1</Link_ID>
-          <MM_Reset_the_PnL>false</MM_Reset_the_PnL>
-          <Cuenta_Seleccionada>Sim101</Cuenta_Seleccionada>
-          <Modo_Menu>OFF</Modo_Menu>
-          <ATM_Name>Select  ATM</ATM_Name>
-          <Trade_Size>1</Trade_Size>
-          <Time_In_Force>Gtc</Time_In_Force>
-          <Enable_Longs>false</Enable_Longs>
-          <Enable_Shorts>false</Enable_Shorts>
-          <Fast_Signals>true</Fast_Signals>
-          <Fast_Long>tx</Fast_Long>
-          <Fast_Short>tx</Fast_Short>
-          <Fast_Long_Exit>exitlong</Fast_Long_Exit>
-          <Fast_Short_Exit>exitshort</Fast_Short_Exit>
-          <Long_Object>ArrowUp</Long_Object>
-          <Short_Object>ArrowDown</Short_Object>
-          <buySignalColor_Serialize>&lt;SolidColorBrush xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;#FF0000FF&lt;/SolidColorBrush&gt;</buySignalColor_Serialize>
-          <sellSignalColor_Serialize>&lt;SolidColorBrush xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;#FFFF0000&lt;/SolidColorBrush&gt;</sellSignalColor_Serialize>
-          <Text_Contains_Up>text of your long signal</Text_Contains_Up>
-          <Text_Contains_Dn>text of your short signal</Text_Contains_Dn>
-          <Text_Match_Up>Contains</Text_Match_Up>
-          <Text_Match_Dn>Contains</Text_Match_Dn>
-          <Long_Objectx>Dot</Long_Objectx>
-          <Short_Objectx>Dot</Short_Objectx>
-          <buySignalColorx_Serialize>&lt;SolidColorBrush xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;#FFFFFF00&lt;/SolidColorBrush&gt;</buySignalColorx_Serialize>
-          <sellSignalColorx_Serialize>&lt;SolidColorBrush xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;#FFFFFF00&lt;/SolidColorBrush&gt;</sellSignalColorx_Serialize>
-          <Enable_Exits>false</Enable_Exits>
-          <Text_Contains_Upx>text of your exit long signal</Text_Contains_Upx>
-          <Text_Contains_Dnx>text of your exit short signal</Text_Contains_Dnx>
-          <Text_Match_Upx>Contains</Text_Match_Upx>
-          <Text_Match_Dnx>Contains</Text_Match_Dnx>
-          <Show_PnL>true</Show_PnL>
-          <MM_Max_Daily_Profit>9999</MM_Max_Daily_Profit>
-          <MM_Max_Daily_Loss>-9999</MM_Max_Daily_Loss>
-          <MM_Session_Reset>true</MM_Session_Reset>
-          <MM_Plot_the_PnL>false</MM_Plot_the_PnL>
-          <Time_Windows>0</Time_Windows>
-          <W1_Time_Begin>0</W1_Time_Begin>
-          <W1_Time_Stop>235959</W1_Time_Stop>
-          <W2_Time_Begin>120000</W2_Time_Begin>
-          <W2_Time_Stop>123000</W2_Time_Stop>
-          <W3_Time_Begin>140000</W3_Time_Begin>
-          <W3_Time_Stop>144500</W3_Time_Stop>
-          <Show_Trigger_Info>false</Show_Trigger_Info>
-          <Lag_Max_Bars>3</Lag_Max_Bars>
-          <One_Trade_x_Bar>true</One_Trade_x_Bar>
-          <Enable_Reversal>false</Enable_Reversal>
-          <Trades_per_Side>0</Trades_per_Side>
-          <Show_Title>false</Show_Title>
-          <Show_PnL_Settings>false</Show_PnL_Settings>
-          <Filter_Enable>false</Filter_Enable>
-          <Entry_L_Type>High</Entry_L_Type>
-          <Entry_L_Mode>Limit</Entry_L_Mode>
-          <Entry_S_Type>Low</Entry_S_Type>
-          <Entry_S_Mode>Limit</Entry_S_Mode>
-          <Entry_Offset>-2</Entry_Offset>
-          <Entry_Bars_Life>2</Entry_Bars_Life>
-          <Ref_Bars_Back>2</Ref_Bars_Back>
-          <Lista_filtro_compras_Serialize />
-          <Lista_filtro_ventas_Serialize />
-          <Sustain_Bars>0</Sustain_Bars>
-          <Panel_Opacity>0.2</Panel_Opacity>
-          <areaBrush_Serialize>&lt;SolidColorBrush xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;#FFD3D3D3&lt;/SolidColorBrush&gt;</areaBrush_Serialize>
-          <textBrush_Serialize>&lt;SolidColorBrush xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;#FF00008B&lt;/SolidColorBrush&gt;</textBrush_Serialize>
-          <textGreenBrush_Serialize>&lt;SolidColorBrush xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;#FF008000&lt;/SolidColorBrush&gt;</textGreenBrush_Serialize>
-          <textRedBrush_Serialize>&lt;SolidColorBrush xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;#FFFF0000&lt;/SolidColorBrush&gt;</textRedBrush_Serialize>
-          <titleBrush_Serialize>&lt;SolidColorBrush xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;#FF0000FF&lt;/SolidColorBrush&gt;</titleBrush_Serialize>
-          <Alert_Enable>false</Alert_Enable>
-          <Alert_File_U>C:\Program Files (x86)\NinjaTrader 8\sounds\alert2.wav</Alert_File_U>
-          <Alert_File_D>C:\Program Files (x86)\NinjaTrader 8\sounds\alert2.wav</Alert_File_D>
-        </Markers_Plus_The_Force>
-        <Input>
-          <PriceType>Close</PriceType>
-        </Input>
-      </Indicator>
-      <Indicator BarsIndex="0" Instrument="NQ 09-20 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexChartMarkers" Panel="-1" DisplayName="_APEX Chart Markers">
-        <ApexChartMarkers xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-          <IsVisible>true</IsVisible>
-          <AreLinesConfigurable>true</AreLinesConfigurable>
-          <ArePlotsConfigurable>true</ArePlotsConfigurable>
-          <BarsPeriodSerializable>
-            <BarsPeriodTypeSerialize>5132</BarsPeriodTypeSerialize>
-            <BaseBarsPeriodType>Tick</BaseBarsPeriodType>
-            <BaseBarsPeriodValue>100</BaseBarsPeriodValue>
-            <VolumetricDeltaType>BidAsk</VolumetricDeltaType>
-            <MarketDataType>Last</MarketDataType>
-            <PointAndFigurePriceType>Close</PointAndFigurePriceType>
-            <ReversalType>Tick</ReversalType>
-            <Value>10</Value>
-            <Value2>50</Value2>
-          </BarsPeriodSerializable>
-          <BarsToLoad>0</BarsToLoad>
-          <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2020-08-29T00:00:00</From>
-          <Panel>-1</Panel>
-          <ScaleJustification>Right</ScaleJustification>
-          <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2020-09-03T00:00:00</To>
-          <Calculate>OnBarClose</Calculate>
-          <Displacement>0</Displacement>
-          <IsAutoScale>true</IsAutoScale>
-          <IsDataSeriesRequired>true</IsDataSeriesRequired>
-          <IsOverlay>true</IsOverlay>
-          <Lines />
-          <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
-          <Name>_APEX Chart Markers</Name>
-          <Plots />
-          <SelectedValueSeries>0</SelectedValueSeries>
-          <InputPlot>0</InputPlot>
-          <IsTradingHoursBreakLineVisible>true</IsTradingHoursBreakLineVisible>
-          <DrawHorizontalGridLines>true</DrawHorizontalGridLines>
-          <DrawVerticalGridLines>true</DrawVerticalGridLines>
-          <DrawOnPricePanel>false</DrawOnPricePanel>
-          <PaintPriceMarkers>true</PaintPriceMarkers>
-          <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>293</IndicatorId>
+          <IndicatorId>57</IndicatorId>
           <InstrumentDeserialized>NQ 09-20 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -2316,11 +504,11 @@
               </BarsPeriodSerializable>
               <BarsToLoad>0</BarsToLoad>
               <DisplayInDataBox>true</DisplayInDataBox>
-              <From>2020-08-29T00:00:00</From>
+              <From>2020-09-07T00:00:00</From>
               <Panel>0</Panel>
               <ScaleJustification>Right</ScaleJustification>
               <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-              <To>2020-09-03T00:00:00</To>
+              <To>2020-09-10T00:00:00</To>
               <Calculate>OnBarClose</Calculate>
               <Displacement>0</Displacement>
               <IsAutoScale>true</IsAutoScale>
@@ -2392,11 +580,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>false</DisplayInDataBox>
-          <From>2020-08-29T00:00:00</From>
+          <From>2020-09-07T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2020-09-03T00:00:00</To>
+          <To>2020-09-10T00:00:00</To>
           <Calculate>OnEachTick</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -2427,7 +615,7 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>296</IndicatorId>
+          <IndicatorId>60</IndicatorId>
           <InstrumentDeserialized>NQ 09-20 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -2451,19 +639,19 @@
             <NumberNegativePattern>1</NumberNegativePattern>
             <PercentPositivePattern>1</PercentPositivePattern>
             <PercentNegativePattern>1</PercentNegativePattern>
-            <NegativeInfinitySymbol>-???</NegativeInfinitySymbol>
+            <NegativeInfinitySymbol>-∞</NegativeInfinitySymbol>
             <NegativeSign>-</NegativeSign>
             <NumberDecimalDigits>2</NumberDecimalDigits>
             <NumberDecimalSeparator>.</NumberDecimalSeparator>
             <NumberGroupSeparator>,</NumberGroupSeparator>
             <CurrencyPositivePattern>0</CurrencyPositivePattern>
-            <PositiveInfinitySymbol>???</PositiveInfinitySymbol>
+            <PositiveInfinitySymbol>∞</PositiveInfinitySymbol>
             <PositiveSign>+</PositiveSign>
             <PercentDecimalDigits>2</PercentDecimalDigits>
             <PercentDecimalSeparator>.</PercentDecimalSeparator>
             <PercentGroupSeparator>,</PercentGroupSeparator>
             <PercentSymbol>%</PercentSymbol>
-            <PerMilleSymbol>???</PerMilleSymbol>
+            <PerMilleSymbol>‰</PerMilleSymbol>
             <NativeDigits>
               <string>0</string>
               <string>1</string>
@@ -2577,11 +765,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2020-08-29T00:00:00</From>
+          <From>2020-09-07T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2020-09-03T00:00:00</To>
+          <To>2020-09-10T00:00:00</To>
           <Calculate>OnBarClose</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -2599,7 +787,7 @@
           <DrawOnPricePanel>false</DrawOnPricePanel>
           <PaintPriceMarkers>true</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>300</IndicatorId>
+          <IndicatorId>64</IndicatorId>
           <InstrumentDeserialized>NQ 09-20 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -2630,11 +818,11 @@
               </BarsPeriodSerializable>
               <BarsToLoad>0</BarsToLoad>
               <DisplayInDataBox>true</DisplayInDataBox>
-              <From>2020-08-29T00:00:00</From>
+              <From>2020-09-07T00:00:00</From>
               <Panel>0</Panel>
               <ScaleJustification>Right</ScaleJustification>
               <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-              <To>2020-09-03T00:00:00</To>
+              <To>2020-09-10T00:00:00</To>
               <Calculate>OnBarClose</Calculate>
               <Displacement>0</Displacement>
               <IsAutoScale>true</IsAutoScale>
@@ -2709,11 +897,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>false</DisplayInDataBox>
-          <From>2020-08-29T00:00:00</From>
+          <From>2020-09-07T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2020-09-03T00:00:00</To>
+          <To>2020-09-10T00:00:00</To>
           <Calculate>OnEachTick</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -2744,7 +932,7 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>303</IndicatorId>
+          <IndicatorId>67</IndicatorId>
           <InstrumentDeserialized>NQ 09-20 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -2768,19 +956,19 @@
             <NumberNegativePattern>1</NumberNegativePattern>
             <PercentPositivePattern>1</PercentPositivePattern>
             <PercentNegativePattern>1</PercentNegativePattern>
-            <NegativeInfinitySymbol>-???</NegativeInfinitySymbol>
+            <NegativeInfinitySymbol>-∞</NegativeInfinitySymbol>
             <NegativeSign>-</NegativeSign>
             <NumberDecimalDigits>2</NumberDecimalDigits>
             <NumberDecimalSeparator>.</NumberDecimalSeparator>
             <NumberGroupSeparator>,</NumberGroupSeparator>
             <CurrencyPositivePattern>0</CurrencyPositivePattern>
-            <PositiveInfinitySymbol>???</PositiveInfinitySymbol>
+            <PositiveInfinitySymbol>∞</PositiveInfinitySymbol>
             <PositiveSign>+</PositiveSign>
             <PercentDecimalDigits>2</PercentDecimalDigits>
             <PercentDecimalSeparator>.</PercentDecimalSeparator>
             <PercentGroupSeparator>,</PercentGroupSeparator>
             <PercentSymbol>%</PercentSymbol>
-            <PerMilleSymbol>???</PerMilleSymbol>
+            <PerMilleSymbol>‰</PerMilleSymbol>
             <NativeDigits>
               <string>0</string>
               <string>1</string>
@@ -2889,11 +1077,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2020-08-29T00:00:00</From>
+          <From>2020-09-07T00:00:00</From>
           <Panel>1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2020-09-03T00:00:00</To>
+          <To>2020-09-10T00:00:00</To>
           <Calculate>OnEachTick</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>false</IsAutoScale>
@@ -2961,7 +1149,7 @@
           <DrawOnPricePanel>false</DrawOnPricePanel>
           <PaintPriceMarkers>true</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>306</IndicatorId>
+          <IndicatorId>70</IndicatorId>
           <InstrumentDeserialized>NQ 09-20 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -2991,11 +1179,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>false</DisplayInDataBox>
-          <From>2020-08-29T00:00:00</From>
+          <From>2020-09-07T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2020-09-03T00:00:00</To>
+          <To>2020-09-10T00:00:00</To>
           <Calculate>OnBarClose</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -3013,7 +1201,7 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>309</IndicatorId>
+          <IndicatorId>73</IndicatorId>
           <InstrumentDeserialized>NQ 09-20 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -3043,11 +1231,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>false</DisplayInDataBox>
-          <From>2020-08-29T00:00:00</From>
+          <From>2020-09-07T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2020-09-03T00:00:00</To>
+          <To>2020-09-10T00:00:00</To>
           <Calculate>OnBarClose</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -3065,7 +1253,7 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>312</IndicatorId>
+          <IndicatorId>76</IndicatorId>
           <InstrumentDeserialized>NQ 09-20 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -3095,11 +1283,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2020-08-29T00:00:00</From>
+          <From>2020-09-07T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2020-09-03T00:00:00</To>
+          <To>2020-09-10T00:00:00</To>
           <Calculate>OnBarClose</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -3117,7 +1305,7 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>315</IndicatorId>
+          <IndicatorId>79</IndicatorId>
           <InstrumentDeserialized>NQ 09-20 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -3147,11 +1335,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>false</DisplayInDataBox>
-          <From>2020-08-29T00:00:00</From>
+          <From>2020-09-07T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2020-09-03T00:00:00</To>
+          <To>2020-09-10T00:00:00</To>
           <Calculate>OnPriceChange</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -3194,7 +1382,7 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>318</IndicatorId>
+          <IndicatorId>82</IndicatorId>
           <InstrumentDeserialized>NQ 09-20 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -3224,11 +1412,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>false</DisplayInDataBox>
-          <From>2020-08-29T00:00:00</From>
+          <From>2020-09-07T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2020-09-03T00:00:00</To>
+          <To>2020-09-10T00:00:00</To>
           <Calculate>OnPriceChange</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>false</IsAutoScale>
@@ -3271,7 +1459,7 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>321</IndicatorId>
+          <IndicatorId>85</IndicatorId>
           <InstrumentDeserialized>NQ 09-20 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -3301,11 +1489,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>false</DisplayInDataBox>
-          <From>2020-08-29T00:00:00</From>
+          <From>2020-09-07T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2020-09-03T00:00:00</To>
+          <To>2020-09-10T00:00:00</To>
           <Calculate>OnPriceChange</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>false</IsAutoScale>
@@ -3348,7 +1536,7 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>324</IndicatorId>
+          <IndicatorId>88</IndicatorId>
           <InstrumentDeserialized>NQ 09-20 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -3378,11 +1566,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2020-08-29T00:00:00</From>
+          <From>2020-09-07T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2020-09-03T00:00:00</To>
+          <To>2020-09-10T00:00:00</To>
           <Calculate>OnEachTick</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>false</IsAutoScale>
@@ -3413,7 +1601,7 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>327</IndicatorId>
+          <IndicatorId>91</IndicatorId>
           <InstrumentDeserialized>NQ 09-20 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -3443,11 +1631,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>false</DisplayInDataBox>
-          <From>2020-08-29T00:00:00</From>
+          <From>2020-09-07T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2020-09-03T00:00:00</To>
+          <To>2020-09-10T00:00:00</To>
           <Calculate>OnPriceChange</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>false</IsAutoScale>
@@ -3465,7 +1653,7 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>330</IndicatorId>
+          <IndicatorId>94</IndicatorId>
           <InstrumentDeserialized>NQ 09-20 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -3495,11 +1683,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2020-08-29T00:00:00</From>
+          <From>2020-09-07T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2020-09-03T00:00:00</To>
+          <To>2020-09-10T00:00:00</To>
           <Calculate>OnPriceChange</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>false</IsAutoScale>
@@ -3554,7 +1742,7 @@
           <DrawOnPricePanel>false</DrawOnPricePanel>
           <PaintPriceMarkers>true</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>333</IndicatorId>
+          <IndicatorId>97</IndicatorId>
           <InstrumentDeserialized>NQ 09-20 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -3584,11 +1772,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>false</DisplayInDataBox>
-          <From>2020-08-29T00:00:00</From>
+          <From>2020-09-07T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2020-09-03T00:00:00</To>
+          <To>2020-09-10T00:00:00</To>
           <Calculate>OnPriceChange</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -3619,7 +1807,7 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>true</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>336</IndicatorId>
+          <IndicatorId>100</IndicatorId>
           <InstrumentDeserialized>NQ 09-20 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -3649,11 +1837,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>false</DisplayInDataBox>
-          <From>2020-08-29T00:00:00</From>
+          <From>2020-09-07T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2020-09-03T00:00:00</To>
+          <To>2020-09-10T00:00:00</To>
           <Calculate>OnBarClose</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>false</IsAutoScale>
@@ -3671,7 +1859,7 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>339</IndicatorId>
+          <IndicatorId>103</IndicatorId>
           <InstrumentDeserialized>NQ 09-20 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -3679,6 +1867,58 @@
           <SettingsSerialized>e30=</SettingsSerialized>
           <UserSettingsSerialized>eyJXYWxsT3BhY2l0eSI6MTAwfQ==</UserSettingsSerialized>
         </ApexWalls>
+        <Input>
+          <PriceType>Close</PriceType>
+        </Input>
+      </Indicator>
+      <Indicator BarsIndex="0" Instrument="NQ 09-20 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexDiagnosticEconomicNews" Panel="-1" DisplayName="_APEX News">
+        <ApexDiagnosticEconomicNews xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+          <IsVisible>true</IsVisible>
+          <AreLinesConfigurable>true</AreLinesConfigurable>
+          <ArePlotsConfigurable>true</ArePlotsConfigurable>
+          <BarsPeriodSerializable>
+            <BarsPeriodTypeSerialize>5132</BarsPeriodTypeSerialize>
+            <BaseBarsPeriodType>Tick</BaseBarsPeriodType>
+            <BaseBarsPeriodValue>100</BaseBarsPeriodValue>
+            <VolumetricDeltaType>BidAsk</VolumetricDeltaType>
+            <MarketDataType>Last</MarketDataType>
+            <PointAndFigurePriceType>Close</PointAndFigurePriceType>
+            <ReversalType>Tick</ReversalType>
+            <Value>10</Value>
+            <Value2>50</Value2>
+          </BarsPeriodSerializable>
+          <BarsToLoad>0</BarsToLoad>
+          <DisplayInDataBox>false</DisplayInDataBox>
+          <From>2020-09-07T00:00:00</From>
+          <Panel>-1</Panel>
+          <ScaleJustification>Right</ScaleJustification>
+          <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
+          <To>2020-09-10T00:00:00</To>
+          <Calculate>OnPriceChange</Calculate>
+          <Displacement>0</Displacement>
+          <IsAutoScale>false</IsAutoScale>
+          <IsDataSeriesRequired>true</IsDataSeriesRequired>
+          <IsOverlay>true</IsOverlay>
+          <Lines />
+          <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
+          <Name>_APEX News</Name>
+          <Plots />
+          <SelectedValueSeries>0</SelectedValueSeries>
+          <InputPlot>0</InputPlot>
+          <IsTradingHoursBreakLineVisible>true</IsTradingHoursBreakLineVisible>
+          <DrawHorizontalGridLines>true</DrawHorizontalGridLines>
+          <DrawVerticalGridLines>true</DrawVerticalGridLines>
+          <DrawOnPricePanel>true</DrawOnPricePanel>
+          <PaintPriceMarkers>true</PaintPriceMarkers>
+          <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
+          <IndicatorId>106</IndicatorId>
+          <InstrumentDeserialized>NQ 09-20 Globex</InstrumentDeserialized>
+          <MaxSerialized>0</MaxSerialized>
+          <MinSerialized>0</MinSerialized>
+          <ZOrder>10007</ZOrder>
+          <SettingsSerialized>e30=</SettingsSerialized>
+          <UserSettingsSerialized>eyJ0b3BPZmZzZXQiOjIwLjAsImxlZnRPZmZzZXQiOjUuMCwic2hvd0JhY2tncm91bmQiOnRydWUsInVzZTI0SG91clRpbWVGb3JtYXQiOmZhbHNlLCJzaG93SGVhZGVyIjpmYWxzZSwiZGVidWciOmZhbHNlLCJ0b2RheXNOZXdzT25seSI6dHJ1ZSwidVNPbmx5RXZlbnRzIjpmYWxzZSwic2hvd0xvd1ByaW9yaXR5Ijp0cnVlLCJ3YXJuaW5nSW50ZXJ2YWwiOjUsInZlcnRpY2FsU3BhY2luZyI6MSwiaGVhZGVyRm9udCI6eyJmb250RmFtaWx5IjoiQXJpYWwiLCJzaXplIjoxMC4wLCJib2xkIjp0cnVlLCJpdGFsaWMiOmZhbHNlfSwiZGVmYXVsdEZvbnQiOnsiZm9udEZhbWlseSI6IkFyaWFsIiwic2l6ZSI6MTAuMCwiYm9sZCI6ZmFsc2UsIml0YWxpYyI6ZmFsc2V9LCJ3YXJuaW5nRm9udCI6eyJmb250RmFtaWx5IjoiQXJpYWwiLCJzaXplIjoxMC4wLCJib2xkIjp0cnVlLCJpdGFsaWMiOnRydWV9LCJoZWFkZXJDb2xvciI6IiNGRjAwMDAwMCIsImhpZ2hQcmlvcml0eUNvbG9yIjoiI0ZGRkYwMDAwIiwibWVkaXVtUHJpb3JpdHlDb2xvciI6IiNGRkZGRkYwMCIsImxvd1ByaW9yaXR5Q29sb3IiOiIjRkZBREZGMkYiLCJub3JtYWxDb2xvciI6IiNGRjg3Q0VGQSIsImJhY2tncm91bmRDb2xvciI6IiNGRjAwMDAwMCIsInZpc3VhbEFsZXJ0cyI6ZmFsc2UsInZvaWNlQWxlcnRzIjp0cnVlLCJmbGFzaFdpbmRvdyI6ZmFsc2UsIm1heE5ld3NJdGVtcyI6NX0=</UserSettingsSerialized>
+        </ApexDiagnosticEconomicNews>
         <Input>
           <PriceType>Close</PriceType>
         </Input>
@@ -3701,11 +1941,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2020-08-29T00:00:00</From>
+          <From>2020-09-07T00:00:00</From>
           <Panel>3</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2020-09-03T00:00:00</To>
+          <To>2020-09-10T00:00:00</To>
           <Calculate>OnEachTick</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -3746,7 +1986,7 @@
           <DrawOnPricePanel>false</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>345</IndicatorId>
+          <IndicatorId>109</IndicatorId>
           <InstrumentDeserialized>NQ 09-20 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -3776,11 +2016,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2020-08-29T00:00:00</From>
+          <From>2020-09-07T00:00:00</From>
           <Panel>3</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2020-09-03T00:00:00</To>
+          <To>2020-09-10T00:00:00</To>
           <Calculate>OnEachTick</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -3821,7 +2061,7 @@
           <DrawOnPricePanel>false</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>348</IndicatorId>
+          <IndicatorId>112</IndicatorId>
           <InstrumentDeserialized>NQ 09-20 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -3851,11 +2091,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2020-08-29T00:00:00</From>
+          <From>2020-09-07T00:00:00</From>
           <Panel>3</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2020-09-03T00:00:00</To>
+          <To>2020-09-10T00:00:00</To>
           <Calculate>OnEachTick</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -3896,7 +2136,7 @@
           <DrawOnPricePanel>false</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>351</IndicatorId>
+          <IndicatorId>115</IndicatorId>
           <InstrumentDeserialized>NQ 09-20 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -3926,11 +2166,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2020-08-29T00:00:00</From>
+          <From>2020-09-07T00:00:00</From>
           <Panel>3</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2020-09-03T00:00:00</To>
+          <To>2020-09-10T00:00:00</To>
           <Calculate>OnEachTick</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -3971,7 +2211,7 @@
           <DrawOnPricePanel>false</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>355</IndicatorId>
+          <IndicatorId>119</IndicatorId>
           <InstrumentDeserialized>NQ 09-20 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -4008,11 +2248,11 @@
               </BarsPeriodSerializable>
               <BarsToLoad>0</BarsToLoad>
               <DisplayInDataBox>true</DisplayInDataBox>
-              <From>2020-08-29T00:00:00</From>
+              <From>2020-09-07T00:00:00</From>
               <Panel>0</Panel>
               <ScaleJustification>Right</ScaleJustification>
               <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-              <To>2020-09-03T00:00:00</To>
+              <To>2020-09-10T00:00:00</To>
               <Calculate>OnEachTick</Calculate>
               <Displacement>0</Displacement>
               <IsAutoScale>true</IsAutoScale>
@@ -4087,11 +2327,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2020-08-29T00:00:00</From>
+          <From>2020-09-07T00:00:00</From>
           <Panel>3</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2020-09-03T00:00:00</To>
+          <To>2020-09-10T00:00:00</To>
           <Calculate>OnEachTick</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -4132,7 +2372,7 @@
           <DrawOnPricePanel>false</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>358</IndicatorId>
+          <IndicatorId>122</IndicatorId>
           <InstrumentDeserialized>NQ 09-20 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -4165,11 +2405,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2020-08-29T00:00:00</From>
+          <From>2020-09-07T00:00:00</From>
           <Panel>3</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2020-09-03T00:00:00</To>
+          <To>2020-09-10T00:00:00</To>
           <Calculate>OnBarClose</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -4210,7 +2450,7 @@
           <DrawOnPricePanel>false</DrawOnPricePanel>
           <PaintPriceMarkers>true</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>362</IndicatorId>
+          <IndicatorId>126</IndicatorId>
           <InstrumentDeserialized>NQ 09-20 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -4247,11 +2487,11 @@
               </BarsPeriodSerializable>
               <BarsToLoad>0</BarsToLoad>
               <DisplayInDataBox>true</DisplayInDataBox>
-              <From>2020-08-29T00:00:00</From>
+              <From>2020-09-07T00:00:00</From>
               <Panel>0</Panel>
               <ScaleJustification>Right</ScaleJustification>
               <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-              <To>2020-09-03T00:00:00</To>
+              <To>2020-09-10T00:00:00</To>
               <Calculate>OnBarClose</Calculate>
               <Displacement>0</Displacement>
               <IsAutoScale>true</IsAutoScale>
@@ -4376,7 +2616,7 @@
     </Properties>
     <ChartPanels>
       <ChartPanel>
-        <Height>193.6</Height>
+        <Height>720</Height>
         <HoldChartTraderOrders>false</HoldChartTraderOrders>
         <IsMaximized>false</IsMaximized>
         <Right>
@@ -4390,8 +2630,8 @@
             <AutoScaleMarginLower>40</AutoScaleMarginLower>
             <AutoScaleMarginUpper>40</AutoScaleMarginUpper>
             <YAxisScalingType>Linear</YAxisScalingType>
-            <FixedScaleMaxSerialize>11630.5</FixedScaleMaxSerialize>
-            <FixedScaleMinSerialize>11616.75</FixedScaleMinSerialize>
+            <FixedScaleMaxSerialize>11216</FixedScaleMaxSerialize>
+            <FixedScaleMinSerialize>11196.75</FixedScaleMinSerialize>
           </ChartScaleProperties>
         </Right>
         <Left>
@@ -4426,7 +2666,7 @@
         </Overlay>
       </ChartPanel>
       <ChartPanel>
-        <Height>12.8</Height>
+        <Height>48</Height>
         <HoldChartTraderOrders>false</HoldChartTraderOrders>
         <IsMaximized>false</IsMaximized>
         <Right>
@@ -4440,7 +2680,7 @@
             <AutoScaleMarginLower>6</AutoScaleMarginLower>
             <AutoScaleMarginUpper>6</AutoScaleMarginUpper>
             <YAxisScalingType>Linear</YAxisScalingType>
-            <FixedScaleMaxSerialize>1.6594724220178827</FixedScaleMaxSerialize>
+            <FixedScaleMaxSerialize>1.8234792253198151</FixedScaleMaxSerialize>
             <FixedScaleMinSerialize>0</FixedScaleMinSerialize>
           </ChartScaleProperties>
         </Right>
@@ -4476,7 +2716,7 @@
         </Overlay>
       </ChartPanel>
       <ChartPanel>
-        <Height>6.4</Height>
+        <Height>24</Height>
         <HoldChartTraderOrders>false</HoldChartTraderOrders>
         <IsMaximized>false</IsMaximized>
         <Right>
@@ -4526,7 +2766,7 @@
         </Overlay>
       </ChartPanel>
       <ChartPanel>
-        <Height>14.4</Height>
+        <Height>53</Height>
         <HoldChartTraderOrders>false</HoldChartTraderOrders>
         <IsMaximized>false</IsMaximized>
         <Right>
