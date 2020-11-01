@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <NinjaTrader>
   <NTTabPage>
     <InstrumentLink>0</InstrumentLink>
@@ -21,15 +21,15 @@
           </BarsPeriod>
           <RangeType>Days</RangeType>
           <BarsBack>50</BarsBack>
-          <DaysBack>3</DaysBack>
-          <From>2020-05-25T00:00:00</From>
+          <DaysBack>5</DaysBack>
+          <From>2020-07-26T00:00:00</From>
           <IsStableSession>true</IsStableSession>
           <To>2099-12-01T00:00:00</To>
           <TradingHoursSerializable>Default 24 x 7</TradingHoursSerializable>
           <AutoScale>true</AutoScale>
           <CenterPriceOnScale>false</CenterPriceOnScale>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <Label>NQ 09-20</Label>
+          <Label>YM 12-20</Label>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
           <Panel>0</Panel>
@@ -50,9 +50,9 @@
           <PositionPenLoserSerialize>DEFAULT</PositionPenLoserSerialize>
           <PositionPenWinnerSerialize>DEFAULT</PositionPenWinnerSerialize>
           <ShortExecutionBrushSerialize>DEFAULT</ShortExecutionBrushSerialize>
-          <BarsSeriesId>f48118feab8949a7a1f37d1b451d9b3d</BarsSeriesId>
-          <Id>f310e09638454f5d9196a7b4a4bbbc80</Id>
-          <Instrument>NQ 09-20</Instrument>
+          <BarsSeriesId>3748677ebbe74623aa1a754dbe9599da</BarsSeriesId>
+          <Id>43d0c879794d46b3b75580ebab796fdc</Id>
+          <Instrument>YM 12-20</Instrument>
           <IsLinked>true</IsLinked>
           <IsPrimarySeries>true</IsPrimarySeries>
           <ZOrder>1</ZOrder>
@@ -83,7 +83,7 @@
       </BarsProperties>
     </DataSeries>
     <Indicators>
-      <Indicator BarsIndex="0" Instrument="NQ 09-20 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexOrderPrints" Panel="-1" DisplayName="_APEX Order Prints">
+      <Indicator BarsIndex="0" Instrument="YM 12-20 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexOrderPrints" Panel="-1" DisplayName="_APEX Order Prints">
         <ApexOrderPrints xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
           <IsVisible>true</IsVisible>
           <AreLinesConfigurable>true</AreLinesConfigurable>
@@ -101,11 +101,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2020-09-07T00:00:00</From>
+          <From>2020-10-27T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2020-09-10T00:00:00</To>
+          <To>2020-11-01T00:00:00</To>
           <Calculate>OnEachTick</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>false</IsAutoScale>
@@ -123,20 +123,20 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>true</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>1</IndicatorId>
+          <IndicatorId>5751</IndicatorId>
           <InstrumentDeserialized>NQ 09-20 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
           <ZOrder>0</ZOrder>
-          <SettingsSerialized>eyJ1c2VGdXR1cmVzVm9sdW1lRm9yRm9yZXgiOnRydWUsInBhdyI6eyJzdHJlbmd0aCI6MzAuMCwib25seVNob3dPbldpY2siOnRydWV9LCJpbWJhbGFuY2UiOnsic3RyZW5ndGgiOjMuMCwidm9sdW1lRmlsdGVyIjowfSwiem9uZU9mSW50ZXJlc3QiOnsibWluVm9sdW1lIjowLCJtaW5MZXZlbHMiOjN9LCJleGhhdXN0aW9uIjp7InN0cmVuZ3RoIjozLjAsInZvbHVtZUZpbHRlciI6MH0sIm5ldFZvbHVtZUFjY2VsZXJhdGlvbiI6eyJjYWxjT25CYXJDbG9zZSI6ZmFsc2UsInBlcmlvZCI6NCwic3RyZW5ndGgiOjIuMCwidm9sdW1lRmlsdGVyIjowfSwidG90YWxWb2x1bWUiOnsiYWxlcnRUaHJlc2hvbGQiOjcwMDB9LCJ0b3RhbFZvbHVtZUFjY2VsZXJhdGlvbiI6eyJwZXJpb2QiOjQsInN0cmVuZ3RoIjoyLjB9LCJ0cmFwcGVkT3JkZXJzIjp7Im1pblZvbHVtZSI6MTAsIm1pbkxldmVscyI6MywicmV2ZXJzYWxPbmx5QWxlcnQiOmZhbHNlfSwibGVhZGluZ1ZvbHVtZXMiOnsibWluVm9sdW1lIjoxMCwibWluTGV2ZWxzIjozfSwiYmxvY2tPcmRlclNldHRpbmdzIjp7ImJsb2NrU2l6ZSI6NTAsIm1heERheXNUb1Nob3dQYXN0QnJva2VuIjoxfSwiYmxvY2tWb2x1bWVBY2NlbGVyYXRpb24iOnsiY2FsY09uQmFyQ2xvc2UiOmZhbHNlLCJwZXJpb2QiOjcsInN0cmVuZ3RoIjoyLjAsInZvbHVtZUZpbHRlciI6MH0sIm1vbWVudHVtIjp7InN0cmVuZ3RoIjozLjAsInNpemUiOjMsIm1pbmltdW1Ub3RhbFZvbHVtZVRocmVzaG9sZCI6MTAsImxvd1ZvbHVtZVNjb3JlVGhyZXNob2xkIjoxM30sImFic29ycHRpb24iOnsic3RyZW5ndGgiOjMuMCwic2l6ZSI6MywibWluaW11bVRvdGFsVm9sdW1lVGhyZXNob2xkIjoxMH0sIm1pbmlNYWduZXRzIjp7Im1pbmltdW1Wb2x1bWUiOjEsInRocmVzaG9sZCI6MSwibWF4RGF5c1RvU2hvd1Bhc3RCcm9rZW4iOjEsImNhbGN1bGF0ZU9uQmFyQ2xvc2UiOmZhbHNlfSwiZGlzcGxheU1pc2MiOnsidm9sdW1lT2Zmc2V0IjowfSwiQ2x1c3RlciI6eyJncmVhdGVyVGhhbk11bHRpcGxpZXIiOjIuMCwicGVyaW9kIjo0LCJtaW5pbXVtVG90YWxWb2x1bWUiOjEwfSwiYnJpY2tXYWxsIjp7Im1pbkVudGl0aWVzUmVxdWlyZWQiOjMsIm1heFByb3hpbWl0eUluVGlja3MiOjMsIm1heFRpbWVCZXR3ZWVuRW50aXRpZXMiOiIwODowMDowMCJ9LCJ2b2x1bWVTY29yZSI6eyJ1cHBlckFsZXJ0VGhyZXNob2xkIjoxMDAwLCJsb3dlckFsZXJ0VGhyZXNob2xkIjoxM30sInRoaXJkQmFyU2xpbmciOnsicmVxdWlyZW1lbnRzIjozfSwic3RhckxWU1pPSSI6eyJ0cmFwcGVkT3JkZXJzQW5kRXhoYXVzdGlvbkJveFJlcXVpcmVkIjpmYWxzZX0sImVsZXZhdG9yIjp7Im1pbmlNYWduZXRQYXdSZXF1aXJlbWVudHMiOjIsImNsdXN0ZXJSZXF1aXJlbWVudHMiOjJ9LCJkb3VibGVUWCI6eyJwZXJpb2QiOjMwLCJzdHJlbmd0aCI6NX0sIm9wcmVqZWN0aW9uIjp7InNldHVwQmFyQ2FsY3VsYXRpb25zIjoxLCJQcmV2aW91c0JhckNhbGN1bGF0aW9ucyI6MSwic2V0dXBCYXJEZXB0aE1pbmludW1Wb2x1bWUiOjAsImVuYWJsZU9QUmVqZWN0aW9uQWxlcnRzIjp0cnVlLCJlbmFibGVMaXZlT1BSZWplY3Rpb25BbGVydHMiOmZhbHNlLCJzZXR1cEJhck11bHRpcGxpZXIiOjMuMCwic2V0dXBCYXJEZXB0aCI6Miwic2V0dXBCYXJUaHJlc2hvbGQiOjEwLCJwcmV2aW91c0Jhck11bHRpcGxpZXIiOjIuNSwicHJldmlvdXNCYXJEZXB0aCI6MSwicHJldmlvdXNCYXJUaHJlc2hvbGQiOjEwLCJwZXJpb2QiOjMsInJlcXVpcmVQQVciOmZhbHNlLCJyZXF1aXJlVHJhcHBlZE9yZGVyIjpmYWxzZSwicmVxdWlyZUV4aGF1c3Rpb24iOmZhbHNlfSwib3BkaXZlcmdlbmNlIjp7ImVuYWJsZU9QRGl2ZXJnZW5jZUFsZXJ0cyI6dHJ1ZSwiZW5hYmxlTGl2ZU9QRGl2ZXJnZW5jZUFsZXJ0cyI6ZmFsc2UsInNldHVwQmFyTXVsdGlwbGllciI6Mi4wLCJzZXR1cEJhckRlcHRoIjoyLCJzZXR1cEJhclRocmVzaG9sZCI6MTAsInByZXZpb3VzQmFyTXVsdGlwbGllciI6MC4wLCJwcmV2aW91c0JhckRlcHRoIjowLCJwZXJpb2QiOjN9LCJkaXZlcmdlbnRMb3dSZXZlcnNhbEdvIjp7InRyYXBwZWRPcmRlcnNBbmRFeGhhdXN0aW9uQm94UmVxdWlyZWQiOmZhbHNlLCJpbmNsdWRlTG93RGl2ZXJnZW50UmV2ZXJzYWxHbyI6ZmFsc2UsImJhcnNCZWZvcmVTZXR1cCI6NH19</SettingsSerialized>
+          <SettingsSerialized>eyJ1c2VGdXR1cmVzVm9sdW1lRm9yRm9yZXgiOnRydWUsInBhdyI6eyJzdHJlbmd0aCI6MzAuMCwiY2FsY3VsYXRlT25CYXJDbG9zZSI6ZmFsc2UsIm9ubHlTaG93T25XaWNrIjp0cnVlfSwiaW1iYWxhbmNlIjp7InN0cmVuZ3RoIjozLjAsInZvbHVtZUZpbHRlciI6MCwid2Vha1ZvbHVtZUZpbHRlciI6MX0sInpvbmVPZkludGVyZXN0Ijp7Im1pblZvbHVtZSI6MCwibWluTGV2ZWxzIjozfSwiZXhoYXVzdGlvbiI6eyJzdHJlbmd0aCI6My4wLCJ2b2x1bWVGaWx0ZXIiOjB9LCJuZXRWb2x1bWVBY2NlbGVyYXRpb24iOnsiY2FsY09uQmFyQ2xvc2UiOmZhbHNlLCJwZXJpb2QiOjQsInN0cmVuZ3RoIjoyLjAsInZvbHVtZUZpbHRlciI6MH0sInRvdGFsVm9sdW1lIjp7ImFsZXJ0VGhyZXNob2xkIjo3MDAwfSwidG90YWxWb2x1bWVBY2NlbGVyYXRpb24iOnsicGVyaW9kIjo0LCJzdHJlbmd0aCI6Mi4wfSwidHJhcHBlZE9yZGVycyI6eyJtaW5Wb2x1bWUiOjEwLCJtaW5MZXZlbHMiOjMsInJldmVyc2FsT25seUFsZXJ0IjpmYWxzZX0sImxlYWRpbmdWb2x1bWVzIjp7Im1pblZvbHVtZSI6MTAsIm1pbkxldmVscyI6M30sImJsb2NrT3JkZXJTZXR0aW5ncyI6eyJibG9ja1NpemUiOjUwLCJtYXhEYXlzVG9TaG93UGFzdEJyb2tlbiI6MX0sImJsb2NrVm9sdW1lQWNjZWxlcmF0aW9uIjp7ImNhbGNPbkJhckNsb3NlIjpmYWxzZSwicGVyaW9kIjo3LCJzdHJlbmd0aCI6Mi4wLCJ2b2x1bWVGaWx0ZXIiOjB9LCJtb21lbnR1bSI6eyJzdHJlbmd0aCI6My4wLCJzaXplIjozLCJtaW5pbXVtVG90YWxWb2x1bWVUaHJlc2hvbGQiOjEwLCJsb3dWb2x1bWVTY29yZVRocmVzaG9sZCI6MTN9LCJhYnNvcnB0aW9uIjp7InN0cmVuZ3RoIjozLjAsInNpemUiOjMsIm1pbmltdW1Ub3RhbFZvbHVtZVRocmVzaG9sZCI6MTB9LCJtaW5pTWFnbmV0cyI6eyJtaW5pbXVtVm9sdW1lIjoxLCJ0aHJlc2hvbGQiOjEsIm1heERheXNUb1Nob3dQYXN0QnJva2VuIjoxLCJjYWxjdWxhdGVPbkJhckNsb3NlIjpmYWxzZX0sImRpc3BsYXlNaXNjIjp7InZvbHVtZU9mZnNldCI6MH0sIkNsdXN0ZXIiOnsiZ3JlYXRlclRoYW5NdWx0aXBsaWVyIjoyLjAsInBlcmlvZCI6NCwibWluaW11bVRvdGFsVm9sdW1lIjoxMH0sImJyaWNrV2FsbCI6eyJtaW5FbnRpdGllc1JlcXVpcmVkIjozLCJtYXhQcm94aW1pdHlJblRpY2tzIjozLCJtYXhUaW1lQmV0d2VlbkVudGl0aWVzIjoiMDg6MDA6MDAifSwidm9sdW1lU2NvcmUiOnsidXBwZXJBbGVydFRocmVzaG9sZCI6MTAwMCwibG93ZXJBbGVydFRocmVzaG9sZCI6MTN9LCJ0aGlyZEJhclNsaW5nIjp7InJlcXVpcmVtZW50cyI6M30sInN0YXJMVlNaT0kiOnsidHJhcHBlZE9yZGVyc0FuZEV4aGF1c3Rpb25Cb3hSZXF1aXJlZCI6ZmFsc2V9LCJlbGV2YXRvciI6eyJtaW5pTWFnbmV0UGF3UmVxdWlyZW1lbnRzIjoyLCJjbHVzdGVyUmVxdWlyZW1lbnRzIjoyfSwiZG91YmxlVFgiOnsicGVyaW9kIjozMCwic3RyZW5ndGgiOjV9LCJvcHJlamVjdGlvbiI6eyJzZXR1cEJhckNhbGN1bGF0aW9ucyI6MSwiUHJldmlvdXNCYXJDYWxjdWxhdGlvbnMiOjEsInNldHVwQmFyRGVwdGhNaW5pbnVtVm9sdW1lIjowLCJzZXR1cEJhck11bHRpcGxpZXIiOjMuMCwic2V0dXBCYXJEZXB0aCI6Miwic2V0dXBCYXJUaHJlc2hvbGQiOjEwLCJwcmV2aW91c0Jhck11bHRpcGxpZXIiOjIuNSwicHJldmlvdXNCYXJEZXB0aCI6MSwicHJldmlvdXNCYXJUaHJlc2hvbGQiOjEwLCJwZXJpb2QiOjMsInJlcXVpcmVQQVciOmZhbHNlLCJyZXF1aXJlVHJhcHBlZE9yZGVyIjpmYWxzZSwicmVxdWlyZUV4aGF1c3Rpb24iOmZhbHNlfSwib3BkaXZlcmdlbmNlIjp7InNldHVwQmFyTXVsdGlwbGllciI6Mi4wLCJzZXR1cEJhckRlcHRoIjoyLCJzZXR1cEJhclRocmVzaG9sZCI6MTAsInByZXZpb3VzQmFyTXVsdGlwbGllciI6MC4wLCJwcmV2aW91c0JhckRlcHRoIjowLCJwZXJpb2QiOjN9LCJkaXZlcmdlbnRMb3dSZXZlcnNhbEdvIjp7InRyYXBwZWRPcmRlcnNBbmRFeGhhdXN0aW9uQm94UmVxdWlyZWQiOmZhbHNlLCJpbmNsdWRlTG93RGl2ZXJnZW50UmV2ZXJzYWxHbyI6ZmFsc2UsImJhcnNCZWZvcmVTZXR1cCI6NH19</SettingsSerialized>
           <UserSettingsSerialized>eyJhbGVydHMiOnsidmlzdWFsIjpmYWxzZSwiYXVkaWJsZSI6dHJ1ZSwid2luZG93Rmxhc2giOmZhbHNlfSwicGF3UHJpbnRzIjp7InNob3ciOnRydWUsInNob3dSZWN0YW5nbGUiOnRydWUsInNob3dMaW5lIjp0cnVlLCJ1cHBlckxpbmUiOnsiYnJ1c2giOiIjRkZGRjhDMDAiLCJ3aWR0aCI6MS4wLCJkYXNoU3R5bGUiOjAsIm9wYWNpdHkiOjEwMH0sImxvd2VyTGluZSI6eyJicnVzaCI6IiNGRkZGOEMwMCIsIndpZHRoIjoxLjAsImRhc2hTdHlsZSI6MCwib3BhY2l0eSI6MTAwfSwiaW5zdGFudEFsZXJ0cyI6ZmFsc2UsImJhckNsb3NlQWxlcnRzIjpmYWxzZSwibWluV2lkdGgiOjE1fSwiaW1iYWxhbmNlIjp7InNob3ciOmZhbHNlLCJhc2tDb2xvciI6IiNGRjY5Njk2OSIsImJpZENvbG9yIjoiI0ZGNjk2OTY5Iiwid2Vha0NvbG9yIjoiI0ZGNjk2OTY5Iiwic2hvd1dlYWtJbWJhbGFuY2VzIjpmYWxzZX0sImJhbGFuY2VkVm9sdW1lIjp7IlNob3ciOmZhbHNlLCJGb250Q29sb3IiOiIjRkYwMDAwMDAifSwiem9uZU9mSW50ZXJlc3QiOnsic2hvdyI6dHJ1ZSwiZG93bkNvbG9yIjoiI0ZGQkE1NUQzIiwidXBDb2xvciI6IiNGRjAwQ0VEMSIsInNob3dCb3giOnRydWUsImluc3RhbnRBbGVydHMiOmZhbHNlLCJiYXJDbG9zZUFsZXJ0cyI6ZmFsc2UsIm9wYWNpdHkiOjQwLCJicm9rZW5PcGFjaXR5Ijo0MCwiYm94T3BhY2l0eSI6MTAwLCJib3hNaW5XaWR0aCI6MjV9LCJleGhhdXN0aW9uIjp7InNob3ciOnRydWUsInRvcExpbmVTdHlsZSI6eyJicnVzaCI6IiNGRkIyMjIyMiIsIndpZHRoIjoyLjAsImRhc2hTdHlsZSI6MCwib3BhY2l0eSI6MTAwfSwiYm90dG9tTGluZVN0eWxlIjp7ImJydXNoIjoiI0ZGMzJDRDMyIiwid2lkdGgiOjIuMCwiZGFzaFN0eWxlIjowLCJvcGFjaXR5IjoxMDB9LCJpbnN0YW50QWxlcnRzIjpmYWxzZSwiYmFyQ2xvc2VBbGVydHMiOmZhbHNlfSwibmV3Vm9sdW1lQWNjZWxlcnRpb24iOnsic2hvdyI6ZmFsc2UsImljb25Qb3NpdGl2ZUNvbG9yIjoiI0ZGOEZCQzhGIiwiaWNvbk5lZ2F0aXZlQ29sb3IiOiIjRkZGRjAwMDAiLCJpY29uRGl2ZXJnZW5jZUNvbG9yIjoiI0ZGRkZBNTAwIiwiaWNvbkJhY2tncm91bmRDb2xvciI6IiNGRkZGRkZGRiIsImluc3RhbnRBbGVydHMiOmZhbHNlLCJiYXJDbG9zZUFsZXJ0cyI6ZmFsc2V9LCJ0b3RhbFZvbHVtZUFjY2VsZXJhdGlvbiI6eyJzaG93IjpmYWxzZSwiaWNvbkJhY2tncm91bmRQb3NpdGl2ZUNvbG9yIjoiI0ZGN0I2OEVFIiwiaWNvbkJhY2tncm91bmROZWdhdGl2ZUNvbG9yIjoiI0ZGN0I2OEVFIiwiaWNvbkZvcmVDb2xvciI6IiNGRkZGRkZGRiIsImluc3RhbnRBbGVydHMiOmZhbHNlLCJiYXJDbG9zZUFsZXJ0cyI6ZmFsc2V9LCJ0cmFwcGVkT3JkZXJzIjp7InNob3ciOnRydWUsImhpZ2hsaWdodENvbG9yIjoiI0ZGMUU5MEZGIiwiZm9udENvbG9yIjoiIzAwRkZGRkZGIiwiaW5zdGFudEFsZXJ0cyI6ZmFsc2UsImJhckNsb3NlQWxlcnRzIjpmYWxzZSwid2l0aEV4aGF1c3Rpb25JbnN0YW50QWxlcnRzIjpmYWxzZSwid2l0aEV4aGF1c3Rpb25CYXJDbG9zZUFsZXJ0cyI6dHJ1ZSwibWluQmxvY2tXaWR0aCI6MjB9LCJibG9ja09yZGVycyI6eyJzaG93Ijp0cnVlLCJmb250Q29sb3IiOiIjRkZGRkZGRkYiLCJoaWdobGlnaHRCbG9ja3MiOnRydWUsInNob3dCbG9ja0xpbmUiOnRydWUsImV4dGVuZFBhc3RCcm9rZW4iOmZhbHNlLCJiaWRMaW5lU3R5bGUiOnsiYnJ1c2giOiIjRkZGRjAwMDAiLCJ3aWR0aCI6Mi4wLCJkYXNoU3R5bGUiOjAsIm9wYWNpdHkiOjEwMH0sImFza0xpbmVTdHlsZSI6eyJicnVzaCI6IiNGRjAwRkYwMCIsIndpZHRoIjoyLjAsImRhc2hTdHlsZSI6MCwib3BhY2l0eSI6MTAwfSwibWluQmxvY2tXaWR0aCI6MTJ9LCJibG9ja05ldFZvbHVtZSI6eyJzaG93RGl2ZXJnZW5jZSI6ZmFsc2UsImRpdmVyZ2VuY2VDb2xvciI6IiNGRkZGQTUwMCIsImRpdmVyZ2VuY2VCb3JkZXJTdHlsZSI6eyJicnVzaCI6IiNGRkZGQTUwMCIsIndpZHRoIjoxLjAsImRhc2hTdHlsZSI6MCwib3BhY2l0eSI6MTAwfSwiZGl2ZXJnZW5jZUZvbnRDb2xvciI6IiNGRkZGRkZGRiIsInNob3dCbG9ja05ldFRvdGFsIjpmYWxzZSwibmV0Vm9sdW1lRm9udCI6eyJmb250RmFtaWx5IjoiQXJpYWwiLCJzaXplIjoxMi4wLCJib2xkIjp0cnVlLCJpdGFsaWMiOmZhbHNlfSwibmV0Vm9sdW1lUG9zaXRpdmVGb250Q29sb3IiOiIjRkZGRkZGRkYiLCJuZXRWb2x1bWVOZWdhdGl2ZUZvbnRDb2xvciI6IiNGRkZGRkZGRiIsInBvc2l0aXZlQm9yZGVyU3R5bGUiOnsiYnJ1c2giOiIjRkYwMDgwMDAiLCJ3aWR0aCI6MS4wLCJkYXNoU3R5bGUiOjAsIm9wYWNpdHkiOjEwMH0sIm5lZ2F0aXZlQm9yZGVyU3R5bGUiOnsiYnJ1c2giOiIjRkZGRjAwMDAiLCJ3aWR0aCI6MS4wLCJkYXNoU3R5bGUiOjAsIm9wYWNpdHkiOjEwMH19LCJtb21lbnR1bSI6eyJzaG93TW9tZW50dW0iOnRydWUsInVwQ29sb3IiOiIjRkY3RkZGMDAiLCJkb3duQ29sb3IiOiIjRkZGRjAwMDAiLCJpY29uVXBDb2xvciI6IiNGRjAwMDAwMCIsImljb25Eb3duQ29sb3IiOiIjRkZGRkZGRkYiLCJzaG93RGlhbW9uZCI6ZmFsc2UsImluc3RhbnRBbGVydHMiOmZhbHNlLCJiYXJDbG9zZUFsZXJ0cyI6ZmFsc2UsIndpdGhMb3dWU0luc3RhbnRBbGVydHMiOmZhbHNlLCJ3aXRoTG93VlNCYXJDbG9zZUFsZXJ0cyI6ZmFsc2UsImljb25WZXJ0aWNhbE9mZnNldCI6Mi4wLCJpY29uU2l6ZSI6Mn0sImFic29ycHRpb24iOnsiU2hvdyI6dHJ1ZSwiVXBDb2xvciI6IiNGRjU1NkIyRiIsIkRvd25Db2xvciI6IiNGRjgwMDAwMCIsIkljb25VcENvbG9yIjoiI0ZGMDAwMDAwIiwiSWNvbkRvd25Db2xvciI6IiNGRjAwMDAwMCIsIkluc3RhbnRBbGVydHMiOmZhbHNlLCJCYXJDbG9zZUFsZXJ0cyI6ZmFsc2UsIkljb25WZXJ0aWNhbE9mZnNldCI6MC4wLCJJY29uU2l6ZSI6Mn0sIm1pbmlNYWduZXRzIjp7ImV4dGVuZFBhc3RCcm9rZW4iOmZhbHNlLCJsaXZlQm9yZGVyIjp7ImJydXNoIjoiI0ZGRkY2OUI0Iiwid2lkdGgiOjMuMCwiZGFzaFN0eWxlIjowLCJvcGFjaXR5IjoxMDB9LCJjbG9zZWRCb3JkZXIiOnsiYnJ1c2giOiIjRkZGQUZBRDIiLCJ3aWR0aCI6My4wLCJkYXNoU3R5bGUiOjAsIm9wYWNpdHkiOjEwMH0sImJyb2tlbkJvcmRlciI6eyJicnVzaCI6IiNGRkZBRjBFNiIsIndpZHRoIjozLjAsImRhc2hTdHlsZSI6MCwib3BhY2l0eSI6MTAwfSwic2hvdyI6dHJ1ZSwiaW5zdGFudEFsZXJ0cyI6ZmFsc2UsImJhckNsb3NlQWxlcnRzIjpmYWxzZSwid2l0aFBhd0luc3RhbnRBbGVydHMiOmZhbHNlLCJ3aXRoUGFyQmFyQ2xvc2VBbGVydHMiOmZhbHNlfSwibGVhZGluZ1ZvbHVtZSI6eyJzaG93Ijp0cnVlLCJjb2xvciI6IiNGRkRDMTQzQyIsImZvbnRDb2xvciI6IiNGRkRDMTQzQyIsImJhckNsb3NlQWxlcnRzIjpmYWxzZX0sIm5ldFZvbHVtZSI6eyJzaG93IjpmYWxzZSwicG9zaXRpdmVCb3JkZXJTdHlsZSI6eyJicnVzaCI6IiNGRjhGQkM4RiIsIndpZHRoIjoxLjAsImRhc2hTdHlsZSI6MCwib3BhY2l0eSI6MTAwfSwibmVnYXRpdmVCb3JkZXJTdHlsZSI6eyJicnVzaCI6IiNGRkIyMjIyMiIsIndpZHRoIjoxLjAsImRhc2hTdHlsZSI6MCwib3BhY2l0eSI6MTAwfSwicG9zaXRpdmVUZXh0Q29sb3IiOiIjRkZGRkZGRkYiLCJuZWdhdGl2ZVRleHRDb2xvciI6IiNGRkZGRkZGRiIsImZvbnQiOnsiZm9udEZhbWlseSI6IkFyaWFsIiwic2l6ZSI6MTIuMCwiYm9sZCI6dHJ1ZSwiaXRhbGljIjpmYWxzZX0sInNob3dEaXZlcmdlbmNlIjp0cnVlLCJkaXZlcmdlbmNlQm9yZGVyU3R5bGUiOnsiYnJ1c2giOiIjRkZGRkE1MDAiLCJ3aWR0aCI6MS4wLCJkYXNoU3R5bGUiOjAsIm9wYWNpdHkiOjEwMH0sImRpdmVyZ2VuY2VUZXh0Q29sb3IiOiIjRkZGRkZGRkYifSwidG90YWxWb2x1bWUiOnsic2hvdyI6ZmFsc2UsInRleHRDb2xvciI6IiNGRkI4ODYwQiIsImJhY2tncm91bmRDb2xvciI6IiNGRkY1RjVGNSIsImZvbnQiOnsiZm9udEZhbWlseSI6IkFyaWFsIiwic2l6ZSI6MTIuMCwiYm9sZCI6dHJ1ZSwiaXRhbGljIjpmYWxzZX0sImluc3RhbnRBbGVydHMiOmZhbHNlLCJiYXJDbG9zZUFsZXJ0cyI6ZmFsc2V9LCJiYXJDb250cm9sIjp7ImF1dG9zY2FsZSI6dHJ1ZSwic2hvd0Jhck91dGxpbmUiOmZhbHNlLCJzaG93TGluZXMiOmZhbHNlLCJzaG93R3JhZGllbnQiOmZhbHNlLCJ2b2x1bWVQb3NpdGl2ZUdyYWRpZW50U3RhcnQiOiIjRkZGNUZGRkEiLCJ2b2x1bWVQb3NpdGl2ZUdyYWRpZW50RW5kIjoiI0ZGOEZCQzhGIiwidm9sdW1lTmVnYXRpdmVHcmFkaWVudFN0YXJ0IjoiI0ZGRkFGMEU2Iiwidm9sdW1lTmVnYXRpdmVHcmFkaWVudEVuZCI6IiNGRkJDOEY4RiIsImJhckNvbG9yVXAiOiIjRkY4RkJDOEYiLCJiYXJDb2xvckRvd24iOiIjRkZCQzhGOEYiLCJzaG93Vm9sdW1lcyI6ZmFsc2UsInZvbHVtZUZvbnQiOnsiZm9udEZhbWlseSI6IkFyaWFsIiwic2l6ZSI6MTQuMCwiYm9sZCI6dHJ1ZSwiaXRhbGljIjpmYWxzZX0sImJhcldpZHRoRmFjdG9yIjo3MH0sInZvbHVtZUNvbnRyb2wiOnsiR3JhZGllbnRTdGFydCI6IiNGRkQzRDNEMyIsIkdyYWRpZW50RW5kIjoiI0ZGNjk2OTY5IiwiU2hvdyI6ZmFsc2UsIkdyYWRpZW50T3BhY2l0eSI6NTB9LCJDbHVzdGVyIjp7InNob3ciOnRydWUsImJvcmRlckNvbG9yIjp7ImJydXNoIjoiI0ZGRkZGRjAwIiwid2lkdGgiOjQuMCwiZGFzaFN0eWxlIjowLCJvcGFjaXR5IjoxMDB9LCJpbnN0YW50QWxlcnRzIjpmYWxzZSwiYmFyQ2xvc2VBbGVydHMiOmZhbHNlLCJkb3VibGVDbHVzdGVySW5zdGFudEFsZXJ0cyI6ZmFsc2UsImRvdWJsZUNsdXN0ZXJBbGVydHMiOmZhbHNlLCJtaW5DbHVzdGVyV2lkdGhUb0V4cGFuZCI6MjV9LCJibG9ja1ZvbHVtZUFjY2VsZXJhdGlvbiI6eyJzaG93IjpmYWxzZSwiaWNvbkJhY2tncm91bmRQb3NpdGl2ZUNvbG9yIjoiI0ZGN0I2OEVFIiwiaWNvbkJhY2tncm91bmROZWdhdGl2ZUNvbG9yIjoiI0ZGN0I2OEVFIiwiaWNvbkJhY2tncm91bmREaXZlcmdlbmNlQ29sb3IiOiIjRkZGRkE1MDAiLCJpY29uRm9yZUNvbG9yIjoiI0ZGRkZGRkZGIn0sInZvbHVtZVNjb3JlIjp7IlNob3ciOnRydWUsIlVwVGV4dENvbG9yIjoiI0ZGRDNEM0QzIiwiVXBCb3JkZXIiOnsiYnJ1c2giOiIjMDBGRkZGRkYiLCJ3aWR0aCI6MS4wLCJkYXNoU3R5bGUiOjAsIm9wYWNpdHkiOjEwMH0sIkRvd25UZXh0Q29sb3IiOiIjRkZEM0QzRDMiLCJEb3duQm9yZGVyIjp7ImJydXNoIjoiIzAwRkZGRkZGIiwid2lkdGgiOjEuMCwiZGFzaFN0eWxlIjowLCJvcGFjaXR5IjoxMDB9LCJEaXZlcmdlbnRUZXh0Q29sb3IiOiIjRkZGRkE1MDAiLCJEaXZlcmdlbnRCb3JkZXIiOnsiYnJ1c2giOiIjMDBGRkZGRkYiLCJ3aWR0aCI6MS4wLCJkYXNoU3R5bGUiOjAsIm9wYWNpdHkiOjEwMH0sIkF1dG9TY2FsZSI6ZmFsc2UsIkZvbnQiOnsiZm9udEZhbWlseSI6IkFyaWFsIiwic2l6ZSI6MTIuMCwiYm9sZCI6dHJ1ZSwiaXRhbGljIjpmYWxzZX0sIlVwcGVySW5zdGFudEFsZXJ0cyI6ZmFsc2UsIlVwcGVyQmFyQ2xvc2VBbGVydHMiOmZhbHNlLCJMb3dlckluc3RhbnRBbGVydHMiOmZhbHNlLCJMb3dlckJhckNsb3NlQWxlcnRzIjpmYWxzZX0sIm9wUmVqZWN0aW9uIjp7Imluc3RhbnRBbGVydHMiOmZhbHNlLCJiYXJDbG9zZUFsZXJ0cyI6ZmFsc2UsInNob3dPUFJlamVjdGlvbiI6ZmFsc2UsImljb25VcENvbG9yIjoiI0ZGQURGRjJGIiwiaWNvbkRvd25Db2xvciI6IiNGRkZGNjM0NyIsInZlcnRpY2FsT2Zmc2V0IjowLjAsInNjYWxlT2Zmc2V0IjoyfSwib3BEaXZlcmdlbmNlIjp7Imluc3RhbnRBbGVydHMiOmZhbHNlLCJiYXJDbG9zZUFsZXJ0cyI6ZmFsc2UsInNob3dPUERpdmVyZ2VuY2UiOmZhbHNlLCJpY29uVXBDb2xvciI6IiNGRkFERkYyRiIsImljb25Eb3duQ29sb3IiOiIjRkZGRjYzNDciLCJ2ZXJ0aWNhbE9mZnNldCI6MC4wLCJzY2FsZU9mZnNldCI6Mn0sInRoaXJkQmFyU2xpbmciOnsiaW5zdGFudEFsZXJ0cyI6ZmFsc2UsImJhckNsb3NlQWxlcnRzIjpmYWxzZX0sInN0YXJMVlNaT0kiOnsiaW5zdGFudEFsZXJ0cyI6ZmFsc2UsImJhckNsb3NlQWxlcnRzIjpmYWxzZX0sImVsZXZhdG9yIjp7Imluc3RhbnRBbGVydHMiOmZhbHNlLCJiYXJDbG9zZUFsZXJ0cyI6ZmFsc2V9LCJkaXZlcmdlbnRMb3dSZXZlcnNhbEdvIjp7Imluc3RhbnRBbGVydHMiOmZhbHNlLCJiYXJDbG9zZUFsZXJ0cyI6ZmFsc2V9LCJkb3VibGVUWCI6eyJpbnN0YW50QWxlcnRzIjpmYWxzZSwiYmFyQ2xvc2VBbGVydHMiOmZhbHNlfX0=</UserSettingsSerialized>
-          <MasterTickSize>0.25</MasterTickSize>
+          <MasterTickSize>1</MasterTickSize>
         </ApexOrderPrints>
         <Input>
           <PriceType>Close</PriceType>
         </Input>
       </Indicator>
-      <Indicator BarsIndex="0" Instrument="NQ 09-20 Globex" Name="NinjaTrader.NinjaScript.Indicators._The_Indicator_Store.Markers_Copy" Panel="2" DisplayName="dtx(0,dtx,0,True)">
+      <Indicator BarsIndex="0" Instrument="YM 12-20 Globex" Name="NinjaTrader.NinjaScript.Indicators._The_Indicator_Store.Markers_Copy" Panel="2" DisplayName="dtx(0,dtx,0,True)">
         <Markers_Copy xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
           <IsVisible>true</IsVisible>
           <AreLinesConfigurable>true</AreLinesConfigurable>
@@ -154,11 +154,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2020-09-07T00:00:00</From>
+          <From>2020-10-27T00:00:00</From>
           <Panel>2</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2020-09-10T00:00:00</To>
+          <To>2020-11-01T00:00:00</To>
           <Calculate>OnBarClose</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -189,7 +189,7 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>21</IndicatorId>
+          <IndicatorId>5755</IndicatorId>
           <InstrumentDeserialized>NQ 09-20 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -225,11 +225,11 @@
               </BarsPeriodSerializable>
               <BarsToLoad>0</BarsToLoad>
               <DisplayInDataBox>true</DisplayInDataBox>
-              <From>2020-09-07T00:00:00</From>
+              <From>2020-10-27T00:00:00</From>
               <Panel>0</Panel>
               <ScaleJustification>Right</ScaleJustification>
               <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-              <To>2020-09-10T00:00:00</To>
+              <To>2020-11-01T00:00:00</To>
               <Calculate>OnBarClose</Calculate>
               <Displacement>0</Displacement>
               <IsAutoScale>true</IsAutoScale>
@@ -283,7 +283,7 @@
           </Indicator>
         </Input>
       </Indicator>
-      <Indicator BarsIndex="0" Instrument="NQ 09-20 Globex" Name="NinjaTrader.NinjaScript.Indicators._The_Indicator_Store.Markers_Copy" Panel="2" DisplayName="txf(0,txf,0,True)">
+      <Indicator BarsIndex="0" Instrument="YM 12-20 Globex" Name="NinjaTrader.NinjaScript.Indicators._The_Indicator_Store.Markers_Copy" Panel="2" DisplayName="txf(0,txf,0,True)">
         <Markers_Copy xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
           <IsVisible>true</IsVisible>
           <AreLinesConfigurable>true</AreLinesConfigurable>
@@ -301,11 +301,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2020-09-07T00:00:00</From>
+          <From>2020-10-27T00:00:00</From>
           <Panel>2</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2020-09-10T00:00:00</To>
+          <To>2020-11-01T00:00:00</To>
           <Calculate>OnBarClose</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -336,7 +336,7 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>25</IndicatorId>
+          <IndicatorId>5759</IndicatorId>
           <InstrumentDeserialized>NQ 09-20 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -372,11 +372,11 @@
               </BarsPeriodSerializable>
               <BarsToLoad>0</BarsToLoad>
               <DisplayInDataBox>true</DisplayInDataBox>
-              <From>2020-09-07T00:00:00</From>
+              <From>2020-10-27T00:00:00</From>
               <Panel>0</Panel>
               <ScaleJustification>Right</ScaleJustification>
               <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-              <To>2020-09-10T00:00:00</To>
+              <To>2020-11-01T00:00:00</To>
               <Calculate>OnBarClose</Calculate>
               <Displacement>0</Displacement>
               <IsAutoScale>true</IsAutoScale>
@@ -433,7 +433,7 @@
           </Indicator>
         </Input>
       </Indicator>
-      <Indicator BarsIndex="0" Instrument="NQ 09-20 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexChartMarkers" Panel="-1" DisplayName="_APEX Chart Markers">
+      <Indicator BarsIndex="0" Instrument="YM 12-20 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexChartMarkers" Panel="-1" DisplayName="_APEX Chart Markers">
         <ApexChartMarkers xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
           <IsVisible>true</IsVisible>
           <AreLinesConfigurable>true</AreLinesConfigurable>
@@ -451,11 +451,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2020-09-07T00:00:00</From>
+          <From>2020-10-27T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2020-09-10T00:00:00</To>
+          <To>2020-11-01T00:00:00</To>
           <Calculate>OnBarClose</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -473,7 +473,7 @@
           <DrawOnPricePanel>false</DrawOnPricePanel>
           <PaintPriceMarkers>true</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>57</IndicatorId>
+          <IndicatorId>5763</IndicatorId>
           <InstrumentDeserialized>NQ 09-20 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -504,11 +504,11 @@
               </BarsPeriodSerializable>
               <BarsToLoad>0</BarsToLoad>
               <DisplayInDataBox>true</DisplayInDataBox>
-              <From>2020-09-07T00:00:00</From>
+              <From>2020-10-27T00:00:00</From>
               <Panel>0</Panel>
               <ScaleJustification>Right</ScaleJustification>
               <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-              <To>2020-09-10T00:00:00</To>
+              <To>2020-11-01T00:00:00</To>
               <Calculate>OnBarClose</Calculate>
               <Displacement>0</Displacement>
               <IsAutoScale>true</IsAutoScale>
@@ -555,14 +555,14 @@
               <ZOrder>-2147483648</ZOrder>
               <SettingsSerialized>eyJJc1VwQ2xvc2VCYXIiOnRydWUsIklzRG93bkNsb3NlQmFyIjp0cnVlLCJVcENsb3NlVmFsdWUiOjEuMCwiVXBDbG9zZUxpdmVWYWx1ZSI6LTEuMCwiRG93bkNsb3NlVmFsdWUiOjEuMCwiRG93bkNsb3NlTGl2ZVZhbHVlIjotMS4wfQ==</SettingsSerialized>
               <UserSettingsSerialized>e30=</UserSettingsSerialized>
-              <TrappedOrdersRequireDRConfirmation>true</TrappedOrdersRequireDRConfirmation>
+              <TrappedOrdersRequireDRConfirmation>false</TrappedOrdersRequireDRConfirmation>
               <TrappedOrdersDeviationReversalStrength>22</TrappedOrdersDeviationReversalStrength>
               <TrappedOrdersDeviationReversalNumBars>2</TrappedOrdersDeviationReversalNumBars>
             </ApexOrderPrintsDetector_DoubleTX>
           </Indicator>
         </Input>
       </Indicator>
-      <Indicator BarsIndex="0" Instrument="NQ 09-20 Globex" Name="NinjaTrader.NinjaScript.Indicators._The_Indicator_Store.Markers_Plus_The_Force" Panel="-1" DisplayName="Apex Sniper DTX  [Triangle UP]                    ">
+      <Indicator BarsIndex="0" Instrument="YM 12-20 Globex" Name="NinjaTrader.NinjaScript.Indicators._The_Indicator_Store.Markers_Plus_The_Force" Panel="-1" DisplayName="Apex Sniper DTX  [Triangle UP]                    ">
         <Markers_Plus_The_Force xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
           <IsVisible>true</IsVisible>
           <AreLinesConfigurable>true</AreLinesConfigurable>
@@ -580,11 +580,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>false</DisplayInDataBox>
-          <From>2020-09-07T00:00:00</From>
+          <From>2020-10-27T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2020-09-10T00:00:00</To>
+          <To>2020-11-01T00:00:00</To>
           <Calculate>OnEachTick</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -615,7 +615,7 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>60</IndicatorId>
+          <IndicatorId>5766</IndicatorId>
           <InstrumentDeserialized>NQ 09-20 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -639,19 +639,19 @@
             <NumberNegativePattern>1</NumberNegativePattern>
             <PercentPositivePattern>1</PercentPositivePattern>
             <PercentNegativePattern>1</PercentNegativePattern>
-            <NegativeInfinitySymbol>-???</NegativeInfinitySymbol>
+            <NegativeInfinitySymbol>-∞</NegativeInfinitySymbol>
             <NegativeSign>-</NegativeSign>
             <NumberDecimalDigits>2</NumberDecimalDigits>
             <NumberDecimalSeparator>.</NumberDecimalSeparator>
             <NumberGroupSeparator>,</NumberGroupSeparator>
             <CurrencyPositivePattern>0</CurrencyPositivePattern>
-            <PositiveInfinitySymbol>???</PositiveInfinitySymbol>
+            <PositiveInfinitySymbol>∞</PositiveInfinitySymbol>
             <PositiveSign>+</PositiveSign>
             <PercentDecimalDigits>2</PercentDecimalDigits>
             <PercentDecimalSeparator>.</PercentDecimalSeparator>
             <PercentGroupSeparator>,</PercentGroupSeparator>
             <PercentSymbol>%</PercentSymbol>
-            <PerMilleSymbol>???</PerMilleSymbol>
+            <PerMilleSymbol>‰</PerMilleSymbol>
             <NativeDigits>
               <string>0</string>
               <string>1</string>
@@ -747,7 +747,7 @@
           <PriceType>Close</PriceType>
         </Input>
       </Indicator>
-      <Indicator BarsIndex="0" Instrument="NQ 09-20 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexChartMarkers" Panel="-1" DisplayName="_APEX Chart Markers">
+      <Indicator BarsIndex="0" Instrument="YM 12-20 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexChartMarkers" Panel="-1" DisplayName="_APEX Chart Markers">
         <ApexChartMarkers xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
           <IsVisible>true</IsVisible>
           <AreLinesConfigurable>true</AreLinesConfigurable>
@@ -765,11 +765,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2020-09-07T00:00:00</From>
+          <From>2020-10-27T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2020-09-10T00:00:00</To>
+          <To>2020-11-01T00:00:00</To>
           <Calculate>OnBarClose</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -787,7 +787,7 @@
           <DrawOnPricePanel>false</DrawOnPricePanel>
           <PaintPriceMarkers>true</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>64</IndicatorId>
+          <IndicatorId>5770</IndicatorId>
           <InstrumentDeserialized>NQ 09-20 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -818,11 +818,11 @@
               </BarsPeriodSerializable>
               <BarsToLoad>0</BarsToLoad>
               <DisplayInDataBox>true</DisplayInDataBox>
-              <From>2020-09-07T00:00:00</From>
+              <From>2020-10-27T00:00:00</From>
               <Panel>0</Panel>
               <ScaleJustification>Right</ScaleJustification>
               <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-              <To>2020-09-10T00:00:00</To>
+              <To>2020-11-01T00:00:00</To>
               <Calculate>OnBarClose</Calculate>
               <Displacement>0</Displacement>
               <IsAutoScale>true</IsAutoScale>
@@ -879,7 +879,7 @@
           </Indicator>
         </Input>
       </Indicator>
-      <Indicator BarsIndex="0" Instrument="NQ 09-20 Globex" Name="NinjaTrader.NinjaScript.Indicators._The_Indicator_Store.Markers_Plus_The_Force" Panel="-1" DisplayName="Apex Sniper TX Filtered  [Arrow]                 ">
+      <Indicator BarsIndex="0" Instrument="YM 12-20 Globex" Name="NinjaTrader.NinjaScript.Indicators._The_Indicator_Store.Markers_Plus_The_Force" Panel="-1" DisplayName="Apex Sniper TX Filtered  [Arrow]                 ">
         <Markers_Plus_The_Force xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
           <IsVisible>true</IsVisible>
           <AreLinesConfigurable>true</AreLinesConfigurable>
@@ -897,11 +897,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>false</DisplayInDataBox>
-          <From>2020-09-07T00:00:00</From>
+          <From>2020-10-27T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2020-09-10T00:00:00</To>
+          <To>2020-11-01T00:00:00</To>
           <Calculate>OnEachTick</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -932,7 +932,7 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>67</IndicatorId>
+          <IndicatorId>5773</IndicatorId>
           <InstrumentDeserialized>NQ 09-20 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -956,19 +956,19 @@
             <NumberNegativePattern>1</NumberNegativePattern>
             <PercentPositivePattern>1</PercentPositivePattern>
             <PercentNegativePattern>1</PercentNegativePattern>
-            <NegativeInfinitySymbol>-???</NegativeInfinitySymbol>
+            <NegativeInfinitySymbol>-∞</NegativeInfinitySymbol>
             <NegativeSign>-</NegativeSign>
             <NumberDecimalDigits>2</NumberDecimalDigits>
             <NumberDecimalSeparator>.</NumberDecimalSeparator>
             <NumberGroupSeparator>,</NumberGroupSeparator>
             <CurrencyPositivePattern>0</CurrencyPositivePattern>
-            <PositiveInfinitySymbol>???</PositiveInfinitySymbol>
+            <PositiveInfinitySymbol>∞</PositiveInfinitySymbol>
             <PositiveSign>+</PositiveSign>
             <PercentDecimalDigits>2</PercentDecimalDigits>
             <PercentDecimalSeparator>.</PercentDecimalSeparator>
             <PercentGroupSeparator>,</PercentGroupSeparator>
             <PercentSymbol>%</PercentSymbol>
-            <PerMilleSymbol>???</PerMilleSymbol>
+            <PerMilleSymbol>‰</PerMilleSymbol>
             <NativeDigits>
               <string>0</string>
               <string>1</string>
@@ -1059,7 +1059,7 @@
           <PriceType>Close</PriceType>
         </Input>
       </Indicator>
-      <Indicator BarsIndex="0" Instrument="NQ 09-20 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexDeviationReversal" Panel="1" DisplayName="_APEX Deviation Reversal">
+      <Indicator BarsIndex="0" Instrument="YM 12-20 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexDeviationReversal" Panel="1" DisplayName="_APEX Deviation Reversal">
         <ApexDeviationReversal xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
           <IsVisible>true</IsVisible>
           <AreLinesConfigurable>true</AreLinesConfigurable>
@@ -1077,11 +1077,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2020-09-07T00:00:00</From>
+          <From>2020-10-27T00:00:00</From>
           <Panel>1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2020-09-10T00:00:00</To>
+          <To>2020-11-01T00:00:00</To>
           <Calculate>OnEachTick</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>false</IsAutoScale>
@@ -1149,7 +1149,7 @@
           <DrawOnPricePanel>false</DrawOnPricePanel>
           <PaintPriceMarkers>true</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>70</IndicatorId>
+          <IndicatorId>5776</IndicatorId>
           <InstrumentDeserialized>NQ 09-20 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -1161,7 +1161,7 @@
           <PriceType>Close</PriceType>
         </Input>
       </Indicator>
-      <Indicator BarsIndex="0" Instrument="NQ 09-20 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexHiddenDivergence" Panel="-1" DisplayName="_APEX Early Hidden Divergence Signal Detector">
+      <Indicator BarsIndex="0" Instrument="YM 12-20 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexHiddenDivergence" Panel="-1" DisplayName="_APEX Early Hidden Divergence Signal Detector">
         <ApexHiddenDivergence xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
           <IsVisible>true</IsVisible>
           <AreLinesConfigurable>true</AreLinesConfigurable>
@@ -1179,11 +1179,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>false</DisplayInDataBox>
-          <From>2020-09-07T00:00:00</From>
+          <From>2020-10-27T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2020-09-10T00:00:00</To>
+          <To>2020-11-01T00:00:00</To>
           <Calculate>OnBarClose</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -1201,7 +1201,7 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>73</IndicatorId>
+          <IndicatorId>5779</IndicatorId>
           <InstrumentDeserialized>NQ 09-20 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -1213,7 +1213,7 @@
           <PriceType>Close</PriceType>
         </Input>
       </Indicator>
-      <Indicator BarsIndex="0" Instrument="NQ 09-20 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexHiddenDivergence" Panel="-1" DisplayName="_APEX Early Hidden Divergence Signal Detector">
+      <Indicator BarsIndex="0" Instrument="YM 12-20 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexHiddenDivergence" Panel="-1" DisplayName="_APEX Early Hidden Divergence Signal Detector">
         <ApexHiddenDivergence xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
           <IsVisible>true</IsVisible>
           <AreLinesConfigurable>true</AreLinesConfigurable>
@@ -1231,11 +1231,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>false</DisplayInDataBox>
-          <From>2020-09-07T00:00:00</From>
+          <From>2020-10-27T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2020-09-10T00:00:00</To>
+          <To>2020-11-01T00:00:00</To>
           <Calculate>OnBarClose</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -1253,7 +1253,7 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>76</IndicatorId>
+          <IndicatorId>5782</IndicatorId>
           <InstrumentDeserialized>NQ 09-20 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -1265,7 +1265,7 @@
           <PriceType>Close</PriceType>
         </Input>
       </Indicator>
-      <Indicator BarsIndex="0" Instrument="NQ 09-20 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexDivergenceWarningIcons" Panel="-1" DisplayName="_APEX Divergence Warning Icons">
+      <Indicator BarsIndex="0" Instrument="YM 12-20 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexDivergenceWarningIcons" Panel="-1" DisplayName="_APEX Divergence Warning Icons">
         <ApexDivergenceWarningIcons xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
           <IsVisible>true</IsVisible>
           <AreLinesConfigurable>true</AreLinesConfigurable>
@@ -1283,11 +1283,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2020-09-07T00:00:00</From>
+          <From>2020-10-27T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2020-09-10T00:00:00</To>
+          <To>2020-11-01T00:00:00</To>
           <Calculate>OnBarClose</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -1305,7 +1305,7 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>79</IndicatorId>
+          <IndicatorId>5785</IndicatorId>
           <InstrumentDeserialized>NQ 09-20 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -1317,7 +1317,7 @@
           <PriceType>Close</PriceType>
         </Input>
       </Indicator>
-      <Indicator BarsIndex="0" Instrument="NQ 09-20 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexBarRange" Panel="-1" DisplayName="_APEX Bar Range">
+      <Indicator BarsIndex="0" Instrument="YM 12-20 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexBarRange" Panel="-1" DisplayName="_APEX Bar Range">
         <ApexBarRange xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
           <IsVisible>true</IsVisible>
           <AreLinesConfigurable>true</AreLinesConfigurable>
@@ -1335,11 +1335,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>false</DisplayInDataBox>
-          <From>2020-09-07T00:00:00</From>
+          <From>2020-10-27T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2020-09-10T00:00:00</To>
+          <To>2020-11-01T00:00:00</To>
           <Calculate>OnPriceChange</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -1382,7 +1382,7 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>82</IndicatorId>
+          <IndicatorId>5788</IndicatorId>
           <InstrumentDeserialized>NQ 09-20 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -1394,7 +1394,7 @@
           <PriceType>Close</PriceType>
         </Input>
       </Indicator>
-      <Indicator BarsIndex="0" Instrument="NQ 09-20 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexBarRange" Panel="-1" DisplayName="_APEX Bar Range">
+      <Indicator BarsIndex="0" Instrument="YM 12-20 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexBarRange" Panel="-1" DisplayName="_APEX Bar Range">
         <ApexBarRange xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
           <IsVisible>true</IsVisible>
           <AreLinesConfigurable>true</AreLinesConfigurable>
@@ -1412,11 +1412,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>false</DisplayInDataBox>
-          <From>2020-09-07T00:00:00</From>
+          <From>2020-10-27T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2020-09-10T00:00:00</To>
+          <To>2020-11-01T00:00:00</To>
           <Calculate>OnPriceChange</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>false</IsAutoScale>
@@ -1459,7 +1459,7 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>85</IndicatorId>
+          <IndicatorId>5791</IndicatorId>
           <InstrumentDeserialized>NQ 09-20 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -1471,7 +1471,7 @@
           <PriceType>Close</PriceType>
         </Input>
       </Indicator>
-      <Indicator BarsIndex="0" Instrument="NQ 09-20 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexBarRange" Panel="-1" DisplayName="_APEX Bar Range">
+      <Indicator BarsIndex="0" Instrument="YM 12-20 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexBarRange" Panel="-1" DisplayName="_APEX Bar Range">
         <ApexBarRange xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
           <IsVisible>true</IsVisible>
           <AreLinesConfigurable>true</AreLinesConfigurable>
@@ -1489,11 +1489,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>false</DisplayInDataBox>
-          <From>2020-09-07T00:00:00</From>
+          <From>2020-10-27T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2020-09-10T00:00:00</To>
+          <To>2020-11-01T00:00:00</To>
           <Calculate>OnPriceChange</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>false</IsAutoScale>
@@ -1536,7 +1536,7 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>88</IndicatorId>
+          <IndicatorId>5794</IndicatorId>
           <InstrumentDeserialized>NQ 09-20 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -1548,7 +1548,7 @@
           <PriceType>Close</PriceType>
         </Input>
       </Indicator>
-      <Indicator BarsIndex="0" Instrument="NQ 09-20 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexOscillationDetector" Panel="-1" DisplayName="_APEX Oscillation Detector">
+      <Indicator BarsIndex="0" Instrument="YM 12-20 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexOscillationDetector" Panel="-1" DisplayName="_APEX Oscillation Detector">
         <ApexOscillationDetector xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
           <IsVisible>true</IsVisible>
           <AreLinesConfigurable>true</AreLinesConfigurable>
@@ -1566,11 +1566,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2020-09-07T00:00:00</From>
+          <From>2020-10-27T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2020-09-10T00:00:00</To>
+          <To>2020-11-01T00:00:00</To>
           <Calculate>OnEachTick</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>false</IsAutoScale>
@@ -1601,7 +1601,7 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>91</IndicatorId>
+          <IndicatorId>5797</IndicatorId>
           <InstrumentDeserialized>NQ 09-20 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -1613,7 +1613,7 @@
           <PriceType>Close</PriceType>
         </Input>
       </Indicator>
-      <Indicator BarsIndex="0" Instrument="NQ 09-20 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexDeviationLevels" Panel="-1" DisplayName="_APEX Deviation Levels">
+      <Indicator BarsIndex="0" Instrument="YM 12-20 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexDeviationLevels" Panel="-1" DisplayName="_APEX Deviation Levels">
         <ApexDeviationLevels xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
           <IsVisible>true</IsVisible>
           <AreLinesConfigurable>true</AreLinesConfigurable>
@@ -1631,11 +1631,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>false</DisplayInDataBox>
-          <From>2020-09-07T00:00:00</From>
+          <From>2020-10-27T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2020-09-10T00:00:00</To>
+          <To>2020-11-01T00:00:00</To>
           <Calculate>OnPriceChange</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>false</IsAutoScale>
@@ -1653,7 +1653,7 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>94</IndicatorId>
+          <IndicatorId>5800</IndicatorId>
           <InstrumentDeserialized>NQ 09-20 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -1665,7 +1665,7 @@
           <PriceType>Close</PriceType>
         </Input>
       </Indicator>
-      <Indicator BarsIndex="0" Instrument="NQ 09-20 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexICE" Panel="-1" DisplayName="_APEX ICE Volume Zones">
+      <Indicator BarsIndex="0" Instrument="YM 12-20 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexICE" Panel="-1" DisplayName="_APEX ICE Volume Zones">
         <ApexICE xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
           <IsVisible>true</IsVisible>
           <AreLinesConfigurable>true</AreLinesConfigurable>
@@ -1683,11 +1683,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2020-09-07T00:00:00</From>
+          <From>2020-10-27T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2020-09-10T00:00:00</To>
+          <To>2020-11-01T00:00:00</To>
           <Calculate>OnPriceChange</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>false</IsAutoScale>
@@ -1742,7 +1742,7 @@
           <DrawOnPricePanel>false</DrawOnPricePanel>
           <PaintPriceMarkers>true</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>97</IndicatorId>
+          <IndicatorId>5803</IndicatorId>
           <InstrumentDeserialized>NQ 09-20 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -1754,7 +1754,7 @@
           <PriceType>Close</PriceType>
         </Input>
       </Indicator>
-      <Indicator BarsIndex="0" Instrument="NQ 09-20 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexCurrentPrice" Panel="-1" DisplayName="_APEX Current Price">
+      <Indicator BarsIndex="0" Instrument="YM 12-20 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexCurrentPrice" Panel="-1" DisplayName="_APEX Current Price">
         <ApexCurrentPrice xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
           <IsVisible>true</IsVisible>
           <AreLinesConfigurable>true</AreLinesConfigurable>
@@ -1772,11 +1772,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>false</DisplayInDataBox>
-          <From>2020-09-07T00:00:00</From>
+          <From>2020-10-27T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2020-09-10T00:00:00</To>
+          <To>2020-11-01T00:00:00</To>
           <Calculate>OnPriceChange</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -1807,7 +1807,7 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>true</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>100</IndicatorId>
+          <IndicatorId>5806</IndicatorId>
           <InstrumentDeserialized>NQ 09-20 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -1819,7 +1819,7 @@
           <PriceType>Close</PriceType>
         </Input>
       </Indicator>
-      <Indicator BarsIndex="0" Instrument="NQ 09-20 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexWalls" Panel="-1" DisplayName="_APEX Walls - NQ ES YM">
+      <Indicator BarsIndex="0" Instrument="YM 12-20 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexWalls" Panel="-1" DisplayName="_APEX Walls - NQ ES YM">
         <ApexWalls xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
           <IsVisible>true</IsVisible>
           <AreLinesConfigurable>true</AreLinesConfigurable>
@@ -1837,11 +1837,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>false</DisplayInDataBox>
-          <From>2020-09-07T00:00:00</From>
+          <From>2020-10-27T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2020-09-10T00:00:00</To>
+          <To>2020-11-01T00:00:00</To>
           <Calculate>OnBarClose</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>false</IsAutoScale>
@@ -1859,7 +1859,7 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>103</IndicatorId>
+          <IndicatorId>5809</IndicatorId>
           <InstrumentDeserialized>NQ 09-20 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -1871,7 +1871,7 @@
           <PriceType>Close</PriceType>
         </Input>
       </Indicator>
-      <Indicator BarsIndex="0" Instrument="NQ 09-20 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexDiagnosticEconomicNews" Panel="-1" DisplayName="_APEX News">
+      <Indicator BarsIndex="0" Instrument="YM 12-20 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexDiagnosticEconomicNews" Panel="-1" DisplayName="_APEX News">
         <ApexDiagnosticEconomicNews xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
           <IsVisible>true</IsVisible>
           <AreLinesConfigurable>true</AreLinesConfigurable>
@@ -1889,11 +1889,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>false</DisplayInDataBox>
-          <From>2020-09-07T00:00:00</From>
+          <From>2020-10-27T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2020-09-10T00:00:00</To>
+          <To>2020-11-01T00:00:00</To>
           <Calculate>OnPriceChange</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>false</IsAutoScale>
@@ -1911,7 +1911,7 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>true</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>106</IndicatorId>
+          <IndicatorId>5812</IndicatorId>
           <InstrumentDeserialized>NQ 09-20 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -1923,7 +1923,7 @@
           <PriceType>Close</PriceType>
         </Input>
       </Indicator>
-      <Indicator BarsIndex="0" Instrument="NQ 09-20 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexOrderPrintsDetector_StarLVSZOI" Panel="3" DisplayName="SLZ">
+      <Indicator BarsIndex="0" Instrument="YM 12-20 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexOrderPrintsDetector_StarLVSZOI" Panel="3" DisplayName="SLZ">
         <ApexOrderPrintsDetector_StarLVSZOI xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
           <IsVisible>true</IsVisible>
           <AreLinesConfigurable>true</AreLinesConfigurable>
@@ -1941,11 +1941,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2020-09-07T00:00:00</From>
+          <From>2020-10-27T00:00:00</From>
           <Panel>3</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2020-09-10T00:00:00</To>
+          <To>2020-11-01T00:00:00</To>
           <Calculate>OnEachTick</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -1986,7 +1986,7 @@
           <DrawOnPricePanel>false</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>109</IndicatorId>
+          <IndicatorId>5815</IndicatorId>
           <InstrumentDeserialized>NQ 09-20 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -1998,7 +1998,7 @@
           <PriceType>Close</PriceType>
         </Input>
       </Indicator>
-      <Indicator BarsIndex="0" Instrument="NQ 09-20 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexOrderPrintsDetector_ThirdBarSling" Panel="3" DisplayName="TBS">
+      <Indicator BarsIndex="0" Instrument="YM 12-20 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexOrderPrintsDetector_ThirdBarSling" Panel="3" DisplayName="TBS">
         <ApexOrderPrintsDetector_ThirdBarSling xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
           <IsVisible>true</IsVisible>
           <AreLinesConfigurable>true</AreLinesConfigurable>
@@ -2016,11 +2016,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2020-09-07T00:00:00</From>
+          <From>2020-10-27T00:00:00</From>
           <Panel>3</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2020-09-10T00:00:00</To>
+          <To>2020-11-01T00:00:00</To>
           <Calculate>OnEachTick</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -2061,7 +2061,7 @@
           <DrawOnPricePanel>false</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>112</IndicatorId>
+          <IndicatorId>5818</IndicatorId>
           <InstrumentDeserialized>NQ 09-20 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -2073,7 +2073,7 @@
           <PriceType>Close</PriceType>
         </Input>
       </Indicator>
-      <Indicator BarsIndex="0" Instrument="NQ 09-20 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexOrderPrintsDetector_Elevator" Panel="3" DisplayName="ELEV">
+      <Indicator BarsIndex="0" Instrument="YM 12-20 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexOrderPrintsDetector_Elevator" Panel="3" DisplayName="ELEV">
         <ApexOrderPrintsDetector_Elevator xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
           <IsVisible>true</IsVisible>
           <AreLinesConfigurable>true</AreLinesConfigurable>
@@ -2091,11 +2091,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2020-09-07T00:00:00</From>
+          <From>2020-10-27T00:00:00</From>
           <Panel>3</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2020-09-10T00:00:00</To>
+          <To>2020-11-01T00:00:00</To>
           <Calculate>OnEachTick</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -2136,7 +2136,7 @@
           <DrawOnPricePanel>false</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>115</IndicatorId>
+          <IndicatorId>5821</IndicatorId>
           <InstrumentDeserialized>NQ 09-20 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -2148,7 +2148,7 @@
           <PriceType>Close</PriceType>
         </Input>
       </Indicator>
-      <Indicator BarsIndex="0" Instrument="NQ 09-20 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexOrderPrintsDetector_TrappedOrdersWithExauhstionBox" Panel="3" DisplayName="TX ODD(2,22,False,False,False,True)">
+      <Indicator BarsIndex="0" Instrument="YM 12-20 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexOrderPrintsDetector_TrappedOrdersWithExauhstionBox" Panel="3" DisplayName="TX ODD(2,22,False,False,False,True)">
         <ApexOrderPrintsDetector_TrappedOrdersWithExauhstionBox xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
           <IsVisible>true</IsVisible>
           <AreLinesConfigurable>true</AreLinesConfigurable>
@@ -2166,11 +2166,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2020-09-07T00:00:00</From>
+          <From>2020-10-27T00:00:00</From>
           <Panel>3</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2020-09-10T00:00:00</To>
+          <To>2020-11-01T00:00:00</To>
           <Calculate>OnEachTick</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -2211,7 +2211,7 @@
           <DrawOnPricePanel>false</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>119</IndicatorId>
+          <IndicatorId>5825</IndicatorId>
           <InstrumentDeserialized>NQ 09-20 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -2248,11 +2248,11 @@
               </BarsPeriodSerializable>
               <BarsToLoad>0</BarsToLoad>
               <DisplayInDataBox>true</DisplayInDataBox>
-              <From>2020-09-07T00:00:00</From>
+              <From>2020-10-27T00:00:00</From>
               <Panel>0</Panel>
               <ScaleJustification>Right</ScaleJustification>
               <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-              <To>2020-09-10T00:00:00</To>
+              <To>2020-11-01T00:00:00</To>
               <Calculate>OnEachTick</Calculate>
               <Displacement>0</Displacement>
               <IsAutoScale>true</IsAutoScale>
@@ -2309,7 +2309,7 @@
           </Indicator>
         </Input>
       </Indicator>
-      <Indicator BarsIndex="0" Instrument="NQ 09-20 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexOrderPrintsDetector_DoubleTX" Panel="3" DisplayName="DTX(2,22,False)">
+      <Indicator BarsIndex="0" Instrument="YM 12-20 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexOrderPrintsDetector_DoubleTX" Panel="3" DisplayName="DTX(2,22,False)">
         <ApexOrderPrintsDetector_DoubleTX xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
           <IsVisible>true</IsVisible>
           <AreLinesConfigurable>true</AreLinesConfigurable>
@@ -2327,11 +2327,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2020-09-07T00:00:00</From>
+          <From>2020-10-27T00:00:00</From>
           <Panel>3</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2020-09-10T00:00:00</To>
+          <To>2020-11-01T00:00:00</To>
           <Calculate>OnEachTick</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -2372,7 +2372,7 @@
           <DrawOnPricePanel>false</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>122</IndicatorId>
+          <IndicatorId>5828</IndicatorId>
           <InstrumentDeserialized>NQ 09-20 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -2387,7 +2387,7 @@
           <PriceType>Close</PriceType>
         </Input>
       </Indicator>
-      <Indicator BarsIndex="0" Instrument="NQ 09-20 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexOrderPrintsDetector_TrappedOrdersWithExauhstionBox" Panel="3" DisplayName="TXF(2,22,True,True,True,True)">
+      <Indicator BarsIndex="0" Instrument="YM 12-20 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexOrderPrintsDetector_TrappedOrdersWithExauhstionBox" Panel="3" DisplayName="TXF(2,22,True,True,True,True)">
         <ApexOrderPrintsDetector_TrappedOrdersWithExauhstionBox xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
           <IsVisible>true</IsVisible>
           <AreLinesConfigurable>true</AreLinesConfigurable>
@@ -2405,11 +2405,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2020-09-07T00:00:00</From>
+          <From>2020-10-27T00:00:00</From>
           <Panel>3</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2020-09-10T00:00:00</To>
+          <To>2020-11-01T00:00:00</To>
           <Calculate>OnBarClose</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -2450,7 +2450,7 @@
           <DrawOnPricePanel>false</DrawOnPricePanel>
           <PaintPriceMarkers>true</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>126</IndicatorId>
+          <IndicatorId>5832</IndicatorId>
           <InstrumentDeserialized>NQ 09-20 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -2487,11 +2487,11 @@
               </BarsPeriodSerializable>
               <BarsToLoad>0</BarsToLoad>
               <DisplayInDataBox>true</DisplayInDataBox>
-              <From>2020-09-07T00:00:00</From>
+              <From>2020-10-27T00:00:00</From>
               <Panel>0</Panel>
               <ScaleJustification>Right</ScaleJustification>
               <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-              <To>2020-09-10T00:00:00</To>
+              <To>2020-11-01T00:00:00</To>
               <Calculate>OnBarClose</Calculate>
               <Displacement>0</Displacement>
               <IsAutoScale>true</IsAutoScale>
@@ -2616,7 +2616,7 @@
     </Properties>
     <ChartPanels>
       <ChartPanel>
-        <Height>720</Height>
+        <Height>569.6</Height>
         <HoldChartTraderOrders>false</HoldChartTraderOrders>
         <IsMaximized>false</IsMaximized>
         <Right>
@@ -2630,8 +2630,8 @@
             <AutoScaleMarginLower>40</AutoScaleMarginLower>
             <AutoScaleMarginUpper>40</AutoScaleMarginUpper>
             <YAxisScalingType>Linear</YAxisScalingType>
-            <FixedScaleMaxSerialize>11216</FixedScaleMaxSerialize>
-            <FixedScaleMinSerialize>11196.75</FixedScaleMinSerialize>
+            <FixedScaleMaxSerialize>26690</FixedScaleMaxSerialize>
+            <FixedScaleMinSerialize>26636</FixedScaleMinSerialize>
           </ChartScaleProperties>
         </Right>
         <Left>
@@ -2666,7 +2666,7 @@
         </Overlay>
       </ChartPanel>
       <ChartPanel>
-        <Height>48</Height>
+        <Height>37.6</Height>
         <HoldChartTraderOrders>false</HoldChartTraderOrders>
         <IsMaximized>false</IsMaximized>
         <Right>
@@ -2680,7 +2680,7 @@
             <AutoScaleMarginLower>6</AutoScaleMarginLower>
             <AutoScaleMarginUpper>6</AutoScaleMarginUpper>
             <YAxisScalingType>Linear</YAxisScalingType>
-            <FixedScaleMaxSerialize>1.8234792253198151</FixedScaleMaxSerialize>
+            <FixedScaleMaxSerialize>1.7726366174743458</FixedScaleMaxSerialize>
             <FixedScaleMinSerialize>0</FixedScaleMinSerialize>
           </ChartScaleProperties>
         </Right>
@@ -2716,7 +2716,7 @@
         </Overlay>
       </ChartPanel>
       <ChartPanel>
-        <Height>24</Height>
+        <Height>19.2</Height>
         <HoldChartTraderOrders>false</HoldChartTraderOrders>
         <IsMaximized>false</IsMaximized>
         <Right>
@@ -2766,7 +2766,7 @@
         </Overlay>
       </ChartPanel>
       <ChartPanel>
-        <Height>53</Height>
+        <Height>42.4</Height>
         <HoldChartTraderOrders>false</HoldChartTraderOrders>
         <IsMaximized>false</IsMaximized>
         <Right>
@@ -2871,10 +2871,9 @@
 &lt;/Pen&gt;</StopMarketSerialize>
       </ChartTraderProperties>
     </Properties>
-    <Account>Sim101</Account>
     <ATM>1_9_21</ATM>
-    <Instrument>NQ 09-20</Instrument>
+    <Instrument>YM 12-20</Instrument>
     <Quantity>1</Quantity>
-    <TIF>Gtc</TIF>
+    <TIF>Day</TIF>
   </ChartTrader>
 </NinjaTrader>

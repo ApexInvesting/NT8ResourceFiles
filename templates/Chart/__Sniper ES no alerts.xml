@@ -101,11 +101,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2020-10-19T00:00:00</From>
+          <From>2020-10-26T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2020-10-24T00:00:00</To>
+          <To>2020-10-31T00:00:00</To>
           <Calculate>OnEachTick</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>false</IsAutoScale>
@@ -123,8 +123,8 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>true</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>3742</IndicatorId>
-          <InstrumentDeserialized>ES 09-20 Globex</InstrumentDeserialized>
+          <IndicatorId>1010</IndicatorId>
+          <InstrumentDeserialized>ES 12-20 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
           <ZOrder>0</ZOrder>
@@ -154,11 +154,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2020-10-19T00:00:00</From>
+          <From>2020-10-26T00:00:00</From>
           <Panel>1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2020-10-24T00:00:00</To>
+          <To>2020-10-31T00:00:00</To>
           <Calculate>OnEachTick</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -226,8 +226,8 @@
           <DrawOnPricePanel>false</DrawOnPricePanel>
           <PaintPriceMarkers>true</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>3745</IndicatorId>
-          <InstrumentDeserialized>ES 09-20 Globex</InstrumentDeserialized>
+          <IndicatorId>1013</IndicatorId>
+          <InstrumentDeserialized>ES 12-20 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
           <ZOrder>10006</ZOrder>
@@ -256,11 +256,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>false</DisplayInDataBox>
-          <From>2020-10-19T00:00:00</From>
+          <From>2020-10-26T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2020-10-24T00:00:00</To>
+          <To>2020-10-31T00:00:00</To>
           <Calculate>OnBarClose</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -278,8 +278,8 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>3748</IndicatorId>
-          <InstrumentDeserialized>ES 09-20 Globex</InstrumentDeserialized>
+          <IndicatorId>1016</IndicatorId>
+          <InstrumentDeserialized>ES 12-20 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
           <ZOrder>10004</ZOrder>
@@ -308,11 +308,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>false</DisplayInDataBox>
-          <From>2020-10-19T00:00:00</From>
+          <From>2020-10-26T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2020-10-24T00:00:00</To>
+          <To>2020-10-31T00:00:00</To>
           <Calculate>OnBarClose</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -330,8 +330,8 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>3751</IndicatorId>
-          <InstrumentDeserialized>ES 09-20 Globex</InstrumentDeserialized>
+          <IndicatorId>1019</IndicatorId>
+          <InstrumentDeserialized>ES 12-20 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
           <ZOrder>10005</ZOrder>
@@ -360,11 +360,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2020-10-19T00:00:00</From>
+          <From>2020-10-26T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2020-10-24T00:00:00</To>
+          <To>2020-10-31T00:00:00</To>
           <Calculate>OnBarClose</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -382,8 +382,8 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>true</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>3754</IndicatorId>
-          <InstrumentDeserialized>ES 09-20 Globex</InstrumentDeserialized>
+          <IndicatorId>1022</IndicatorId>
+          <InstrumentDeserialized>ES 12-20 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
           <ZOrder>10006</ZOrder>
@@ -412,11 +412,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>false</DisplayInDataBox>
-          <From>2020-10-19T00:00:00</From>
+          <From>2020-10-26T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2020-10-24T00:00:00</To>
+          <To>2020-10-31T00:00:00</To>
           <Calculate>OnPriceChange</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -459,8 +459,8 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>3757</IndicatorId>
-          <InstrumentDeserialized>ES 09-20 Globex</InstrumentDeserialized>
+          <IndicatorId>1025</IndicatorId>
+          <InstrumentDeserialized>ES 12-20 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
           <ZOrder>10007</ZOrder>
@@ -489,11 +489,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>false</DisplayInDataBox>
-          <From>2020-10-19T00:00:00</From>
+          <From>2020-10-26T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2020-10-24T00:00:00</To>
+          <To>2020-10-31T00:00:00</To>
           <Calculate>OnPriceChange</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -536,8 +536,8 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>3760</IndicatorId>
-          <InstrumentDeserialized>ES 09-20 Globex</InstrumentDeserialized>
+          <IndicatorId>1028</IndicatorId>
+          <InstrumentDeserialized>ES 12-20 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
           <ZOrder>10008</ZOrder>
@@ -566,11 +566,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>false</DisplayInDataBox>
-          <From>2020-10-19T00:00:00</From>
+          <From>2020-10-26T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2020-10-24T00:00:00</To>
+          <To>2020-10-31T00:00:00</To>
           <Calculate>OnPriceChange</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -613,8 +613,8 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>3763</IndicatorId>
-          <InstrumentDeserialized>ES 09-20 Globex</InstrumentDeserialized>
+          <IndicatorId>1031</IndicatorId>
+          <InstrumentDeserialized>ES 12-20 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
           <ZOrder>10009</ZOrder>
@@ -643,11 +643,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2020-10-19T00:00:00</From>
+          <From>2020-10-26T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2020-10-24T00:00:00</To>
+          <To>2020-10-31T00:00:00</To>
           <Calculate>OnEachTick</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>false</IsAutoScale>
@@ -678,8 +678,8 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>3766</IndicatorId>
-          <InstrumentDeserialized>ES 09-20 Globex</InstrumentDeserialized>
+          <IndicatorId>1034</IndicatorId>
+          <InstrumentDeserialized>ES 12-20 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
           <ZOrder>10010</ZOrder>
@@ -708,11 +708,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>false</DisplayInDataBox>
-          <From>2020-10-19T00:00:00</From>
+          <From>2020-10-26T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2020-10-24T00:00:00</To>
+          <To>2020-10-31T00:00:00</To>
           <Calculate>OnPriceChange</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>false</IsAutoScale>
@@ -730,8 +730,8 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>3769</IndicatorId>
-          <InstrumentDeserialized>ES 09-20 Globex</InstrumentDeserialized>
+          <IndicatorId>1037</IndicatorId>
+          <InstrumentDeserialized>ES 12-20 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
           <ZOrder>10011</ZOrder>
@@ -760,11 +760,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2020-10-19T00:00:00</From>
+          <From>2020-10-26T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2020-10-24T00:00:00</To>
+          <To>2020-10-31T00:00:00</To>
           <Calculate>OnPriceChange</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>false</IsAutoScale>
@@ -819,8 +819,8 @@
           <DrawOnPricePanel>false</DrawOnPricePanel>
           <PaintPriceMarkers>true</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>3772</IndicatorId>
-          <InstrumentDeserialized>ES 09-20 Globex</InstrumentDeserialized>
+          <IndicatorId>1040</IndicatorId>
+          <InstrumentDeserialized>ES 12-20 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
           <ZOrder>10012</ZOrder>
@@ -849,11 +849,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>false</DisplayInDataBox>
-          <From>2020-10-19T00:00:00</From>
+          <From>2020-10-26T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2020-10-24T00:00:00</To>
+          <To>2020-10-31T00:00:00</To>
           <Calculate>OnPriceChange</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -884,8 +884,8 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>true</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>3775</IndicatorId>
-          <InstrumentDeserialized>ES 09-20 Globex</InstrumentDeserialized>
+          <IndicatorId>1043</IndicatorId>
+          <InstrumentDeserialized>ES 12-20 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
           <ZOrder>10013</ZOrder>
@@ -914,11 +914,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>false</DisplayInDataBox>
-          <From>2020-10-19T00:00:00</From>
+          <From>2020-10-26T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2020-10-24T00:00:00</To>
+          <To>2020-10-31T00:00:00</To>
           <Calculate>OnPriceChange</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>false</IsAutoScale>
@@ -936,8 +936,8 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>true</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>3778</IndicatorId>
-          <InstrumentDeserialized>ES 09-20 Globex</InstrumentDeserialized>
+          <IndicatorId>1046</IndicatorId>
+          <InstrumentDeserialized>ES 12-20 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
           <ZOrder>10007</ZOrder>
@@ -966,11 +966,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>false</DisplayInDataBox>
-          <From>2020-10-19T00:00:00</From>
+          <From>2020-10-26T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2020-10-24T00:00:00</To>
+          <To>2020-10-31T00:00:00</To>
           <Calculate>OnBarClose</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>false</IsAutoScale>
@@ -988,8 +988,8 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>3781</IndicatorId>
-          <InstrumentDeserialized>ES 09-20 Globex</InstrumentDeserialized>
+          <IndicatorId>1049</IndicatorId>
+          <InstrumentDeserialized>ES 12-20 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
           <ZOrder>10014</ZOrder>
@@ -1018,11 +1018,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2020-10-19T00:00:00</From>
+          <From>2020-10-26T00:00:00</From>
           <Panel>2</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2020-10-24T00:00:00</To>
+          <To>2020-10-31T00:00:00</To>
           <Calculate>OnEachTick</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -1063,8 +1063,8 @@
           <DrawOnPricePanel>false</DrawOnPricePanel>
           <PaintPriceMarkers>true</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>3784</IndicatorId>
-          <InstrumentDeserialized>ES 09-20 Globex</InstrumentDeserialized>
+          <IndicatorId>1052</IndicatorId>
+          <InstrumentDeserialized>ES 12-20 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
           <ZOrder>10004</ZOrder>
@@ -1093,11 +1093,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2020-10-19T00:00:00</From>
+          <From>2020-10-26T00:00:00</From>
           <Panel>2</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2020-10-24T00:00:00</To>
+          <To>2020-10-31T00:00:00</To>
           <Calculate>OnEachTick</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -1138,8 +1138,8 @@
           <DrawOnPricePanel>false</DrawOnPricePanel>
           <PaintPriceMarkers>true</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>3787</IndicatorId>
-          <InstrumentDeserialized>ES 09-20 Globex</InstrumentDeserialized>
+          <IndicatorId>1055</IndicatorId>
+          <InstrumentDeserialized>ES 12-20 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
           <ZOrder>10004</ZOrder>
@@ -1168,11 +1168,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2020-10-19T00:00:00</From>
+          <From>2020-10-26T00:00:00</From>
           <Panel>2</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2020-10-24T00:00:00</To>
+          <To>2020-10-31T00:00:00</To>
           <Calculate>OnEachTick</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -1213,8 +1213,8 @@
           <DrawOnPricePanel>false</DrawOnPricePanel>
           <PaintPriceMarkers>true</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>3790</IndicatorId>
-          <InstrumentDeserialized>ES 09-20 Globex</InstrumentDeserialized>
+          <IndicatorId>1058</IndicatorId>
+          <InstrumentDeserialized>ES 12-20 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
           <ZOrder>10004</ZOrder>
@@ -1243,11 +1243,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2020-10-19T00:00:00</From>
+          <From>2020-10-26T00:00:00</From>
           <Panel>2</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2020-10-24T00:00:00</To>
+          <To>2020-10-31T00:00:00</To>
           <Calculate>OnEachTick</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -1288,8 +1288,8 @@
           <DrawOnPricePanel>false</DrawOnPricePanel>
           <PaintPriceMarkers>true</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>3793</IndicatorId>
-          <InstrumentDeserialized>ES 09-20 Globex</InstrumentDeserialized>
+          <IndicatorId>1061</IndicatorId>
+          <InstrumentDeserialized>ES 12-20 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
           <ZOrder>10004</ZOrder>
@@ -1321,11 +1321,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2020-10-19T00:00:00</From>
+          <From>2020-10-26T00:00:00</From>
           <Panel>2</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2020-10-24T00:00:00</To>
+          <To>2020-10-31T00:00:00</To>
           <Calculate>OnEachTick</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -1366,7 +1366,8 @@
           <DrawOnPricePanel>false</DrawOnPricePanel>
           <PaintPriceMarkers>true</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>4647</IndicatorId>
+          <IndicatorId>1064</IndicatorId>
+          <InstrumentDeserialized>ES 12-20 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
           <ZOrder>10005</ZOrder>
@@ -1378,6 +1379,86 @@
           <TrappedOrdersDeviationReversalNumBars>2</TrappedOrdersDeviationReversalNumBars>
           <TrappedOrdersExcludeChop>false</TrappedOrdersExcludeChop>
           <TrappedOrdersExcludeDoubleClusters>false</TrappedOrdersExcludeDoubleClusters>
+        </ApexOrderPrintsDetector_TrappedOrdersWithExauhstionBox>
+        <Input>
+          <PriceType>Close</PriceType>
+        </Input>
+      </Indicator>
+      <Indicator BarsIndex="0" Instrument="ES 12-20 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexOrderPrintsDetector_TrappedOrdersWithExauhstionBox" Panel="2" DisplayName="TXF(2,22,True,True,True,True)">
+        <ApexOrderPrintsDetector_TrappedOrdersWithExauhstionBox xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+          <IsVisible>true</IsVisible>
+          <AreLinesConfigurable>true</AreLinesConfigurable>
+          <ArePlotsConfigurable>true</ArePlotsConfigurable>
+          <BarsPeriodSerializable>
+            <BarsPeriodTypeSerialize>5132</BarsPeriodTypeSerialize>
+            <BaseBarsPeriodType>Tick</BaseBarsPeriodType>
+            <BaseBarsPeriodValue>100</BaseBarsPeriodValue>
+            <VolumetricDeltaType>BidAsk</VolumetricDeltaType>
+            <MarketDataType>Last</MarketDataType>
+            <PointAndFigurePriceType>Close</PointAndFigurePriceType>
+            <ReversalType>Tick</ReversalType>
+            <Value>8</Value>
+            <Value2>50</Value2>
+          </BarsPeriodSerializable>
+          <BarsToLoad>0</BarsToLoad>
+          <DisplayInDataBox>true</DisplayInDataBox>
+          <From>2020-10-26T00:00:00</From>
+          <Panel>2</Panel>
+          <ScaleJustification>Right</ScaleJustification>
+          <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
+          <To>2020-10-31T00:00:00</To>
+          <Calculate>OnBarClose</Calculate>
+          <Displacement>0</Displacement>
+          <IsAutoScale>true</IsAutoScale>
+          <IsDataSeriesRequired>true</IsDataSeriesRequired>
+          <IsOverlay>false</IsOverlay>
+          <Lines>
+            <Line>
+              <IsOpacityVisible>false</IsOpacityVisible>
+              <BrushSerialize>&lt;SolidColorBrush xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;#FF000000&lt;/SolidColorBrush&gt;</BrushSerialize>
+              <DashStyleHelper>Solid</DashStyleHelper>
+              <Opacity>100</Opacity>
+              <Width>1</Width>
+              <Name>Zero</Name>
+              <Value>0</Value>
+            </Line>
+          </Lines>
+          <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
+          <Name>TXF</Name>
+          <Plots>
+            <Plot>
+              <IsOpacityVisible>false</IsOpacityVisible>
+              <BrushSerialize>&lt;SolidColorBrush xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;#FF008000&lt;/SolidColorBrush&gt;</BrushSerialize>
+              <DashStyleHelper>Dash</DashStyleHelper>
+              <Opacity>100</Opacity>
+              <Width>3</Width>
+              <AutoWidth>false</AutoWidth>
+              <Max>1.7976931348623157E+308</Max>
+              <Min>-1.7976931348623157E+308</Min>
+              <Name>Value</Name>
+              <PlotStyle>Bar</PlotStyle>
+            </Plot>
+          </Plots>
+          <SelectedValueSeries>0</SelectedValueSeries>
+          <InputPlot>0</InputPlot>
+          <IsTradingHoursBreakLineVisible>true</IsTradingHoursBreakLineVisible>
+          <DrawHorizontalGridLines>true</DrawHorizontalGridLines>
+          <DrawVerticalGridLines>true</DrawVerticalGridLines>
+          <DrawOnPricePanel>false</DrawOnPricePanel>
+          <PaintPriceMarkers>true</PaintPriceMarkers>
+          <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
+          <IndicatorId>1461</IndicatorId>
+          <MaxSerialized>0</MaxSerialized>
+          <MinSerialized>0</MinSerialized>
+          <ZOrder>10006</ZOrder>
+          <SettingsSerialized>eyJJc1VwQ2xvc2VCYXIiOnRydWUsIklzRG93bkNsb3NlQmFyIjp0cnVlLCJVcENsb3NlVmFsdWUiOjEuMCwiVXBDbG9zZUxpdmVWYWx1ZSI6LTEuMCwiRG93bkNsb3NlVmFsdWUiOjEuMCwiRG93bkNsb3NlTGl2ZVZhbHVlIjotMS4wfQ==</SettingsSerialized>
+          <UserSettingsSerialized>e30=</UserSettingsSerialized>
+          <TrappedOrdersRequireReversalBar>true</TrappedOrdersRequireReversalBar>
+          <TrappedOrdersRequireDRConfirmation>true</TrappedOrdersRequireDRConfirmation>
+          <TrappedOrdersDeviationReversalStrength>22</TrappedOrdersDeviationReversalStrength>
+          <TrappedOrdersDeviationReversalNumBars>2</TrappedOrdersDeviationReversalNumBars>
+          <TrappedOrdersExcludeChop>true</TrappedOrdersExcludeChop>
+          <TrappedOrdersExcludeDoubleClusters>true</TrappedOrdersExcludeDoubleClusters>
         </ApexOrderPrintsDetector_TrappedOrdersWithExauhstionBox>
         <Input>
           <PriceType>Close</PriceType>
@@ -1451,7 +1532,7 @@
     </Properties>
     <ChartPanels>
       <ChartPanel>
-        <Height>618</Height>
+        <Height>720</Height>
         <HoldChartTraderOrders>false</HoldChartTraderOrders>
         <IsMaximized>false</IsMaximized>
         <Right>
@@ -1465,8 +1546,8 @@
             <AutoScaleMarginLower>30</AutoScaleMarginLower>
             <AutoScaleMarginUpper>30</AutoScaleMarginUpper>
             <YAxisScalingType>Linear</YAxisScalingType>
-            <FixedScaleMaxSerialize>3458.5</FixedScaleMaxSerialize>
-            <FixedScaleMinSerialize>3431.5</FixedScaleMinSerialize>
+            <FixedScaleMaxSerialize>3282.5</FixedScaleMaxSerialize>
+            <FixedScaleMinSerialize>3237</FixedScaleMinSerialize>
           </ChartScaleProperties>
         </Right>
         <Left>
@@ -1501,7 +1582,7 @@
         </Overlay>
       </ChartPanel>
       <ChartPanel>
-        <Height>46</Height>
+        <Height>54</Height>
         <HoldChartTraderOrders>false</HoldChartTraderOrders>
         <IsMaximized>false</IsMaximized>
         <Right>
@@ -1515,7 +1596,7 @@
             <AutoScaleMarginLower>6</AutoScaleMarginLower>
             <AutoScaleMarginUpper>6</AutoScaleMarginUpper>
             <YAxisScalingType>Linear</YAxisScalingType>
-            <FixedScaleMaxSerialize>1.9511257550803882</FixedScaleMaxSerialize>
+            <FixedScaleMaxSerialize>1.9019034426170742</FixedScaleMaxSerialize>
             <FixedScaleMinSerialize>0</FixedScaleMinSerialize>
           </ChartScaleProperties>
         </Right>
@@ -1551,7 +1632,7 @@
         </Overlay>
       </ChartPanel>
       <ChartPanel>
-        <Height>43</Height>
+        <Height>50</Height>
         <HoldChartTraderOrders>false</HoldChartTraderOrders>
         <IsMaximized>false</IsMaximized>
         <Right>
