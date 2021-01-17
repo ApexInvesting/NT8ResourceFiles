@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <NinjaTrader>
   <NTTabPage>
     <InstrumentLink>0</InstrumentLink>
@@ -2097,19 +2097,19 @@
             <NumberNegativePattern>1</NumberNegativePattern>
             <PercentPositivePattern>1</PercentPositivePattern>
             <PercentNegativePattern>1</PercentNegativePattern>
-            <NegativeInfinitySymbol>-∞</NegativeInfinitySymbol>
+            <NegativeInfinitySymbol>-???</NegativeInfinitySymbol>
             <NegativeSign>-</NegativeSign>
             <NumberDecimalDigits>2</NumberDecimalDigits>
             <NumberDecimalSeparator>.</NumberDecimalSeparator>
             <NumberGroupSeparator>,</NumberGroupSeparator>
             <CurrencyPositivePattern>0</CurrencyPositivePattern>
-            <PositiveInfinitySymbol>∞</PositiveInfinitySymbol>
+            <PositiveInfinitySymbol>???</PositiveInfinitySymbol>
             <PositiveSign>+</PositiveSign>
             <PercentDecimalDigits>2</PercentDecimalDigits>
             <PercentDecimalSeparator>.</PercentDecimalSeparator>
             <PercentGroupSeparator>,</PercentGroupSeparator>
             <PercentSymbol>%</PercentSymbol>
-            <PerMilleSymbol>‰</PerMilleSymbol>
+            <PerMilleSymbol>???</PerMilleSymbol>
             <NativeDigits>
               <string>0</string>
               <string>1</string>
@@ -2403,19 +2403,19 @@
             <NumberNegativePattern>1</NumberNegativePattern>
             <PercentPositivePattern>1</PercentPositivePattern>
             <PercentNegativePattern>1</PercentNegativePattern>
-            <NegativeInfinitySymbol>-∞</NegativeInfinitySymbol>
+            <NegativeInfinitySymbol>-???</NegativeInfinitySymbol>
             <NegativeSign>-</NegativeSign>
             <NumberDecimalDigits>2</NumberDecimalDigits>
             <NumberDecimalSeparator>.</NumberDecimalSeparator>
             <NumberGroupSeparator>,</NumberGroupSeparator>
             <CurrencyPositivePattern>0</CurrencyPositivePattern>
-            <PositiveInfinitySymbol>∞</PositiveInfinitySymbol>
+            <PositiveInfinitySymbol>???</PositiveInfinitySymbol>
             <PositiveSign>+</PositiveSign>
             <PercentDecimalDigits>2</PercentDecimalDigits>
             <PercentDecimalSeparator>.</PercentDecimalSeparator>
             <PercentGroupSeparator>,</PercentGroupSeparator>
             <PercentSymbol>%</PercentSymbol>
-            <PerMilleSymbol>‰</PerMilleSymbol>
+            <PerMilleSymbol>???</PerMilleSymbol>
             <NativeDigits>
               <string>0</string>
               <string>1</string>
@@ -2709,19 +2709,19 @@
             <NumberNegativePattern>1</NumberNegativePattern>
             <PercentPositivePattern>1</PercentPositivePattern>
             <PercentNegativePattern>1</PercentNegativePattern>
-            <NegativeInfinitySymbol>-∞</NegativeInfinitySymbol>
+            <NegativeInfinitySymbol>-???</NegativeInfinitySymbol>
             <NegativeSign>-</NegativeSign>
             <NumberDecimalDigits>2</NumberDecimalDigits>
             <NumberDecimalSeparator>.</NumberDecimalSeparator>
             <NumberGroupSeparator>,</NumberGroupSeparator>
             <CurrencyPositivePattern>0</CurrencyPositivePattern>
-            <PositiveInfinitySymbol>∞</PositiveInfinitySymbol>
+            <PositiveInfinitySymbol>???</PositiveInfinitySymbol>
             <PositiveSign>+</PositiveSign>
             <PercentDecimalDigits>2</PercentDecimalDigits>
             <PercentDecimalSeparator>.</PercentDecimalSeparator>
             <PercentGroupSeparator>,</PercentGroupSeparator>
             <PercentSymbol>%</PercentSymbol>
-            <PerMilleSymbol>‰</PerMilleSymbol>
+            <PerMilleSymbol>???</PerMilleSymbol>
             <NativeDigits>
               <string>0</string>
               <string>1</string>
@@ -3021,19 +3021,19 @@
             <NumberNegativePattern>1</NumberNegativePattern>
             <PercentPositivePattern>1</PercentPositivePattern>
             <PercentNegativePattern>1</PercentNegativePattern>
-            <NegativeInfinitySymbol>-∞</NegativeInfinitySymbol>
+            <NegativeInfinitySymbol>-???</NegativeInfinitySymbol>
             <NegativeSign>-</NegativeSign>
             <NumberDecimalDigits>2</NumberDecimalDigits>
             <NumberDecimalSeparator>.</NumberDecimalSeparator>
             <NumberGroupSeparator>,</NumberGroupSeparator>
             <CurrencyPositivePattern>0</CurrencyPositivePattern>
-            <PositiveInfinitySymbol>∞</PositiveInfinitySymbol>
+            <PositiveInfinitySymbol>???</PositiveInfinitySymbol>
             <PositiveSign>+</PositiveSign>
             <PercentDecimalDigits>2</PercentDecimalDigits>
             <PercentDecimalSeparator>.</PercentDecimalSeparator>
             <PercentGroupSeparator>,</PercentGroupSeparator>
             <PercentSymbol>%</PercentSymbol>
-            <PerMilleSymbol>‰</PerMilleSymbol>
+            <PerMilleSymbol>???</PerMilleSymbol>
             <NativeDigits>
               <string>0</string>
               <string>1</string>
@@ -3330,19 +3330,19 @@
             <NumberNegativePattern>1</NumberNegativePattern>
             <PercentPositivePattern>1</PercentPositivePattern>
             <PercentNegativePattern>1</PercentNegativePattern>
-            <NegativeInfinitySymbol>-∞</NegativeInfinitySymbol>
+            <NegativeInfinitySymbol>-???</NegativeInfinitySymbol>
             <NegativeSign>-</NegativeSign>
             <NumberDecimalDigits>2</NumberDecimalDigits>
             <NumberDecimalSeparator>.</NumberDecimalSeparator>
             <NumberGroupSeparator>,</NumberGroupSeparator>
             <CurrencyPositivePattern>0</CurrencyPositivePattern>
-            <PositiveInfinitySymbol>∞</PositiveInfinitySymbol>
+            <PositiveInfinitySymbol>???</PositiveInfinitySymbol>
             <PositiveSign>+</PositiveSign>
             <PercentDecimalDigits>2</PercentDecimalDigits>
             <PercentDecimalSeparator>.</PercentDecimalSeparator>
             <PercentGroupSeparator>,</PercentGroupSeparator>
             <PercentSymbol>%</PercentSymbol>
-            <PerMilleSymbol>‰</PerMilleSymbol>
+            <PerMilleSymbol>???</PerMilleSymbol>
             <NativeDigits>
               <string>0</string>
               <string>1</string>
@@ -3647,19 +3647,19 @@
             <NumberNegativePattern>1</NumberNegativePattern>
             <PercentPositivePattern>1</PercentPositivePattern>
             <PercentNegativePattern>1</PercentNegativePattern>
-            <NegativeInfinitySymbol>-∞</NegativeInfinitySymbol>
+            <NegativeInfinitySymbol>-???</NegativeInfinitySymbol>
             <NegativeSign>-</NegativeSign>
             <NumberDecimalDigits>2</NumberDecimalDigits>
             <NumberDecimalSeparator>.</NumberDecimalSeparator>
             <NumberGroupSeparator>,</NumberGroupSeparator>
             <CurrencyPositivePattern>0</CurrencyPositivePattern>
-            <PositiveInfinitySymbol>∞</PositiveInfinitySymbol>
+            <PositiveInfinitySymbol>???</PositiveInfinitySymbol>
             <PositiveSign>+</PositiveSign>
             <PercentDecimalDigits>2</PercentDecimalDigits>
             <PercentDecimalSeparator>.</PercentDecimalSeparator>
             <PercentGroupSeparator>,</PercentGroupSeparator>
             <PercentSymbol>%</PercentSymbol>
-            <PerMilleSymbol>‰</PerMilleSymbol>
+            <PerMilleSymbol>???</PerMilleSymbol>
             <NativeDigits>
               <string>0</string>
               <string>1</string>
