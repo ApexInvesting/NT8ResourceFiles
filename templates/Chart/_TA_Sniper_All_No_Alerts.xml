@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <NinjaTrader>
   <NTTabPage>
     <InstrumentLink>0</InstrumentLink>
@@ -50,8 +50,8 @@
           <PositionPenLoserSerialize>DEFAULT</PositionPenLoserSerialize>
           <PositionPenWinnerSerialize>DEFAULT</PositionPenWinnerSerialize>
           <ShortExecutionBrushSerialize>DEFAULT</ShortExecutionBrushSerialize>
-          <BarsSeriesId>9a1163b3d24a4e43a3dfe96aeb396188</BarsSeriesId>
-          <Id>012cf79c58ac453bb647e3b72b8c12a3</Id>
+          <BarsSeriesId>839809fa626541c581ecd5a6b191e1f1</BarsSeriesId>
+          <Id>be00a109397849c09c845cf9b45c0892</Id>
           <Instrument>NQ 03-21</Instrument>
           <IsLinked>true</IsLinked>
           <IsPrimarySeries>true</IsPrimarySeries>
@@ -101,11 +101,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2020-12-15T00:00:00</From>
+          <From>2021-01-20T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2020-12-18T00:00:00</To>
+          <To>2021-01-23T00:00:00</To>
           <Calculate>OnEachTick</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>false</IsAutoScale>
@@ -154,11 +154,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2020-12-15T00:00:00</From>
+          <From>2021-01-20T00:00:00</From>
           <Panel>2</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2020-12-18T00:00:00</To>
+          <To>2021-01-23T00:00:00</To>
           <Calculate>OnBarClose</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -225,11 +225,11 @@
               </BarsPeriodSerializable>
               <BarsToLoad>0</BarsToLoad>
               <DisplayInDataBox>true</DisplayInDataBox>
-              <From>2020-12-15T00:00:00</From>
+              <From>2021-01-20T00:00:00</From>
               <Panel>0</Panel>
               <ScaleJustification>Right</ScaleJustification>
               <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-              <To>2020-12-18T00:00:00</To>
+              <To>2021-01-23T00:00:00</To>
               <Calculate>OnBarClose</Calculate>
               <Displacement>0</Displacement>
               <IsAutoScale>true</IsAutoScale>
@@ -301,11 +301,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2020-12-15T00:00:00</From>
+          <From>2021-01-20T00:00:00</From>
           <Panel>2</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2020-12-18T00:00:00</To>
+          <To>2021-01-23T00:00:00</To>
           <Calculate>OnBarClose</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -372,11 +372,11 @@
               </BarsPeriodSerializable>
               <BarsToLoad>0</BarsToLoad>
               <DisplayInDataBox>true</DisplayInDataBox>
-              <From>2020-12-15T00:00:00</From>
+              <From>2021-01-20T00:00:00</From>
               <Panel>0</Panel>
               <ScaleJustification>Right</ScaleJustification>
               <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-              <To>2020-12-18T00:00:00</To>
+              <To>2021-01-23T00:00:00</To>
               <Calculate>OnBarClose</Calculate>
               <Displacement>0</Displacement>
               <IsAutoScale>true</IsAutoScale>
@@ -448,11 +448,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2020-12-15T00:00:00</From>
+          <From>2021-01-20T00:00:00</From>
           <Panel>2</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2020-12-18T00:00:00</To>
+          <To>2021-01-23T00:00:00</To>
           <Calculate>OnBarClose</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -519,11 +519,11 @@
               </BarsPeriodSerializable>
               <BarsToLoad>0</BarsToLoad>
               <DisplayInDataBox>true</DisplayInDataBox>
-              <From>2020-12-15T00:00:00</From>
+              <From>2021-01-20T00:00:00</From>
               <Panel>0</Panel>
               <ScaleJustification>Right</ScaleJustification>
               <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-              <To>2020-12-18T00:00:00</To>
+              <To>2021-01-23T00:00:00</To>
               <Calculate>OnBarClose</Calculate>
               <Displacement>0</Displacement>
               <IsAutoScale>true</IsAutoScale>
@@ -598,11 +598,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2020-12-15T00:00:00</From>
+          <From>2021-01-20T00:00:00</From>
           <Panel>2</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2020-12-18T00:00:00</To>
+          <To>2021-01-23T00:00:00</To>
           <Calculate>OnBarClose</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -669,11 +669,11 @@
               </BarsPeriodSerializable>
               <BarsToLoad>0</BarsToLoad>
               <DisplayInDataBox>true</DisplayInDataBox>
-              <From>2020-12-15T00:00:00</From>
+              <From>2021-01-20T00:00:00</From>
               <Panel>0</Panel>
               <ScaleJustification>Right</ScaleJustification>
               <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-              <To>2020-12-18T00:00:00</To>
+              <To>2021-01-23T00:00:00</To>
               <Calculate>OnBarClose</Calculate>
               <Displacement>0</Displacement>
               <IsAutoScale>true</IsAutoScale>
@@ -748,11 +748,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2020-12-15T00:00:00</From>
+          <From>2021-01-20T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2020-12-18T00:00:00</To>
+          <To>2021-01-23T00:00:00</To>
           <Calculate>OnBarClose</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -801,11 +801,11 @@
               </BarsPeriodSerializable>
               <BarsToLoad>0</BarsToLoad>
               <DisplayInDataBox>true</DisplayInDataBox>
-              <From>2020-12-15T00:00:00</From>
+              <From>2021-01-20T00:00:00</From>
               <Panel>0</Panel>
               <ScaleJustification>Right</ScaleJustification>
               <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-              <To>2020-12-18T00:00:00</To>
+              <To>2021-01-23T00:00:00</To>
               <Calculate>OnBarClose</Calculate>
               <Displacement>0</Displacement>
               <IsAutoScale>true</IsAutoScale>
@@ -877,18 +877,18 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>false</DisplayInDataBox>
-          <From>2020-12-15T00:00:00</From>
+          <From>2021-01-20T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2020-12-18T00:00:00</To>
+          <To>2021-01-23T00:00:00</To>
           <Calculate>OnEachTick</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
           <IsDataSeriesRequired>true</IsDataSeriesRequired>
           <IsOverlay>true</IsOverlay>
           <Lines />
-          <MaximumBarsLookBack>Infinite</MaximumBarsLookBack>
+          <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
           <Name>Apex Sniper DTX  [Triangle UP]                    </Name>
           <Plots>
             <Plot>
@@ -936,19 +936,19 @@
             <NumberNegativePattern>1</NumberNegativePattern>
             <PercentPositivePattern>1</PercentPositivePattern>
             <PercentNegativePattern>1</PercentNegativePattern>
-            <NegativeInfinitySymbol>-???</NegativeInfinitySymbol>
+            <NegativeInfinitySymbol>-∞</NegativeInfinitySymbol>
             <NegativeSign>-</NegativeSign>
             <NumberDecimalDigits>2</NumberDecimalDigits>
             <NumberDecimalSeparator>.</NumberDecimalSeparator>
             <NumberGroupSeparator>,</NumberGroupSeparator>
             <CurrencyPositivePattern>0</CurrencyPositivePattern>
-            <PositiveInfinitySymbol>???</PositiveInfinitySymbol>
+            <PositiveInfinitySymbol>∞</PositiveInfinitySymbol>
             <PositiveSign>+</PositiveSign>
             <PercentDecimalDigits>2</PercentDecimalDigits>
             <PercentDecimalSeparator>.</PercentDecimalSeparator>
             <PercentGroupSeparator>,</PercentGroupSeparator>
             <PercentSymbol>%</PercentSymbol>
-            <PerMilleSymbol>???</PerMilleSymbol>
+            <PerMilleSymbol>‰</PerMilleSymbol>
             <NativeDigits>
               <string>0</string>
               <string>1</string>
@@ -1062,11 +1062,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2020-12-15T00:00:00</From>
+          <From>2021-01-20T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2020-12-18T00:00:00</To>
+          <To>2021-01-23T00:00:00</To>
           <Calculate>OnBarClose</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -1115,11 +1115,11 @@
               </BarsPeriodSerializable>
               <BarsToLoad>0</BarsToLoad>
               <DisplayInDataBox>true</DisplayInDataBox>
-              <From>2020-12-15T00:00:00</From>
+              <From>2021-01-20T00:00:00</From>
               <Panel>0</Panel>
               <ScaleJustification>Right</ScaleJustification>
               <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-              <To>2020-12-18T00:00:00</To>
+              <To>2021-01-23T00:00:00</To>
               <Calculate>OnBarClose</Calculate>
               <Displacement>0</Displacement>
               <IsAutoScale>true</IsAutoScale>
@@ -1194,18 +1194,18 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>false</DisplayInDataBox>
-          <From>2020-12-15T00:00:00</From>
+          <From>2021-01-20T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2020-12-18T00:00:00</To>
+          <To>2021-01-23T00:00:00</To>
           <Calculate>OnEachTick</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
           <IsDataSeriesRequired>true</IsDataSeriesRequired>
           <IsOverlay>true</IsOverlay>
           <Lines />
-          <MaximumBarsLookBack>Infinite</MaximumBarsLookBack>
+          <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
           <Name>Apex Sniper TX Filtered  [Arrow]                 </Name>
           <Plots>
             <Plot>
@@ -1253,19 +1253,19 @@
             <NumberNegativePattern>1</NumberNegativePattern>
             <PercentPositivePattern>1</PercentPositivePattern>
             <PercentNegativePattern>1</PercentNegativePattern>
-            <NegativeInfinitySymbol>-???</NegativeInfinitySymbol>
+            <NegativeInfinitySymbol>-∞</NegativeInfinitySymbol>
             <NegativeSign>-</NegativeSign>
             <NumberDecimalDigits>2</NumberDecimalDigits>
             <NumberDecimalSeparator>.</NumberDecimalSeparator>
             <NumberGroupSeparator>,</NumberGroupSeparator>
             <CurrencyPositivePattern>0</CurrencyPositivePattern>
-            <PositiveInfinitySymbol>???</PositiveInfinitySymbol>
+            <PositiveInfinitySymbol>∞</PositiveInfinitySymbol>
             <PositiveSign>+</PositiveSign>
             <PercentDecimalDigits>2</PercentDecimalDigits>
             <PercentDecimalSeparator>.</PercentDecimalSeparator>
             <PercentGroupSeparator>,</PercentGroupSeparator>
             <PercentSymbol>%</PercentSymbol>
-            <PerMilleSymbol>???</PerMilleSymbol>
+            <PerMilleSymbol>‰</PerMilleSymbol>
             <NativeDigits>
               <string>0</string>
               <string>1</string>
@@ -1374,11 +1374,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2020-12-15T00:00:00</From>
+          <From>2021-01-20T00:00:00</From>
           <Panel>1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2020-12-18T00:00:00</To>
+          <To>2021-01-23T00:00:00</To>
           <Calculate>OnEachTick</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>false</IsAutoScale>
@@ -1451,7 +1451,7 @@
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
           <ZOrder>10006</ZOrder>
-          <SettingsSerialized>eyJTdHJlbmd0aCI6MjJ9</SettingsSerialized>
+          <SettingsSerialized>eyJTdHJlbmd0aCI6MjIsIkxlZ2FjeUFsZ29yaXRobSI6ZmFsc2V9</SettingsSerialized>
           <UserSettingsSerialized>eyJBdXRvQmFyV2lkdGgiOnRydWUsIkxldmVsMUFsZXJ0cyI6eyJ2aXN1YWwiOmZhbHNlLCJhdWRpYmxlIjpmYWxzZSwid2luZG93Rmxhc2giOmZhbHNlfSwiTGV2ZWwyQWxlcnRzIjp7InZpc3VhbCI6ZmFsc2UsImF1ZGlibGUiOmZhbHNlLCJ3aW5kb3dGbGFzaCI6ZmFsc2V9LCJVcENvbG9yIjoiI0ZGMzJDRDMyIiwiRG93bkNvbG9yIjoiI0ZGRkYwMDAwIn0=</UserSettingsSerialized>
         </ApexDeviationReversal>
         <Input>
@@ -1476,11 +1476,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>false</DisplayInDataBox>
-          <From>2020-12-15T00:00:00</From>
+          <From>2021-01-20T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2020-12-18T00:00:00</To>
+          <To>2021-01-23T00:00:00</To>
           <Calculate>OnBarClose</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -1528,11 +1528,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>false</DisplayInDataBox>
-          <From>2020-12-15T00:00:00</From>
+          <From>2021-01-20T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2020-12-18T00:00:00</To>
+          <To>2021-01-23T00:00:00</To>
           <Calculate>OnBarClose</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -1580,11 +1580,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2020-12-15T00:00:00</From>
+          <From>2021-01-20T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2020-12-18T00:00:00</To>
+          <To>2021-01-23T00:00:00</To>
           <Calculate>OnBarClose</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -1632,11 +1632,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>false</DisplayInDataBox>
-          <From>2020-12-15T00:00:00</From>
+          <From>2021-01-20T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2020-12-18T00:00:00</To>
+          <To>2021-01-23T00:00:00</To>
           <Calculate>OnPriceChange</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -1709,11 +1709,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>false</DisplayInDataBox>
-          <From>2020-12-15T00:00:00</From>
+          <From>2021-01-20T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2020-12-18T00:00:00</To>
+          <To>2021-01-23T00:00:00</To>
           <Calculate>OnPriceChange</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>false</IsAutoScale>
@@ -1786,11 +1786,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>false</DisplayInDataBox>
-          <From>2020-12-15T00:00:00</From>
+          <From>2021-01-20T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2020-12-18T00:00:00</To>
+          <To>2021-01-23T00:00:00</To>
           <Calculate>OnPriceChange</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>false</IsAutoScale>
@@ -1863,11 +1863,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2020-12-15T00:00:00</From>
+          <From>2021-01-20T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2020-12-18T00:00:00</To>
+          <To>2021-01-23T00:00:00</To>
           <Calculate>OnEachTick</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>false</IsAutoScale>
@@ -1928,11 +1928,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>false</DisplayInDataBox>
-          <From>2020-12-15T00:00:00</From>
+          <From>2021-01-20T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2020-12-18T00:00:00</To>
+          <To>2021-01-23T00:00:00</To>
           <Calculate>OnPriceChange</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>false</IsAutoScale>
@@ -1980,11 +1980,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2020-12-15T00:00:00</From>
+          <From>2021-01-20T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2020-12-18T00:00:00</To>
+          <To>2021-01-23T00:00:00</To>
           <Calculate>OnPriceChange</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>false</IsAutoScale>
@@ -2069,11 +2069,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>false</DisplayInDataBox>
-          <From>2020-12-15T00:00:00</From>
+          <From>2021-01-20T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2020-12-18T00:00:00</To>
+          <To>2021-01-23T00:00:00</To>
           <Calculate>OnPriceChange</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -2134,11 +2134,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>false</DisplayInDataBox>
-          <From>2020-12-15T00:00:00</From>
+          <From>2021-01-20T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2020-12-18T00:00:00</To>
+          <To>2021-01-23T00:00:00</To>
           <Calculate>OnBarClose</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>false</IsAutoScale>
@@ -2186,11 +2186,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>false</DisplayInDataBox>
-          <From>2020-12-15T00:00:00</From>
+          <From>2021-01-20T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2020-12-18T00:00:00</To>
+          <To>2021-01-23T00:00:00</To>
           <Calculate>OnBarClose</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>false</IsAutoScale>
@@ -2208,7 +2208,7 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>true</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>1623</IndicatorId>
+          <IndicatorId>6918</IndicatorId>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
           <ZOrder>10019</ZOrder>
@@ -2237,11 +2237,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2020-12-15T00:00:00</From>
+          <From>2021-01-20T00:00:00</From>
           <Panel>3</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2020-12-18T00:00:00</To>
+          <To>2021-01-23T00:00:00</To>
           <Calculate>OnEachTick</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -2312,11 +2312,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2020-12-15T00:00:00</From>
+          <From>2021-01-20T00:00:00</From>
           <Panel>3</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2020-12-18T00:00:00</To>
+          <To>2021-01-23T00:00:00</To>
           <Calculate>OnEachTick</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -2387,11 +2387,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2020-12-15T00:00:00</From>
+          <From>2021-01-20T00:00:00</From>
           <Panel>3</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2020-12-18T00:00:00</To>
+          <To>2021-01-23T00:00:00</To>
           <Calculate>OnEachTick</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -2462,11 +2462,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2020-12-15T00:00:00</From>
+          <From>2021-01-20T00:00:00</From>
           <Panel>3</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2020-12-18T00:00:00</To>
+          <To>2021-01-23T00:00:00</To>
           <Calculate>OnEachTick</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -2507,7 +2507,7 @@
           <DrawOnPricePanel>false</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>143</IndicatorId>
+          <IndicatorId>142</IndicatorId>
           <InstrumentDeserialized>NQ 03-21 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -2522,87 +2522,7 @@
           <TrappedOrdersExcludeDoubleClusters>false</TrappedOrdersExcludeDoubleClusters>
         </ApexOrderPrintsDetector_TrappedOrdersWithExauhstionBox>
         <Input>
-          <ClassName>NinjaTrader.NinjaScript.Indicators.ApexOrderPrintsDetector_TrappedOrdersWithExauhstionBox</ClassName>
-          <Input>
-            <PriceType>Close</PriceType>
-          </Input>
-          <Indicator>
-            <ApexOrderPrintsDetector_TrappedOrdersWithExauhstionBox xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <IsVisible>true</IsVisible>
-              <AreLinesConfigurable>true</AreLinesConfigurable>
-              <ArePlotsConfigurable>true</ArePlotsConfigurable>
-              <BarsPeriodSerializable>
-                <BarsPeriodTypeSerialize>5132</BarsPeriodTypeSerialize>
-                <BaseBarsPeriodType>Tick</BaseBarsPeriodType>
-                <BaseBarsPeriodValue>100</BaseBarsPeriodValue>
-                <VolumetricDeltaType>BidAsk</VolumetricDeltaType>
-                <MarketDataType>Last</MarketDataType>
-                <PointAndFigurePriceType>Close</PointAndFigurePriceType>
-                <ReversalType>Tick</ReversalType>
-                <Value>10</Value>
-                <Value2>50</Value2>
-              </BarsPeriodSerializable>
-              <BarsToLoad>0</BarsToLoad>
-              <DisplayInDataBox>true</DisplayInDataBox>
-              <From>2020-12-15T00:00:00</From>
-              <Panel>0</Panel>
-              <ScaleJustification>Right</ScaleJustification>
-              <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-              <To>2020-12-18T00:00:00</To>
-              <Calculate>OnEachTick</Calculate>
-              <Displacement>0</Displacement>
-              <IsAutoScale>true</IsAutoScale>
-              <IsDataSeriesRequired>true</IsDataSeriesRequired>
-              <IsOverlay>false</IsOverlay>
-              <Lines>
-                <Line>
-                  <IsOpacityVisible>false</IsOpacityVisible>
-                  <BrushSerialize>&lt;SolidColorBrush xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;#FF000000&lt;/SolidColorBrush&gt;</BrushSerialize>
-                  <DashStyleHelper>Solid</DashStyleHelper>
-                  <Opacity>100</Opacity>
-                  <Width>1</Width>
-                  <Name>Zero</Name>
-                  <Value>0</Value>
-                </Line>
-              </Lines>
-              <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
-              <Name>_APEX Order Prints Trapped Orders with Exhaustion Box Detector</Name>
-              <Plots>
-                <Plot>
-                  <IsOpacityVisible>false</IsOpacityVisible>
-                  <BrushSerialize>&lt;SolidColorBrush xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;#FFFF1493&lt;/SolidColorBrush&gt;</BrushSerialize>
-                  <DashStyleHelper>Solid</DashStyleHelper>
-                  <Opacity>100</Opacity>
-                  <Width>4</Width>
-                  <AutoWidth>false</AutoWidth>
-                  <Max>1.7976931348623157E+308</Max>
-                  <Min>-1.7976931348623157E+308</Min>
-                  <Name>Value</Name>
-                  <PlotStyle>Bar</PlotStyle>
-                </Plot>
-              </Plots>
-              <SelectedValueSeries>0</SelectedValueSeries>
-              <InputPlot>0</InputPlot>
-              <IsTradingHoursBreakLineVisible>true</IsTradingHoursBreakLineVisible>
-              <DrawHorizontalGridLines>true</DrawHorizontalGridLines>
-              <DrawVerticalGridLines>true</DrawVerticalGridLines>
-              <DrawOnPricePanel>false</DrawOnPricePanel>
-              <PaintPriceMarkers>true</PaintPriceMarkers>
-              <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-              <IndicatorId>6642</IndicatorId>
-              <MaxSerialized>0</MaxSerialized>
-              <MinSerialized>0</MinSerialized>
-              <ZOrder>-2147483648</ZOrder>
-              <SettingsSerialized>eyJJc1VwQ2xvc2VCYXIiOnRydWUsIklzRG93bkNsb3NlQmFyIjp0cnVlLCJVc2VQcmljZVZhbHVlIjpmYWxzZSwiVGlja09mZnNldCI6MCwiVXBDbG9zZVZhbHVlIjoxLjAsIlVwQ2xvc2VMaXZlVmFsdWUiOi0xLjAsIkRvd25DbG9zZVZhbHVlIjoxLjAsIkRvd25DbG9zZUxpdmVWYWx1ZSI6LTEuMH0=</SettingsSerialized>
-              <UserSettingsSerialized>e30=</UserSettingsSerialized>
-              <TrappedOrdersRequireReversalBar>true</TrappedOrdersRequireReversalBar>
-              <TrappedOrdersRequireDRConfirmation>false</TrappedOrdersRequireDRConfirmation>
-              <TrappedOrdersDeviationReversalStrength>22</TrappedOrdersDeviationReversalStrength>
-              <TrappedOrdersDeviationReversalNumBars>2</TrappedOrdersDeviationReversalNumBars>
-              <TrappedOrdersExcludeChop>false</TrappedOrdersExcludeChop>
-              <TrappedOrdersExcludeDoubleClusters>false</TrappedOrdersExcludeDoubleClusters>
-            </ApexOrderPrintsDetector_TrappedOrdersWithExauhstionBox>
-          </Indicator>
+          <PriceType>Close</PriceType>
         </Input>
       </Indicator>
       <Indicator BarsIndex="0" Instrument="NQ 03-21 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexOrderPrintsDetector_DoubleTX" Panel="3" DisplayName="DTX(2,22,False)">
@@ -2623,11 +2543,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2020-12-15T00:00:00</From>
+          <From>2021-01-20T00:00:00</From>
           <Panel>3</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2020-12-18T00:00:00</To>
+          <To>2021-01-23T00:00:00</To>
           <Calculate>OnEachTick</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -2668,7 +2588,7 @@
           <DrawOnPricePanel>false</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>146</IndicatorId>
+          <IndicatorId>145</IndicatorId>
           <InstrumentDeserialized>NQ 03-21 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -2701,12 +2621,12 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2020-12-15T00:00:00</From>
+          <From>2021-01-20T00:00:00</From>
           <Panel>3</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2020-12-18T00:00:00</To>
-          <Calculate>OnBarClose</Calculate>
+          <To>2021-01-23T00:00:00</To>
+          <Calculate>OnEachTick</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
           <IsDataSeriesRequired>true</IsDataSeriesRequired>
@@ -2744,9 +2664,9 @@
           <DrawHorizontalGridLines>true</DrawHorizontalGridLines>
           <DrawVerticalGridLines>true</DrawVerticalGridLines>
           <DrawOnPricePanel>false</DrawOnPricePanel>
-          <PaintPriceMarkers>true</PaintPriceMarkers>
+          <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>150</IndicatorId>
+          <IndicatorId>148</IndicatorId>
           <InstrumentDeserialized>NQ 03-21 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -2761,87 +2681,7 @@
           <TrappedOrdersExcludeDoubleClusters>true</TrappedOrdersExcludeDoubleClusters>
         </ApexOrderPrintsDetector_TrappedOrdersWithExauhstionBox>
         <Input>
-          <ClassName>NinjaTrader.NinjaScript.Indicators.ApexOrderPrintsDetector_TrappedOrdersWithExauhstionBox</ClassName>
-          <Input>
-            <PriceType>Close</PriceType>
-          </Input>
-          <Indicator>
-            <ApexOrderPrintsDetector_TrappedOrdersWithExauhstionBox xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-              <IsVisible>true</IsVisible>
-              <AreLinesConfigurable>true</AreLinesConfigurable>
-              <ArePlotsConfigurable>true</ArePlotsConfigurable>
-              <BarsPeriodSerializable>
-                <BarsPeriodTypeSerialize>5132</BarsPeriodTypeSerialize>
-                <BaseBarsPeriodType>Tick</BaseBarsPeriodType>
-                <BaseBarsPeriodValue>100</BaseBarsPeriodValue>
-                <VolumetricDeltaType>BidAsk</VolumetricDeltaType>
-                <MarketDataType>Last</MarketDataType>
-                <PointAndFigurePriceType>Close</PointAndFigurePriceType>
-                <ReversalType>Tick</ReversalType>
-                <Value>10</Value>
-                <Value2>50</Value2>
-              </BarsPeriodSerializable>
-              <BarsToLoad>0</BarsToLoad>
-              <DisplayInDataBox>true</DisplayInDataBox>
-              <From>2020-12-15T00:00:00</From>
-              <Panel>0</Panel>
-              <ScaleJustification>Right</ScaleJustification>
-              <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-              <To>2020-12-18T00:00:00</To>
-              <Calculate>OnBarClose</Calculate>
-              <Displacement>0</Displacement>
-              <IsAutoScale>true</IsAutoScale>
-              <IsDataSeriesRequired>true</IsDataSeriesRequired>
-              <IsOverlay>false</IsOverlay>
-              <Lines>
-                <Line>
-                  <IsOpacityVisible>false</IsOpacityVisible>
-                  <BrushSerialize>&lt;SolidColorBrush xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;#FF000000&lt;/SolidColorBrush&gt;</BrushSerialize>
-                  <DashStyleHelper>Solid</DashStyleHelper>
-                  <Opacity>100</Opacity>
-                  <Width>1</Width>
-                  <Name>Zero</Name>
-                  <Value>0</Value>
-                </Line>
-              </Lines>
-              <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
-              <Name>_APEX Order Prints Trapped Orders with Exhaustion Box Detector</Name>
-              <Plots>
-                <Plot>
-                  <IsOpacityVisible>false</IsOpacityVisible>
-                  <BrushSerialize>&lt;SolidColorBrush xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;#FFFF1493&lt;/SolidColorBrush&gt;</BrushSerialize>
-                  <DashStyleHelper>Solid</DashStyleHelper>
-                  <Opacity>100</Opacity>
-                  <Width>4</Width>
-                  <AutoWidth>false</AutoWidth>
-                  <Max>1.7976931348623157E+308</Max>
-                  <Min>-1.7976931348623157E+308</Min>
-                  <Name>Value</Name>
-                  <PlotStyle>Bar</PlotStyle>
-                </Plot>
-              </Plots>
-              <SelectedValueSeries>0</SelectedValueSeries>
-              <InputPlot>0</InputPlot>
-              <IsTradingHoursBreakLineVisible>true</IsTradingHoursBreakLineVisible>
-              <DrawHorizontalGridLines>true</DrawHorizontalGridLines>
-              <DrawVerticalGridLines>true</DrawVerticalGridLines>
-              <DrawOnPricePanel>false</DrawOnPricePanel>
-              <PaintPriceMarkers>true</PaintPriceMarkers>
-              <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-              <IndicatorId>6238</IndicatorId>
-              <MaxSerialized>0</MaxSerialized>
-              <MinSerialized>0</MinSerialized>
-              <ZOrder>-2147483648</ZOrder>
-              <SettingsSerialized>eyJJc1VwQ2xvc2VCYXIiOnRydWUsIklzRG93bkNsb3NlQmFyIjp0cnVlLCJVc2VQcmljZVZhbHVlIjpmYWxzZSwiVGlja09mZnNldCI6MCwiVXBDbG9zZVZhbHVlIjoxLjAsIlVwQ2xvc2VMaXZlVmFsdWUiOi0xLjAsIkRvd25DbG9zZVZhbHVlIjotMS4wLCJEb3duQ2xvc2VMaXZlVmFsdWUiOi0xLjB9</SettingsSerialized>
-              <UserSettingsSerialized>e30=</UserSettingsSerialized>
-              <TrappedOrdersRequireReversalBar>true</TrappedOrdersRequireReversalBar>
-              <TrappedOrdersRequireDRConfirmation>true</TrappedOrdersRequireDRConfirmation>
-              <TrappedOrdersDeviationReversalStrength>22</TrappedOrdersDeviationReversalStrength>
-              <TrappedOrdersDeviationReversalNumBars>2</TrappedOrdersDeviationReversalNumBars>
-              <TrappedOrdersExcludeChop>true</TrappedOrdersExcludeChop>
-              <TrappedOrdersExcludeDoubleClusters>true</TrappedOrdersExcludeDoubleClusters>
-            </ApexOrderPrintsDetector_TrappedOrdersWithExauhstionBox>
-          </Indicator>
+          <PriceType>Close</PriceType>
         </Input>
       </Indicator>
     </Indicators>
@@ -2912,7 +2752,7 @@
     </Properties>
     <ChartPanels>
       <ChartPanel>
-        <Height>690</Height>
+        <Height>755</Height>
         <HoldChartTraderOrders>false</HoldChartTraderOrders>
         <IsMaximized>false</IsMaximized>
         <Right>
@@ -2926,8 +2766,8 @@
             <AutoScaleMarginLower>40</AutoScaleMarginLower>
             <AutoScaleMarginUpper>40</AutoScaleMarginUpper>
             <YAxisScalingType>Linear</YAxisScalingType>
-            <FixedScaleMaxSerialize>12709.5</FixedScaleMaxSerialize>
-            <FixedScaleMinSerialize>12682.75</FixedScaleMinSerialize>
+            <FixedScaleMaxSerialize>13365.5</FixedScaleMaxSerialize>
+            <FixedScaleMinSerialize>13345</FixedScaleMinSerialize>
           </ChartScaleProperties>
         </Right>
         <Left>
@@ -2962,7 +2802,7 @@
         </Overlay>
       </ChartPanel>
       <ChartPanel>
-        <Height>66</Height>
+        <Height>72</Height>
         <HoldChartTraderOrders>false</HoldChartTraderOrders>
         <IsMaximized>false</IsMaximized>
         <Right>
@@ -2976,7 +2816,7 @@
             <AutoScaleMarginLower>6</AutoScaleMarginLower>
             <AutoScaleMarginUpper>6</AutoScaleMarginUpper>
             <YAxisScalingType>Linear</YAxisScalingType>
-            <FixedScaleMaxSerialize>1.9615384615380764</FixedScaleMaxSerialize>
+            <FixedScaleMaxSerialize>1.7512437810937849</FixedScaleMaxSerialize>
             <FixedScaleMinSerialize>0</FixedScaleMinSerialize>
           </ChartScaleProperties>
         </Right>
@@ -3012,7 +2852,7 @@
         </Overlay>
       </ChartPanel>
       <ChartPanel>
-        <Height>15</Height>
+        <Height>18</Height>
         <HoldChartTraderOrders>false</HoldChartTraderOrders>
         <IsMaximized>false</IsMaximized>
         <Right>
@@ -3062,7 +2902,7 @@
         </Overlay>
       </ChartPanel>
       <ChartPanel>
-        <Height>49</Height>
+        <Height>52</Height>
         <HoldChartTraderOrders>false</HoldChartTraderOrders>
         <IsMaximized>false</IsMaximized>
         <Right>
@@ -3171,6 +3011,6 @@
     <ATM>1_9_21</ATM>
     <Instrument>NQ 03-21</Instrument>
     <Quantity>1</Quantity>
-    <TIF>Day</TIF>
+    <TIF>Gtc</TIF>
   </ChartTrader>
 </NinjaTrader>
