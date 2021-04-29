@@ -40,7 +40,7 @@
           <ShowGlobalDrawObjects>true</ShowGlobalDrawObjects>
           <ScaleJustification>Right</ScaleJustification>
           <TradingHoursVisibility>AllSessions</TradingHoursVisibility>
-          <TradingHoursBreakPenSerialize>&lt;Pen Brush="#FF008000" Thickness="1" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
+          <TradingHoursBreakPenSerialize>&lt;Pen Thickness="1" Brush="#FF008000" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
   &lt;Pen.DashStyle&gt;
     &lt;DashStyle /&gt;
   &lt;/Pen.DashStyle&gt;
@@ -66,12 +66,12 @@
                 <ChartStyleTypeSerialize>1</ChartStyleTypeSerialize>
                 <DownBrushSerialize>&lt;SolidColorBrush xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;#FFFFE4C4&lt;/SolidColorBrush&gt;</DownBrushSerialize>
                 <UpBrushSerialize>&lt;SolidColorBrush xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;#00FFFFFF&lt;/SolidColorBrush&gt;</UpBrushSerialize>
-                <StrokeSerialize>&lt;Pen Brush="#FFFFE4C4" Thickness="1" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
+                <StrokeSerialize>&lt;Pen Thickness="1" Brush="#FFFFE4C4" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
   &lt;Pen.DashStyle&gt;
     &lt;DashStyle /&gt;
   &lt;/Pen.DashStyle&gt;
 &lt;/Pen&gt;</StrokeSerialize>
-                <Stroke2Serialize>&lt;Pen Brush="#FFFFE4C4" Thickness="2" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
+                <Stroke2Serialize>&lt;Pen Thickness="2" Brush="#FFFFE4C4" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
   &lt;Pen.DashStyle&gt;
     &lt;DashStyle /&gt;
   &lt;/Pen.DashStyle&gt;
@@ -101,11 +101,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2021-04-24T00:00:00</From>
+          <From>2021-04-26T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2021-04-27T00:00:00</To>
+          <To>2021-04-29T00:00:00</To>
           <Calculate>OnEachTick</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>false</IsAutoScale>
@@ -154,11 +154,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2021-04-24T00:00:00</From>
+          <From>2021-04-26T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2021-04-27T00:00:00</To>
+          <To>2021-04-29T00:00:00</To>
           <Calculate>OnBarClose</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -207,11 +207,11 @@
               </BarsPeriodSerializable>
               <BarsToLoad>0</BarsToLoad>
               <DisplayInDataBox>true</DisplayInDataBox>
-              <From>2021-04-24T00:00:00</From>
+              <From>2021-04-26T00:00:00</From>
               <Panel>0</Panel>
               <ScaleJustification>Right</ScaleJustification>
               <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-              <To>2021-04-27T00:00:00</To>
+              <To>2021-04-29T00:00:00</To>
               <Calculate>OnBarClose</Calculate>
               <Displacement>0</Displacement>
               <IsAutoScale>true</IsAutoScale>
@@ -280,11 +280,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2021-04-24T00:00:00</From>
+          <From>2021-04-26T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2021-04-27T00:00:00</To>
+          <To>2021-04-29T00:00:00</To>
           <Calculate>OnBarClose</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -333,11 +333,11 @@
               </BarsPeriodSerializable>
               <BarsToLoad>0</BarsToLoad>
               <DisplayInDataBox>true</DisplayInDataBox>
-              <From>2021-04-24T00:00:00</From>
+              <From>2021-04-26T00:00:00</From>
               <Panel>0</Panel>
               <ScaleJustification>Right</ScaleJustification>
               <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-              <To>2021-04-27T00:00:00</To>
+              <To>2021-04-29T00:00:00</To>
               <Calculate>OnBarClose</Calculate>
               <Displacement>0</Displacement>
               <IsAutoScale>true</IsAutoScale>
@@ -406,11 +406,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2021-04-24T00:00:00</From>
+          <From>2021-04-26T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2021-04-27T00:00:00</To>
+          <To>2021-04-29T00:00:00</To>
           <Calculate>OnBarClose</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -459,11 +459,11 @@
               </BarsPeriodSerializable>
               <BarsToLoad>0</BarsToLoad>
               <DisplayInDataBox>true</DisplayInDataBox>
-              <From>2021-04-24T00:00:00</From>
+              <From>2021-04-26T00:00:00</From>
               <Panel>0</Panel>
               <ScaleJustification>Right</ScaleJustification>
               <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-              <To>2021-04-27T00:00:00</To>
+              <To>2021-04-29T00:00:00</To>
               <Calculate>OnBarClose</Calculate>
               <Displacement>0</Displacement>
               <IsAutoScale>true</IsAutoScale>
@@ -532,11 +532,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2021-04-24T00:00:00</From>
+          <From>2021-04-26T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2021-04-27T00:00:00</To>
+          <To>2021-04-29T00:00:00</To>
           <Calculate>OnBarClose</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -585,11 +585,11 @@
               </BarsPeriodSerializable>
               <BarsToLoad>0</BarsToLoad>
               <DisplayInDataBox>true</DisplayInDataBox>
-              <From>2021-04-24T00:00:00</From>
+              <From>2021-04-26T00:00:00</From>
               <Panel>0</Panel>
               <ScaleJustification>Right</ScaleJustification>
               <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-              <To>2021-04-27T00:00:00</To>
+              <To>2021-04-29T00:00:00</To>
               <Calculate>OnBarClose</Calculate>
               <Displacement>0</Displacement>
               <IsAutoScale>true</IsAutoScale>
@@ -664,11 +664,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2021-04-24T00:00:00</From>
+          <From>2021-04-26T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2021-04-27T00:00:00</To>
+          <To>2021-04-29T00:00:00</To>
           <Calculate>OnBarClose</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -717,11 +717,11 @@
               </BarsPeriodSerializable>
               <BarsToLoad>0</BarsToLoad>
               <DisplayInDataBox>true</DisplayInDataBox>
-              <From>2021-04-24T00:00:00</From>
+              <From>2021-04-26T00:00:00</From>
               <Panel>0</Panel>
               <ScaleJustification>Right</ScaleJustification>
               <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-              <To>2021-04-27T00:00:00</To>
+              <To>2021-04-29T00:00:00</To>
               <Calculate>OnBarClose</Calculate>
               <Displacement>0</Displacement>
               <IsAutoScale>true</IsAutoScale>
@@ -793,11 +793,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2021-04-24T00:00:00</From>
+          <From>2021-04-26T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2021-04-27T00:00:00</To>
+          <To>2021-04-29T00:00:00</To>
           <Calculate>OnBarClose</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -846,11 +846,11 @@
               </BarsPeriodSerializable>
               <BarsToLoad>0</BarsToLoad>
               <DisplayInDataBox>true</DisplayInDataBox>
-              <From>2021-04-24T00:00:00</From>
+              <From>2021-04-26T00:00:00</From>
               <Panel>0</Panel>
               <ScaleJustification>Right</ScaleJustification>
               <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-              <To>2021-04-27T00:00:00</To>
+              <To>2021-04-29T00:00:00</To>
               <Calculate>OnBarClose</Calculate>
               <Displacement>0</Displacement>
               <IsAutoScale>true</IsAutoScale>
@@ -925,11 +925,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2021-04-24T00:00:00</From>
+          <From>2021-04-26T00:00:00</From>
           <Panel>1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2021-04-27T00:00:00</To>
+          <To>2021-04-29T00:00:00</To>
           <Calculate>OnEachTick</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>false</IsAutoScale>
@@ -1027,11 +1027,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>false</DisplayInDataBox>
-          <From>2021-04-24T00:00:00</From>
+          <From>2021-04-26T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2021-04-27T00:00:00</To>
+          <To>2021-04-29T00:00:00</To>
           <Calculate>OnBarClose</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -1079,11 +1079,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>false</DisplayInDataBox>
-          <From>2021-04-24T00:00:00</From>
+          <From>2021-04-26T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2021-04-27T00:00:00</To>
+          <To>2021-04-29T00:00:00</To>
           <Calculate>OnBarClose</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -1131,11 +1131,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2021-04-24T00:00:00</From>
+          <From>2021-04-26T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2021-04-27T00:00:00</To>
+          <To>2021-04-29T00:00:00</To>
           <Calculate>OnBarClose</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -1183,11 +1183,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>false</DisplayInDataBox>
-          <From>2021-04-24T00:00:00</From>
+          <From>2021-04-26T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2021-04-27T00:00:00</To>
+          <To>2021-04-29T00:00:00</To>
           <Calculate>OnPriceChange</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>false</IsAutoScale>
@@ -1260,11 +1260,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>false</DisplayInDataBox>
-          <From>2021-04-24T00:00:00</From>
+          <From>2021-04-26T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2021-04-27T00:00:00</To>
+          <To>2021-04-29T00:00:00</To>
           <Calculate>OnPriceChange</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>false</IsAutoScale>
@@ -1337,11 +1337,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>false</DisplayInDataBox>
-          <From>2021-04-24T00:00:00</From>
+          <From>2021-04-26T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2021-04-27T00:00:00</To>
+          <To>2021-04-29T00:00:00</To>
           <Calculate>OnPriceChange</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>false</IsAutoScale>
@@ -1414,11 +1414,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2021-04-24T00:00:00</From>
+          <From>2021-04-26T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2021-04-27T00:00:00</To>
+          <To>2021-04-29T00:00:00</To>
           <Calculate>OnEachTick</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>false</IsAutoScale>
@@ -1456,7 +1456,7 @@
           <ZOrder>10010</ZOrder>
           <SettingsSerialized>eyJSZXF1aXJlQ2xvc2VCcmVha291dCI6ZmFsc2UsIk1vdmVTYW1lTG93SGlnaCI6ZmFsc2UsIlNwYW4iOjQsIlN0cmVuZ3RoIjo0fQ==</SettingsSerialized>
           <UserSettingsSerialized>eyJBbGVydHMiOnsidmlzdWFsIjpmYWxzZSwiYXVkaWJsZSI6ZmFsc2UsIndpbmRvd0ZsYXNoIjpmYWxzZX0sIkFsZXJ0c0ZpbHRlciI6ZmFsc2UsIkZvbnRDaGFydExhYmVsIjp7ImZvbnRGYW1pbHkiOiJNaWNyb3NvZnQgU2FucyBTZXJpZiIsInNpemUiOjE0LjAsImJvbGQiOnRydWUsIml0YWxpYyI6ZmFsc2V9LCJCb2xkIjp0cnVlLCJTaG93UGVyY2VudGFnZSI6dHJ1ZSwiQ29sb3JEb3VibGUiOiIjRkZGRkQ3MDAiLCJDb2xvckhITEwiOiIjRkZGRkZGRkYiLCJDb2xvckhMTEgiOiIjRkZEM0QzRDMiLCJMYWJlbE9mZnNldCI6MTd9</UserSettingsSerialized>
-          <iOD>259</iOD>
+          <iOD>528</iOD>
         </ApexOscillationDetector>
         <Input>
           <PriceType>Close</PriceType>
@@ -1480,11 +1480,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>false</DisplayInDataBox>
-          <From>2021-04-24T00:00:00</From>
+          <From>2021-04-26T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2021-04-27T00:00:00</To>
+          <To>2021-04-29T00:00:00</To>
           <Calculate>OnPriceChange</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>false</IsAutoScale>
@@ -1532,11 +1532,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2021-04-24T00:00:00</From>
+          <From>2021-04-26T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2021-04-27T00:00:00</To>
+          <To>2021-04-29T00:00:00</To>
           <Calculate>OnPriceChange</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>false</IsAutoScale>
@@ -1621,11 +1621,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>false</DisplayInDataBox>
-          <From>2021-04-24T00:00:00</From>
+          <From>2021-04-26T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2021-04-27T00:00:00</To>
+          <To>2021-04-29T00:00:00</To>
           <Calculate>OnPriceChange</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -1686,11 +1686,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>false</DisplayInDataBox>
-          <From>2021-04-24T00:00:00</From>
+          <From>2021-04-26T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2021-04-27T00:00:00</To>
+          <To>2021-04-29T00:00:00</To>
           <Calculate>OnBarClose</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>false</IsAutoScale>
@@ -1738,11 +1738,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2021-04-24T00:00:00</From>
+          <From>2021-04-26T00:00:00</From>
           <Panel>2</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2021-04-27T00:00:00</To>
+          <To>2021-04-29T00:00:00</To>
           <Calculate>OnEachTick</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -1813,11 +1813,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2021-04-24T00:00:00</From>
+          <From>2021-04-26T00:00:00</From>
           <Panel>2</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2021-04-27T00:00:00</To>
+          <To>2021-04-29T00:00:00</To>
           <Calculate>OnEachTick</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -1888,11 +1888,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2021-04-24T00:00:00</From>
+          <From>2021-04-26T00:00:00</From>
           <Panel>2</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2021-04-27T00:00:00</To>
+          <To>2021-04-29T00:00:00</To>
           <Calculate>OnEachTick</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -1963,11 +1963,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2021-04-24T00:00:00</From>
+          <From>2021-04-26T00:00:00</From>
           <Panel>2</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2021-04-27T00:00:00</To>
+          <To>2021-04-29T00:00:00</To>
           <Calculate>OnEachTick</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -2044,11 +2044,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2021-04-24T00:00:00</From>
+          <From>2021-04-26T00:00:00</From>
           <Panel>2</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2021-04-27T00:00:00</To>
+          <To>2021-04-29T00:00:00</To>
           <Calculate>OnEachTick</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -2122,11 +2122,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2021-04-24T00:00:00</From>
+          <From>2021-04-26T00:00:00</From>
           <Panel>2</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2021-04-27T00:00:00</To>
+          <To>2021-04-29T00:00:00</To>
           <Calculate>OnEachTick</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -2203,11 +2203,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2021-04-24T00:00:00</From>
+          <From>2021-04-26T00:00:00</From>
           <Panel>2</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2021-04-27T00:00:00</To>
+          <To>2021-04-29T00:00:00</To>
           <Calculate>OnEachTick</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -2278,11 +2278,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2021-04-24T00:00:00</From>
+          <From>2021-04-26T00:00:00</From>
           <Panel>2</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2021-04-27T00:00:00</To>
+          <To>2021-04-29T00:00:00</To>
           <Calculate>OnEachTick</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -2353,11 +2353,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2021-04-24T00:00:00</From>
+          <From>2021-04-26T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2021-04-27T00:00:00</To>
+          <To>2021-04-29T00:00:00</To>
           <Calculate>OnBarClose</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -2405,11 +2405,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>false</DisplayInDataBox>
-          <From>2021-04-24T00:00:00</From>
+          <From>2021-04-26T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2021-04-27T00:00:00</To>
+          <To>2021-04-29T00:00:00</To>
           <Calculate>OnBarClose</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -2418,7 +2418,32 @@
           <Lines />
           <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
           <Name>_APEX Higher High Lower Low</Name>
-          <Plots />
+          <Plots>
+            <Plot>
+              <IsOpacityVisible>false</IsOpacityVisible>
+              <BrushSerialize>&lt;SolidColorBrush Color="#FF84F184" Opacity="0.75" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" /&gt;</BrushSerialize>
+              <DashStyleHelper>Solid</DashStyleHelper>
+              <Opacity>75</Opacity>
+              <Width>8</Width>
+              <AutoWidth>false</AutoWidth>
+              <Max>1.7976931348623157E+308</Max>
+              <Min>-1.7976931348623157E+308</Min>
+              <Name>HiLoHigh</Name>
+              <PlotStyle>Hash</PlotStyle>
+            </Plot>
+            <Plot>
+              <IsOpacityVisible>false</IsOpacityVisible>
+              <BrushSerialize>&lt;SolidColorBrush Color="#FFFAA3A3" Opacity="0.75" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" /&gt;</BrushSerialize>
+              <DashStyleHelper>Solid</DashStyleHelper>
+              <Opacity>75</Opacity>
+              <Width>8</Width>
+              <AutoWidth>false</AutoWidth>
+              <Max>1.7976931348623157E+308</Max>
+              <Min>-1.7976931348623157E+308</Min>
+              <Name>HiLoLow</Name>
+              <PlotStyle>Hash</PlotStyle>
+            </Plot>
+          </Plots>
           <SelectedValueSeries>0</SelectedValueSeries>
           <InputPlot>0</InputPlot>
           <IsTradingHoursBreakLineVisible>true</IsTradingHoursBreakLineVisible>
@@ -2427,20 +2452,12 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>379</IndicatorId>
-          <InstrumentDeserialized>ES 06-21 Globex</InstrumentDeserialized>
+          <IndicatorId>1778</IndicatorId>
+          <InstrumentDeserialized>CL 05-21 Nymex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
-          <ZOrder>20011</ZOrder>
+          <ZOrder>10004</ZOrder>
           <SettingsSerialized>eyJTdHJlbmd0aCI6Mn0=</SettingsSerialized>
-          <LHighVal>4167.25</LHighVal>
-          <LLowVal>4162.75</LLowVal>
-          <iHigherHighPrev2>0</iHigherHighPrev2>
-          <iHigherHighPrev3>0</iHigherHighPrev3>
-          <iLowerLowPrev2>0</iLowerLowPrev2>
-          <iLowerLowPrev3>0</iLowerLowPrev3>
-          <RegionColorSerializeHighColor>&lt;SolidColorBrush xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;#FFB22222&lt;/SolidColorBrush&gt;</RegionColorSerializeHighColor>
-          <RegionColorSerializeLowColor>&lt;SolidColorBrush xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;#FF228B22&lt;/SolidColorBrush&gt;</RegionColorSerializeLowColor>
         </AutoToolHighLow>
         <Input>
           <PriceType>Close</PriceType>
@@ -2464,11 +2481,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>false</DisplayInDataBox>
-          <From>2021-04-24T00:00:00</From>
+          <From>2021-04-26T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2021-04-27T00:00:00</To>
+          <To>2021-04-29T00:00:00</To>
           <Calculate>OnBarClose</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -2477,7 +2494,32 @@
           <Lines />
           <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
           <Name>_APEX Higher High Lower Low</Name>
-          <Plots />
+          <Plots>
+            <Plot>
+              <IsOpacityVisible>false</IsOpacityVisible>
+              <BrushSerialize>&lt;SolidColorBrush Color="#FF59CA59" Opacity="0.75" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" /&gt;</BrushSerialize>
+              <DashStyleHelper>Solid</DashStyleHelper>
+              <Opacity>75</Opacity>
+              <Width>8</Width>
+              <AutoWidth>false</AutoWidth>
+              <Max>1.7976931348623157E+308</Max>
+              <Min>-1.7976931348623157E+308</Min>
+              <Name>HiLoHigh</Name>
+              <PlotStyle>Hash</PlotStyle>
+            </Plot>
+            <Plot>
+              <IsOpacityVisible>false</IsOpacityVisible>
+              <BrushSerialize>&lt;SolidColorBrush Color="#FFE07070" Opacity="0.75" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" /&gt;</BrushSerialize>
+              <DashStyleHelper>Solid</DashStyleHelper>
+              <Opacity>75</Opacity>
+              <Width>8</Width>
+              <AutoWidth>false</AutoWidth>
+              <Max>1.7976931348623157E+308</Max>
+              <Min>-1.7976931348623157E+308</Min>
+              <Name>HiLoLow</Name>
+              <PlotStyle>Hash</PlotStyle>
+            </Plot>
+          </Plots>
           <SelectedValueSeries>0</SelectedValueSeries>
           <InputPlot>0</InputPlot>
           <IsTradingHoursBreakLineVisible>true</IsTradingHoursBreakLineVisible>
@@ -2486,20 +2528,12 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>382</IndicatorId>
-          <InstrumentDeserialized>ES 06-21 Globex</InstrumentDeserialized>
+          <IndicatorId>1779</IndicatorId>
+          <InstrumentDeserialized>CL 05-21 Nymex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
-          <ZOrder>20012</ZOrder>
+          <ZOrder>10005</ZOrder>
           <SettingsSerialized>eyJTdHJlbmd0aCI6NH0=</SettingsSerialized>
-          <LHighVal>4168.75</LHighVal>
-          <LLowVal>4160.75</LLowVal>
-          <iHigherHighPrev2>4163.25</iHigherHighPrev2>
-          <iHigherHighPrev3>4178.25</iHigherHighPrev3>
-          <iLowerLowPrev2>4160.75</iLowerLowPrev2>
-          <iLowerLowPrev3>4163</iLowerLowPrev3>
-          <RegionColorSerializeHighColor>&lt;SolidColorBrush xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;#FFB22222&lt;/SolidColorBrush&gt;</RegionColorSerializeHighColor>
-          <RegionColorSerializeLowColor>&lt;SolidColorBrush xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;#FF228B22&lt;/SolidColorBrush&gt;</RegionColorSerializeLowColor>
         </AutoToolHighLow>
         <Input>
           <PriceType>Close</PriceType>
@@ -2523,11 +2557,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>false</DisplayInDataBox>
-          <From>2021-04-24T00:00:00</From>
+          <From>2021-04-26T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2021-04-27T00:00:00</To>
+          <To>2021-04-29T00:00:00</To>
           <Calculate>OnBarClose</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -2536,7 +2570,32 @@
           <Lines />
           <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
           <Name>_APEX Higher High Lower Low</Name>
-          <Plots />
+          <Plots>
+            <Plot>
+              <IsOpacityVisible>false</IsOpacityVisible>
+              <BrushSerialize>&lt;SolidColorBrush Color="#FF3AA93A" Opacity="0.75" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" /&gt;</BrushSerialize>
+              <DashStyleHelper>Solid</DashStyleHelper>
+              <Opacity>75</Opacity>
+              <Width>8</Width>
+              <AutoWidth>false</AutoWidth>
+              <Max>1.7976931348623157E+308</Max>
+              <Min>-1.7976931348623157E+308</Min>
+              <Name>HiLoHigh</Name>
+              <PlotStyle>Hash</PlotStyle>
+            </Plot>
+            <Plot>
+              <IsOpacityVisible>false</IsOpacityVisible>
+              <BrushSerialize>&lt;SolidColorBrush Color="#FFC64949" Opacity="0.75" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" /&gt;</BrushSerialize>
+              <DashStyleHelper>Solid</DashStyleHelper>
+              <Opacity>75</Opacity>
+              <Width>8</Width>
+              <AutoWidth>false</AutoWidth>
+              <Max>1.7976931348623157E+308</Max>
+              <Min>-1.7976931348623157E+308</Min>
+              <Name>HiLoLow</Name>
+              <PlotStyle>Hash</PlotStyle>
+            </Plot>
+          </Plots>
           <SelectedValueSeries>0</SelectedValueSeries>
           <InputPlot>0</InputPlot>
           <IsTradingHoursBreakLineVisible>true</IsTradingHoursBreakLineVisible>
@@ -2545,20 +2604,12 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>385</IndicatorId>
-          <InstrumentDeserialized>ES 06-21 Globex</InstrumentDeserialized>
+          <IndicatorId>1780</IndicatorId>
+          <InstrumentDeserialized>CL 05-21 Nymex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
-          <ZOrder>20013</ZOrder>
+          <ZOrder>10006</ZOrder>
           <SettingsSerialized>eyJTdHJlbmd0aCI6Nn0=</SettingsSerialized>
-          <LHighVal>4168.75</LHighVal>
-          <LLowVal>4160.75</LLowVal>
-          <iHigherHighPrev2>0</iHigherHighPrev2>
-          <iHigherHighPrev3>0</iHigherHighPrev3>
-          <iLowerLowPrev2>0</iLowerLowPrev2>
-          <iLowerLowPrev3>0</iLowerLowPrev3>
-          <RegionColorSerializeHighColor>&lt;SolidColorBrush xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;#FFB22222&lt;/SolidColorBrush&gt;</RegionColorSerializeHighColor>
-          <RegionColorSerializeLowColor>&lt;SolidColorBrush xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;#FF228B22&lt;/SolidColorBrush&gt;</RegionColorSerializeLowColor>
         </AutoToolHighLow>
         <Input>
           <PriceType>Close</PriceType>
@@ -2582,11 +2633,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>false</DisplayInDataBox>
-          <From>2021-04-24T00:00:00</From>
+          <From>2021-04-26T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2021-04-27T00:00:00</To>
+          <To>2021-04-29T00:00:00</To>
           <Calculate>OnBarClose</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -2595,7 +2646,32 @@
           <Lines />
           <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
           <Name>_APEX Higher High Lower Low</Name>
-          <Plots />
+          <Plots>
+            <Plot>
+              <IsOpacityVisible>false</IsOpacityVisible>
+              <BrushSerialize>&lt;SolidColorBrush Color="#FF228B22" Opacity="0.75" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" /&gt;</BrushSerialize>
+              <DashStyleHelper>Solid</DashStyleHelper>
+              <Opacity>75</Opacity>
+              <Width>8</Width>
+              <AutoWidth>false</AutoWidth>
+              <Max>1.7976931348623157E+308</Max>
+              <Min>-1.7976931348623157E+308</Min>
+              <Name>HiLoHigh</Name>
+              <PlotStyle>Hash</PlotStyle>
+            </Plot>
+            <Plot>
+              <IsOpacityVisible>false</IsOpacityVisible>
+              <BrushSerialize>&lt;SolidColorBrush Color="#FFB22222" Opacity="0.75" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" /&gt;</BrushSerialize>
+              <DashStyleHelper>Solid</DashStyleHelper>
+              <Opacity>75</Opacity>
+              <Width>8</Width>
+              <AutoWidth>false</AutoWidth>
+              <Max>1.7976931348623157E+308</Max>
+              <Min>-1.7976931348623157E+308</Min>
+              <Name>HiLoLow</Name>
+              <PlotStyle>Hash</PlotStyle>
+            </Plot>
+          </Plots>
           <SelectedValueSeries>0</SelectedValueSeries>
           <InputPlot>0</InputPlot>
           <IsTradingHoursBreakLineVisible>true</IsTradingHoursBreakLineVisible>
@@ -2604,26 +2680,18 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>388</IndicatorId>
-          <InstrumentDeserialized>ES 06-21 Globex</InstrumentDeserialized>
+          <IndicatorId>1781</IndicatorId>
+          <InstrumentDeserialized>CL 05-21 Nymex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
-          <ZOrder>20014</ZOrder>
+          <ZOrder>10007</ZOrder>
           <SettingsSerialized>eyJTdHJlbmd0aCI6OH0=</SettingsSerialized>
-          <LHighVal>4183.5</LHighVal>
-          <LLowVal>4160.75</LLowVal>
-          <iHigherHighPrev2>0</iHigherHighPrev2>
-          <iHigherHighPrev3>0</iHigherHighPrev3>
-          <iLowerLowPrev2>0</iLowerLowPrev2>
-          <iLowerLowPrev3>0</iLowerLowPrev3>
-          <RegionColorSerializeHighColor>&lt;SolidColorBrush xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;#FFB22222&lt;/SolidColorBrush&gt;</RegionColorSerializeHighColor>
-          <RegionColorSerializeLowColor>&lt;SolidColorBrush xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;#FF228B22&lt;/SolidColorBrush&gt;</RegionColorSerializeLowColor>
         </AutoToolHighLow>
         <Input>
           <PriceType>Close</PriceType>
         </Input>
       </Indicator>
-      <Indicator BarsIndex="0" Instrument="ES 06-21 Globex" Name="NinjaTrader.NinjaScript.Indicators.AutomationTool" Panel="-1" DisplayName="_APEX Automation Tool(ES_DTX,False,ES_ELEV,False,ES_ETX,False,ES_FTX,False,ES_HD,False,ES_ODD,False,ES_SLZ,False,ES_TBS,False,True,4/27/2021 9:35:00 AM,4/27/2021 9:25:00 AM,True,4/27/2021 6:00:00 PM,4/27/2021 4:00:00 PM,True,True,False,email@gmail.com,False,True,False,True,False,False,0.65,True,False,True,130,False,False,-9999,False,True,75,esTickID,,,False,,,9999,False,True,True,6,False,6,False,15,6,False,6,False,8,6,False,6)">
+      <Indicator BarsIndex="0" Instrument="ES 06-21 Globex" Name="NinjaTrader.NinjaScript.Indicators.AutomationTool" Panel="-1" DisplayName="_APEX Automation Tool(ES_DTX,False,ES_ELEV,False,ES_ETX,False,ES_FTX,False,ES_HD,False,ES_ODD,False,ES_SLZ,False,ES_TBS,False,False,True,4/27/2021 9:35:00 AM,4/27/2021 9:25:00 AM,True,4/27/2021 6:00:00 PM,4/27/2021 4:00:00 PM,True,True,False,email@gmail.com,False,True,False,True,False,0.65,True,False,True,130,False,False,False,-9999,False,True,75,esTickID,,,False,,,9999,False,True,True,6,False,6,False,15,6,False,6,False,8,6,False,6)">
         <AutomationTool xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
           <IsVisible>true</IsVisible>
           <AreLinesConfigurable>true</AreLinesConfigurable>
@@ -2641,11 +2709,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>false</DisplayInDataBox>
-          <From>2021-04-24T00:00:00</From>
+          <From>2021-04-26T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Overlay</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2021-04-27T00:00:00</To>
+          <To>2021-04-29T00:00:00</To>
           <Calculate>OnEachTick</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>false</IsAutoScale>
@@ -2654,7 +2722,7 @@
           <Lines>
             <Line>
               <IsOpacityVisible>false</IsOpacityVisible>
-              <BrushSerialize>&lt;SolidColorBrush xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;#FF000000&lt;/SolidColorBrush&gt;</BrushSerialize>
+              <BrushSerialize>&lt;SolidColorBrush xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;#00FFFFFF&lt;/SolidColorBrush&gt;</BrushSerialize>
               <DashStyleHelper>Solid</DashStyleHelper>
               <Opacity>100</Opacity>
               <Width>1</Width>
@@ -2758,7 +2826,8 @@
           <LevelThroughBar>false</LevelThroughBar>
           <iCrocEyes>false</iCrocEyes>
           <FTXBrokenOPLevels>false</FTXBrokenOPLevels>
-          <FTXAgainstOtherSetup>false</FTXAgainstOtherSetup>
+          <BreakEvenOnCoil>false</BreakEvenOnCoil>
+          <MultiSetupEntry>false</MultiSetupEntry>
         </AutomationTool>
         <Input>
           <PriceType>Close</PriceType>
@@ -2794,12 +2863,12 @@
         <InactivePriceMarkersBrushSerialize>&lt;SolidColorBrush xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;#FFA9A9A9&lt;/SolidColorBrush&gt;</InactivePriceMarkersBrushSerialize>
         <AreHGridLinesVisible>false</AreHGridLinesVisible>
         <AreVGridLinesVisible>false</AreVGridLinesVisible>
-        <AxisPenSerialize>&lt;Pen Brush="#FFB0C4DE" Thickness="1" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
+        <AxisPenSerialize>&lt;Pen Thickness="1" Brush="#FFB0C4DE" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
   &lt;Pen.DashStyle&gt;
     &lt;DashStyle /&gt;
   &lt;/Pen.DashStyle&gt;
 &lt;/Pen&gt;</AxisPenSerialize>
-        <CrosshairPen>&lt;Pen Brush="#FFFFFFFF" Thickness="1" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
+        <CrosshairPen>&lt;Pen Thickness="1" Brush="#FFFFFFFF" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
   &lt;Pen.DashStyle&gt;
     &lt;DashStyle /&gt;
   &lt;/Pen.DashStyle&gt;
@@ -2823,7 +2892,7 @@
     &lt;DashStyle /&gt;
   &lt;/Pen.DashStyle&gt;
 &lt;/Pen&gt;</GridLineVPenSerialize>
-        <PanelSplitterPenSerialize>&lt;Pen Brush="#FFB0C4DE" Thickness="2" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
+        <PanelSplitterPenSerialize>&lt;Pen Thickness="2" Brush="#FFB0C4DE" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
   &lt;Pen.DashStyle&gt;
     &lt;DashStyle /&gt;
   &lt;/Pen.DashStyle&gt;
@@ -2846,8 +2915,8 @@
             <AutoScaleMarginLower>40</AutoScaleMarginLower>
             <AutoScaleMarginUpper>40</AutoScaleMarginUpper>
             <YAxisScalingType>Linear</YAxisScalingType>
-            <FixedScaleMaxSerialize>4183.5</FixedScaleMaxSerialize>
-            <FixedScaleMinSerialize>4160.75</FixedScaleMinSerialize>
+            <FixedScaleMaxSerialize>4166.5</FixedScaleMaxSerialize>
+            <FixedScaleMinSerialize>4145.5</FixedScaleMinSerialize>
           </ChartScaleProperties>
         </Right>
         <Left>
@@ -2896,7 +2965,7 @@
             <AutoScaleMarginLower>6</AutoScaleMarginLower>
             <AutoScaleMarginUpper>6</AutoScaleMarginUpper>
             <YAxisScalingType>Linear</YAxisScalingType>
-            <FixedScaleMaxSerialize>1.9346809680959856</FixedScaleMaxSerialize>
+            <FixedScaleMaxSerialize>1.9345249787223042</FixedScaleMaxSerialize>
             <FixedScaleMinSerialize>0</FixedScaleMinSerialize>
           </ChartScaleProperties>
         </Right>
@@ -3000,37 +3069,37 @@
         <ActionButtonsBackgroundSerialize>DEFAULT</ActionButtonsBackgroundSerialize>
         <BuyButtonsBackgroundSerialize>DEFAULT</BuyButtonsBackgroundSerialize>
         <SellButtonsBackgroundSerialize>DEFAULT</SellButtonsBackgroundSerialize>
-        <LimitSerialize>&lt;Pen Brush="#FF00FFFF" Thickness="2" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
+        <LimitSerialize>&lt;Pen Thickness="2" Brush="#FF00FFFF" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
   &lt;Pen.DashStyle&gt;
     &lt;DashStyle /&gt;
   &lt;/Pen.DashStyle&gt;
 &lt;/Pen&gt;</LimitSerialize>
-        <MitSerialize>&lt;Pen Brush="#FF00FF7F" Thickness="2" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
+        <MitSerialize>&lt;Pen Thickness="2" Brush="#FF00FF7F" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
   &lt;Pen.DashStyle&gt;
     &lt;DashStyle /&gt;
   &lt;/Pen.DashStyle&gt;
 &lt;/Pen&gt;</MitSerialize>
-        <PositionEntryPriceSerialize>&lt;Pen Brush="#FFDEB887" Thickness="2" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
+        <PositionEntryPriceSerialize>&lt;Pen Thickness="2" Brush="#FFDEB887" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
   &lt;Pen.DashStyle&gt;
     &lt;DashStyle /&gt;
   &lt;/Pen.DashStyle&gt;
 &lt;/Pen&gt;</PositionEntryPriceSerialize>
-        <ProfitTargetSerialize>&lt;Pen Brush="#FF00FF00" Thickness="2" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
+        <ProfitTargetSerialize>&lt;Pen Thickness="2" Brush="#FF00FF00" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
   &lt;Pen.DashStyle&gt;
     &lt;DashStyle /&gt;
   &lt;/Pen.DashStyle&gt;
 &lt;/Pen&gt;</ProfitTargetSerialize>
-        <StopLimitSerialize>&lt;Pen Brush="#FFEE82EE" Thickness="2" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
+        <StopLimitSerialize>&lt;Pen Thickness="2" Brush="#FFEE82EE" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
   &lt;Pen.DashStyle&gt;
     &lt;DashStyle /&gt;
   &lt;/Pen.DashStyle&gt;
 &lt;/Pen&gt;</StopLimitSerialize>
-        <StopLossSerialize>&lt;Pen Brush="#FFFF0000" Thickness="2" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
+        <StopLossSerialize>&lt;Pen Thickness="2" Brush="#FFFF0000" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
   &lt;Pen.DashStyle&gt;
     &lt;DashStyle /&gt;
   &lt;/Pen.DashStyle&gt;
 &lt;/Pen&gt;</StopLossSerialize>
-        <StopMarketSerialize>&lt;Pen Brush="#FFFFC0CB" Thickness="2" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
+        <StopMarketSerialize>&lt;Pen Thickness="2" Brush="#FFFFC0CB" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
   &lt;Pen.DashStyle&gt;
     &lt;DashStyle /&gt;
   &lt;/Pen.DashStyle&gt;
