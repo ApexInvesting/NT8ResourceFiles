@@ -2996,7 +2996,7 @@
         </Overlay>
       </ChartPanel>
       <ChartPanel>
-        <Height>60</Height>
+        <Height>63</Height>
         <HoldChartTraderOrders>false</HoldChartTraderOrders>
         <IsMaximized>false</IsMaximized>
         <Right>
@@ -3046,7 +3046,7 @@
         </Overlay>
       </ChartPanel>
       <ChartPanel>
-        <Height>48</Height>
+        <Height>45</Height>
         <HoldChartTraderOrders>false</HoldChartTraderOrders>
         <IsMaximized>false</IsMaximized>
         <Right>
