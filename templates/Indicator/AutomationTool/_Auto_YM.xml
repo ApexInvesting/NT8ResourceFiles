@@ -18,11 +18,11 @@
       </BarsPeriodSerializable>
       <BarsToLoad>0</BarsToLoad>
       <DisplayInDataBox>false</DisplayInDataBox>
-      <From>2021-04-26T00:00:00</From>
+      <From>2021-05-03T00:00:00</From>
       <Panel>-1</Panel>
       <ScaleJustification>Overlay</ScaleJustification>
       <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-      <To>2021-04-29T00:00:00</To>
+      <To>2021-05-06T00:00:00</To>
       <Calculate>OnEachTick</Calculate>
       <Displacement>0</Displacement>
       <IsAutoScale>false</IsAutoScale>
@@ -63,7 +63,7 @@
       <DrawOnPricePanel>false</DrawOnPricePanel>
       <PaintPriceMarkers>false</PaintPriceMarkers>
       <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-      <IndicatorId>535</IndicatorId>
+      <IndicatorId>550</IndicatorId>
       <InstrumentDeserialized>YM 06-21 Globex</InstrumentDeserialized>
       <MaxSerialized>0</MaxSerialized>
       <MinSerialized>0</MinSerialized>
@@ -71,12 +71,13 @@
       <SettingsSerialized>eyJJc1VwQ2xvc2VCYXIiOnRydWUsIklzRG93bkNsb3NlQmFyIjp0cnVlLCJVc2VQcmljZVZhbHVlIjpmYWxzZSwiVGlja09mZnNldCI6MCwiVXBDbG9zZVZhbHVlIjoxLjAsIlVwQ2xvc2VMaXZlVmFsdWUiOi0xLjAsIkRvd25DbG9zZVZhbHVlIjoxLjAsIkRvd25DbG9zZUxpdmVWYWx1ZSI6LTEuMH0=</SettingsSerialized>
       <UserSettingsSerialized>e30=</UserSettingsSerialized>
       <TicksObstruction>10</TicksObstruction>
-      <TicksSLZAmplify>8</TicksSLZAmplify>
       <FTXDRValue>0.65</FTXDRValue>
       <ODDValue>75</ODDValue>
       <HDValue>130</HDValue>
       <TicksFromSettlement>15</TicksFromSettlement>
       <OrderPrintsID>ymTickID</OrderPrintsID>
+      <MultiSetupEntry>false</MultiSetupEntry>
+      <BreakEvenOnCoil>false</BreakEvenOnCoil>
       <PositivePNLReached>9999</PositivePNLReached>
       <NegativePNLReached>-9999</NegativePNLReached>
       <FastMarkets>true</FastMarkets>
@@ -86,6 +87,9 @@
       <DarkZone2>true</DarkZone2>
       <DarkZone2Start>2021-04-27T16:00:00</DarkZone2Start>
       <DarkZone2End>2021-04-27T18:00:00</DarkZone2End>
+      <DarkZone3>false</DarkZone3>
+      <DarkZone3Start>2021-05-06T01:00:00</DarkZone3Start>
+      <DarkZone3End>2021-05-06T03:00:00</DarkZone3End>
       <DTXEnabled>true</DTXEnabled>
       <ELEVEnabled>true</ELEVEnabled>
       <ETXEnabled>true</ETXEnabled>
@@ -117,11 +121,21 @@
       <PlivoAuthToken />
       <PlivoPhone />
       <PlivoYourPhone />
+      <SLZVolStars>false</SLZVolStars>
+      <SLZVolStarsNumber>3</SLZVolStarsNumber>
+      <SLZVolStarsValue>13</SLZVolStarsValue>
+      <SLZVolStarsBars>6</SLZVolStarsBars>
       <ETXHigherHigh>false</ETXHigherHigh>
+      <DTXDRCoherent>true</DTXDRCoherent>
+      <ELEVDRCoherent>false</ELEVDRCoherent>
       <ETXDRCoherent>false</ETXDRCoherent>
+      <FTXDRCoherent>true</FTXDRCoherent>
       <HDDRCoherent>false</HDDRCoherent>
       <ODDDRCoherent>false</ODDDRCoherent>
       <SLZDRCoherent>false</SLZDRCoherent>
+      <TBSDRCoherent>false</TBSDRCoherent>
+      <TicksDTXAmplifyBool>false</TicksDTXAmplifyBool>
+      <TicksDTXAmplify>8</TicksDTXAmplify>
       <TicksELEVAmplifyBool>false</TicksELEVAmplifyBool>
       <TicksELEVAmplify>8</TicksELEVAmplify>
       <TicksETXAmplifyBool>false</TicksETXAmplifyBool>
@@ -132,11 +146,42 @@
       <TicksHDAmplify>8</TicksHDAmplify>
       <TicksODDAmplifyBool>false</TicksODDAmplifyBool>
       <TicksODDAmplify>8</TicksODDAmplify>
-      <LevelThroughBar>false</LevelThroughBar>
-      <iCrocEyes>false</iCrocEyes>
+      <TicksSLZAmplifyBool>true</TicksSLZAmplifyBool>
+      <TicksSLZAmplify>8</TicksSLZAmplify>
+      <TicksTBSAmplifyBool>false</TicksTBSAmplifyBool>
+      <TicksTBSAmplify>8</TicksTBSAmplify>
+      <DTXLevelThroughBar>false</DTXLevelThroughBar>
+      <ELEVLevelThroughBar>false</ELEVLevelThroughBar>
+      <ETXLevelThroughBar>false</ETXLevelThroughBar>
+      <FTXLevelThroughBar>false</FTXLevelThroughBar>
+      <HDLevelThroughBar>false</HDLevelThroughBar>
+      <ODDLevelThroughBar>false</ODDLevelThroughBar>
+      <SLZLevelThroughBar>false</SLZLevelThroughBar>
+      <TBSLevelThroughBar>false</TBSLevelThroughBar>
+      <DTXCrocEyes>false</DTXCrocEyes>
+      <ELEVCrocEyes>false</ELEVCrocEyes>
+      <ETXCrocEyes>false</ETXCrocEyes>
+      <FTXCrocEyes>false</FTXCrocEyes>
+      <HDCrocEyes>false</HDCrocEyes>
+      <ODDCrocEyes>false</ODDCrocEyes>
+      <SLZCrocEyes>false</SLZCrocEyes>
+      <TBSCrocEyes>false</TBSCrocEyes>
+      <DTXBrokenOPLevels>false</DTXBrokenOPLevels>
+      <ELEVBrokenOPLevels>false</ELEVBrokenOPLevels>
+      <ETXBrokenOPLevels>false</ETXBrokenOPLevels>
       <FTXBrokenOPLevels>false</FTXBrokenOPLevels>
-      <BreakEvenOnCoil>false</BreakEvenOnCoil>
-      <MultiSetupEntry>false</MultiSetupEntry>
+      <HDBrokenOPLevels>false</HDBrokenOPLevels>
+      <ODDBrokenOPLevels>false</ODDBrokenOPLevels>
+      <SLZBrokenOPLevels>false</SLZBrokenOPLevels>
+      <TBSBrokenOPLevels>false</TBSBrokenOPLevels>
+      <DTXWickPreviousBar>false</DTXWickPreviousBar>
+      <ELEVWickPreviousBar>false</ELEVWickPreviousBar>
+      <ETXWickPreviousBar>false</ETXWickPreviousBar>
+      <FTXWickPreviousBar>false</FTXWickPreviousBar>
+      <HDWickPreviousBar>false</HDWickPreviousBar>
+      <ODDWickPreviousBar>false</ODDWickPreviousBar>
+      <SLZWickPreviousBar>false</SLZWickPreviousBar>
+      <TBSWickPreviousBar>false</TBSWickPreviousBar>
     </AutomationTool>
   </AutomationTool>
 </NinjaTrader>
