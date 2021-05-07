@@ -63,7 +63,7 @@
       <DrawOnPricePanel>false</DrawOnPricePanel>
       <PaintPriceMarkers>false</PaintPriceMarkers>
       <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-      <IndicatorId>550</IndicatorId>
+      <IndicatorId>391</IndicatorId>
       <InstrumentDeserialized>YM 06-21 Globex</InstrumentDeserialized>
       <MaxSerialized>0</MaxSerialized>
       <MinSerialized>0</MinSerialized>
@@ -77,7 +77,6 @@
       <TicksFromSettlement>15</TicksFromSettlement>
       <OrderPrintsID>ymTickID</OrderPrintsID>
       <MultiSetupEntry>false</MultiSetupEntry>
-      <BreakEvenOnCoil>false</BreakEvenOnCoil>
       <PositivePNLReached>9999</PositivePNLReached>
       <NegativePNLReached>-9999</NegativePNLReached>
       <FastMarkets>true</FastMarkets>
@@ -150,6 +149,14 @@
       <TicksSLZAmplify>8</TicksSLZAmplify>
       <TicksTBSAmplifyBool>false</TicksTBSAmplifyBool>
       <TicksTBSAmplify>8</TicksTBSAmplify>
+      <DTXBreakEvenOnCoil>false</DTXBreakEvenOnCoil>
+      <ELEVBreakEvenOnCoil>false</ELEVBreakEvenOnCoil>
+      <ETXBreakEvenOnCoil>false</ETXBreakEvenOnCoil>
+      <FTXBreakEvenOnCoil>false</FTXBreakEvenOnCoil>
+      <HDBreakEvenOnCoil>false</HDBreakEvenOnCoil>
+      <ODDBreakEvenOnCoil>false</ODDBreakEvenOnCoil>
+      <SLZBreakEvenOnCoil>false</SLZBreakEvenOnCoil>
+      <TBSBreakEvenOnCoil>false</TBSBreakEvenOnCoil>
       <DTXLevelThroughBar>false</DTXLevelThroughBar>
       <ELEVLevelThroughBar>false</ELEVLevelThroughBar>
       <ETXLevelThroughBar>false</ETXLevelThroughBar>

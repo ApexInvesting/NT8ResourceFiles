@@ -123,7 +123,7 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>true</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>160</IndicatorId>
+          <IndicatorId>145</IndicatorId>
           <InstrumentDeserialized>NQ 06-21 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -176,7 +176,7 @@
           <DrawOnPricePanel>false</DrawOnPricePanel>
           <PaintPriceMarkers>true</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>164</IndicatorId>
+          <IndicatorId>149</IndicatorId>
           <InstrumentDeserialized>NQ 06-21 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -302,7 +302,7 @@
           <DrawOnPricePanel>false</DrawOnPricePanel>
           <PaintPriceMarkers>true</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>168</IndicatorId>
+          <IndicatorId>153</IndicatorId>
           <InstrumentDeserialized>NQ 06-21 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -428,7 +428,7 @@
           <DrawOnPricePanel>false</DrawOnPricePanel>
           <PaintPriceMarkers>true</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>172</IndicatorId>
+          <IndicatorId>157</IndicatorId>
           <InstrumentDeserialized>NQ 06-21 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -554,7 +554,7 @@
           <DrawOnPricePanel>false</DrawOnPricePanel>
           <PaintPriceMarkers>true</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>176</IndicatorId>
+          <IndicatorId>161</IndicatorId>
           <InstrumentDeserialized>NQ 06-21 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -686,7 +686,7 @@
           <DrawOnPricePanel>false</DrawOnPricePanel>
           <PaintPriceMarkers>true</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>180</IndicatorId>
+          <IndicatorId>165</IndicatorId>
           <InstrumentDeserialized>NQ 06-21 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -815,7 +815,7 @@
           <DrawOnPricePanel>false</DrawOnPricePanel>
           <PaintPriceMarkers>true</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>184</IndicatorId>
+          <IndicatorId>169</IndicatorId>
           <InstrumentDeserialized>NQ 06-21 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -997,7 +997,7 @@
           <DrawOnPricePanel>false</DrawOnPricePanel>
           <PaintPriceMarkers>true</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>187</IndicatorId>
+          <IndicatorId>172</IndicatorId>
           <InstrumentDeserialized>NQ 06-21 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -1049,7 +1049,7 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>190</IndicatorId>
+          <IndicatorId>175</IndicatorId>
           <InstrumentDeserialized>NQ 06-21 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -1101,7 +1101,7 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>193</IndicatorId>
+          <IndicatorId>178</IndicatorId>
           <InstrumentDeserialized>NQ 06-21 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -1153,7 +1153,7 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>196</IndicatorId>
+          <IndicatorId>181</IndicatorId>
           <InstrumentDeserialized>NQ 06-21 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -1230,7 +1230,7 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>199</IndicatorId>
+          <IndicatorId>184</IndicatorId>
           <InstrumentDeserialized>NQ 06-21 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -1307,7 +1307,7 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>202</IndicatorId>
+          <IndicatorId>187</IndicatorId>
           <InstrumentDeserialized>NQ 06-21 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -1384,7 +1384,7 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>205</IndicatorId>
+          <IndicatorId>190</IndicatorId>
           <InstrumentDeserialized>NQ 06-21 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -1449,14 +1449,14 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>208</IndicatorId>
+          <IndicatorId>193</IndicatorId>
           <InstrumentDeserialized>NQ 06-21 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
           <ZOrder>10010</ZOrder>
           <SettingsSerialized>eyJSZXF1aXJlQ2xvc2VCcmVha291dCI6ZmFsc2UsIk1vdmVTYW1lTG93SGlnaCI6ZmFsc2UsIlNwYW4iOjQsIlN0cmVuZ3RoIjo0fQ==</SettingsSerialized>
           <UserSettingsSerialized>eyJBbGVydHMiOnsidmlzdWFsIjpmYWxzZSwiYXVkaWJsZSI6ZmFsc2UsIndpbmRvd0ZsYXNoIjpmYWxzZX0sIkFsZXJ0c0ZpbHRlciI6ZmFsc2UsIkZvbnRDaGFydExhYmVsIjp7ImZvbnRGYW1pbHkiOiJNaWNyb3NvZnQgU2FucyBTZXJpZiIsInNpemUiOjE0LjAsImJvbGQiOnRydWUsIml0YWxpYyI6ZmFsc2V9LCJCb2xkIjp0cnVlLCJTaG93UGVyY2VudGFnZSI6dHJ1ZSwiQ29sb3JEb3VibGUiOiIjRkZGRkQ3MDAiLCJDb2xvckhITEwiOiIjRkZGRkZGRkYiLCJDb2xvckhMTEgiOiIjRkZEM0QzRDMiLCJMYWJlbE9mZnNldCI6MTd9</UserSettingsSerialized>
-          <iOD>26</iOD>
+          <iOD>39</iOD>
         </ApexOscillationDetector>
         <Input>
           <PriceType>Close</PriceType>
@@ -1502,7 +1502,7 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>211</IndicatorId>
+          <IndicatorId>196</IndicatorId>
           <InstrumentDeserialized>NQ 06-21 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -1591,7 +1591,7 @@
           <DrawOnPricePanel>false</DrawOnPricePanel>
           <PaintPriceMarkers>true</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>214</IndicatorId>
+          <IndicatorId>199</IndicatorId>
           <InstrumentDeserialized>NQ 06-21 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -1656,7 +1656,7 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>true</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>217</IndicatorId>
+          <IndicatorId>202</IndicatorId>
           <InstrumentDeserialized>NQ 06-21 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -1708,7 +1708,7 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>220</IndicatorId>
+          <IndicatorId>205</IndicatorId>
           <InstrumentDeserialized>NQ 06-21 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -1783,7 +1783,7 @@
           <DrawOnPricePanel>false</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>223</IndicatorId>
+          <IndicatorId>208</IndicatorId>
           <InstrumentDeserialized>NQ 06-21 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -1858,7 +1858,7 @@
           <DrawOnPricePanel>false</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>226</IndicatorId>
+          <IndicatorId>211</IndicatorId>
           <InstrumentDeserialized>NQ 06-21 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -1933,7 +1933,7 @@
           <DrawOnPricePanel>false</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>229</IndicatorId>
+          <IndicatorId>214</IndicatorId>
           <InstrumentDeserialized>NQ 06-21 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -2008,7 +2008,7 @@
           <DrawOnPricePanel>false</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>232</IndicatorId>
+          <IndicatorId>217</IndicatorId>
           <InstrumentDeserialized>NQ 06-21 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -2089,7 +2089,7 @@
           <DrawOnPricePanel>false</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>235</IndicatorId>
+          <IndicatorId>220</IndicatorId>
           <InstrumentDeserialized>NQ 06-21 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -2167,7 +2167,7 @@
           <DrawOnPricePanel>false</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>238</IndicatorId>
+          <IndicatorId>223</IndicatorId>
           <InstrumentDeserialized>NQ 06-21 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -2248,7 +2248,7 @@
           <DrawOnPricePanel>false</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>241</IndicatorId>
+          <IndicatorId>226</IndicatorId>
           <InstrumentDeserialized>NQ 06-21 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -2323,7 +2323,7 @@
           <DrawOnPricePanel>false</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>244</IndicatorId>
+          <IndicatorId>229</IndicatorId>
           <InstrumentDeserialized>NQ 06-21 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -2375,7 +2375,7 @@
           <DrawOnPricePanel>false</DrawOnPricePanel>
           <PaintPriceMarkers>true</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>247</IndicatorId>
+          <IndicatorId>232</IndicatorId>
           <InstrumentDeserialized>NQ 06-21 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -2452,7 +2452,7 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>250</IndicatorId>
+          <IndicatorId>235</IndicatorId>
           <InstrumentDeserialized>NQ 06-21 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -2528,7 +2528,7 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>253</IndicatorId>
+          <IndicatorId>238</IndicatorId>
           <InstrumentDeserialized>NQ 06-21 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -2604,7 +2604,7 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>256</IndicatorId>
+          <IndicatorId>241</IndicatorId>
           <InstrumentDeserialized>NQ 06-21 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -2680,7 +2680,7 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>259</IndicatorId>
+          <IndicatorId>244</IndicatorId>
           <InstrumentDeserialized>NQ 06-21 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -2691,7 +2691,7 @@
           <PriceType>Close</PriceType>
         </Input>
       </Indicator>
-      <Indicator BarsIndex="0" Instrument="NQ 06-21 Globex" Name="NinjaTrader.NinjaScript.Indicators.AutomationTool" Panel="-1" DisplayName="_APEX Automation Tool(NQ_DTX,False,NQ_ELEV,False,NQ_ETX,False,NQ_FTX,False,NQ_HD,False,NQ_ODD,False,NQ_SLZ,False,NQ_TBS,False,False,True,4/27/2021 9:35:00 AM,4/27/2021 9:25:00 AM,True,4/27/2021 6:00:00 PM,4/27/2021 4:00:00 PM,False,5/6/2021 3:00:00 AM,5/6/2021 1:00:00 AM,False,False,True,True,False,False,False,False,False,True,False,False,False,email@gmail.com,False,False,False,True,False,False,False,True,False,False,True,0.65,True,False,False,False,False,False,True,False,130,False,False,-9999,False,False,False,True,False,75,False,nqTickID,,,False,,,9999,False,False,False,True,False,False,6,3,13,False,False,False,False,True,False,False,8,False,8,False,8,False,15,8,False,8,False,10,8,False,8,True,8,False)">
+      <Indicator BarsIndex="0" Instrument="NQ 06-21 Globex" Name="NinjaTrader.NinjaScript.Indicators.AutomationTool" Panel="-1" DisplayName="_APEX Automation Tool(NQ_DTX,False,NQ_ELEV,False,NQ_ETX,False,NQ_FTX,False,NQ_HD,False,NQ_ODD,False,NQ_SLZ,False,NQ_TBS,False,True,4/27/2021 9:35:00 AM,4/27/2021 9:25:00 AM,True,4/27/2021 6:00:00 PM,4/27/2021 4:00:00 PM,False,5/6/2021 3:00:00 AM,5/6/2021 1:00:00 AM,False,False,False,True,True,False,False,False,False,False,False,True,False,False,False,email@gmail.com,False,False,False,False,True,False,False,False,True,False,False,False,True,0.65,True,False,False,False,False,False,False,True,False,130,False,False,-9999,False,False,False,False,True,False,75,False,nqTickID,,,False,,,9999,False,False,False,False,True,False,False,6,3,13,False,False,False,False,False,True,False,False,8,False,8,False,8,False,15,8,False,8,False,10,8,False,8,True,8,False)">
         <AutomationTool xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
           <IsVisible>true</IsVisible>
           <AreLinesConfigurable>true</AreLinesConfigurable>
@@ -2754,7 +2754,7 @@
           <DrawOnPricePanel>false</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>262</IndicatorId>
+          <IndicatorId>247</IndicatorId>
           <InstrumentDeserialized>NQ 06-21 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -2768,7 +2768,6 @@
           <TicksFromSettlement>15</TicksFromSettlement>
           <OrderPrintsID>nqTickID</OrderPrintsID>
           <MultiSetupEntry>false</MultiSetupEntry>
-          <BreakEvenOnCoil>false</BreakEvenOnCoil>
           <PositivePNLReached>9999</PositivePNLReached>
           <NegativePNLReached>-9999</NegativePNLReached>
           <FastMarkets>true</FastMarkets>
@@ -2841,6 +2840,14 @@
           <TicksSLZAmplify>8</TicksSLZAmplify>
           <TicksTBSAmplifyBool>false</TicksTBSAmplifyBool>
           <TicksTBSAmplify>8</TicksTBSAmplify>
+          <DTXBreakEvenOnCoil>false</DTXBreakEvenOnCoil>
+          <ELEVBreakEvenOnCoil>false</ELEVBreakEvenOnCoil>
+          <ETXBreakEvenOnCoil>false</ETXBreakEvenOnCoil>
+          <FTXBreakEvenOnCoil>false</FTXBreakEvenOnCoil>
+          <HDBreakEvenOnCoil>false</HDBreakEvenOnCoil>
+          <ODDBreakEvenOnCoil>false</ODDBreakEvenOnCoil>
+          <SLZBreakEvenOnCoil>false</SLZBreakEvenOnCoil>
+          <TBSBreakEvenOnCoil>false</TBSBreakEvenOnCoil>
           <DTXLevelThroughBar>false</DTXLevelThroughBar>
           <ELEVLevelThroughBar>false</ELEVLevelThroughBar>
           <ETXLevelThroughBar>false</ETXLevelThroughBar>
@@ -2946,7 +2953,7 @@
     </Properties>
     <ChartPanels>
       <ChartPanel>
-        <Height>824</Height>
+        <Height>826</Height>
         <HoldChartTraderOrders>false</HoldChartTraderOrders>
         <IsMaximized>false</IsMaximized>
         <Right>
@@ -2996,7 +3003,7 @@
         </Overlay>
       </ChartPanel>
       <ChartPanel>
-        <Height>64</Height>
+        <Height>62</Height>
         <HoldChartTraderOrders>false</HoldChartTraderOrders>
         <IsMaximized>false</IsMaximized>
         <Right>
