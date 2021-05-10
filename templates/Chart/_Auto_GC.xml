@@ -101,11 +101,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2021-04-26T00:00:00</From>
+          <From>2021-05-07T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2021-04-29T00:00:00</To>
+          <To>2021-05-10T00:00:00</To>
           <Calculate>OnEachTick</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>false</IsAutoScale>
@@ -123,8 +123,8 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>true</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>233</IndicatorId>
-          <InstrumentDeserialized>NQ 03-21 Globex</InstrumentDeserialized>
+          <IndicatorId>1</IndicatorId>
+          <InstrumentDeserialized>GC 06-21 Nymex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
           <ZOrder>6</ZOrder>
@@ -154,11 +154,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2021-04-26T00:00:00</From>
+          <From>2021-05-07T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2021-04-29T00:00:00</To>
+          <To>2021-05-10T00:00:00</To>
           <Calculate>OnBarClose</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -176,8 +176,8 @@
           <DrawOnPricePanel>false</DrawOnPricePanel>
           <PaintPriceMarkers>true</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>237</IndicatorId>
-          <InstrumentDeserialized>NQ 03-21 Globex</InstrumentDeserialized>
+          <IndicatorId>5</IndicatorId>
+          <InstrumentDeserialized>GC 06-21 Nymex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
           <ZOrder>10015</ZOrder>
@@ -207,32 +207,30 @@
               </BarsPeriodSerializable>
               <BarsToLoad>0</BarsToLoad>
               <DisplayInDataBox>true</DisplayInDataBox>
-              <From>2021-04-26T00:00:00</From>
+              <From>2021-05-07T00:00:00</From>
               <Panel>0</Panel>
               <ScaleJustification>Right</ScaleJustification>
               <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-              <To>2021-04-29T00:00:00</To>
+              <To>2021-05-10T00:00:00</To>
               <Calculate>OnBarClose</Calculate>
               <Displacement>0</Displacement>
               <IsAutoScale>true</IsAutoScale>
               <IsDataSeriesRequired>true</IsDataSeriesRequired>
               <IsOverlay>false</IsOverlay>
-              <Lines />
+              <Lines>
+                <Line>
+                  <IsOpacityVisible>false</IsOpacityVisible>
+                  <BrushSerialize>&lt;SolidColorBrush xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;#00FFFFFF&lt;/SolidColorBrush&gt;</BrushSerialize>
+                  <DashStyleHelper>Solid</DashStyleHelper>
+                  <Opacity>100</Opacity>
+                  <Width>1</Width>
+                  <Name>Zero</Name>
+                  <Value>0</Value>
+                </Line>
+              </Lines>
               <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
               <Name>_APEX Order Prints Star LVS ZOI Detector</Name>
               <Plots>
-                <Plot>
-                  <IsOpacityVisible>false</IsOpacityVisible>
-                  <BrushSerialize>&lt;SolidColorBrush xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;#FF1E90FF&lt;/SolidColorBrush&gt;</BrushSerialize>
-                  <DashStyleHelper>Solid</DashStyleHelper>
-                  <Opacity>100</Opacity>
-                  <Width>4</Width>
-                  <AutoWidth>false</AutoWidth>
-                  <Max>1.7976931348623157E+308</Max>
-                  <Min>-1.7976931348623157E+308</Min>
-                  <Name>Value</Name>
-                  <PlotStyle>Bar</PlotStyle>
-                </Plot>
                 <Plot>
                   <IsOpacityVisible>false</IsOpacityVisible>
                   <BrushSerialize>&lt;SolidColorBrush xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;#FF1E90FF&lt;/SolidColorBrush&gt;</BrushSerialize>
@@ -282,11 +280,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2021-04-26T00:00:00</From>
+          <From>2021-05-07T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2021-04-29T00:00:00</To>
+          <To>2021-05-10T00:00:00</To>
           <Calculate>OnBarClose</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -304,8 +302,8 @@
           <DrawOnPricePanel>false</DrawOnPricePanel>
           <PaintPriceMarkers>true</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>241</IndicatorId>
-          <InstrumentDeserialized>NQ 03-21 Globex</InstrumentDeserialized>
+          <IndicatorId>9</IndicatorId>
+          <InstrumentDeserialized>GC 06-21 Nymex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
           <ZOrder>10019</ZOrder>
@@ -335,32 +333,30 @@
               </BarsPeriodSerializable>
               <BarsToLoad>0</BarsToLoad>
               <DisplayInDataBox>true</DisplayInDataBox>
-              <From>2021-04-26T00:00:00</From>
+              <From>2021-05-07T00:00:00</From>
               <Panel>0</Panel>
               <ScaleJustification>Right</ScaleJustification>
               <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-              <To>2021-04-29T00:00:00</To>
+              <To>2021-05-10T00:00:00</To>
               <Calculate>OnBarClose</Calculate>
               <Displacement>0</Displacement>
               <IsAutoScale>true</IsAutoScale>
               <IsDataSeriesRequired>true</IsDataSeriesRequired>
               <IsOverlay>false</IsOverlay>
-              <Lines />
+              <Lines>
+                <Line>
+                  <IsOpacityVisible>false</IsOpacityVisible>
+                  <BrushSerialize>&lt;SolidColorBrush xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;#00FFFFFF&lt;/SolidColorBrush&gt;</BrushSerialize>
+                  <DashStyleHelper>Solid</DashStyleHelper>
+                  <Opacity>100</Opacity>
+                  <Width>1</Width>
+                  <Name>Zero</Name>
+                  <Value>0</Value>
+                </Line>
+              </Lines>
               <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
               <Name>_APEX Order Prints Third Bar Sling Detector</Name>
               <Plots>
-                <Plot>
-                  <IsOpacityVisible>false</IsOpacityVisible>
-                  <BrushSerialize>&lt;SolidColorBrush xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;#FF800080&lt;/SolidColorBrush&gt;</BrushSerialize>
-                  <DashStyleHelper>Solid</DashStyleHelper>
-                  <Opacity>100</Opacity>
-                  <Width>4</Width>
-                  <AutoWidth>false</AutoWidth>
-                  <Max>1.7976931348623157E+308</Max>
-                  <Min>-1.7976931348623157E+308</Min>
-                  <Name>Value</Name>
-                  <PlotStyle>Bar</PlotStyle>
-                </Plot>
                 <Plot>
                   <IsOpacityVisible>false</IsOpacityVisible>
                   <BrushSerialize>&lt;SolidColorBrush xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;#FF800080&lt;/SolidColorBrush&gt;</BrushSerialize>
@@ -410,11 +406,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2021-04-26T00:00:00</From>
+          <From>2021-05-07T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2021-04-29T00:00:00</To>
+          <To>2021-05-10T00:00:00</To>
           <Calculate>OnBarClose</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -432,8 +428,8 @@
           <DrawOnPricePanel>false</DrawOnPricePanel>
           <PaintPriceMarkers>true</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>245</IndicatorId>
-          <InstrumentDeserialized>NQ 03-21 Globex</InstrumentDeserialized>
+          <IndicatorId>13</IndicatorId>
+          <InstrumentDeserialized>GC 06-21 Nymex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
           <ZOrder>10020</ZOrder>
@@ -463,32 +459,30 @@
               </BarsPeriodSerializable>
               <BarsToLoad>0</BarsToLoad>
               <DisplayInDataBox>true</DisplayInDataBox>
-              <From>2021-04-26T00:00:00</From>
+              <From>2021-05-07T00:00:00</From>
               <Panel>0</Panel>
               <ScaleJustification>Right</ScaleJustification>
               <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-              <To>2021-04-29T00:00:00</To>
+              <To>2021-05-10T00:00:00</To>
               <Calculate>OnBarClose</Calculate>
               <Displacement>0</Displacement>
               <IsAutoScale>true</IsAutoScale>
               <IsDataSeriesRequired>true</IsDataSeriesRequired>
               <IsOverlay>false</IsOverlay>
-              <Lines />
+              <Lines>
+                <Line>
+                  <IsOpacityVisible>false</IsOpacityVisible>
+                  <BrushSerialize>&lt;SolidColorBrush xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;#00FFFFFF&lt;/SolidColorBrush&gt;</BrushSerialize>
+                  <DashStyleHelper>Solid</DashStyleHelper>
+                  <Opacity>100</Opacity>
+                  <Width>1</Width>
+                  <Name>Zero</Name>
+                  <Value>0</Value>
+                </Line>
+              </Lines>
               <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
               <Name>_APEX Order Prints Elevator Detector</Name>
               <Plots>
-                <Plot>
-                  <IsOpacityVisible>false</IsOpacityVisible>
-                  <BrushSerialize>&lt;SolidColorBrush xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;#FFFFD700&lt;/SolidColorBrush&gt;</BrushSerialize>
-                  <DashStyleHelper>Solid</DashStyleHelper>
-                  <Opacity>100</Opacity>
-                  <Width>4</Width>
-                  <AutoWidth>false</AutoWidth>
-                  <Max>1.7976931348623157E+308</Max>
-                  <Min>-1.7976931348623157E+308</Min>
-                  <Name>Value</Name>
-                  <PlotStyle>Bar</PlotStyle>
-                </Plot>
                 <Plot>
                   <IsOpacityVisible>false</IsOpacityVisible>
                   <BrushSerialize>&lt;SolidColorBrush xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;#FFFFD700&lt;/SolidColorBrush&gt;</BrushSerialize>
@@ -538,11 +532,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2021-04-26T00:00:00</From>
+          <From>2021-05-07T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2021-04-29T00:00:00</To>
+          <To>2021-05-10T00:00:00</To>
           <Calculate>OnBarClose</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -560,8 +554,8 @@
           <DrawOnPricePanel>false</DrawOnPricePanel>
           <PaintPriceMarkers>true</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>249</IndicatorId>
-          <InstrumentDeserialized>NQ 03-21 Globex</InstrumentDeserialized>
+          <IndicatorId>17</IndicatorId>
+          <InstrumentDeserialized>GC 06-21 Nymex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
           <ZOrder>10016</ZOrder>
@@ -591,32 +585,30 @@
               </BarsPeriodSerializable>
               <BarsToLoad>0</BarsToLoad>
               <DisplayInDataBox>true</DisplayInDataBox>
-              <From>2021-04-26T00:00:00</From>
+              <From>2021-05-07T00:00:00</From>
               <Panel>0</Panel>
               <ScaleJustification>Right</ScaleJustification>
               <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-              <To>2021-04-29T00:00:00</To>
+              <To>2021-05-10T00:00:00</To>
               <Calculate>OnBarClose</Calculate>
               <Displacement>0</Displacement>
               <IsAutoScale>true</IsAutoScale>
               <IsDataSeriesRequired>true</IsDataSeriesRequired>
               <IsOverlay>false</IsOverlay>
-              <Lines />
+              <Lines>
+                <Line>
+                  <IsOpacityVisible>false</IsOpacityVisible>
+                  <BrushSerialize>&lt;SolidColorBrush xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;#00FFFFFF&lt;/SolidColorBrush&gt;</BrushSerialize>
+                  <DashStyleHelper>Solid</DashStyleHelper>
+                  <Opacity>100</Opacity>
+                  <Width>1</Width>
+                  <Name>Zero</Name>
+                  <Value>0</Value>
+                </Line>
+              </Lines>
               <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
               <Name>_APEX Order Prints Trapped Orders with Exhaustion Box Detector</Name>
               <Plots>
-                <Plot>
-                  <IsOpacityVisible>false</IsOpacityVisible>
-                  <BrushSerialize>&lt;SolidColorBrush xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;#FFFF1493&lt;/SolidColorBrush&gt;</BrushSerialize>
-                  <DashStyleHelper>Solid</DashStyleHelper>
-                  <Opacity>100</Opacity>
-                  <Width>4</Width>
-                  <AutoWidth>false</AutoWidth>
-                  <Max>1.7976931348623157E+308</Max>
-                  <Min>-1.7976931348623157E+308</Min>
-                  <Name>Value</Name>
-                  <PlotStyle>Bar</PlotStyle>
-                </Plot>
                 <Plot>
                   <IsOpacityVisible>false</IsOpacityVisible>
                   <BrushSerialize>&lt;SolidColorBrush xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;#FFFF1493&lt;/SolidColorBrush&gt;</BrushSerialize>
@@ -672,11 +664,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2021-04-26T00:00:00</From>
+          <From>2021-05-07T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2021-04-29T00:00:00</To>
+          <To>2021-05-10T00:00:00</To>
           <Calculate>OnBarClose</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -694,8 +686,8 @@
           <DrawOnPricePanel>false</DrawOnPricePanel>
           <PaintPriceMarkers>true</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>253</IndicatorId>
-          <InstrumentDeserialized>NQ 03-21 Globex</InstrumentDeserialized>
+          <IndicatorId>21</IndicatorId>
+          <InstrumentDeserialized>GC 06-21 Nymex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
           <ZOrder>10017</ZOrder>
@@ -725,32 +717,30 @@
               </BarsPeriodSerializable>
               <BarsToLoad>0</BarsToLoad>
               <DisplayInDataBox>true</DisplayInDataBox>
-              <From>2021-04-26T00:00:00</From>
+              <From>2021-05-07T00:00:00</From>
               <Panel>0</Panel>
               <ScaleJustification>Right</ScaleJustification>
               <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-              <To>2021-04-29T00:00:00</To>
+              <To>2021-05-10T00:00:00</To>
               <Calculate>OnBarClose</Calculate>
               <Displacement>0</Displacement>
               <IsAutoScale>true</IsAutoScale>
               <IsDataSeriesRequired>true</IsDataSeriesRequired>
               <IsOverlay>false</IsOverlay>
-              <Lines />
+              <Lines>
+                <Line>
+                  <IsOpacityVisible>false</IsOpacityVisible>
+                  <BrushSerialize>&lt;SolidColorBrush xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;#00FFFFFF&lt;/SolidColorBrush&gt;</BrushSerialize>
+                  <DashStyleHelper>Solid</DashStyleHelper>
+                  <Opacity>100</Opacity>
+                  <Width>1</Width>
+                  <Name>Zero</Name>
+                  <Value>0</Value>
+                </Line>
+              </Lines>
               <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
               <Name>_APEX Order Prints Double TX Detector</Name>
               <Plots>
-                <Plot>
-                  <IsOpacityVisible>false</IsOpacityVisible>
-                  <BrushSerialize>&lt;SolidColorBrush xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;#FFFFFFFF&lt;/SolidColorBrush&gt;</BrushSerialize>
-                  <DashStyleHelper>Solid</DashStyleHelper>
-                  <Opacity>100</Opacity>
-                  <Width>4</Width>
-                  <AutoWidth>false</AutoWidth>
-                  <Max>1.7976931348623157E+308</Max>
-                  <Min>-1.7976931348623157E+308</Min>
-                  <Name>Value</Name>
-                  <PlotStyle>Bar</PlotStyle>
-                </Plot>
                 <Plot>
                   <IsOpacityVisible>false</IsOpacityVisible>
                   <BrushSerialize>&lt;SolidColorBrush xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;#FFFFFFFF&lt;/SolidColorBrush&gt;</BrushSerialize>
@@ -803,11 +793,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2021-04-26T00:00:00</From>
+          <From>2021-05-07T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2021-04-29T00:00:00</To>
+          <To>2021-05-10T00:00:00</To>
           <Calculate>OnBarClose</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -825,8 +815,8 @@
           <DrawOnPricePanel>false</DrawOnPricePanel>
           <PaintPriceMarkers>true</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>257</IndicatorId>
-          <InstrumentDeserialized>NQ 03-21 Globex</InstrumentDeserialized>
+          <IndicatorId>25</IndicatorId>
+          <InstrumentDeserialized>GC 06-21 Nymex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
           <ZOrder>10018</ZOrder>
@@ -856,32 +846,30 @@
               </BarsPeriodSerializable>
               <BarsToLoad>0</BarsToLoad>
               <DisplayInDataBox>true</DisplayInDataBox>
-              <From>2021-04-26T00:00:00</From>
+              <From>2021-05-07T00:00:00</From>
               <Panel>0</Panel>
               <ScaleJustification>Right</ScaleJustification>
               <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-              <To>2021-04-29T00:00:00</To>
+              <To>2021-05-10T00:00:00</To>
               <Calculate>OnBarClose</Calculate>
               <Displacement>0</Displacement>
               <IsAutoScale>true</IsAutoScale>
               <IsDataSeriesRequired>true</IsDataSeriesRequired>
               <IsOverlay>false</IsOverlay>
-              <Lines />
+              <Lines>
+                <Line>
+                  <IsOpacityVisible>false</IsOpacityVisible>
+                  <BrushSerialize>&lt;SolidColorBrush xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;#00FFFFFF&lt;/SolidColorBrush&gt;</BrushSerialize>
+                  <DashStyleHelper>Solid</DashStyleHelper>
+                  <Opacity>100</Opacity>
+                  <Width>1</Width>
+                  <Name>Zero</Name>
+                  <Value>0</Value>
+                </Line>
+              </Lines>
               <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
               <Name>_APEX Order Prints Trapped Orders with Exhaustion Box Detector</Name>
               <Plots>
-                <Plot>
-                  <IsOpacityVisible>false</IsOpacityVisible>
-                  <BrushSerialize>&lt;SolidColorBrush xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;#FFFF1493&lt;/SolidColorBrush&gt;</BrushSerialize>
-                  <DashStyleHelper>Solid</DashStyleHelper>
-                  <Opacity>100</Opacity>
-                  <Width>4</Width>
-                  <AutoWidth>false</AutoWidth>
-                  <Max>1.7976931348623157E+308</Max>
-                  <Min>-1.7976931348623157E+308</Min>
-                  <Name>Value</Name>
-                  <PlotStyle>Bar</PlotStyle>
-                </Plot>
                 <Plot>
                   <IsOpacityVisible>false</IsOpacityVisible>
                   <BrushSerialize>&lt;SolidColorBrush xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;#FFFF1493&lt;/SolidColorBrush&gt;</BrushSerialize>
@@ -937,11 +925,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2021-04-26T00:00:00</From>
+          <From>2021-05-07T00:00:00</From>
           <Panel>1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2021-04-29T00:00:00</To>
+          <To>2021-05-10T00:00:00</To>
           <Calculate>OnEachTick</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>false</IsAutoScale>
@@ -1009,8 +997,8 @@
           <DrawOnPricePanel>false</DrawOnPricePanel>
           <PaintPriceMarkers>true</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>260</IndicatorId>
-          <InstrumentDeserialized>NQ 03-21 Globex</InstrumentDeserialized>
+          <IndicatorId>28</IndicatorId>
+          <InstrumentDeserialized>GC 06-21 Nymex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
           <ZOrder>10006</ZOrder>
@@ -1039,11 +1027,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>false</DisplayInDataBox>
-          <From>2021-04-26T00:00:00</From>
+          <From>2021-05-07T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2021-04-29T00:00:00</To>
+          <To>2021-05-10T00:00:00</To>
           <Calculate>OnBarClose</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -1061,8 +1049,8 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>263</IndicatorId>
-          <InstrumentDeserialized>NQ 03-21 Globex</InstrumentDeserialized>
+          <IndicatorId>31</IndicatorId>
+          <InstrumentDeserialized>GC 06-21 Nymex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
           <ZOrder>10004</ZOrder>
@@ -1091,11 +1079,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>false</DisplayInDataBox>
-          <From>2021-04-26T00:00:00</From>
+          <From>2021-05-07T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2021-04-29T00:00:00</To>
+          <To>2021-05-10T00:00:00</To>
           <Calculate>OnBarClose</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -1113,8 +1101,8 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>266</IndicatorId>
-          <InstrumentDeserialized>NQ 03-21 Globex</InstrumentDeserialized>
+          <IndicatorId>34</IndicatorId>
+          <InstrumentDeserialized>GC 06-21 Nymex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
           <ZOrder>10005</ZOrder>
@@ -1143,11 +1131,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2021-04-26T00:00:00</From>
+          <From>2021-05-07T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2021-04-29T00:00:00</To>
+          <To>2021-05-10T00:00:00</To>
           <Calculate>OnBarClose</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -1165,8 +1153,8 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>269</IndicatorId>
-          <InstrumentDeserialized>NQ 03-21 Globex</InstrumentDeserialized>
+          <IndicatorId>37</IndicatorId>
+          <InstrumentDeserialized>GC 06-21 Nymex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
           <ZOrder>10006</ZOrder>
@@ -1195,11 +1183,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>false</DisplayInDataBox>
-          <From>2021-04-26T00:00:00</From>
+          <From>2021-05-07T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2021-04-29T00:00:00</To>
+          <To>2021-05-10T00:00:00</To>
           <Calculate>OnPriceChange</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>false</IsAutoScale>
@@ -1242,8 +1230,8 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>272</IndicatorId>
-          <InstrumentDeserialized>NQ 03-21 Globex</InstrumentDeserialized>
+          <IndicatorId>40</IndicatorId>
+          <InstrumentDeserialized>GC 06-21 Nymex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
           <ZOrder>10007</ZOrder>
@@ -1272,11 +1260,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>false</DisplayInDataBox>
-          <From>2021-04-26T00:00:00</From>
+          <From>2021-05-07T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2021-04-29T00:00:00</To>
+          <To>2021-05-10T00:00:00</To>
           <Calculate>OnPriceChange</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>false</IsAutoScale>
@@ -1319,8 +1307,8 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>275</IndicatorId>
-          <InstrumentDeserialized>NQ 03-21 Globex</InstrumentDeserialized>
+          <IndicatorId>43</IndicatorId>
+          <InstrumentDeserialized>GC 06-21 Nymex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
           <ZOrder>10008</ZOrder>
@@ -1349,11 +1337,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>false</DisplayInDataBox>
-          <From>2021-04-26T00:00:00</From>
+          <From>2021-05-07T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2021-04-29T00:00:00</To>
+          <To>2021-05-10T00:00:00</To>
           <Calculate>OnPriceChange</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>false</IsAutoScale>
@@ -1396,8 +1384,8 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>278</IndicatorId>
-          <InstrumentDeserialized>NQ 03-21 Globex</InstrumentDeserialized>
+          <IndicatorId>46</IndicatorId>
+          <InstrumentDeserialized>GC 06-21 Nymex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
           <ZOrder>10009</ZOrder>
@@ -1426,11 +1414,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2021-04-26T00:00:00</From>
+          <From>2021-05-07T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2021-04-29T00:00:00</To>
+          <To>2021-05-10T00:00:00</To>
           <Calculate>OnEachTick</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>false</IsAutoScale>
@@ -1461,14 +1449,14 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>281</IndicatorId>
-          <InstrumentDeserialized>NQ 03-21 Globex</InstrumentDeserialized>
+          <IndicatorId>49</IndicatorId>
+          <InstrumentDeserialized>GC 06-21 Nymex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
           <ZOrder>10010</ZOrder>
           <SettingsSerialized>eyJSZXF1aXJlQ2xvc2VCcmVha291dCI6ZmFsc2UsIk1vdmVTYW1lTG93SGlnaCI6ZmFsc2UsIlNwYW4iOjQsIlN0cmVuZ3RoIjo0fQ==</SettingsSerialized>
           <UserSettingsSerialized>eyJBbGVydHMiOnsidmlzdWFsIjpmYWxzZSwiYXVkaWJsZSI6ZmFsc2UsIndpbmRvd0ZsYXNoIjpmYWxzZX0sIkFsZXJ0c0ZpbHRlciI6ZmFsc2UsIkZvbnRDaGFydExhYmVsIjp7ImZvbnRGYW1pbHkiOiJNaWNyb3NvZnQgU2FucyBTZXJpZiIsInNpemUiOjE0LjAsImJvbGQiOnRydWUsIml0YWxpYyI6ZmFsc2V9LCJCb2xkIjp0cnVlLCJTaG93UGVyY2VudGFnZSI6dHJ1ZSwiQ29sb3JEb3VibGUiOiIjRkZGRkQ3MDAiLCJDb2xvckhITEwiOiIjRkZGRkZGRkYiLCJDb2xvckhMTEgiOiIjRkZEM0QzRDMiLCJMYWJlbE9mZnNldCI6MTd9</UserSettingsSerialized>
-          <iOD>365</iOD>
+          <iOD>15</iOD>
         </ApexOscillationDetector>
         <Input>
           <PriceType>Close</PriceType>
@@ -1492,11 +1480,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>false</DisplayInDataBox>
-          <From>2021-04-26T00:00:00</From>
+          <From>2021-05-07T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2021-04-29T00:00:00</To>
+          <To>2021-05-10T00:00:00</To>
           <Calculate>OnPriceChange</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>false</IsAutoScale>
@@ -1514,8 +1502,8 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>284</IndicatorId>
-          <InstrumentDeserialized>NQ 03-21 Globex</InstrumentDeserialized>
+          <IndicatorId>52</IndicatorId>
+          <InstrumentDeserialized>GC 06-21 Nymex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
           <ZOrder>10011</ZOrder>
@@ -1544,11 +1532,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2021-04-26T00:00:00</From>
+          <From>2021-05-07T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2021-04-29T00:00:00</To>
+          <To>2021-05-10T00:00:00</To>
           <Calculate>OnPriceChange</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>false</IsAutoScale>
@@ -1603,8 +1591,8 @@
           <DrawOnPricePanel>false</DrawOnPricePanel>
           <PaintPriceMarkers>true</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>287</IndicatorId>
-          <InstrumentDeserialized>NQ 03-21 Globex</InstrumentDeserialized>
+          <IndicatorId>55</IndicatorId>
+          <InstrumentDeserialized>GC 06-21 Nymex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
           <ZOrder>10012</ZOrder>
@@ -1633,11 +1621,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>false</DisplayInDataBox>
-          <From>2021-04-26T00:00:00</From>
+          <From>2021-05-07T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2021-04-29T00:00:00</To>
+          <To>2021-05-10T00:00:00</To>
           <Calculate>OnPriceChange</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -1668,8 +1656,8 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>true</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>290</IndicatorId>
-          <InstrumentDeserialized>NQ 03-21 Globex</InstrumentDeserialized>
+          <IndicatorId>58</IndicatorId>
+          <InstrumentDeserialized>GC 06-21 Nymex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
           <ZOrder>10013</ZOrder>
@@ -1698,17 +1686,27 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2021-04-26T00:00:00</From>
+          <From>2021-05-07T00:00:00</From>
           <Panel>2</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2021-04-29T00:00:00</To>
+          <To>2021-05-10T00:00:00</To>
           <Calculate>OnEachTick</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
           <IsDataSeriesRequired>true</IsDataSeriesRequired>
           <IsOverlay>false</IsOverlay>
-          <Lines />
+          <Lines>
+            <Line>
+              <IsOpacityVisible>false</IsOpacityVisible>
+              <BrushSerialize>&lt;SolidColorBrush xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;#00FFFFFF&lt;/SolidColorBrush&gt;</BrushSerialize>
+              <DashStyleHelper>Solid</DashStyleHelper>
+              <Opacity>100</Opacity>
+              <Width>1</Width>
+              <Name>Zero</Name>
+              <Value>0</Value>
+            </Line>
+          </Lines>
           <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
           <Name>SLZ</Name>
           <Plots>
@@ -1718,18 +1716,6 @@
               <DashStyleHelper>Solid</DashStyleHelper>
               <Opacity>100</Opacity>
               <Width>20</Width>
-              <AutoWidth>false</AutoWidth>
-              <Max>1.7976931348623157E+308</Max>
-              <Min>-1.7976931348623157E+308</Min>
-              <Name>Zero</Name>
-              <PlotStyle>Bar</PlotStyle>
-            </Plot>
-            <Plot>
-              <IsOpacityVisible>false</IsOpacityVisible>
-              <BrushSerialize>&lt;SolidColorBrush xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;#FF1E90FF&lt;/SolidColorBrush&gt;</BrushSerialize>
-              <DashStyleHelper>Solid</DashStyleHelper>
-              <Opacity>100</Opacity>
-              <Width>4</Width>
               <AutoWidth>false</AutoWidth>
               <Max>1.7976931348623157E+308</Max>
               <Min>-1.7976931348623157E+308</Min>
@@ -1745,8 +1731,8 @@
           <DrawOnPricePanel>false</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>296</IndicatorId>
-          <InstrumentDeserialized>NQ 03-21 Globex</InstrumentDeserialized>
+          <IndicatorId>61</IndicatorId>
+          <InstrumentDeserialized>GC 06-21 Nymex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
           <ZOrder>10004</ZOrder>
@@ -1775,32 +1761,30 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2021-04-26T00:00:00</From>
+          <From>2021-05-07T00:00:00</From>
           <Panel>2</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2021-04-29T00:00:00</To>
+          <To>2021-05-10T00:00:00</To>
           <Calculate>OnEachTick</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
           <IsDataSeriesRequired>true</IsDataSeriesRequired>
           <IsOverlay>false</IsOverlay>
-          <Lines />
+          <Lines>
+            <Line>
+              <IsOpacityVisible>false</IsOpacityVisible>
+              <BrushSerialize>&lt;SolidColorBrush xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;#00FFFFFF&lt;/SolidColorBrush&gt;</BrushSerialize>
+              <DashStyleHelper>Solid</DashStyleHelper>
+              <Opacity>100</Opacity>
+              <Width>1</Width>
+              <Name>Zero</Name>
+              <Value>0</Value>
+            </Line>
+          </Lines>
           <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
           <Name>TBS</Name>
           <Plots>
-            <Plot>
-              <IsOpacityVisible>false</IsOpacityVisible>
-              <BrushSerialize>&lt;SolidColorBrush xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;#FF800080&lt;/SolidColorBrush&gt;</BrushSerialize>
-              <DashStyleHelper>Solid</DashStyleHelper>
-              <Opacity>100</Opacity>
-              <Width>4</Width>
-              <AutoWidth>false</AutoWidth>
-              <Max>1.7976931348623157E+308</Max>
-              <Min>-1.7976931348623157E+308</Min>
-              <Name>Zero</Name>
-              <PlotStyle>Bar</PlotStyle>
-            </Plot>
             <Plot>
               <IsOpacityVisible>false</IsOpacityVisible>
               <BrushSerialize>&lt;SolidColorBrush xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;#FF800080&lt;/SolidColorBrush&gt;</BrushSerialize>
@@ -1822,8 +1806,8 @@
           <DrawOnPricePanel>false</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>299</IndicatorId>
-          <InstrumentDeserialized>NQ 03-21 Globex</InstrumentDeserialized>
+          <IndicatorId>64</IndicatorId>
+          <InstrumentDeserialized>GC 06-21 Nymex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
           <ZOrder>10007</ZOrder>
@@ -1852,17 +1836,27 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2021-04-26T00:00:00</From>
+          <From>2021-05-07T00:00:00</From>
           <Panel>2</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2021-04-29T00:00:00</To>
+          <To>2021-05-10T00:00:00</To>
           <Calculate>OnEachTick</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
           <IsDataSeriesRequired>true</IsDataSeriesRequired>
           <IsOverlay>false</IsOverlay>
-          <Lines />
+          <Lines>
+            <Line>
+              <IsOpacityVisible>false</IsOpacityVisible>
+              <BrushSerialize>&lt;SolidColorBrush xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;#00FFFFFF&lt;/SolidColorBrush&gt;</BrushSerialize>
+              <DashStyleHelper>Solid</DashStyleHelper>
+              <Opacity>100</Opacity>
+              <Width>1</Width>
+              <Name>Zero</Name>
+              <Value>0</Value>
+            </Line>
+          </Lines>
           <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
           <Name>ELEV</Name>
           <Plots>
@@ -1872,18 +1866,6 @@
               <DashStyleHelper>Solid</DashStyleHelper>
               <Opacity>100</Opacity>
               <Width>16</Width>
-              <AutoWidth>false</AutoWidth>
-              <Max>1.7976931348623157E+308</Max>
-              <Min>-1.7976931348623157E+308</Min>
-              <Name>Zero</Name>
-              <PlotStyle>Bar</PlotStyle>
-            </Plot>
-            <Plot>
-              <IsOpacityVisible>false</IsOpacityVisible>
-              <BrushSerialize>&lt;SolidColorBrush xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;#FFFFD700&lt;/SolidColorBrush&gt;</BrushSerialize>
-              <DashStyleHelper>Solid</DashStyleHelper>
-              <Opacity>100</Opacity>
-              <Width>4</Width>
               <AutoWidth>false</AutoWidth>
               <Max>1.7976931348623157E+308</Max>
               <Min>-1.7976931348623157E+308</Min>
@@ -1899,8 +1881,8 @@
           <DrawOnPricePanel>false</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>302</IndicatorId>
-          <InstrumentDeserialized>NQ 03-21 Globex</InstrumentDeserialized>
+          <IndicatorId>67</IndicatorId>
+          <InstrumentDeserialized>GC 06-21 Nymex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
           <ZOrder>10008</ZOrder>
@@ -1929,17 +1911,27 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2021-04-26T00:00:00</From>
+          <From>2021-05-07T00:00:00</From>
           <Panel>2</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2021-04-29T00:00:00</To>
+          <To>2021-05-10T00:00:00</To>
           <Calculate>OnEachTick</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
           <IsDataSeriesRequired>true</IsDataSeriesRequired>
           <IsOverlay>false</IsOverlay>
-          <Lines />
+          <Lines>
+            <Line>
+              <IsOpacityVisible>false</IsOpacityVisible>
+              <BrushSerialize>&lt;SolidColorBrush xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;#00FFFFFF&lt;/SolidColorBrush&gt;</BrushSerialize>
+              <DashStyleHelper>Solid</DashStyleHelper>
+              <Opacity>100</Opacity>
+              <Width>1</Width>
+              <Name>Zero</Name>
+              <Value>0</Value>
+            </Line>
+          </Lines>
           <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
           <Name>TX ODD</Name>
           <Plots>
@@ -1949,18 +1941,6 @@
               <DashStyleHelper>Dot</DashStyleHelper>
               <Opacity>100</Opacity>
               <Width>9</Width>
-              <AutoWidth>false</AutoWidth>
-              <Max>1.7976931348623157E+308</Max>
-              <Min>-1.7976931348623157E+308</Min>
-              <Name>Zero</Name>
-              <PlotStyle>Bar</PlotStyle>
-            </Plot>
-            <Plot>
-              <IsOpacityVisible>false</IsOpacityVisible>
-              <BrushSerialize>&lt;SolidColorBrush xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;#FFFF1493&lt;/SolidColorBrush&gt;</BrushSerialize>
-              <DashStyleHelper>Solid</DashStyleHelper>
-              <Opacity>100</Opacity>
-              <Width>4</Width>
               <AutoWidth>false</AutoWidth>
               <Max>1.7976931348623157E+308</Max>
               <Min>-1.7976931348623157E+308</Min>
@@ -1976,8 +1956,8 @@
           <DrawOnPricePanel>false</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>305</IndicatorId>
-          <InstrumentDeserialized>NQ 03-21 Globex</InstrumentDeserialized>
+          <IndicatorId>70</IndicatorId>
+          <InstrumentDeserialized>GC 06-21 Nymex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
           <ZOrder>10010</ZOrder>
@@ -2012,17 +1992,27 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2021-04-26T00:00:00</From>
+          <From>2021-05-07T00:00:00</From>
           <Panel>2</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2021-04-29T00:00:00</To>
+          <To>2021-05-10T00:00:00</To>
           <Calculate>OnEachTick</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
           <IsDataSeriesRequired>true</IsDataSeriesRequired>
           <IsOverlay>false</IsOverlay>
-          <Lines />
+          <Lines>
+            <Line>
+              <IsOpacityVisible>false</IsOpacityVisible>
+              <BrushSerialize>&lt;SolidColorBrush xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;#00FFFFFF&lt;/SolidColorBrush&gt;</BrushSerialize>
+              <DashStyleHelper>Solid</DashStyleHelper>
+              <Opacity>100</Opacity>
+              <Width>1</Width>
+              <Name>Zero</Name>
+              <Value>0</Value>
+            </Line>
+          </Lines>
           <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
           <Name>DTX</Name>
           <Plots>
@@ -2032,18 +2022,6 @@
               <DashStyleHelper>Solid</DashStyleHelper>
               <Opacity>100</Opacity>
               <Width>13</Width>
-              <AutoWidth>false</AutoWidth>
-              <Max>1.7976931348623157E+308</Max>
-              <Min>-1.7976931348623157E+308</Min>
-              <Name>Zero</Name>
-              <PlotStyle>Bar</PlotStyle>
-            </Plot>
-            <Plot>
-              <IsOpacityVisible>false</IsOpacityVisible>
-              <BrushSerialize>&lt;SolidColorBrush xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;#FFFFFFFF&lt;/SolidColorBrush&gt;</BrushSerialize>
-              <DashStyleHelper>Solid</DashStyleHelper>
-              <Opacity>100</Opacity>
-              <Width>4</Width>
               <AutoWidth>false</AutoWidth>
               <Max>1.7976931348623157E+308</Max>
               <Min>-1.7976931348623157E+308</Min>
@@ -2059,8 +2037,8 @@
           <DrawOnPricePanel>false</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>308</IndicatorId>
-          <InstrumentDeserialized>NQ 03-21 Globex</InstrumentDeserialized>
+          <IndicatorId>73</IndicatorId>
+          <InstrumentDeserialized>GC 06-21 Nymex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
           <ZOrder>10009</ZOrder>
@@ -2092,17 +2070,27 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2021-04-26T00:00:00</From>
+          <From>2021-05-07T00:00:00</From>
           <Panel>2</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2021-04-29T00:00:00</To>
+          <To>2021-05-10T00:00:00</To>
           <Calculate>OnEachTick</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
           <IsDataSeriesRequired>true</IsDataSeriesRequired>
           <IsOverlay>false</IsOverlay>
-          <Lines />
+          <Lines>
+            <Line>
+              <IsOpacityVisible>false</IsOpacityVisible>
+              <BrushSerialize>&lt;SolidColorBrush xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;#00FFFFFF&lt;/SolidColorBrush&gt;</BrushSerialize>
+              <DashStyleHelper>Solid</DashStyleHelper>
+              <Opacity>100</Opacity>
+              <Width>1</Width>
+              <Name>Zero</Name>
+              <Value>0</Value>
+            </Line>
+          </Lines>
           <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
           <Name>TXF</Name>
           <Plots>
@@ -2112,18 +2100,6 @@
               <DashStyleHelper>Dash</DashStyleHelper>
               <Opacity>100</Opacity>
               <Width>3</Width>
-              <AutoWidth>false</AutoWidth>
-              <Max>1.7976931348623157E+308</Max>
-              <Min>-1.7976931348623157E+308</Min>
-              <Name>Zero</Name>
-              <PlotStyle>Bar</PlotStyle>
-            </Plot>
-            <Plot>
-              <IsOpacityVisible>false</IsOpacityVisible>
-              <BrushSerialize>&lt;SolidColorBrush xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;#FFFF1493&lt;/SolidColorBrush&gt;</BrushSerialize>
-              <DashStyleHelper>Solid</DashStyleHelper>
-              <Opacity>100</Opacity>
-              <Width>4</Width>
               <AutoWidth>false</AutoWidth>
               <Max>1.7976931348623157E+308</Max>
               <Min>-1.7976931348623157E+308</Min>
@@ -2139,8 +2115,8 @@
           <DrawOnPricePanel>false</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>311</IndicatorId>
-          <InstrumentDeserialized>NQ 03-21 Globex</InstrumentDeserialized>
+          <IndicatorId>76</IndicatorId>
+          <InstrumentDeserialized>GC 06-21 Nymex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
           <ZOrder>10011</ZOrder>
@@ -2175,17 +2151,27 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2021-04-26T00:00:00</From>
+          <From>2021-05-07T00:00:00</From>
           <Panel>2</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2021-04-29T00:00:00</To>
+          <To>2021-05-10T00:00:00</To>
           <Calculate>OnEachTick</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
           <IsDataSeriesRequired>true</IsDataSeriesRequired>
           <IsOverlay>false</IsOverlay>
-          <Lines />
+          <Lines>
+            <Line>
+              <IsOpacityVisible>false</IsOpacityVisible>
+              <BrushSerialize>&lt;SolidColorBrush xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;#00FFFFFF&lt;/SolidColorBrush&gt;</BrushSerialize>
+              <DashStyleHelper>Solid</DashStyleHelper>
+              <Opacity>100</Opacity>
+              <Width>1</Width>
+              <Name>Zero</Name>
+              <Value>0</Value>
+            </Line>
+          </Lines>
           <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
           <Name>OPR</Name>
           <Plots>
@@ -2198,20 +2184,8 @@
               <AutoWidth>false</AutoWidth>
               <Max>1.7976931348623157E+308</Max>
               <Min>-1.7976931348623157E+308</Min>
-              <Name>Zero</Name>
-              <PlotStyle>TriangleRight</PlotStyle>
-            </Plot>
-            <Plot>
-              <IsOpacityVisible>false</IsOpacityVisible>
-              <BrushSerialize>&lt;SolidColorBrush xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;#FFA52A2A&lt;/SolidColorBrush&gt;</BrushSerialize>
-              <DashStyleHelper>Solid</DashStyleHelper>
-              <Opacity>100</Opacity>
-              <Width>4</Width>
-              <AutoWidth>false</AutoWidth>
-              <Max>1.7976931348623157E+308</Max>
-              <Min>-1.7976931348623157E+308</Min>
               <Name>Value</Name>
-              <PlotStyle>Bar</PlotStyle>
+              <PlotStyle>TriangleRight</PlotStyle>
             </Plot>
           </Plots>
           <SelectedValueSeries>0</SelectedValueSeries>
@@ -2222,8 +2196,8 @@
           <DrawOnPricePanel>false</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>314</IndicatorId>
-          <InstrumentDeserialized>NQ 03-21 Globex</InstrumentDeserialized>
+          <IndicatorId>79</IndicatorId>
+          <InstrumentDeserialized>GC 06-21 Nymex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
           <ZOrder>10012</ZOrder>
@@ -2252,17 +2226,27 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2021-04-26T00:00:00</From>
+          <From>2021-05-07T00:00:00</From>
           <Panel>2</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2021-04-29T00:00:00</To>
+          <To>2021-05-10T00:00:00</To>
           <Calculate>OnEachTick</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
           <IsDataSeriesRequired>true</IsDataSeriesRequired>
           <IsOverlay>false</IsOverlay>
-          <Lines />
+          <Lines>
+            <Line>
+              <IsOpacityVisible>false</IsOpacityVisible>
+              <BrushSerialize>&lt;SolidColorBrush xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;#00FFFFFF&lt;/SolidColorBrush&gt;</BrushSerialize>
+              <DashStyleHelper>Solid</DashStyleHelper>
+              <Opacity>100</Opacity>
+              <Width>1</Width>
+              <Name>Zero</Name>
+              <Value>0</Value>
+            </Line>
+          </Lines>
           <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
           <Name>OPAR</Name>
           <Plots>
@@ -2275,20 +2259,8 @@
               <AutoWidth>false</AutoWidth>
               <Max>1.7976931348623157E+308</Max>
               <Min>-1.7976931348623157E+308</Min>
-              <Name>Zero</Name>
-              <PlotStyle>TriangleLeft</PlotStyle>
-            </Plot>
-            <Plot>
-              <IsOpacityVisible>false</IsOpacityVisible>
-              <BrushSerialize>&lt;SolidColorBrush xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;#FFFF4500&lt;/SolidColorBrush&gt;</BrushSerialize>
-              <DashStyleHelper>Solid</DashStyleHelper>
-              <Opacity>100</Opacity>
-              <Width>4</Width>
-              <AutoWidth>false</AutoWidth>
-              <Max>1.7976931348623157E+308</Max>
-              <Min>-1.7976931348623157E+308</Min>
               <Name>Value</Name>
-              <PlotStyle>Bar</PlotStyle>
+              <PlotStyle>TriangleLeft</PlotStyle>
             </Plot>
           </Plots>
           <SelectedValueSeries>0</SelectedValueSeries>
@@ -2299,8 +2271,8 @@
           <DrawOnPricePanel>false</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>317</IndicatorId>
-          <InstrumentDeserialized>NQ 03-21 Globex</InstrumentDeserialized>
+          <IndicatorId>82</IndicatorId>
+          <InstrumentDeserialized>GC 06-21 Nymex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
           <ZOrder>10013</ZOrder>
@@ -2329,11 +2301,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2021-04-26T00:00:00</From>
+          <From>2021-05-07T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2021-04-29T00:00:00</To>
+          <To>2021-05-10T00:00:00</To>
           <Calculate>OnBarClose</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -2351,8 +2323,8 @@
           <DrawOnPricePanel>false</DrawOnPricePanel>
           <PaintPriceMarkers>true</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>699</IndicatorId>
-          <InstrumentDeserialized>NQ 06-21 Globex</InstrumentDeserialized>
+          <IndicatorId>85</IndicatorId>
+          <InstrumentDeserialized>GC 06-21 Nymex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
           <ZOrder>31316</ZOrder>
@@ -2381,11 +2353,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>false</DisplayInDataBox>
-          <From>2021-04-26T00:00:00</From>
+          <From>2021-05-07T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2021-04-29T00:00:00</To>
+          <To>2021-05-10T00:00:00</To>
           <Calculate>OnBarClose</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -2428,8 +2400,8 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>700</IndicatorId>
-          <InstrumentDeserialized>CL 05-21 Nymex</InstrumentDeserialized>
+          <IndicatorId>88</IndicatorId>
+          <InstrumentDeserialized>GC 06-21 Nymex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
           <ZOrder>10004</ZOrder>
@@ -2457,11 +2429,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>false</DisplayInDataBox>
-          <From>2021-04-26T00:00:00</From>
+          <From>2021-05-07T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2021-04-29T00:00:00</To>
+          <To>2021-05-10T00:00:00</To>
           <Calculate>OnBarClose</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -2504,8 +2476,8 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>701</IndicatorId>
-          <InstrumentDeserialized>CL 05-21 Nymex</InstrumentDeserialized>
+          <IndicatorId>91</IndicatorId>
+          <InstrumentDeserialized>GC 06-21 Nymex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
           <ZOrder>10005</ZOrder>
@@ -2533,11 +2505,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>false</DisplayInDataBox>
-          <From>2021-04-26T00:00:00</From>
+          <From>2021-05-07T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2021-04-29T00:00:00</To>
+          <To>2021-05-10T00:00:00</To>
           <Calculate>OnBarClose</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -2580,8 +2552,8 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>702</IndicatorId>
-          <InstrumentDeserialized>CL 05-21 Nymex</InstrumentDeserialized>
+          <IndicatorId>94</IndicatorId>
+          <InstrumentDeserialized>GC 06-21 Nymex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
           <ZOrder>10006</ZOrder>
@@ -2609,11 +2581,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>false</DisplayInDataBox>
-          <From>2021-04-26T00:00:00</From>
+          <From>2021-05-07T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2021-04-29T00:00:00</To>
+          <To>2021-05-10T00:00:00</To>
           <Calculate>OnBarClose</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -2656,8 +2628,8 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>703</IndicatorId>
-          <InstrumentDeserialized>CL 05-21 Nymex</InstrumentDeserialized>
+          <IndicatorId>97</IndicatorId>
+          <InstrumentDeserialized>GC 06-21 Nymex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
           <ZOrder>10007</ZOrder>
@@ -2667,7 +2639,7 @@
           <PriceType>Close</PriceType>
         </Input>
       </Indicator>
-      <Indicator BarsIndex="0" Instrument="GC 06-21 Nymex" Name="NinjaTrader.NinjaScript.Indicators.AutomationTool" Panel="-1" DisplayName="_APEX Automation Tool(GC_DTX,False,GC_ELEV,False,GC_ETX,False,GC_FTX,False,GC_HD,False,GC_ODD,False,GC_SLZ,False,GC_TBS,False,False,True,4/29/2021 9:35:00 AM,4/29/2021 9:25:00 AM,True,4/29/2021 6:00:00 PM,4/29/2021 1:15:00 PM,True,True,False,email@gmail.com,False,True,False,True,False,0.65,True,False,True,130,False,False,False,-9999,False,True,75,gcTickID,,,False,,,9999,False,True,True,4,False,4,False,15,4,False,4,False,6,4,False,4)">
+      <Indicator BarsIndex="0" Instrument="GC 06-21 Nymex" Name="NinjaTrader.NinjaScript.Indicators.AutomationTool" Panel="-1" DisplayName="_APEX Automation Tool(GC_DTX,False,GC_ELEV,False,GC_ETX,False,GC_FTX,False,GC_HD,False,GC_ODD,False,GC_SLZ,False,GC_TBS,False,True,4/29/2021 9:35:00 AM,4/29/2021 9:25:00 AM,True,4/29/2021 6:00:00 PM,4/29/2021 1:15:00 PM,False,5/10/2021 3:00:00 AM,5/10/2021 1:00:00 AM,False,False,False,True,True,False,6,False,False,False,False,False,True,False,6,False,False,email@gmail.com,False,False,False,False,True,False,False,6,False,True,False,False,False,True,0.65,True,False,6,False,False,False,False,False,True,False,6,130,False,False,-9999,False,False,False,False,True,False,6,75,False,gcTickID,,,False,,,9999,False,False,False,False,True,False,6,False,6,3,13,False,False,False,False,False,True,False,6,False,4,False,4,False,4,False,15,4,False,4,False,4,False,4,True,4,False)">
         <AutomationTool xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
           <IsVisible>true</IsVisible>
           <AreLinesConfigurable>true</AreLinesConfigurable>
@@ -2685,17 +2657,27 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>false</DisplayInDataBox>
-          <From>2021-04-26T00:00:00</From>
+          <From>2021-05-07T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Overlay</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2021-04-29T00:00:00</To>
+          <To>2021-05-10T00:00:00</To>
           <Calculate>OnEachTick</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>false</IsAutoScale>
           <IsDataSeriesRequired>true</IsDataSeriesRequired>
           <IsOverlay>true</IsOverlay>
-          <Lines />
+          <Lines>
+            <Line>
+              <IsOpacityVisible>false</IsOpacityVisible>
+              <BrushSerialize>&lt;SolidColorBrush xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;#00FFFFFF&lt;/SolidColorBrush&gt;</BrushSerialize>
+              <DashStyleHelper>Solid</DashStyleHelper>
+              <Opacity>100</Opacity>
+              <Width>1</Width>
+              <Name>Zero</Name>
+              <Value>0</Value>
+            </Line>
+          </Lines>
           <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
           <Name>_APEX Automation Tool</Name>
           <Plots>
@@ -2708,20 +2690,8 @@
               <AutoWidth>false</AutoWidth>
               <Max>1.7976931348623157E+308</Max>
               <Min>-1.7976931348623157E+308</Min>
-              <Name>Zero</Name>
-              <PlotStyle>Hash</PlotStyle>
-            </Plot>
-            <Plot>
-              <IsOpacityVisible>false</IsOpacityVisible>
-              <BrushSerialize>&lt;SolidColorBrush xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;#00FFFFFF&lt;/SolidColorBrush&gt;</BrushSerialize>
-              <DashStyleHelper>Solid</DashStyleHelper>
-              <Opacity>100</Opacity>
-              <Width>1</Width>
-              <AutoWidth>false</AutoWidth>
-              <Max>1.7976931348623157E+308</Max>
-              <Min>-1.7976931348623157E+308</Min>
               <Name>AutomationTool</Name>
-              <PlotStyle>Line</PlotStyle>
+              <PlotStyle>Hash</PlotStyle>
             </Plot>
           </Plots>
           <SelectedValueSeries>0</SelectedValueSeries>
@@ -2732,19 +2702,19 @@
           <DrawOnPricePanel>false</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>704</IndicatorId>
+          <IndicatorId>100</IndicatorId>
+          <InstrumentDeserialized>GC 06-21 Nymex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
           <ZOrder>31317</ZOrder>
           <SettingsSerialized>eyJJc1VwQ2xvc2VCYXIiOnRydWUsIklzRG93bkNsb3NlQmFyIjp0cnVlLCJVc2VQcmljZVZhbHVlIjpmYWxzZSwiVGlja09mZnNldCI6MCwiVXBDbG9zZVZhbHVlIjoxLjAsIlVwQ2xvc2VMaXZlVmFsdWUiOi0xLjAsIkRvd25DbG9zZVZhbHVlIjoxLjAsIkRvd25DbG9zZUxpdmVWYWx1ZSI6LTEuMH0=</SettingsSerialized>
           <UserSettingsSerialized>e30=</UserSettingsSerialized>
-          <TicksObstruction>6</TicksObstruction>
-          <TicksSLZAmplify>4</TicksSLZAmplify>
           <FTXDRValue>0.65</FTXDRValue>
           <ODDValue>75</ODDValue>
           <HDValue>130</HDValue>
           <TicksFromSettlement>15</TicksFromSettlement>
           <OrderPrintsID>gcTickID</OrderPrintsID>
+          <MultiSetupEntry>false</MultiSetupEntry>
           <PositivePNLReached>9999</PositivePNLReached>
           <NegativePNLReached>-9999</NegativePNLReached>
           <FastMarkets>true</FastMarkets>
@@ -2754,6 +2724,9 @@
           <DarkZone2>true</DarkZone2>
           <DarkZone2Start>2021-04-29T13:15:00</DarkZone2Start>
           <DarkZone2End>2021-04-29T18:00:00</DarkZone2End>
+          <DarkZone3>false</DarkZone3>
+          <DarkZone3Start>2021-05-10T01:00:00</DarkZone3Start>
+          <DarkZone3End>2021-05-10T03:00:00</DarkZone3End>
           <DTXEnabled>true</DTXEnabled>
           <ELEVEnabled>true</ELEVEnabled>
           <ETXEnabled>true</ETXEnabled>
@@ -2762,6 +2735,14 @@
           <ODDEnabled>true</ODDEnabled>
           <SLZEnabled>true</SLZEnabled>
           <TBSEnabled>true</TBSEnabled>
+          <DTXTicksObstruction>6</DTXTicksObstruction>
+          <ELEVTicksObstruction>6</ELEVTicksObstruction>
+          <ETXTicksObstruction>6</ETXTicksObstruction>
+          <FTXTicksObstruction>6</FTXTicksObstruction>
+          <HDTicksObstruction>6</HDTicksObstruction>
+          <ODDTicksObstruction>6</ODDTicksObstruction>
+          <SLZTicksObstruction>6</SLZTicksObstruction>
+          <TBSTicksObstruction>6</TBSTicksObstruction>
           <ATM_DTX_CustomBool>false</ATM_DTX_CustomBool>
           <ATM_DTX_Custom>GC_DTX</ATM_DTX_Custom>
           <ATM_ELEV_CustomBool>false</ATM_ELEV_CustomBool>
@@ -2785,11 +2766,21 @@
           <PlivoAuthToken />
           <PlivoPhone />
           <PlivoYourPhone />
+          <SLZVolStars>false</SLZVolStars>
+          <SLZVolStarsNumber>3</SLZVolStarsNumber>
+          <SLZVolStarsValue>13</SLZVolStarsValue>
+          <SLZVolStarsBars>6</SLZVolStarsBars>
           <ETXHigherHigh>false</ETXHigherHigh>
+          <DTXDRCoherent>true</DTXDRCoherent>
+          <ELEVDRCoherent>false</ELEVDRCoherent>
           <ETXDRCoherent>false</ETXDRCoherent>
+          <FTXDRCoherent>true</FTXDRCoherent>
           <HDDRCoherent>false</HDDRCoherent>
           <ODDDRCoherent>false</ODDDRCoherent>
           <SLZDRCoherent>false</SLZDRCoherent>
+          <TBSDRCoherent>false</TBSDRCoherent>
+          <TicksDTXAmplifyBool>false</TicksDTXAmplifyBool>
+          <TicksDTXAmplify>4</TicksDTXAmplify>
           <TicksELEVAmplifyBool>false</TicksELEVAmplifyBool>
           <TicksELEVAmplify>4</TicksELEVAmplify>
           <TicksETXAmplifyBool>false</TicksETXAmplifyBool>
@@ -2800,11 +2791,50 @@
           <TicksHDAmplify>4</TicksHDAmplify>
           <TicksODDAmplifyBool>false</TicksODDAmplifyBool>
           <TicksODDAmplify>4</TicksODDAmplify>
-          <LevelThroughBar>false</LevelThroughBar>
-          <iCrocEyes>false</iCrocEyes>
+          <TicksSLZAmplifyBool>true</TicksSLZAmplifyBool>
+          <TicksSLZAmplify>4</TicksSLZAmplify>
+          <TicksTBSAmplifyBool>false</TicksTBSAmplifyBool>
+          <TicksTBSAmplify>4</TicksTBSAmplify>
+          <DTXBreakEvenOnCoil>false</DTXBreakEvenOnCoil>
+          <ELEVBreakEvenOnCoil>false</ELEVBreakEvenOnCoil>
+          <ETXBreakEvenOnCoil>false</ETXBreakEvenOnCoil>
+          <FTXBreakEvenOnCoil>false</FTXBreakEvenOnCoil>
+          <HDBreakEvenOnCoil>false</HDBreakEvenOnCoil>
+          <ODDBreakEvenOnCoil>false</ODDBreakEvenOnCoil>
+          <SLZBreakEvenOnCoil>false</SLZBreakEvenOnCoil>
+          <TBSBreakEvenOnCoil>false</TBSBreakEvenOnCoil>
+          <DTXLevelThroughBar>false</DTXLevelThroughBar>
+          <ELEVLevelThroughBar>false</ELEVLevelThroughBar>
+          <ETXLevelThroughBar>false</ETXLevelThroughBar>
+          <FTXLevelThroughBar>false</FTXLevelThroughBar>
+          <HDLevelThroughBar>false</HDLevelThroughBar>
+          <ODDLevelThroughBar>false</ODDLevelThroughBar>
+          <SLZLevelThroughBar>false</SLZLevelThroughBar>
+          <TBSLevelThroughBar>false</TBSLevelThroughBar>
+          <DTXCrocEyes>false</DTXCrocEyes>
+          <ELEVCrocEyes>false</ELEVCrocEyes>
+          <ETXCrocEyes>false</ETXCrocEyes>
+          <FTXCrocEyes>false</FTXCrocEyes>
+          <HDCrocEyes>false</HDCrocEyes>
+          <ODDCrocEyes>false</ODDCrocEyes>
+          <SLZCrocEyes>false</SLZCrocEyes>
+          <TBSCrocEyes>false</TBSCrocEyes>
+          <DTXBrokenOPLevels>false</DTXBrokenOPLevels>
+          <ELEVBrokenOPLevels>false</ELEVBrokenOPLevels>
+          <ETXBrokenOPLevels>false</ETXBrokenOPLevels>
           <FTXBrokenOPLevels>false</FTXBrokenOPLevels>
-          <BreakEvenOnCoil>false</BreakEvenOnCoil>
-          <MultiSetupEntry>false</MultiSetupEntry>
+          <HDBrokenOPLevels>false</HDBrokenOPLevels>
+          <ODDBrokenOPLevels>false</ODDBrokenOPLevels>
+          <SLZBrokenOPLevels>false</SLZBrokenOPLevels>
+          <TBSBrokenOPLevels>false</TBSBrokenOPLevels>
+          <DTXWickPreviousBar>false</DTXWickPreviousBar>
+          <ELEVWickPreviousBar>false</ELEVWickPreviousBar>
+          <ETXWickPreviousBar>false</ETXWickPreviousBar>
+          <FTXWickPreviousBar>false</FTXWickPreviousBar>
+          <HDWickPreviousBar>false</HDWickPreviousBar>
+          <ODDWickPreviousBar>false</ODDWickPreviousBar>
+          <SLZWickPreviousBar>false</SLZWickPreviousBar>
+          <TBSWickPreviousBar>false</TBSWickPreviousBar>
         </AutomationTool>
         <Input>
           <PriceType>Close</PriceType>
@@ -2892,8 +2922,8 @@
             <AutoScaleMarginLower>40</AutoScaleMarginLower>
             <AutoScaleMarginUpper>40</AutoScaleMarginUpper>
             <YAxisScalingType>Linear</YAxisScalingType>
-            <FixedScaleMaxSerialize>1715</FixedScaleMaxSerialize>
-            <FixedScaleMinSerialize>1706.4</FixedScaleMinSerialize>
+            <FixedScaleMaxSerialize>1770</FixedScaleMaxSerialize>
+            <FixedScaleMinSerialize>1765.1</FixedScaleMinSerialize>
           </ChartScaleProperties>
         </Right>
         <Left>
@@ -2942,7 +2972,7 @@
             <AutoScaleMarginLower>6</AutoScaleMarginLower>
             <AutoScaleMarginUpper>6</AutoScaleMarginUpper>
             <YAxisScalingType>Linear</YAxisScalingType>
-            <FixedScaleMaxSerialize>1.8663465386135931</FixedScaleMaxSerialize>
+            <FixedScaleMaxSerialize>2.0186379928312808</FixedScaleMaxSerialize>
             <FixedScaleMinSerialize>0</FixedScaleMinSerialize>
           </ChartScaleProperties>
         </Right>
@@ -3083,6 +3113,7 @@
 &lt;/Pen&gt;</StopMarketSerialize>
       </ChartTraderProperties>
     </Properties>
+    <Account>Playback101</Account>
     <ATM>1_5_13</ATM>
     <Instrument>GC 06-21</Instrument>
     <Quantity>1</Quantity>

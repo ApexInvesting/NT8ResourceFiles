@@ -18,11 +18,11 @@
       </BarsPeriodSerializable>
       <BarsToLoad>0</BarsToLoad>
       <DisplayInDataBox>false</DisplayInDataBox>
-      <From>2021-05-03T00:00:00</From>
+      <From>2021-05-07T00:00:00</From>
       <Panel>-1</Panel>
       <ScaleJustification>Overlay</ScaleJustification>
       <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-      <To>2021-05-06T00:00:00</To>
+      <To>2021-05-10T00:00:00</To>
       <Calculate>OnEachTick</Calculate>
       <Displacement>0</Displacement>
       <IsAutoScale>false</IsAutoScale>
@@ -70,7 +70,6 @@
       <ZOrder>10014</ZOrder>
       <SettingsSerialized>eyJJc1VwQ2xvc2VCYXIiOnRydWUsIklzRG93bkNsb3NlQmFyIjp0cnVlLCJVc2VQcmljZVZhbHVlIjpmYWxzZSwiVGlja09mZnNldCI6MCwiVXBDbG9zZVZhbHVlIjoxLjAsIlVwQ2xvc2VMaXZlVmFsdWUiOi0xLjAsIkRvd25DbG9zZVZhbHVlIjoxLjAsIkRvd25DbG9zZUxpdmVWYWx1ZSI6LTEuMH0=</SettingsSerialized>
       <UserSettingsSerialized>e30=</UserSettingsSerialized>
-      <TicksObstruction>8</TicksObstruction>
       <FTXDRValue>0.65</FTXDRValue>
       <ODDValue>75</ODDValue>
       <HDValue>130</HDValue>
@@ -97,6 +96,14 @@
       <ODDEnabled>true</ODDEnabled>
       <SLZEnabled>true</SLZEnabled>
       <TBSEnabled>true</TBSEnabled>
+      <DTXTicksObstruction>8</DTXTicksObstruction>
+      <ELEVTicksObstruction>8</ELEVTicksObstruction>
+      <ETXTicksObstruction>8</ETXTicksObstruction>
+      <FTXTicksObstruction>8</FTXTicksObstruction>
+      <HDTicksObstruction>8</HDTicksObstruction>
+      <ODDTicksObstruction>8</ODDTicksObstruction>
+      <SLZTicksObstruction>8</SLZTicksObstruction>
+      <TBSTicksObstruction>8</TBSTicksObstruction>
       <ATM_DTX_CustomBool>false</ATM_DTX_CustomBool>
       <ATM_DTX_Custom>CL_DTX</ATM_DTX_Custom>
       <ATM_ELEV_CustomBool>false</ATM_ELEV_CustomBool>
@@ -134,7 +141,7 @@
       <SLZDRCoherent>false</SLZDRCoherent>
       <TBSDRCoherent>false</TBSDRCoherent>
       <TicksDTXAmplifyBool>false</TicksDTXAmplifyBool>
-      <TicksDTXAmplify>8</TicksDTXAmplify>
+      <TicksDTXAmplify>6</TicksDTXAmplify>
       <TicksELEVAmplifyBool>false</TicksELEVAmplifyBool>
       <TicksELEVAmplify>6</TicksELEVAmplify>
       <TicksETXAmplifyBool>false</TicksETXAmplifyBool>
@@ -148,7 +155,7 @@
       <TicksSLZAmplifyBool>true</TicksSLZAmplifyBool>
       <TicksSLZAmplify>6</TicksSLZAmplify>
       <TicksTBSAmplifyBool>false</TicksTBSAmplifyBool>
-      <TicksTBSAmplify>8</TicksTBSAmplify>
+      <TicksTBSAmplify>6</TicksTBSAmplify>
       <DTXBreakEvenOnCoil>false</DTXBreakEvenOnCoil>
       <ELEVBreakEvenOnCoil>false</ELEVBreakEvenOnCoil>
       <ETXBreakEvenOnCoil>false</ETXBreakEvenOnCoil>
