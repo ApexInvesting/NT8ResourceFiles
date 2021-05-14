@@ -6,7 +6,7 @@
       <WindowState>Normal</WindowState>
       <Location>1978;63</Location>
       <Size>733;588</Size>
-      <ZOrder>0</ZOrder>
+      <ZOrder>5</ZOrder>
       <Topmost>False</Topmost>
       <NinjaScriptOutput-84417f8ec58a47de878340476d18f257>
         <NinjaScriptOutputProperties>
@@ -41,7 +41,7 @@
       <WindowState>Normal</WindowState>
       <Location>300;120</Location>
       <Size>1203;822</Size>
-      <ZOrder>1</ZOrder>
+      <ZOrder>0</ZOrder>
       <Topmost>False</Topmost>
       <TabControl>
         <SelectedIndex>0</SelectedIndex>
@@ -518,7 +518,7 @@
       <WindowState>Maximized</WindowState>
       <Location>-113;155</Location>
       <Size>1267;780</Size>
-      <ZOrder>2</ZOrder>
+      <ZOrder>1</ZOrder>
       <Topmost>False</Topmost>
       <TraderWidth>301</TraderWidth>
       <TabControl>
@@ -624,11 +624,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>true</DisplayInDataBox>
-                <From>2021-05-07T00:00:00</From>
+                <From>2021-05-11T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-05-10T00:00:00</To>
+                <To>2021-05-14T00:00:00</To>
                 <Calculate>OnEachTick</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>false</IsAutoScale>
@@ -677,11 +677,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>true</DisplayInDataBox>
-                <From>2021-05-07T00:00:00</From>
+                <From>2021-05-11T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-05-10T00:00:00</To>
+                <To>2021-05-14T00:00:00</To>
                 <Calculate>OnBarClose</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>true</IsAutoScale>
@@ -730,11 +730,11 @@
                     </BarsPeriodSerializable>
                     <BarsToLoad>0</BarsToLoad>
                     <DisplayInDataBox>true</DisplayInDataBox>
-                    <From>2021-05-07T00:00:00</From>
+                    <From>2021-05-11T00:00:00</From>
                     <Panel>0</Panel>
                     <ScaleJustification>Right</ScaleJustification>
                     <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                    <To>2021-05-10T00:00:00</To>
+                    <To>2021-05-14T00:00:00</To>
                     <Calculate>OnBarClose</Calculate>
                     <Displacement>0</Displacement>
                     <IsAutoScale>true</IsAutoScale>
@@ -803,11 +803,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>true</DisplayInDataBox>
-                <From>2021-05-07T00:00:00</From>
+                <From>2021-05-11T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-05-10T00:00:00</To>
+                <To>2021-05-14T00:00:00</To>
                 <Calculate>OnBarClose</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>true</IsAutoScale>
@@ -856,11 +856,11 @@
                     </BarsPeriodSerializable>
                     <BarsToLoad>0</BarsToLoad>
                     <DisplayInDataBox>true</DisplayInDataBox>
-                    <From>2021-05-07T00:00:00</From>
+                    <From>2021-05-11T00:00:00</From>
                     <Panel>0</Panel>
                     <ScaleJustification>Right</ScaleJustification>
                     <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                    <To>2021-05-10T00:00:00</To>
+                    <To>2021-05-14T00:00:00</To>
                     <Calculate>OnBarClose</Calculate>
                     <Displacement>0</Displacement>
                     <IsAutoScale>true</IsAutoScale>
@@ -929,11 +929,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>true</DisplayInDataBox>
-                <From>2021-05-07T00:00:00</From>
+                <From>2021-05-11T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-05-10T00:00:00</To>
+                <To>2021-05-14T00:00:00</To>
                 <Calculate>OnBarClose</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>true</IsAutoScale>
@@ -982,11 +982,11 @@
                     </BarsPeriodSerializable>
                     <BarsToLoad>0</BarsToLoad>
                     <DisplayInDataBox>true</DisplayInDataBox>
-                    <From>2021-05-07T00:00:00</From>
+                    <From>2021-05-11T00:00:00</From>
                     <Panel>0</Panel>
                     <ScaleJustification>Right</ScaleJustification>
                     <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                    <To>2021-05-10T00:00:00</To>
+                    <To>2021-05-14T00:00:00</To>
                     <Calculate>OnBarClose</Calculate>
                     <Displacement>0</Displacement>
                     <IsAutoScale>true</IsAutoScale>
@@ -1055,11 +1055,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>true</DisplayInDataBox>
-                <From>2021-05-07T00:00:00</From>
+                <From>2021-05-11T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-05-10T00:00:00</To>
+                <To>2021-05-14T00:00:00</To>
                 <Calculate>OnBarClose</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>true</IsAutoScale>
@@ -1108,11 +1108,11 @@
                     </BarsPeriodSerializable>
                     <BarsToLoad>0</BarsToLoad>
                     <DisplayInDataBox>true</DisplayInDataBox>
-                    <From>2021-05-07T00:00:00</From>
+                    <From>2021-05-11T00:00:00</From>
                     <Panel>0</Panel>
                     <ScaleJustification>Right</ScaleJustification>
                     <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                    <To>2021-05-10T00:00:00</To>
+                    <To>2021-05-14T00:00:00</To>
                     <Calculate>OnBarClose</Calculate>
                     <Displacement>0</Displacement>
                     <IsAutoScale>true</IsAutoScale>
@@ -1187,11 +1187,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>true</DisplayInDataBox>
-                <From>2021-05-07T00:00:00</From>
+                <From>2021-05-11T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-05-10T00:00:00</To>
+                <To>2021-05-14T00:00:00</To>
                 <Calculate>OnBarClose</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>true</IsAutoScale>
@@ -1240,11 +1240,11 @@
                     </BarsPeriodSerializable>
                     <BarsToLoad>0</BarsToLoad>
                     <DisplayInDataBox>true</DisplayInDataBox>
-                    <From>2021-05-07T00:00:00</From>
+                    <From>2021-05-11T00:00:00</From>
                     <Panel>0</Panel>
                     <ScaleJustification>Right</ScaleJustification>
                     <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                    <To>2021-05-10T00:00:00</To>
+                    <To>2021-05-14T00:00:00</To>
                     <Calculate>OnBarClose</Calculate>
                     <Displacement>0</Displacement>
                     <IsAutoScale>true</IsAutoScale>
@@ -1316,11 +1316,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>true</DisplayInDataBox>
-                <From>2021-05-07T00:00:00</From>
+                <From>2021-05-11T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-05-10T00:00:00</To>
+                <To>2021-05-14T00:00:00</To>
                 <Calculate>OnBarClose</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>true</IsAutoScale>
@@ -1369,11 +1369,11 @@
                     </BarsPeriodSerializable>
                     <BarsToLoad>0</BarsToLoad>
                     <DisplayInDataBox>true</DisplayInDataBox>
-                    <From>2021-05-07T00:00:00</From>
+                    <From>2021-05-11T00:00:00</From>
                     <Panel>0</Panel>
                     <ScaleJustification>Right</ScaleJustification>
                     <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                    <To>2021-05-10T00:00:00</To>
+                    <To>2021-05-14T00:00:00</To>
                     <Calculate>OnBarClose</Calculate>
                     <Displacement>0</Displacement>
                     <IsAutoScale>true</IsAutoScale>
@@ -1448,11 +1448,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>true</DisplayInDataBox>
-                <From>2021-05-07T00:00:00</From>
+                <From>2021-05-11T00:00:00</From>
                 <Panel>1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-05-10T00:00:00</To>
+                <To>2021-05-14T00:00:00</To>
                 <Calculate>OnEachTick</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>false</IsAutoScale>
@@ -1550,11 +1550,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>false</DisplayInDataBox>
-                <From>2021-05-07T00:00:00</From>
+                <From>2021-05-11T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-05-10T00:00:00</To>
+                <To>2021-05-14T00:00:00</To>
                 <Calculate>OnBarClose</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>true</IsAutoScale>
@@ -1602,11 +1602,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>false</DisplayInDataBox>
-                <From>2021-05-07T00:00:00</From>
+                <From>2021-05-11T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-05-10T00:00:00</To>
+                <To>2021-05-14T00:00:00</To>
                 <Calculate>OnBarClose</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>true</IsAutoScale>
@@ -1654,11 +1654,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>true</DisplayInDataBox>
-                <From>2021-05-07T00:00:00</From>
+                <From>2021-05-11T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-05-10T00:00:00</To>
+                <To>2021-05-14T00:00:00</To>
                 <Calculate>OnBarClose</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>true</IsAutoScale>
@@ -1706,11 +1706,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>false</DisplayInDataBox>
-                <From>2021-05-07T00:00:00</From>
+                <From>2021-05-11T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-05-10T00:00:00</To>
+                <To>2021-05-14T00:00:00</To>
                 <Calculate>OnPriceChange</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>false</IsAutoScale>
@@ -1783,11 +1783,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>false</DisplayInDataBox>
-                <From>2021-05-07T00:00:00</From>
+                <From>2021-05-11T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-05-10T00:00:00</To>
+                <To>2021-05-14T00:00:00</To>
                 <Calculate>OnPriceChange</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>false</IsAutoScale>
@@ -1860,11 +1860,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>false</DisplayInDataBox>
-                <From>2021-05-07T00:00:00</From>
+                <From>2021-05-11T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-05-10T00:00:00</To>
+                <To>2021-05-14T00:00:00</To>
                 <Calculate>OnPriceChange</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>false</IsAutoScale>
@@ -1937,11 +1937,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>true</DisplayInDataBox>
-                <From>2021-05-07T00:00:00</From>
+                <From>2021-05-11T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-05-10T00:00:00</To>
+                <To>2021-05-14T00:00:00</To>
                 <Calculate>OnEachTick</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>false</IsAutoScale>
@@ -2003,11 +2003,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>false</DisplayInDataBox>
-                <From>2021-05-07T00:00:00</From>
+                <From>2021-05-11T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-05-10T00:00:00</To>
+                <To>2021-05-14T00:00:00</To>
                 <Calculate>OnPriceChange</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>false</IsAutoScale>
@@ -2055,11 +2055,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>true</DisplayInDataBox>
-                <From>2021-05-07T00:00:00</From>
+                <From>2021-05-11T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-05-10T00:00:00</To>
+                <To>2021-05-14T00:00:00</To>
                 <Calculate>OnPriceChange</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>false</IsAutoScale>
@@ -2144,11 +2144,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>false</DisplayInDataBox>
-                <From>2021-05-07T00:00:00</From>
+                <From>2021-05-11T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-05-10T00:00:00</To>
+                <To>2021-05-14T00:00:00</To>
                 <Calculate>OnPriceChange</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>true</IsAutoScale>
@@ -2209,11 +2209,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>false</DisplayInDataBox>
-                <From>2021-05-07T00:00:00</From>
+                <From>2021-05-11T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-05-10T00:00:00</To>
+                <To>2021-05-14T00:00:00</To>
                 <Calculate>OnBarClose</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>false</IsAutoScale>
@@ -2261,11 +2261,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>true</DisplayInDataBox>
-                <From>2021-05-07T00:00:00</From>
+                <From>2021-05-11T00:00:00</From>
                 <Panel>2</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-05-10T00:00:00</To>
+                <To>2021-05-14T00:00:00</To>
                 <Calculate>OnEachTick</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>true</IsAutoScale>
@@ -2336,11 +2336,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>true</DisplayInDataBox>
-                <From>2021-05-07T00:00:00</From>
+                <From>2021-05-11T00:00:00</From>
                 <Panel>2</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-05-10T00:00:00</To>
+                <To>2021-05-14T00:00:00</To>
                 <Calculate>OnEachTick</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>true</IsAutoScale>
@@ -2411,11 +2411,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>true</DisplayInDataBox>
-                <From>2021-05-07T00:00:00</From>
+                <From>2021-05-11T00:00:00</From>
                 <Panel>2</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-05-10T00:00:00</To>
+                <To>2021-05-14T00:00:00</To>
                 <Calculate>OnEachTick</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>true</IsAutoScale>
@@ -2486,11 +2486,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>true</DisplayInDataBox>
-                <From>2021-05-07T00:00:00</From>
+                <From>2021-05-11T00:00:00</From>
                 <Panel>2</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-05-10T00:00:00</To>
+                <To>2021-05-14T00:00:00</To>
                 <Calculate>OnEachTick</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>true</IsAutoScale>
@@ -2567,11 +2567,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>true</DisplayInDataBox>
-                <From>2021-05-07T00:00:00</From>
+                <From>2021-05-11T00:00:00</From>
                 <Panel>2</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-05-10T00:00:00</To>
+                <To>2021-05-14T00:00:00</To>
                 <Calculate>OnEachTick</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>true</IsAutoScale>
@@ -2645,11 +2645,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>true</DisplayInDataBox>
-                <From>2021-05-07T00:00:00</From>
+                <From>2021-05-11T00:00:00</From>
                 <Panel>2</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-05-10T00:00:00</To>
+                <To>2021-05-14T00:00:00</To>
                 <Calculate>OnEachTick</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>true</IsAutoScale>
@@ -2726,11 +2726,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>true</DisplayInDataBox>
-                <From>2021-05-07T00:00:00</From>
+                <From>2021-05-11T00:00:00</From>
                 <Panel>2</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-05-10T00:00:00</To>
+                <To>2021-05-14T00:00:00</To>
                 <Calculate>OnEachTick</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>true</IsAutoScale>
@@ -2801,11 +2801,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>true</DisplayInDataBox>
-                <From>2021-05-07T00:00:00</From>
+                <From>2021-05-11T00:00:00</From>
                 <Panel>2</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-05-10T00:00:00</To>
+                <To>2021-05-14T00:00:00</To>
                 <Calculate>OnEachTick</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>true</IsAutoScale>
@@ -2876,11 +2876,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>true</DisplayInDataBox>
-                <From>2021-05-07T00:00:00</From>
+                <From>2021-05-11T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-05-10T00:00:00</To>
+                <To>2021-05-14T00:00:00</To>
                 <Calculate>OnBarClose</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>true</IsAutoScale>
@@ -2928,11 +2928,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>false</DisplayInDataBox>
-                <From>2021-05-07T00:00:00</From>
+                <From>2021-05-11T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-05-10T00:00:00</To>
+                <To>2021-05-14T00:00:00</To>
                 <Calculate>OnBarClose</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>true</IsAutoScale>
@@ -3004,11 +3004,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>false</DisplayInDataBox>
-                <From>2021-05-07T00:00:00</From>
+                <From>2021-05-11T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-05-10T00:00:00</To>
+                <To>2021-05-14T00:00:00</To>
                 <Calculate>OnBarClose</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>true</IsAutoScale>
@@ -3080,11 +3080,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>false</DisplayInDataBox>
-                <From>2021-05-07T00:00:00</From>
+                <From>2021-05-11T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-05-10T00:00:00</To>
+                <To>2021-05-14T00:00:00</To>
                 <Calculate>OnBarClose</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>true</IsAutoScale>
@@ -3156,11 +3156,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>false</DisplayInDataBox>
-                <From>2021-05-07T00:00:00</From>
+                <From>2021-05-11T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-05-10T00:00:00</To>
+                <To>2021-05-14T00:00:00</To>
                 <Calculate>OnBarClose</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>true</IsAutoScale>
@@ -3232,11 +3232,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>false</DisplayInDataBox>
-                <From>2021-05-07T00:00:00</From>
+                <From>2021-05-11T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Overlay</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-05-10T00:00:00</To>
+                <To>2021-05-14T00:00:00</To>
                 <Calculate>OnEachTick</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>false</IsAutoScale>
@@ -3318,21 +3318,21 @@
                 <ODDTicksObstruction>8</ODDTicksObstruction>
                 <SLZTicksObstruction>8</SLZTicksObstruction>
                 <TBSTicksObstruction>8</TBSTicksObstruction>
-                <ATM_DTX_CustomBool>false</ATM_DTX_CustomBool>
+                <ATM_DTX_CustomBool>true</ATM_DTX_CustomBool>
                 <ATM_DTX_Custom>CL_DTX</ATM_DTX_Custom>
-                <ATM_ELEV_CustomBool>false</ATM_ELEV_CustomBool>
+                <ATM_ELEV_CustomBool>true</ATM_ELEV_CustomBool>
                 <ATM_ELEV_Custom>CL_ELEV</ATM_ELEV_Custom>
-                <ATM_ETX_CustomBool>false</ATM_ETX_CustomBool>
+                <ATM_ETX_CustomBool>true</ATM_ETX_CustomBool>
                 <ATM_ETX_Custom>CL_ETX</ATM_ETX_Custom>
-                <ATM_FTX_CustomBool>false</ATM_FTX_CustomBool>
+                <ATM_FTX_CustomBool>true</ATM_FTX_CustomBool>
                 <ATM_FTX_Custom>CL_FTX</ATM_FTX_Custom>
-                <ATM_HD_CustomBool>false</ATM_HD_CustomBool>
+                <ATM_HD_CustomBool>true</ATM_HD_CustomBool>
                 <ATM_HD_Custom>CL_HD</ATM_HD_Custom>
-                <ATM_ODD_CustomBool>false</ATM_ODD_CustomBool>
+                <ATM_ODD_CustomBool>true</ATM_ODD_CustomBool>
                 <ATM_ODD_Custom>CL_ODD</ATM_ODD_Custom>
-                <ATM_SLZ_CustomBool>false</ATM_SLZ_CustomBool>
+                <ATM_SLZ_CustomBool>true</ATM_SLZ_CustomBool>
                 <ATM_SLZ_Custom>CL_SLZ</ATM_SLZ_Custom>
-                <ATM_TBS_CustomBool>false</ATM_TBS_CustomBool>
+                <ATM_TBS_CustomBool>true</ATM_TBS_CustomBool>
                 <ATM_TBS_Custom>CL_TBS</ATM_TBS_Custom>
                 <EmailEnabled>false</EmailEnabled>
                 <EmailUsername>email@gmail.com</EmailUsername>
@@ -3410,6 +3410,50 @@
                 <ODDWickPreviousBar>false</ODDWickPreviousBar>
                 <SLZWickPreviousBar>false</SLZWickPreviousBar>
                 <TBSWickPreviousBar>false</TBSWickPreviousBar>
+                <DTXRequireLevel>false</DTXRequireLevel>
+                <ELEVRequireLevel>false</ELEVRequireLevel>
+                <ETXRequireLevel>true</ETXRequireLevel>
+                <FTXRequireLevel>false</FTXRequireLevel>
+                <HDRequireLevel>false</HDRequireLevel>
+                <ODDRequireLevel>false</ODDRequireLevel>
+                <SLZRequireLevel>false</SLZRequireLevel>
+                <TBSRequireLevel>false</TBSRequireLevel>
+                <DTXRequireCluster>false</DTXRequireCluster>
+                <ELEVRequireCluster>false</ELEVRequireCluster>
+                <ETXRequireCluster>false</ETXRequireCluster>
+                <FTXRequireCluster>false</FTXRequireCluster>
+                <HDRequireCluster>false</HDRequireCluster>
+                <ODDRequireCluster>false</ODDRequireCluster>
+                <SLZRequireCluster>false</SLZRequireCluster>
+                <TBSRequireCluster>false</TBSRequireCluster>
+                <DTXBuy>true</DTXBuy>
+                <DTXSell>true</DTXSell>
+                <ELEVBuy>true</ELEVBuy>
+                <ELEVSell>true</ELEVSell>
+                <ETXBuy>true</ETXBuy>
+                <ETXSell>true</ETXSell>
+                <FTXBuy>true</FTXBuy>
+                <FTXSell>true</FTXSell>
+                <HDBuy>true</HDBuy>
+                <HDSell>true</HDSell>
+                <ODDBuy>true</ODDBuy>
+                <ODDSell>true</ODDSell>
+                <SLZBuy>true</SLZBuy>
+                <SLZSell>true</SLZSell>
+                <TBSBuy>true</TBSBuy>
+                <TBSSell>true</TBSSell>
+                <MLiquidityEnable>false</MLiquidityEnable>
+                <MLiquidityBuyValue>10</MLiquidityBuyValue>
+                <MLiquiditySellValue>10</MLiquiditySellValue>
+                <MLiquidityBars>3</MLiquidityBars>
+                <DTXDivergence>false</DTXDivergence>
+                <ELEVDivergence>false</ELEVDivergence>
+                <ETXDivergence>false</ETXDivergence>
+                <FTXDivergence>false</FTXDivergence>
+                <HDDivergence>false</HDDivergence>
+                <ODDDivergence>false</ODDDivergence>
+                <SLZDivergence>false</SLZDivergence>
+                <TBSDivergence>false</TBSDivergence>
               </AutomationTool>
               <Input>
                 <PriceType>Close</PriceType>
@@ -3738,11 +3782,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>true</DisplayInDataBox>
-                <From>2021-04-10T00:00:00</From>
+                <From>2021-04-14T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-05-10T00:00:00</To>
+                <To>2021-05-14T00:00:00</To>
                 <Calculate>OnBarClose</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>false</IsAutoScale>
@@ -3790,11 +3834,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>false</DisplayInDataBox>
-                <From>2021-04-10T00:00:00</From>
+                <From>2021-04-14T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-05-10T00:00:00</To>
+                <To>2021-05-14T00:00:00</To>
                 <Calculate>OnPriceChange</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>true</IsAutoScale>
@@ -4658,11 +4702,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>true</DisplayInDataBox>
-                <From>2021-05-07T00:00:00</From>
+                <From>2021-05-11T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-05-10T00:00:00</To>
+                <To>2021-05-14T00:00:00</To>
                 <Calculate>OnEachTick</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>false</IsAutoScale>
@@ -4711,11 +4755,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>true</DisplayInDataBox>
-                <From>2021-05-07T00:00:00</From>
+                <From>2021-05-11T00:00:00</From>
                 <Panel>1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-05-10T00:00:00</To>
+                <To>2021-05-14T00:00:00</To>
                 <Calculate>OnEachTick</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>true</IsAutoScale>
@@ -4813,11 +4857,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>false</DisplayInDataBox>
-                <From>2021-05-07T00:00:00</From>
+                <From>2021-05-11T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-05-10T00:00:00</To>
+                <To>2021-05-14T00:00:00</To>
                 <Calculate>OnPriceChange</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>false</IsAutoScale>
@@ -4890,11 +4934,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>true</DisplayInDataBox>
-                <From>2021-05-07T00:00:00</From>
+                <From>2021-05-11T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-05-10T00:00:00</To>
+                <To>2021-05-14T00:00:00</To>
                 <Calculate>OnEachTick</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>false</IsAutoScale>
@@ -4956,11 +5000,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>false</DisplayInDataBox>
-                <From>2021-05-07T00:00:00</From>
+                <From>2021-05-11T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-05-10T00:00:00</To>
+                <To>2021-05-14T00:00:00</To>
                 <Calculate>OnPriceChange</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>false</IsAutoScale>
@@ -5008,11 +5052,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>true</DisplayInDataBox>
-                <From>2021-05-07T00:00:00</From>
+                <From>2021-05-11T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-05-10T00:00:00</To>
+                <To>2021-05-14T00:00:00</To>
                 <Calculate>OnPriceChange</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>false</IsAutoScale>
@@ -5097,11 +5141,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>false</DisplayInDataBox>
-                <From>2021-05-07T00:00:00</From>
+                <From>2021-05-11T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-05-10T00:00:00</To>
+                <To>2021-05-14T00:00:00</To>
                 <Calculate>OnPriceChange</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>true</IsAutoScale>
@@ -5374,7 +5418,7 @@
       <WindowState>Maximized</WindowState>
       <Location>-259;163</Location>
       <Size>1348;581</Size>
-      <ZOrder>3</ZOrder>
+      <ZOrder>2</ZOrder>
       <Topmost>False</Topmost>
       <TraderWidth>301</TraderWidth>
       <TabControl>
@@ -5480,11 +5524,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>true</DisplayInDataBox>
-                <From>2021-05-07T00:00:00</From>
+                <From>2021-05-11T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-05-10T00:00:00</To>
+                <To>2021-05-14T00:00:00</To>
                 <Calculate>OnEachTick</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>false</IsAutoScale>
@@ -5533,11 +5577,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>true</DisplayInDataBox>
-                <From>2021-05-07T00:00:00</From>
+                <From>2021-05-11T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-05-10T00:00:00</To>
+                <To>2021-05-14T00:00:00</To>
                 <Calculate>OnBarClose</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>true</IsAutoScale>
@@ -5586,11 +5630,11 @@
                     </BarsPeriodSerializable>
                     <BarsToLoad>0</BarsToLoad>
                     <DisplayInDataBox>true</DisplayInDataBox>
-                    <From>2021-05-07T00:00:00</From>
+                    <From>2021-05-11T00:00:00</From>
                     <Panel>0</Panel>
                     <ScaleJustification>Right</ScaleJustification>
                     <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                    <To>2021-05-10T00:00:00</To>
+                    <To>2021-05-14T00:00:00</To>
                     <Calculate>OnBarClose</Calculate>
                     <Displacement>0</Displacement>
                     <IsAutoScale>true</IsAutoScale>
@@ -5659,11 +5703,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>true</DisplayInDataBox>
-                <From>2021-05-07T00:00:00</From>
+                <From>2021-05-11T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-05-10T00:00:00</To>
+                <To>2021-05-14T00:00:00</To>
                 <Calculate>OnBarClose</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>true</IsAutoScale>
@@ -5712,11 +5756,11 @@
                     </BarsPeriodSerializable>
                     <BarsToLoad>0</BarsToLoad>
                     <DisplayInDataBox>true</DisplayInDataBox>
-                    <From>2021-05-07T00:00:00</From>
+                    <From>2021-05-11T00:00:00</From>
                     <Panel>0</Panel>
                     <ScaleJustification>Right</ScaleJustification>
                     <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                    <To>2021-05-10T00:00:00</To>
+                    <To>2021-05-14T00:00:00</To>
                     <Calculate>OnBarClose</Calculate>
                     <Displacement>0</Displacement>
                     <IsAutoScale>true</IsAutoScale>
@@ -5785,11 +5829,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>true</DisplayInDataBox>
-                <From>2021-05-07T00:00:00</From>
+                <From>2021-05-11T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-05-10T00:00:00</To>
+                <To>2021-05-14T00:00:00</To>
                 <Calculate>OnBarClose</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>true</IsAutoScale>
@@ -5838,11 +5882,11 @@
                     </BarsPeriodSerializable>
                     <BarsToLoad>0</BarsToLoad>
                     <DisplayInDataBox>true</DisplayInDataBox>
-                    <From>2021-05-07T00:00:00</From>
+                    <From>2021-05-11T00:00:00</From>
                     <Panel>0</Panel>
                     <ScaleJustification>Right</ScaleJustification>
                     <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                    <To>2021-05-10T00:00:00</To>
+                    <To>2021-05-14T00:00:00</To>
                     <Calculate>OnBarClose</Calculate>
                     <Displacement>0</Displacement>
                     <IsAutoScale>true</IsAutoScale>
@@ -5911,11 +5955,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>true</DisplayInDataBox>
-                <From>2021-05-07T00:00:00</From>
+                <From>2021-05-11T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-05-10T00:00:00</To>
+                <To>2021-05-14T00:00:00</To>
                 <Calculate>OnBarClose</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>true</IsAutoScale>
@@ -5964,11 +6008,11 @@
                     </BarsPeriodSerializable>
                     <BarsToLoad>0</BarsToLoad>
                     <DisplayInDataBox>true</DisplayInDataBox>
-                    <From>2021-05-07T00:00:00</From>
+                    <From>2021-05-11T00:00:00</From>
                     <Panel>0</Panel>
                     <ScaleJustification>Right</ScaleJustification>
                     <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                    <To>2021-05-10T00:00:00</To>
+                    <To>2021-05-14T00:00:00</To>
                     <Calculate>OnBarClose</Calculate>
                     <Displacement>0</Displacement>
                     <IsAutoScale>true</IsAutoScale>
@@ -6043,11 +6087,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>true</DisplayInDataBox>
-                <From>2021-05-07T00:00:00</From>
+                <From>2021-05-11T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-05-10T00:00:00</To>
+                <To>2021-05-14T00:00:00</To>
                 <Calculate>OnBarClose</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>true</IsAutoScale>
@@ -6096,11 +6140,11 @@
                     </BarsPeriodSerializable>
                     <BarsToLoad>0</BarsToLoad>
                     <DisplayInDataBox>true</DisplayInDataBox>
-                    <From>2021-05-07T00:00:00</From>
+                    <From>2021-05-11T00:00:00</From>
                     <Panel>0</Panel>
                     <ScaleJustification>Right</ScaleJustification>
                     <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                    <To>2021-05-10T00:00:00</To>
+                    <To>2021-05-14T00:00:00</To>
                     <Calculate>OnBarClose</Calculate>
                     <Displacement>0</Displacement>
                     <IsAutoScale>true</IsAutoScale>
@@ -6172,11 +6216,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>true</DisplayInDataBox>
-                <From>2021-05-07T00:00:00</From>
+                <From>2021-05-11T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-05-10T00:00:00</To>
+                <To>2021-05-14T00:00:00</To>
                 <Calculate>OnBarClose</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>true</IsAutoScale>
@@ -6225,11 +6269,11 @@
                     </BarsPeriodSerializable>
                     <BarsToLoad>0</BarsToLoad>
                     <DisplayInDataBox>true</DisplayInDataBox>
-                    <From>2021-05-07T00:00:00</From>
+                    <From>2021-05-11T00:00:00</From>
                     <Panel>0</Panel>
                     <ScaleJustification>Right</ScaleJustification>
                     <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                    <To>2021-05-10T00:00:00</To>
+                    <To>2021-05-14T00:00:00</To>
                     <Calculate>OnBarClose</Calculate>
                     <Displacement>0</Displacement>
                     <IsAutoScale>true</IsAutoScale>
@@ -6304,11 +6348,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>true</DisplayInDataBox>
-                <From>2021-05-07T00:00:00</From>
+                <From>2021-05-11T00:00:00</From>
                 <Panel>1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-05-10T00:00:00</To>
+                <To>2021-05-14T00:00:00</To>
                 <Calculate>OnEachTick</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>false</IsAutoScale>
@@ -6406,11 +6450,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>false</DisplayInDataBox>
-                <From>2021-05-07T00:00:00</From>
+                <From>2021-05-11T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-05-10T00:00:00</To>
+                <To>2021-05-14T00:00:00</To>
                 <Calculate>OnBarClose</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>true</IsAutoScale>
@@ -6458,11 +6502,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>false</DisplayInDataBox>
-                <From>2021-05-07T00:00:00</From>
+                <From>2021-05-11T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-05-10T00:00:00</To>
+                <To>2021-05-14T00:00:00</To>
                 <Calculate>OnBarClose</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>true</IsAutoScale>
@@ -6510,11 +6554,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>true</DisplayInDataBox>
-                <From>2021-05-07T00:00:00</From>
+                <From>2021-05-11T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-05-10T00:00:00</To>
+                <To>2021-05-14T00:00:00</To>
                 <Calculate>OnBarClose</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>true</IsAutoScale>
@@ -6562,11 +6606,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>false</DisplayInDataBox>
-                <From>2021-05-07T00:00:00</From>
+                <From>2021-05-11T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-05-10T00:00:00</To>
+                <To>2021-05-14T00:00:00</To>
                 <Calculate>OnPriceChange</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>false</IsAutoScale>
@@ -6639,11 +6683,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>false</DisplayInDataBox>
-                <From>2021-05-07T00:00:00</From>
+                <From>2021-05-11T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-05-10T00:00:00</To>
+                <To>2021-05-14T00:00:00</To>
                 <Calculate>OnPriceChange</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>false</IsAutoScale>
@@ -6716,11 +6760,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>false</DisplayInDataBox>
-                <From>2021-05-07T00:00:00</From>
+                <From>2021-05-11T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-05-10T00:00:00</To>
+                <To>2021-05-14T00:00:00</To>
                 <Calculate>OnPriceChange</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>false</IsAutoScale>
@@ -6793,11 +6837,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>true</DisplayInDataBox>
-                <From>2021-05-07T00:00:00</From>
+                <From>2021-05-11T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-05-10T00:00:00</To>
+                <To>2021-05-14T00:00:00</To>
                 <Calculate>OnEachTick</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>false</IsAutoScale>
@@ -6859,11 +6903,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>false</DisplayInDataBox>
-                <From>2021-05-07T00:00:00</From>
+                <From>2021-05-11T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-05-10T00:00:00</To>
+                <To>2021-05-14T00:00:00</To>
                 <Calculate>OnPriceChange</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>false</IsAutoScale>
@@ -6911,11 +6955,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>true</DisplayInDataBox>
-                <From>2021-05-07T00:00:00</From>
+                <From>2021-05-11T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-05-10T00:00:00</To>
+                <To>2021-05-14T00:00:00</To>
                 <Calculate>OnPriceChange</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>false</IsAutoScale>
@@ -7000,11 +7044,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>false</DisplayInDataBox>
-                <From>2021-05-07T00:00:00</From>
+                <From>2021-05-11T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-05-10T00:00:00</To>
+                <To>2021-05-14T00:00:00</To>
                 <Calculate>OnPriceChange</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>true</IsAutoScale>
@@ -7065,11 +7109,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>false</DisplayInDataBox>
-                <From>2021-05-07T00:00:00</From>
+                <From>2021-05-11T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-05-10T00:00:00</To>
+                <To>2021-05-14T00:00:00</To>
                 <Calculate>OnBarClose</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>false</IsAutoScale>
@@ -7117,11 +7161,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>true</DisplayInDataBox>
-                <From>2021-05-07T00:00:00</From>
+                <From>2021-05-11T00:00:00</From>
                 <Panel>2</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-05-10T00:00:00</To>
+                <To>2021-05-14T00:00:00</To>
                 <Calculate>OnEachTick</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>true</IsAutoScale>
@@ -7192,11 +7236,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>true</DisplayInDataBox>
-                <From>2021-05-07T00:00:00</From>
+                <From>2021-05-11T00:00:00</From>
                 <Panel>2</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-05-10T00:00:00</To>
+                <To>2021-05-14T00:00:00</To>
                 <Calculate>OnEachTick</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>true</IsAutoScale>
@@ -7267,11 +7311,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>true</DisplayInDataBox>
-                <From>2021-05-07T00:00:00</From>
+                <From>2021-05-11T00:00:00</From>
                 <Panel>2</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-05-10T00:00:00</To>
+                <To>2021-05-14T00:00:00</To>
                 <Calculate>OnEachTick</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>true</IsAutoScale>
@@ -7342,11 +7386,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>true</DisplayInDataBox>
-                <From>2021-05-07T00:00:00</From>
+                <From>2021-05-11T00:00:00</From>
                 <Panel>2</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-05-10T00:00:00</To>
+                <To>2021-05-14T00:00:00</To>
                 <Calculate>OnEachTick</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>true</IsAutoScale>
@@ -7423,11 +7467,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>true</DisplayInDataBox>
-                <From>2021-05-07T00:00:00</From>
+                <From>2021-05-11T00:00:00</From>
                 <Panel>2</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-05-10T00:00:00</To>
+                <To>2021-05-14T00:00:00</To>
                 <Calculate>OnEachTick</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>true</IsAutoScale>
@@ -7501,11 +7545,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>true</DisplayInDataBox>
-                <From>2021-05-07T00:00:00</From>
+                <From>2021-05-11T00:00:00</From>
                 <Panel>2</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-05-10T00:00:00</To>
+                <To>2021-05-14T00:00:00</To>
                 <Calculate>OnEachTick</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>true</IsAutoScale>
@@ -7582,11 +7626,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>true</DisplayInDataBox>
-                <From>2021-05-07T00:00:00</From>
+                <From>2021-05-11T00:00:00</From>
                 <Panel>2</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-05-10T00:00:00</To>
+                <To>2021-05-14T00:00:00</To>
                 <Calculate>OnEachTick</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>true</IsAutoScale>
@@ -7657,11 +7701,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>true</DisplayInDataBox>
-                <From>2021-05-07T00:00:00</From>
+                <From>2021-05-11T00:00:00</From>
                 <Panel>2</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-05-10T00:00:00</To>
+                <To>2021-05-14T00:00:00</To>
                 <Calculate>OnEachTick</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>true</IsAutoScale>
@@ -7732,11 +7776,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>true</DisplayInDataBox>
-                <From>2021-05-07T00:00:00</From>
+                <From>2021-05-11T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-05-10T00:00:00</To>
+                <To>2021-05-14T00:00:00</To>
                 <Calculate>OnBarClose</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>true</IsAutoScale>
@@ -7784,11 +7828,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>false</DisplayInDataBox>
-                <From>2021-05-07T00:00:00</From>
+                <From>2021-05-11T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-05-10T00:00:00</To>
+                <To>2021-05-14T00:00:00</To>
                 <Calculate>OnBarClose</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>true</IsAutoScale>
@@ -7860,11 +7904,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>false</DisplayInDataBox>
-                <From>2021-05-07T00:00:00</From>
+                <From>2021-05-11T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-05-10T00:00:00</To>
+                <To>2021-05-14T00:00:00</To>
                 <Calculate>OnBarClose</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>true</IsAutoScale>
@@ -7936,11 +7980,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>false</DisplayInDataBox>
-                <From>2021-05-07T00:00:00</From>
+                <From>2021-05-11T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-05-10T00:00:00</To>
+                <To>2021-05-14T00:00:00</To>
                 <Calculate>OnBarClose</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>true</IsAutoScale>
@@ -8012,11 +8056,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>false</DisplayInDataBox>
-                <From>2021-05-07T00:00:00</From>
+                <From>2021-05-11T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-05-10T00:00:00</To>
+                <To>2021-05-14T00:00:00</To>
                 <Calculate>OnBarClose</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>true</IsAutoScale>
@@ -8088,11 +8132,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>false</DisplayInDataBox>
-                <From>2021-05-07T00:00:00</From>
+                <From>2021-05-11T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Overlay</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-05-10T00:00:00</To>
+                <To>2021-05-14T00:00:00</To>
                 <Calculate>OnEachTick</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>false</IsAutoScale>
@@ -8174,21 +8218,21 @@
                 <ODDTicksObstruction>10</ODDTicksObstruction>
                 <SLZTicksObstruction>10</SLZTicksObstruction>
                 <TBSTicksObstruction>10</TBSTicksObstruction>
-                <ATM_DTX_CustomBool>false</ATM_DTX_CustomBool>
+                <ATM_DTX_CustomBool>true</ATM_DTX_CustomBool>
                 <ATM_DTX_Custom>NQ_DTX</ATM_DTX_Custom>
-                <ATM_ELEV_CustomBool>false</ATM_ELEV_CustomBool>
+                <ATM_ELEV_CustomBool>true</ATM_ELEV_CustomBool>
                 <ATM_ELEV_Custom>NQ_ELEV</ATM_ELEV_Custom>
-                <ATM_ETX_CustomBool>false</ATM_ETX_CustomBool>
+                <ATM_ETX_CustomBool>true</ATM_ETX_CustomBool>
                 <ATM_ETX_Custom>NQ_ETX</ATM_ETX_Custom>
-                <ATM_FTX_CustomBool>false</ATM_FTX_CustomBool>
+                <ATM_FTX_CustomBool>true</ATM_FTX_CustomBool>
                 <ATM_FTX_Custom>NQ_FTX</ATM_FTX_Custom>
-                <ATM_HD_CustomBool>false</ATM_HD_CustomBool>
+                <ATM_HD_CustomBool>true</ATM_HD_CustomBool>
                 <ATM_HD_Custom>NQ_HD</ATM_HD_Custom>
-                <ATM_ODD_CustomBool>false</ATM_ODD_CustomBool>
+                <ATM_ODD_CustomBool>true</ATM_ODD_CustomBool>
                 <ATM_ODD_Custom>NQ_ODD</ATM_ODD_Custom>
-                <ATM_SLZ_CustomBool>false</ATM_SLZ_CustomBool>
+                <ATM_SLZ_CustomBool>true</ATM_SLZ_CustomBool>
                 <ATM_SLZ_Custom>NQ_SLZ</ATM_SLZ_Custom>
-                <ATM_TBS_CustomBool>false</ATM_TBS_CustomBool>
+                <ATM_TBS_CustomBool>true</ATM_TBS_CustomBool>
                 <ATM_TBS_Custom>NQ_TBS</ATM_TBS_Custom>
                 <EmailEnabled>false</EmailEnabled>
                 <EmailUsername>email@gmail.com</EmailUsername>
@@ -8266,6 +8310,50 @@
                 <ODDWickPreviousBar>false</ODDWickPreviousBar>
                 <SLZWickPreviousBar>false</SLZWickPreviousBar>
                 <TBSWickPreviousBar>false</TBSWickPreviousBar>
+                <DTXRequireLevel>false</DTXRequireLevel>
+                <ELEVRequireLevel>false</ELEVRequireLevel>
+                <ETXRequireLevel>true</ETXRequireLevel>
+                <FTXRequireLevel>false</FTXRequireLevel>
+                <HDRequireLevel>false</HDRequireLevel>
+                <ODDRequireLevel>false</ODDRequireLevel>
+                <SLZRequireLevel>false</SLZRequireLevel>
+                <TBSRequireLevel>false</TBSRequireLevel>
+                <DTXRequireCluster>false</DTXRequireCluster>
+                <ELEVRequireCluster>false</ELEVRequireCluster>
+                <ETXRequireCluster>false</ETXRequireCluster>
+                <FTXRequireCluster>false</FTXRequireCluster>
+                <HDRequireCluster>false</HDRequireCluster>
+                <ODDRequireCluster>false</ODDRequireCluster>
+                <SLZRequireCluster>false</SLZRequireCluster>
+                <TBSRequireCluster>false</TBSRequireCluster>
+                <DTXBuy>true</DTXBuy>
+                <DTXSell>true</DTXSell>
+                <ELEVBuy>true</ELEVBuy>
+                <ELEVSell>true</ELEVSell>
+                <ETXBuy>true</ETXBuy>
+                <ETXSell>true</ETXSell>
+                <FTXBuy>true</FTXBuy>
+                <FTXSell>true</FTXSell>
+                <HDBuy>true</HDBuy>
+                <HDSell>true</HDSell>
+                <ODDBuy>true</ODDBuy>
+                <ODDSell>true</ODDSell>
+                <SLZBuy>true</SLZBuy>
+                <SLZSell>true</SLZSell>
+                <TBSBuy>true</TBSBuy>
+                <TBSSell>true</TBSSell>
+                <MLiquidityEnable>false</MLiquidityEnable>
+                <MLiquidityBuyValue>10</MLiquidityBuyValue>
+                <MLiquiditySellValue>10</MLiquiditySellValue>
+                <MLiquidityBars>3</MLiquidityBars>
+                <DTXDivergence>false</DTXDivergence>
+                <ELEVDivergence>false</ELEVDivergence>
+                <ETXDivergence>false</ETXDivergence>
+                <FTXDivergence>false</FTXDivergence>
+                <HDDivergence>false</HDDivergence>
+                <ODDDivergence>false</ODDDivergence>
+                <SLZDivergence>false</SLZDivergence>
+                <TBSDivergence>false</TBSDivergence>
               </AutomationTool>
               <Input>
                 <PriceType>Close</PriceType>
@@ -8594,11 +8682,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>true</DisplayInDataBox>
-                <From>2021-04-10T00:00:00</From>
+                <From>2021-04-14T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-05-10T00:00:00</To>
+                <To>2021-05-14T00:00:00</To>
                 <Calculate>OnBarClose</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>false</IsAutoScale>
@@ -8646,11 +8734,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>false</DisplayInDataBox>
-                <From>2021-04-10T00:00:00</From>
+                <From>2021-04-14T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-05-10T00:00:00</To>
+                <To>2021-05-14T00:00:00</To>
                 <Calculate>OnPriceChange</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>true</IsAutoScale>
@@ -8902,11 +8990,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>true</DisplayInDataBox>
-                <From>2021-02-09T00:00:00</From>
+                <From>2021-02-13T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-05-10T00:00:00</To>
+                <To>2021-05-14T00:00:00</To>
                 <Calculate>OnEachTick</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>false</IsAutoScale>
@@ -8954,11 +9042,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>false</DisplayInDataBox>
-                <From>2021-02-09T00:00:00</From>
+                <From>2021-02-13T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-05-10T00:00:00</To>
+                <To>2021-05-14T00:00:00</To>
                 <Calculate>OnPriceChange</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>true</IsAutoScale>
@@ -9210,11 +9298,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>true</DisplayInDataBox>
-                <From>2021-02-09T00:00:00</From>
+                <From>2021-02-13T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-05-10T00:00:00</To>
+                <To>2021-05-14T00:00:00</To>
                 <Calculate>OnEachTick</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>false</IsAutoScale>
@@ -9262,11 +9350,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>false</DisplayInDataBox>
-                <From>2021-02-09T00:00:00</From>
+                <From>2021-02-13T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-05-10T00:00:00</To>
+                <To>2021-05-14T00:00:00</To>
                 <Calculate>OnPriceChange</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>true</IsAutoScale>
@@ -9514,11 +9602,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>true</DisplayInDataBox>
-                <From>2021-05-07T00:00:00</From>
+                <From>2021-05-11T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-05-10T00:00:00</To>
+                <To>2021-05-14T00:00:00</To>
                 <Calculate>OnEachTick</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>false</IsAutoScale>
@@ -9567,11 +9655,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>true</DisplayInDataBox>
-                <From>2021-05-07T00:00:00</From>
+                <From>2021-05-11T00:00:00</From>
                 <Panel>1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-05-10T00:00:00</To>
+                <To>2021-05-14T00:00:00</To>
                 <Calculate>OnEachTick</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>true</IsAutoScale>
@@ -9669,11 +9757,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>false</DisplayInDataBox>
-                <From>2021-05-07T00:00:00</From>
+                <From>2021-05-11T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-05-10T00:00:00</To>
+                <To>2021-05-14T00:00:00</To>
                 <Calculate>OnPriceChange</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>false</IsAutoScale>
@@ -9746,11 +9834,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>true</DisplayInDataBox>
-                <From>2021-05-07T00:00:00</From>
+                <From>2021-05-11T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-05-10T00:00:00</To>
+                <To>2021-05-14T00:00:00</To>
                 <Calculate>OnEachTick</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>false</IsAutoScale>
@@ -9812,11 +9900,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>false</DisplayInDataBox>
-                <From>2021-05-07T00:00:00</From>
+                <From>2021-05-11T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-05-10T00:00:00</To>
+                <To>2021-05-14T00:00:00</To>
                 <Calculate>OnPriceChange</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>false</IsAutoScale>
@@ -9864,11 +9952,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>true</DisplayInDataBox>
-                <From>2021-05-07T00:00:00</From>
+                <From>2021-05-11T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-05-10T00:00:00</To>
+                <To>2021-05-14T00:00:00</To>
                 <Calculate>OnPriceChange</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>false</IsAutoScale>
@@ -9953,11 +10041,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>false</DisplayInDataBox>
-                <From>2021-05-07T00:00:00</From>
+                <From>2021-05-11T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-05-10T00:00:00</To>
+                <To>2021-05-14T00:00:00</To>
                 <Calculate>OnPriceChange</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>true</IsAutoScale>
@@ -10230,7 +10318,7 @@
       <WindowState>Maximized</WindowState>
       <Location>144;101</Location>
       <Size>1348;581</Size>
-      <ZOrder>4</ZOrder>
+      <ZOrder>3</ZOrder>
       <Topmost>False</Topmost>
       <TraderWidth>301</TraderWidth>
       <TabControl>
@@ -10336,11 +10424,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>true</DisplayInDataBox>
-                <From>2021-05-07T00:00:00</From>
+                <From>2021-05-11T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-05-10T00:00:00</To>
+                <To>2021-05-14T00:00:00</To>
                 <Calculate>OnEachTick</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>false</IsAutoScale>
@@ -10389,11 +10477,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>true</DisplayInDataBox>
-                <From>2021-05-07T00:00:00</From>
+                <From>2021-05-11T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-05-10T00:00:00</To>
+                <To>2021-05-14T00:00:00</To>
                 <Calculate>OnBarClose</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>true</IsAutoScale>
@@ -10442,11 +10530,11 @@
                     </BarsPeriodSerializable>
                     <BarsToLoad>0</BarsToLoad>
                     <DisplayInDataBox>true</DisplayInDataBox>
-                    <From>2021-05-07T00:00:00</From>
+                    <From>2021-05-11T00:00:00</From>
                     <Panel>0</Panel>
                     <ScaleJustification>Right</ScaleJustification>
                     <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                    <To>2021-05-10T00:00:00</To>
+                    <To>2021-05-14T00:00:00</To>
                     <Calculate>OnBarClose</Calculate>
                     <Displacement>0</Displacement>
                     <IsAutoScale>true</IsAutoScale>
@@ -10515,11 +10603,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>true</DisplayInDataBox>
-                <From>2021-05-07T00:00:00</From>
+                <From>2021-05-11T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-05-10T00:00:00</To>
+                <To>2021-05-14T00:00:00</To>
                 <Calculate>OnBarClose</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>true</IsAutoScale>
@@ -10568,11 +10656,11 @@
                     </BarsPeriodSerializable>
                     <BarsToLoad>0</BarsToLoad>
                     <DisplayInDataBox>true</DisplayInDataBox>
-                    <From>2021-05-07T00:00:00</From>
+                    <From>2021-05-11T00:00:00</From>
                     <Panel>0</Panel>
                     <ScaleJustification>Right</ScaleJustification>
                     <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                    <To>2021-05-10T00:00:00</To>
+                    <To>2021-05-14T00:00:00</To>
                     <Calculate>OnBarClose</Calculate>
                     <Displacement>0</Displacement>
                     <IsAutoScale>true</IsAutoScale>
@@ -10641,11 +10729,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>true</DisplayInDataBox>
-                <From>2021-05-07T00:00:00</From>
+                <From>2021-05-11T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-05-10T00:00:00</To>
+                <To>2021-05-14T00:00:00</To>
                 <Calculate>OnBarClose</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>true</IsAutoScale>
@@ -10694,11 +10782,11 @@
                     </BarsPeriodSerializable>
                     <BarsToLoad>0</BarsToLoad>
                     <DisplayInDataBox>true</DisplayInDataBox>
-                    <From>2021-05-07T00:00:00</From>
+                    <From>2021-05-11T00:00:00</From>
                     <Panel>0</Panel>
                     <ScaleJustification>Right</ScaleJustification>
                     <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                    <To>2021-05-10T00:00:00</To>
+                    <To>2021-05-14T00:00:00</To>
                     <Calculate>OnBarClose</Calculate>
                     <Displacement>0</Displacement>
                     <IsAutoScale>true</IsAutoScale>
@@ -10767,11 +10855,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>true</DisplayInDataBox>
-                <From>2021-05-07T00:00:00</From>
+                <From>2021-05-11T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-05-10T00:00:00</To>
+                <To>2021-05-14T00:00:00</To>
                 <Calculate>OnBarClose</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>true</IsAutoScale>
@@ -10820,11 +10908,11 @@
                     </BarsPeriodSerializable>
                     <BarsToLoad>0</BarsToLoad>
                     <DisplayInDataBox>true</DisplayInDataBox>
-                    <From>2021-05-07T00:00:00</From>
+                    <From>2021-05-11T00:00:00</From>
                     <Panel>0</Panel>
                     <ScaleJustification>Right</ScaleJustification>
                     <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                    <To>2021-05-10T00:00:00</To>
+                    <To>2021-05-14T00:00:00</To>
                     <Calculate>OnBarClose</Calculate>
                     <Displacement>0</Displacement>
                     <IsAutoScale>true</IsAutoScale>
@@ -10899,11 +10987,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>true</DisplayInDataBox>
-                <From>2021-05-07T00:00:00</From>
+                <From>2021-05-11T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-05-10T00:00:00</To>
+                <To>2021-05-14T00:00:00</To>
                 <Calculate>OnBarClose</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>true</IsAutoScale>
@@ -10952,11 +11040,11 @@
                     </BarsPeriodSerializable>
                     <BarsToLoad>0</BarsToLoad>
                     <DisplayInDataBox>true</DisplayInDataBox>
-                    <From>2021-05-07T00:00:00</From>
+                    <From>2021-05-11T00:00:00</From>
                     <Panel>0</Panel>
                     <ScaleJustification>Right</ScaleJustification>
                     <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                    <To>2021-05-10T00:00:00</To>
+                    <To>2021-05-14T00:00:00</To>
                     <Calculate>OnBarClose</Calculate>
                     <Displacement>0</Displacement>
                     <IsAutoScale>true</IsAutoScale>
@@ -11028,11 +11116,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>true</DisplayInDataBox>
-                <From>2021-05-07T00:00:00</From>
+                <From>2021-05-11T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-05-10T00:00:00</To>
+                <To>2021-05-14T00:00:00</To>
                 <Calculate>OnBarClose</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>true</IsAutoScale>
@@ -11081,11 +11169,11 @@
                     </BarsPeriodSerializable>
                     <BarsToLoad>0</BarsToLoad>
                     <DisplayInDataBox>true</DisplayInDataBox>
-                    <From>2021-05-07T00:00:00</From>
+                    <From>2021-05-11T00:00:00</From>
                     <Panel>0</Panel>
                     <ScaleJustification>Right</ScaleJustification>
                     <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                    <To>2021-05-10T00:00:00</To>
+                    <To>2021-05-14T00:00:00</To>
                     <Calculate>OnBarClose</Calculate>
                     <Displacement>0</Displacement>
                     <IsAutoScale>true</IsAutoScale>
@@ -11160,11 +11248,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>true</DisplayInDataBox>
-                <From>2021-05-07T00:00:00</From>
+                <From>2021-05-11T00:00:00</From>
                 <Panel>1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-05-10T00:00:00</To>
+                <To>2021-05-14T00:00:00</To>
                 <Calculate>OnEachTick</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>false</IsAutoScale>
@@ -11262,11 +11350,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>false</DisplayInDataBox>
-                <From>2021-05-07T00:00:00</From>
+                <From>2021-05-11T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-05-10T00:00:00</To>
+                <To>2021-05-14T00:00:00</To>
                 <Calculate>OnBarClose</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>true</IsAutoScale>
@@ -11314,11 +11402,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>false</DisplayInDataBox>
-                <From>2021-05-07T00:00:00</From>
+                <From>2021-05-11T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-05-10T00:00:00</To>
+                <To>2021-05-14T00:00:00</To>
                 <Calculate>OnBarClose</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>true</IsAutoScale>
@@ -11366,11 +11454,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>true</DisplayInDataBox>
-                <From>2021-05-07T00:00:00</From>
+                <From>2021-05-11T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-05-10T00:00:00</To>
+                <To>2021-05-14T00:00:00</To>
                 <Calculate>OnBarClose</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>true</IsAutoScale>
@@ -11418,11 +11506,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>false</DisplayInDataBox>
-                <From>2021-05-07T00:00:00</From>
+                <From>2021-05-11T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-05-10T00:00:00</To>
+                <To>2021-05-14T00:00:00</To>
                 <Calculate>OnPriceChange</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>false</IsAutoScale>
@@ -11495,11 +11583,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>false</DisplayInDataBox>
-                <From>2021-05-07T00:00:00</From>
+                <From>2021-05-11T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-05-10T00:00:00</To>
+                <To>2021-05-14T00:00:00</To>
                 <Calculate>OnPriceChange</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>false</IsAutoScale>
@@ -11572,11 +11660,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>false</DisplayInDataBox>
-                <From>2021-05-07T00:00:00</From>
+                <From>2021-05-11T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-05-10T00:00:00</To>
+                <To>2021-05-14T00:00:00</To>
                 <Calculate>OnPriceChange</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>false</IsAutoScale>
@@ -11649,11 +11737,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>true</DisplayInDataBox>
-                <From>2021-05-07T00:00:00</From>
+                <From>2021-05-11T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-05-10T00:00:00</To>
+                <To>2021-05-14T00:00:00</To>
                 <Calculate>OnEachTick</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>false</IsAutoScale>
@@ -11715,11 +11803,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>false</DisplayInDataBox>
-                <From>2021-05-07T00:00:00</From>
+                <From>2021-05-11T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-05-10T00:00:00</To>
+                <To>2021-05-14T00:00:00</To>
                 <Calculate>OnPriceChange</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>false</IsAutoScale>
@@ -11767,11 +11855,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>true</DisplayInDataBox>
-                <From>2021-05-07T00:00:00</From>
+                <From>2021-05-11T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-05-10T00:00:00</To>
+                <To>2021-05-14T00:00:00</To>
                 <Calculate>OnPriceChange</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>false</IsAutoScale>
@@ -11856,11 +11944,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>false</DisplayInDataBox>
-                <From>2021-05-07T00:00:00</From>
+                <From>2021-05-11T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-05-10T00:00:00</To>
+                <To>2021-05-14T00:00:00</To>
                 <Calculate>OnPriceChange</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>true</IsAutoScale>
@@ -11921,11 +12009,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>false</DisplayInDataBox>
-                <From>2021-05-07T00:00:00</From>
+                <From>2021-05-11T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-05-10T00:00:00</To>
+                <To>2021-05-14T00:00:00</To>
                 <Calculate>OnBarClose</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>false</IsAutoScale>
@@ -11973,11 +12061,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>true</DisplayInDataBox>
-                <From>2021-05-07T00:00:00</From>
+                <From>2021-05-11T00:00:00</From>
                 <Panel>2</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-05-10T00:00:00</To>
+                <To>2021-05-14T00:00:00</To>
                 <Calculate>OnEachTick</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>true</IsAutoScale>
@@ -12048,11 +12136,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>true</DisplayInDataBox>
-                <From>2021-05-07T00:00:00</From>
+                <From>2021-05-11T00:00:00</From>
                 <Panel>2</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-05-10T00:00:00</To>
+                <To>2021-05-14T00:00:00</To>
                 <Calculate>OnEachTick</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>true</IsAutoScale>
@@ -12123,11 +12211,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>true</DisplayInDataBox>
-                <From>2021-05-07T00:00:00</From>
+                <From>2021-05-11T00:00:00</From>
                 <Panel>2</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-05-10T00:00:00</To>
+                <To>2021-05-14T00:00:00</To>
                 <Calculate>OnEachTick</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>true</IsAutoScale>
@@ -12198,11 +12286,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>true</DisplayInDataBox>
-                <From>2021-05-07T00:00:00</From>
+                <From>2021-05-11T00:00:00</From>
                 <Panel>2</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-05-10T00:00:00</To>
+                <To>2021-05-14T00:00:00</To>
                 <Calculate>OnEachTick</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>true</IsAutoScale>
@@ -12279,11 +12367,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>true</DisplayInDataBox>
-                <From>2021-05-07T00:00:00</From>
+                <From>2021-05-11T00:00:00</From>
                 <Panel>2</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-05-10T00:00:00</To>
+                <To>2021-05-14T00:00:00</To>
                 <Calculate>OnEachTick</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>true</IsAutoScale>
@@ -12357,11 +12445,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>true</DisplayInDataBox>
-                <From>2021-05-07T00:00:00</From>
+                <From>2021-05-11T00:00:00</From>
                 <Panel>2</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-05-10T00:00:00</To>
+                <To>2021-05-14T00:00:00</To>
                 <Calculate>OnEachTick</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>true</IsAutoScale>
@@ -12438,11 +12526,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>true</DisplayInDataBox>
-                <From>2021-05-07T00:00:00</From>
+                <From>2021-05-11T00:00:00</From>
                 <Panel>2</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-05-10T00:00:00</To>
+                <To>2021-05-14T00:00:00</To>
                 <Calculate>OnEachTick</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>true</IsAutoScale>
@@ -12513,11 +12601,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>true</DisplayInDataBox>
-                <From>2021-05-07T00:00:00</From>
+                <From>2021-05-11T00:00:00</From>
                 <Panel>2</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-05-10T00:00:00</To>
+                <To>2021-05-14T00:00:00</To>
                 <Calculate>OnEachTick</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>true</IsAutoScale>
@@ -12588,11 +12676,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>true</DisplayInDataBox>
-                <From>2021-05-07T00:00:00</From>
+                <From>2021-05-11T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-05-10T00:00:00</To>
+                <To>2021-05-14T00:00:00</To>
                 <Calculate>OnBarClose</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>true</IsAutoScale>
@@ -12640,11 +12728,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>false</DisplayInDataBox>
-                <From>2021-05-07T00:00:00</From>
+                <From>2021-05-11T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-05-10T00:00:00</To>
+                <To>2021-05-14T00:00:00</To>
                 <Calculate>OnBarClose</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>true</IsAutoScale>
@@ -12716,11 +12804,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>false</DisplayInDataBox>
-                <From>2021-05-07T00:00:00</From>
+                <From>2021-05-11T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-05-10T00:00:00</To>
+                <To>2021-05-14T00:00:00</To>
                 <Calculate>OnBarClose</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>true</IsAutoScale>
@@ -12792,11 +12880,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>false</DisplayInDataBox>
-                <From>2021-05-07T00:00:00</From>
+                <From>2021-05-11T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-05-10T00:00:00</To>
+                <To>2021-05-14T00:00:00</To>
                 <Calculate>OnBarClose</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>true</IsAutoScale>
@@ -12868,11 +12956,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>false</DisplayInDataBox>
-                <From>2021-05-07T00:00:00</From>
+                <From>2021-05-11T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-05-10T00:00:00</To>
+                <To>2021-05-14T00:00:00</To>
                 <Calculate>OnBarClose</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>true</IsAutoScale>
@@ -12944,11 +13032,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>false</DisplayInDataBox>
-                <From>2021-05-07T00:00:00</From>
+                <From>2021-05-11T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Overlay</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-05-10T00:00:00</To>
+                <To>2021-05-14T00:00:00</To>
                 <Calculate>OnEachTick</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>false</IsAutoScale>
@@ -13030,21 +13118,21 @@
                 <ODDTicksObstruction>10</ODDTicksObstruction>
                 <SLZTicksObstruction>10</SLZTicksObstruction>
                 <TBSTicksObstruction>10</TBSTicksObstruction>
-                <ATM_DTX_CustomBool>false</ATM_DTX_CustomBool>
+                <ATM_DTX_CustomBool>true</ATM_DTX_CustomBool>
                 <ATM_DTX_Custom>YM_DTX</ATM_DTX_Custom>
-                <ATM_ELEV_CustomBool>false</ATM_ELEV_CustomBool>
+                <ATM_ELEV_CustomBool>true</ATM_ELEV_CustomBool>
                 <ATM_ELEV_Custom>YM_ELEV</ATM_ELEV_Custom>
-                <ATM_ETX_CustomBool>false</ATM_ETX_CustomBool>
+                <ATM_ETX_CustomBool>true</ATM_ETX_CustomBool>
                 <ATM_ETX_Custom>YM_ETX</ATM_ETX_Custom>
-                <ATM_FTX_CustomBool>false</ATM_FTX_CustomBool>
+                <ATM_FTX_CustomBool>true</ATM_FTX_CustomBool>
                 <ATM_FTX_Custom>YM_FTX</ATM_FTX_Custom>
-                <ATM_HD_CustomBool>false</ATM_HD_CustomBool>
+                <ATM_HD_CustomBool>true</ATM_HD_CustomBool>
                 <ATM_HD_Custom>YM_HD</ATM_HD_Custom>
-                <ATM_ODD_CustomBool>false</ATM_ODD_CustomBool>
+                <ATM_ODD_CustomBool>true</ATM_ODD_CustomBool>
                 <ATM_ODD_Custom>YM_ODD</ATM_ODD_Custom>
-                <ATM_SLZ_CustomBool>false</ATM_SLZ_CustomBool>
+                <ATM_SLZ_CustomBool>true</ATM_SLZ_CustomBool>
                 <ATM_SLZ_Custom>YM_SLZ</ATM_SLZ_Custom>
-                <ATM_TBS_CustomBool>false</ATM_TBS_CustomBool>
+                <ATM_TBS_CustomBool>true</ATM_TBS_CustomBool>
                 <ATM_TBS_Custom>YM_TBS</ATM_TBS_Custom>
                 <EmailEnabled>false</EmailEnabled>
                 <EmailUsername>email@gmail.com</EmailUsername>
@@ -13122,6 +13210,50 @@
                 <ODDWickPreviousBar>false</ODDWickPreviousBar>
                 <SLZWickPreviousBar>false</SLZWickPreviousBar>
                 <TBSWickPreviousBar>false</TBSWickPreviousBar>
+                <DTXRequireLevel>false</DTXRequireLevel>
+                <ELEVRequireLevel>false</ELEVRequireLevel>
+                <ETXRequireLevel>true</ETXRequireLevel>
+                <FTXRequireLevel>false</FTXRequireLevel>
+                <HDRequireLevel>false</HDRequireLevel>
+                <ODDRequireLevel>false</ODDRequireLevel>
+                <SLZRequireLevel>false</SLZRequireLevel>
+                <TBSRequireLevel>false</TBSRequireLevel>
+                <DTXRequireCluster>false</DTXRequireCluster>
+                <ELEVRequireCluster>false</ELEVRequireCluster>
+                <ETXRequireCluster>false</ETXRequireCluster>
+                <FTXRequireCluster>false</FTXRequireCluster>
+                <HDRequireCluster>false</HDRequireCluster>
+                <ODDRequireCluster>false</ODDRequireCluster>
+                <SLZRequireCluster>false</SLZRequireCluster>
+                <TBSRequireCluster>false</TBSRequireCluster>
+                <DTXBuy>true</DTXBuy>
+                <DTXSell>true</DTXSell>
+                <ELEVBuy>true</ELEVBuy>
+                <ELEVSell>true</ELEVSell>
+                <ETXBuy>true</ETXBuy>
+                <ETXSell>true</ETXSell>
+                <FTXBuy>true</FTXBuy>
+                <FTXSell>true</FTXSell>
+                <HDBuy>true</HDBuy>
+                <HDSell>true</HDSell>
+                <ODDBuy>true</ODDBuy>
+                <ODDSell>true</ODDSell>
+                <SLZBuy>true</SLZBuy>
+                <SLZSell>true</SLZSell>
+                <TBSBuy>true</TBSBuy>
+                <TBSSell>true</TBSSell>
+                <MLiquidityEnable>false</MLiquidityEnable>
+                <MLiquidityBuyValue>10</MLiquidityBuyValue>
+                <MLiquiditySellValue>10</MLiquiditySellValue>
+                <MLiquidityBars>3</MLiquidityBars>
+                <DTXDivergence>false</DTXDivergence>
+                <ELEVDivergence>false</ELEVDivergence>
+                <ETXDivergence>false</ETXDivergence>
+                <FTXDivergence>false</FTXDivergence>
+                <HDDivergence>false</HDDivergence>
+                <ODDDivergence>false</ODDDivergence>
+                <SLZDivergence>false</SLZDivergence>
+                <TBSDivergence>false</TBSDivergence>
               </AutomationTool>
               <Input>
                 <PriceType>Close</PriceType>
@@ -13450,11 +13582,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>true</DisplayInDataBox>
-                <From>2021-04-10T00:00:00</From>
+                <From>2021-04-14T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-05-10T00:00:00</To>
+                <To>2021-05-14T00:00:00</To>
                 <Calculate>OnBarClose</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>false</IsAutoScale>
@@ -13502,11 +13634,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>false</DisplayInDataBox>
-                <From>2021-04-10T00:00:00</From>
+                <From>2021-04-14T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-05-10T00:00:00</To>
+                <To>2021-05-14T00:00:00</To>
                 <Calculate>OnPriceChange</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>true</IsAutoScale>
@@ -13758,11 +13890,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>true</DisplayInDataBox>
-                <From>2021-02-09T00:00:00</From>
+                <From>2021-02-13T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-05-10T00:00:00</To>
+                <To>2021-05-14T00:00:00</To>
                 <Calculate>OnEachTick</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>false</IsAutoScale>
@@ -13810,11 +13942,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>false</DisplayInDataBox>
-                <From>2021-02-09T00:00:00</From>
+                <From>2021-02-13T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-05-10T00:00:00</To>
+                <To>2021-05-14T00:00:00</To>
                 <Calculate>OnPriceChange</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>true</IsAutoScale>
@@ -14066,11 +14198,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>true</DisplayInDataBox>
-                <From>2021-02-09T00:00:00</From>
+                <From>2021-02-13T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-05-10T00:00:00</To>
+                <To>2021-05-14T00:00:00</To>
                 <Calculate>OnEachTick</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>false</IsAutoScale>
@@ -14118,11 +14250,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>false</DisplayInDataBox>
-                <From>2021-02-09T00:00:00</From>
+                <From>2021-02-13T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-05-10T00:00:00</To>
+                <To>2021-05-14T00:00:00</To>
                 <Calculate>OnPriceChange</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>true</IsAutoScale>
@@ -14370,11 +14502,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>true</DisplayInDataBox>
-                <From>2021-05-07T00:00:00</From>
+                <From>2021-05-11T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-05-10T00:00:00</To>
+                <To>2021-05-14T00:00:00</To>
                 <Calculate>OnEachTick</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>false</IsAutoScale>
@@ -14423,11 +14555,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>true</DisplayInDataBox>
-                <From>2021-05-07T00:00:00</From>
+                <From>2021-05-11T00:00:00</From>
                 <Panel>1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-05-10T00:00:00</To>
+                <To>2021-05-14T00:00:00</To>
                 <Calculate>OnEachTick</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>true</IsAutoScale>
@@ -14525,11 +14657,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>false</DisplayInDataBox>
-                <From>2021-05-07T00:00:00</From>
+                <From>2021-05-11T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-05-10T00:00:00</To>
+                <To>2021-05-14T00:00:00</To>
                 <Calculate>OnPriceChange</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>false</IsAutoScale>
@@ -14602,11 +14734,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>true</DisplayInDataBox>
-                <From>2021-05-07T00:00:00</From>
+                <From>2021-05-11T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-05-10T00:00:00</To>
+                <To>2021-05-14T00:00:00</To>
                 <Calculate>OnEachTick</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>false</IsAutoScale>
@@ -14668,11 +14800,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>false</DisplayInDataBox>
-                <From>2021-05-07T00:00:00</From>
+                <From>2021-05-11T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-05-10T00:00:00</To>
+                <To>2021-05-14T00:00:00</To>
                 <Calculate>OnPriceChange</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>false</IsAutoScale>
@@ -14720,11 +14852,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>true</DisplayInDataBox>
-                <From>2021-05-07T00:00:00</From>
+                <From>2021-05-11T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-05-10T00:00:00</To>
+                <To>2021-05-14T00:00:00</To>
                 <Calculate>OnPriceChange</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>false</IsAutoScale>
@@ -14809,11 +14941,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>false</DisplayInDataBox>
-                <From>2021-05-07T00:00:00</From>
+                <From>2021-05-11T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-05-10T00:00:00</To>
+                <To>2021-05-14T00:00:00</To>
                 <Calculate>OnPriceChange</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>true</IsAutoScale>
@@ -15086,7 +15218,7 @@
       <WindowState>Maximized</WindowState>
       <Location>141;235</Location>
       <Size>1348;581</Size>
-      <ZOrder>5</ZOrder>
+      <ZOrder>4</ZOrder>
       <Topmost>False</Topmost>
       <TraderWidth>301</TraderWidth>
       <TabControl>
@@ -15192,11 +15324,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>true</DisplayInDataBox>
-                <From>2021-05-07T00:00:00</From>
+                <From>2021-05-11T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-05-10T00:00:00</To>
+                <To>2021-05-14T00:00:00</To>
                 <Calculate>OnEachTick</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>false</IsAutoScale>
@@ -15245,11 +15377,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>true</DisplayInDataBox>
-                <From>2021-05-07T00:00:00</From>
+                <From>2021-05-11T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-05-10T00:00:00</To>
+                <To>2021-05-14T00:00:00</To>
                 <Calculate>OnBarClose</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>true</IsAutoScale>
@@ -15298,11 +15430,11 @@
                     </BarsPeriodSerializable>
                     <BarsToLoad>0</BarsToLoad>
                     <DisplayInDataBox>true</DisplayInDataBox>
-                    <From>2021-05-07T00:00:00</From>
+                    <From>2021-05-11T00:00:00</From>
                     <Panel>0</Panel>
                     <ScaleJustification>Right</ScaleJustification>
                     <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                    <To>2021-05-10T00:00:00</To>
+                    <To>2021-05-14T00:00:00</To>
                     <Calculate>OnBarClose</Calculate>
                     <Displacement>0</Displacement>
                     <IsAutoScale>true</IsAutoScale>
@@ -15371,11 +15503,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>true</DisplayInDataBox>
-                <From>2021-05-07T00:00:00</From>
+                <From>2021-05-11T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-05-10T00:00:00</To>
+                <To>2021-05-14T00:00:00</To>
                 <Calculate>OnBarClose</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>true</IsAutoScale>
@@ -15424,11 +15556,11 @@
                     </BarsPeriodSerializable>
                     <BarsToLoad>0</BarsToLoad>
                     <DisplayInDataBox>true</DisplayInDataBox>
-                    <From>2021-05-07T00:00:00</From>
+                    <From>2021-05-11T00:00:00</From>
                     <Panel>0</Panel>
                     <ScaleJustification>Right</ScaleJustification>
                     <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                    <To>2021-05-10T00:00:00</To>
+                    <To>2021-05-14T00:00:00</To>
                     <Calculate>OnBarClose</Calculate>
                     <Displacement>0</Displacement>
                     <IsAutoScale>true</IsAutoScale>
@@ -15497,11 +15629,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>true</DisplayInDataBox>
-                <From>2021-05-07T00:00:00</From>
+                <From>2021-05-11T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-05-10T00:00:00</To>
+                <To>2021-05-14T00:00:00</To>
                 <Calculate>OnBarClose</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>true</IsAutoScale>
@@ -15550,11 +15682,11 @@
                     </BarsPeriodSerializable>
                     <BarsToLoad>0</BarsToLoad>
                     <DisplayInDataBox>true</DisplayInDataBox>
-                    <From>2021-05-07T00:00:00</From>
+                    <From>2021-05-11T00:00:00</From>
                     <Panel>0</Panel>
                     <ScaleJustification>Right</ScaleJustification>
                     <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                    <To>2021-05-10T00:00:00</To>
+                    <To>2021-05-14T00:00:00</To>
                     <Calculate>OnBarClose</Calculate>
                     <Displacement>0</Displacement>
                     <IsAutoScale>true</IsAutoScale>
@@ -15623,11 +15755,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>true</DisplayInDataBox>
-                <From>2021-05-07T00:00:00</From>
+                <From>2021-05-11T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-05-10T00:00:00</To>
+                <To>2021-05-14T00:00:00</To>
                 <Calculate>OnBarClose</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>true</IsAutoScale>
@@ -15676,11 +15808,11 @@
                     </BarsPeriodSerializable>
                     <BarsToLoad>0</BarsToLoad>
                     <DisplayInDataBox>true</DisplayInDataBox>
-                    <From>2021-05-07T00:00:00</From>
+                    <From>2021-05-11T00:00:00</From>
                     <Panel>0</Panel>
                     <ScaleJustification>Right</ScaleJustification>
                     <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                    <To>2021-05-10T00:00:00</To>
+                    <To>2021-05-14T00:00:00</To>
                     <Calculate>OnBarClose</Calculate>
                     <Displacement>0</Displacement>
                     <IsAutoScale>true</IsAutoScale>
@@ -15755,11 +15887,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>true</DisplayInDataBox>
-                <From>2021-05-07T00:00:00</From>
+                <From>2021-05-11T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-05-10T00:00:00</To>
+                <To>2021-05-14T00:00:00</To>
                 <Calculate>OnBarClose</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>true</IsAutoScale>
@@ -15808,11 +15940,11 @@
                     </BarsPeriodSerializable>
                     <BarsToLoad>0</BarsToLoad>
                     <DisplayInDataBox>true</DisplayInDataBox>
-                    <From>2021-05-07T00:00:00</From>
+                    <From>2021-05-11T00:00:00</From>
                     <Panel>0</Panel>
                     <ScaleJustification>Right</ScaleJustification>
                     <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                    <To>2021-05-10T00:00:00</To>
+                    <To>2021-05-14T00:00:00</To>
                     <Calculate>OnBarClose</Calculate>
                     <Displacement>0</Displacement>
                     <IsAutoScale>true</IsAutoScale>
@@ -15884,11 +16016,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>true</DisplayInDataBox>
-                <From>2021-05-07T00:00:00</From>
+                <From>2021-05-11T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-05-10T00:00:00</To>
+                <To>2021-05-14T00:00:00</To>
                 <Calculate>OnBarClose</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>true</IsAutoScale>
@@ -15937,11 +16069,11 @@
                     </BarsPeriodSerializable>
                     <BarsToLoad>0</BarsToLoad>
                     <DisplayInDataBox>true</DisplayInDataBox>
-                    <From>2021-05-07T00:00:00</From>
+                    <From>2021-05-11T00:00:00</From>
                     <Panel>0</Panel>
                     <ScaleJustification>Right</ScaleJustification>
                     <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                    <To>2021-05-10T00:00:00</To>
+                    <To>2021-05-14T00:00:00</To>
                     <Calculate>OnBarClose</Calculate>
                     <Displacement>0</Displacement>
                     <IsAutoScale>true</IsAutoScale>
@@ -16016,11 +16148,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>true</DisplayInDataBox>
-                <From>2021-05-07T00:00:00</From>
+                <From>2021-05-11T00:00:00</From>
                 <Panel>1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-05-10T00:00:00</To>
+                <To>2021-05-14T00:00:00</To>
                 <Calculate>OnEachTick</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>false</IsAutoScale>
@@ -16118,11 +16250,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>false</DisplayInDataBox>
-                <From>2021-05-07T00:00:00</From>
+                <From>2021-05-11T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-05-10T00:00:00</To>
+                <To>2021-05-14T00:00:00</To>
                 <Calculate>OnBarClose</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>true</IsAutoScale>
@@ -16170,11 +16302,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>false</DisplayInDataBox>
-                <From>2021-05-07T00:00:00</From>
+                <From>2021-05-11T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-05-10T00:00:00</To>
+                <To>2021-05-14T00:00:00</To>
                 <Calculate>OnBarClose</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>true</IsAutoScale>
@@ -16222,11 +16354,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>true</DisplayInDataBox>
-                <From>2021-05-07T00:00:00</From>
+                <From>2021-05-11T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-05-10T00:00:00</To>
+                <To>2021-05-14T00:00:00</To>
                 <Calculate>OnBarClose</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>true</IsAutoScale>
@@ -16274,11 +16406,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>false</DisplayInDataBox>
-                <From>2021-05-07T00:00:00</From>
+                <From>2021-05-11T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-05-10T00:00:00</To>
+                <To>2021-05-14T00:00:00</To>
                 <Calculate>OnPriceChange</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>false</IsAutoScale>
@@ -16351,11 +16483,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>false</DisplayInDataBox>
-                <From>2021-05-07T00:00:00</From>
+                <From>2021-05-11T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-05-10T00:00:00</To>
+                <To>2021-05-14T00:00:00</To>
                 <Calculate>OnPriceChange</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>false</IsAutoScale>
@@ -16428,11 +16560,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>false</DisplayInDataBox>
-                <From>2021-05-07T00:00:00</From>
+                <From>2021-05-11T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-05-10T00:00:00</To>
+                <To>2021-05-14T00:00:00</To>
                 <Calculate>OnPriceChange</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>false</IsAutoScale>
@@ -16505,11 +16637,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>true</DisplayInDataBox>
-                <From>2021-05-07T00:00:00</From>
+                <From>2021-05-11T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-05-10T00:00:00</To>
+                <To>2021-05-14T00:00:00</To>
                 <Calculate>OnEachTick</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>false</IsAutoScale>
@@ -16571,11 +16703,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>false</DisplayInDataBox>
-                <From>2021-05-07T00:00:00</From>
+                <From>2021-05-11T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-05-10T00:00:00</To>
+                <To>2021-05-14T00:00:00</To>
                 <Calculate>OnPriceChange</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>false</IsAutoScale>
@@ -16623,11 +16755,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>true</DisplayInDataBox>
-                <From>2021-05-07T00:00:00</From>
+                <From>2021-05-11T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-05-10T00:00:00</To>
+                <To>2021-05-14T00:00:00</To>
                 <Calculate>OnPriceChange</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>false</IsAutoScale>
@@ -16712,11 +16844,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>false</DisplayInDataBox>
-                <From>2021-05-07T00:00:00</From>
+                <From>2021-05-11T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-05-10T00:00:00</To>
+                <To>2021-05-14T00:00:00</To>
                 <Calculate>OnPriceChange</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>true</IsAutoScale>
@@ -16777,11 +16909,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>false</DisplayInDataBox>
-                <From>2021-05-07T00:00:00</From>
+                <From>2021-05-11T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-05-10T00:00:00</To>
+                <To>2021-05-14T00:00:00</To>
                 <Calculate>OnBarClose</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>false</IsAutoScale>
@@ -16829,11 +16961,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>true</DisplayInDataBox>
-                <From>2021-05-07T00:00:00</From>
+                <From>2021-05-11T00:00:00</From>
                 <Panel>2</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-05-10T00:00:00</To>
+                <To>2021-05-14T00:00:00</To>
                 <Calculate>OnEachTick</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>true</IsAutoScale>
@@ -16904,11 +17036,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>true</DisplayInDataBox>
-                <From>2021-05-07T00:00:00</From>
+                <From>2021-05-11T00:00:00</From>
                 <Panel>2</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-05-10T00:00:00</To>
+                <To>2021-05-14T00:00:00</To>
                 <Calculate>OnEachTick</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>true</IsAutoScale>
@@ -16979,11 +17111,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>true</DisplayInDataBox>
-                <From>2021-05-07T00:00:00</From>
+                <From>2021-05-11T00:00:00</From>
                 <Panel>2</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-05-10T00:00:00</To>
+                <To>2021-05-14T00:00:00</To>
                 <Calculate>OnEachTick</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>true</IsAutoScale>
@@ -17054,11 +17186,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>true</DisplayInDataBox>
-                <From>2021-05-07T00:00:00</From>
+                <From>2021-05-11T00:00:00</From>
                 <Panel>2</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-05-10T00:00:00</To>
+                <To>2021-05-14T00:00:00</To>
                 <Calculate>OnEachTick</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>true</IsAutoScale>
@@ -17135,11 +17267,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>true</DisplayInDataBox>
-                <From>2021-05-07T00:00:00</From>
+                <From>2021-05-11T00:00:00</From>
                 <Panel>2</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-05-10T00:00:00</To>
+                <To>2021-05-14T00:00:00</To>
                 <Calculate>OnEachTick</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>true</IsAutoScale>
@@ -17213,11 +17345,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>true</DisplayInDataBox>
-                <From>2021-05-07T00:00:00</From>
+                <From>2021-05-11T00:00:00</From>
                 <Panel>2</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-05-10T00:00:00</To>
+                <To>2021-05-14T00:00:00</To>
                 <Calculate>OnEachTick</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>true</IsAutoScale>
@@ -17294,11 +17426,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>true</DisplayInDataBox>
-                <From>2021-05-07T00:00:00</From>
+                <From>2021-05-11T00:00:00</From>
                 <Panel>2</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-05-10T00:00:00</To>
+                <To>2021-05-14T00:00:00</To>
                 <Calculate>OnEachTick</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>true</IsAutoScale>
@@ -17369,11 +17501,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>true</DisplayInDataBox>
-                <From>2021-05-07T00:00:00</From>
+                <From>2021-05-11T00:00:00</From>
                 <Panel>2</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-05-10T00:00:00</To>
+                <To>2021-05-14T00:00:00</To>
                 <Calculate>OnEachTick</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>true</IsAutoScale>
@@ -17444,11 +17576,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>true</DisplayInDataBox>
-                <From>2021-05-07T00:00:00</From>
+                <From>2021-05-11T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-05-10T00:00:00</To>
+                <To>2021-05-14T00:00:00</To>
                 <Calculate>OnBarClose</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>true</IsAutoScale>
@@ -17496,11 +17628,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>false</DisplayInDataBox>
-                <From>2021-05-07T00:00:00</From>
+                <From>2021-05-11T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-05-10T00:00:00</To>
+                <To>2021-05-14T00:00:00</To>
                 <Calculate>OnBarClose</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>true</IsAutoScale>
@@ -17572,11 +17704,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>false</DisplayInDataBox>
-                <From>2021-05-07T00:00:00</From>
+                <From>2021-05-11T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-05-10T00:00:00</To>
+                <To>2021-05-14T00:00:00</To>
                 <Calculate>OnBarClose</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>true</IsAutoScale>
@@ -17648,11 +17780,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>false</DisplayInDataBox>
-                <From>2021-05-07T00:00:00</From>
+                <From>2021-05-11T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-05-10T00:00:00</To>
+                <To>2021-05-14T00:00:00</To>
                 <Calculate>OnBarClose</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>true</IsAutoScale>
@@ -17724,11 +17856,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>false</DisplayInDataBox>
-                <From>2021-05-07T00:00:00</From>
+                <From>2021-05-11T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-05-10T00:00:00</To>
+                <To>2021-05-14T00:00:00</To>
                 <Calculate>OnBarClose</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>true</IsAutoScale>
@@ -17800,11 +17932,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>false</DisplayInDataBox>
-                <From>2021-05-07T00:00:00</From>
+                <From>2021-05-11T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Overlay</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-05-10T00:00:00</To>
+                <To>2021-05-14T00:00:00</To>
                 <Calculate>OnEachTick</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>false</IsAutoScale>
@@ -17886,21 +18018,21 @@
                 <ODDTicksObstruction>8</ODDTicksObstruction>
                 <SLZTicksObstruction>8</SLZTicksObstruction>
                 <TBSTicksObstruction>8</TBSTicksObstruction>
-                <ATM_DTX_CustomBool>false</ATM_DTX_CustomBool>
+                <ATM_DTX_CustomBool>true</ATM_DTX_CustomBool>
                 <ATM_DTX_Custom>ES_DTX</ATM_DTX_Custom>
-                <ATM_ELEV_CustomBool>false</ATM_ELEV_CustomBool>
+                <ATM_ELEV_CustomBool>true</ATM_ELEV_CustomBool>
                 <ATM_ELEV_Custom>ES_ELEV</ATM_ELEV_Custom>
-                <ATM_ETX_CustomBool>false</ATM_ETX_CustomBool>
+                <ATM_ETX_CustomBool>true</ATM_ETX_CustomBool>
                 <ATM_ETX_Custom>ES_ETX</ATM_ETX_Custom>
-                <ATM_FTX_CustomBool>false</ATM_FTX_CustomBool>
+                <ATM_FTX_CustomBool>true</ATM_FTX_CustomBool>
                 <ATM_FTX_Custom>ES_FTX</ATM_FTX_Custom>
-                <ATM_HD_CustomBool>false</ATM_HD_CustomBool>
+                <ATM_HD_CustomBool>true</ATM_HD_CustomBool>
                 <ATM_HD_Custom>ES_HD</ATM_HD_Custom>
-                <ATM_ODD_CustomBool>false</ATM_ODD_CustomBool>
+                <ATM_ODD_CustomBool>true</ATM_ODD_CustomBool>
                 <ATM_ODD_Custom>ES_ODD</ATM_ODD_Custom>
-                <ATM_SLZ_CustomBool>false</ATM_SLZ_CustomBool>
+                <ATM_SLZ_CustomBool>true</ATM_SLZ_CustomBool>
                 <ATM_SLZ_Custom>ES_SLZ</ATM_SLZ_Custom>
-                <ATM_TBS_CustomBool>false</ATM_TBS_CustomBool>
+                <ATM_TBS_CustomBool>true</ATM_TBS_CustomBool>
                 <ATM_TBS_Custom>ES_TBS</ATM_TBS_Custom>
                 <EmailEnabled>false</EmailEnabled>
                 <EmailUsername>email@gmail.com</EmailUsername>
@@ -17978,6 +18110,50 @@
                 <ODDWickPreviousBar>false</ODDWickPreviousBar>
                 <SLZWickPreviousBar>false</SLZWickPreviousBar>
                 <TBSWickPreviousBar>false</TBSWickPreviousBar>
+                <DTXRequireLevel>false</DTXRequireLevel>
+                <ELEVRequireLevel>false</ELEVRequireLevel>
+                <ETXRequireLevel>true</ETXRequireLevel>
+                <FTXRequireLevel>false</FTXRequireLevel>
+                <HDRequireLevel>false</HDRequireLevel>
+                <ODDRequireLevel>false</ODDRequireLevel>
+                <SLZRequireLevel>false</SLZRequireLevel>
+                <TBSRequireLevel>false</TBSRequireLevel>
+                <DTXRequireCluster>false</DTXRequireCluster>
+                <ELEVRequireCluster>false</ELEVRequireCluster>
+                <ETXRequireCluster>false</ETXRequireCluster>
+                <FTXRequireCluster>false</FTXRequireCluster>
+                <HDRequireCluster>false</HDRequireCluster>
+                <ODDRequireCluster>false</ODDRequireCluster>
+                <SLZRequireCluster>false</SLZRequireCluster>
+                <TBSRequireCluster>false</TBSRequireCluster>
+                <DTXBuy>true</DTXBuy>
+                <DTXSell>true</DTXSell>
+                <ELEVBuy>true</ELEVBuy>
+                <ELEVSell>true</ELEVSell>
+                <ETXBuy>true</ETXBuy>
+                <ETXSell>true</ETXSell>
+                <FTXBuy>true</FTXBuy>
+                <FTXSell>true</FTXSell>
+                <HDBuy>true</HDBuy>
+                <HDSell>true</HDSell>
+                <ODDBuy>true</ODDBuy>
+                <ODDSell>true</ODDSell>
+                <SLZBuy>true</SLZBuy>
+                <SLZSell>true</SLZSell>
+                <TBSBuy>true</TBSBuy>
+                <TBSSell>true</TBSSell>
+                <MLiquidityEnable>false</MLiquidityEnable>
+                <MLiquidityBuyValue>10</MLiquidityBuyValue>
+                <MLiquiditySellValue>10</MLiquiditySellValue>
+                <MLiquidityBars>3</MLiquidityBars>
+                <DTXDivergence>false</DTXDivergence>
+                <ELEVDivergence>false</ELEVDivergence>
+                <ETXDivergence>false</ETXDivergence>
+                <FTXDivergence>false</FTXDivergence>
+                <HDDivergence>false</HDDivergence>
+                <ODDDivergence>false</ODDDivergence>
+                <SLZDivergence>false</SLZDivergence>
+                <TBSDivergence>false</TBSDivergence>
               </AutomationTool>
               <Input>
                 <PriceType>Close</PriceType>
@@ -18306,11 +18482,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>true</DisplayInDataBox>
-                <From>2021-04-10T00:00:00</From>
+                <From>2021-04-14T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-05-10T00:00:00</To>
+                <To>2021-05-14T00:00:00</To>
                 <Calculate>OnBarClose</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>false</IsAutoScale>
@@ -18358,11 +18534,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>false</DisplayInDataBox>
-                <From>2021-04-10T00:00:00</From>
+                <From>2021-04-14T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-05-10T00:00:00</To>
+                <To>2021-05-14T00:00:00</To>
                 <Calculate>OnPriceChange</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>true</IsAutoScale>
@@ -18614,11 +18790,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>true</DisplayInDataBox>
-                <From>2021-02-09T00:00:00</From>
+                <From>2021-02-13T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-05-10T00:00:00</To>
+                <To>2021-05-14T00:00:00</To>
                 <Calculate>OnEachTick</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>false</IsAutoScale>
@@ -18666,11 +18842,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>false</DisplayInDataBox>
-                <From>2021-02-09T00:00:00</From>
+                <From>2021-02-13T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-05-10T00:00:00</To>
+                <To>2021-05-14T00:00:00</To>
                 <Calculate>OnPriceChange</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>true</IsAutoScale>
@@ -18922,11 +19098,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>true</DisplayInDataBox>
-                <From>2021-02-09T00:00:00</From>
+                <From>2021-02-13T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-05-10T00:00:00</To>
+                <To>2021-05-14T00:00:00</To>
                 <Calculate>OnEachTick</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>false</IsAutoScale>
@@ -18974,11 +19150,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>false</DisplayInDataBox>
-                <From>2021-02-09T00:00:00</From>
+                <From>2021-02-13T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-05-10T00:00:00</To>
+                <To>2021-05-14T00:00:00</To>
                 <Calculate>OnPriceChange</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>true</IsAutoScale>
@@ -19226,11 +19402,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>true</DisplayInDataBox>
-                <From>2021-05-07T00:00:00</From>
+                <From>2021-05-11T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-05-10T00:00:00</To>
+                <To>2021-05-14T00:00:00</To>
                 <Calculate>OnEachTick</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>false</IsAutoScale>
@@ -19279,11 +19455,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>true</DisplayInDataBox>
-                <From>2021-05-07T00:00:00</From>
+                <From>2021-05-11T00:00:00</From>
                 <Panel>1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-05-10T00:00:00</To>
+                <To>2021-05-14T00:00:00</To>
                 <Calculate>OnEachTick</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>true</IsAutoScale>
@@ -19381,11 +19557,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>false</DisplayInDataBox>
-                <From>2021-05-07T00:00:00</From>
+                <From>2021-05-11T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-05-10T00:00:00</To>
+                <To>2021-05-14T00:00:00</To>
                 <Calculate>OnPriceChange</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>false</IsAutoScale>
@@ -19458,11 +19634,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>true</DisplayInDataBox>
-                <From>2021-05-07T00:00:00</From>
+                <From>2021-05-11T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-05-10T00:00:00</To>
+                <To>2021-05-14T00:00:00</To>
                 <Calculate>OnEachTick</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>false</IsAutoScale>
@@ -19524,11 +19700,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>false</DisplayInDataBox>
-                <From>2021-05-07T00:00:00</From>
+                <From>2021-05-11T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-05-10T00:00:00</To>
+                <To>2021-05-14T00:00:00</To>
                 <Calculate>OnPriceChange</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>false</IsAutoScale>
@@ -19576,11 +19752,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>true</DisplayInDataBox>
-                <From>2021-05-07T00:00:00</From>
+                <From>2021-05-11T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-05-10T00:00:00</To>
+                <To>2021-05-14T00:00:00</To>
                 <Calculate>OnPriceChange</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>false</IsAutoScale>
@@ -19665,11 +19841,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>false</DisplayInDataBox>
-                <From>2021-05-07T00:00:00</From>
+                <From>2021-05-11T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-05-10T00:00:00</To>
+                <To>2021-05-14T00:00:00</To>
                 <Calculate>OnPriceChange</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>true</IsAutoScale>
