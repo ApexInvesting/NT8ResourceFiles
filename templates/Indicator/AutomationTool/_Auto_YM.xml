@@ -18,11 +18,11 @@
       </BarsPeriodSerializable>
       <BarsToLoad>0</BarsToLoad>
       <DisplayInDataBox>false</DisplayInDataBox>
-      <From>2021-05-07T00:00:00</From>
+      <From>2021-05-11T00:00:00</From>
       <Panel>-1</Panel>
       <ScaleJustification>Overlay</ScaleJustification>
       <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-      <To>2021-05-10T00:00:00</To>
+      <To>2021-05-14T00:00:00</To>
       <Calculate>OnEachTick</Calculate>
       <Displacement>0</Displacement>
       <IsAutoScale>false</IsAutoScale>
@@ -104,21 +104,21 @@
       <ODDTicksObstruction>10</ODDTicksObstruction>
       <SLZTicksObstruction>10</SLZTicksObstruction>
       <TBSTicksObstruction>10</TBSTicksObstruction>
-      <ATM_DTX_CustomBool>false</ATM_DTX_CustomBool>
+      <ATM_DTX_CustomBool>true</ATM_DTX_CustomBool>
       <ATM_DTX_Custom>YM_DTX</ATM_DTX_Custom>
-      <ATM_ELEV_CustomBool>false</ATM_ELEV_CustomBool>
+      <ATM_ELEV_CustomBool>true</ATM_ELEV_CustomBool>
       <ATM_ELEV_Custom>YM_ELEV</ATM_ELEV_Custom>
-      <ATM_ETX_CustomBool>false</ATM_ETX_CustomBool>
+      <ATM_ETX_CustomBool>true</ATM_ETX_CustomBool>
       <ATM_ETX_Custom>YM_ETX</ATM_ETX_Custom>
-      <ATM_FTX_CustomBool>false</ATM_FTX_CustomBool>
+      <ATM_FTX_CustomBool>true</ATM_FTX_CustomBool>
       <ATM_FTX_Custom>YM_FTX</ATM_FTX_Custom>
-      <ATM_HD_CustomBool>false</ATM_HD_CustomBool>
+      <ATM_HD_CustomBool>true</ATM_HD_CustomBool>
       <ATM_HD_Custom>YM_HD</ATM_HD_Custom>
-      <ATM_ODD_CustomBool>false</ATM_ODD_CustomBool>
+      <ATM_ODD_CustomBool>true</ATM_ODD_CustomBool>
       <ATM_ODD_Custom>YM_ODD</ATM_ODD_Custom>
-      <ATM_SLZ_CustomBool>false</ATM_SLZ_CustomBool>
+      <ATM_SLZ_CustomBool>true</ATM_SLZ_CustomBool>
       <ATM_SLZ_Custom>YM_SLZ</ATM_SLZ_Custom>
-      <ATM_TBS_CustomBool>false</ATM_TBS_CustomBool>
+      <ATM_TBS_CustomBool>true</ATM_TBS_CustomBool>
       <ATM_TBS_Custom>YM_TBS</ATM_TBS_Custom>
       <EmailEnabled>false</EmailEnabled>
       <EmailUsername>email@gmail.com</EmailUsername>
@@ -196,6 +196,50 @@
       <ODDWickPreviousBar>false</ODDWickPreviousBar>
       <SLZWickPreviousBar>false</SLZWickPreviousBar>
       <TBSWickPreviousBar>false</TBSWickPreviousBar>
+      <DTXRequireLevel>false</DTXRequireLevel>
+      <ELEVRequireLevel>false</ELEVRequireLevel>
+      <ETXRequireLevel>true</ETXRequireLevel>
+      <FTXRequireLevel>false</FTXRequireLevel>
+      <HDRequireLevel>false</HDRequireLevel>
+      <ODDRequireLevel>false</ODDRequireLevel>
+      <SLZRequireLevel>false</SLZRequireLevel>
+      <TBSRequireLevel>false</TBSRequireLevel>
+      <DTXRequireCluster>false</DTXRequireCluster>
+      <ELEVRequireCluster>false</ELEVRequireCluster>
+      <ETXRequireCluster>false</ETXRequireCluster>
+      <FTXRequireCluster>false</FTXRequireCluster>
+      <HDRequireCluster>false</HDRequireCluster>
+      <ODDRequireCluster>false</ODDRequireCluster>
+      <SLZRequireCluster>false</SLZRequireCluster>
+      <TBSRequireCluster>false</TBSRequireCluster>
+      <DTXBuy>true</DTXBuy>
+      <DTXSell>true</DTXSell>
+      <ELEVBuy>true</ELEVBuy>
+      <ELEVSell>true</ELEVSell>
+      <ETXBuy>true</ETXBuy>
+      <ETXSell>true</ETXSell>
+      <FTXBuy>true</FTXBuy>
+      <FTXSell>true</FTXSell>
+      <HDBuy>true</HDBuy>
+      <HDSell>true</HDSell>
+      <ODDBuy>true</ODDBuy>
+      <ODDSell>true</ODDSell>
+      <SLZBuy>true</SLZBuy>
+      <SLZSell>true</SLZSell>
+      <TBSBuy>true</TBSBuy>
+      <TBSSell>true</TBSSell>
+      <MLiquidityEnable>false</MLiquidityEnable>
+      <MLiquidityBuyValue>10</MLiquidityBuyValue>
+      <MLiquiditySellValue>10</MLiquiditySellValue>
+      <MLiquidityBars>3</MLiquidityBars>
+      <DTXDivergence>false</DTXDivergence>
+      <ELEVDivergence>false</ELEVDivergence>
+      <ETXDivergence>false</ETXDivergence>
+      <FTXDivergence>false</FTXDivergence>
+      <HDDivergence>false</HDDivergence>
+      <ODDDivergence>false</ODDDivergence>
+      <SLZDivergence>false</SLZDivergence>
+      <TBSDivergence>false</TBSDivergence>
     </AutomationTool>
   </AutomationTool>
 </NinjaTrader>

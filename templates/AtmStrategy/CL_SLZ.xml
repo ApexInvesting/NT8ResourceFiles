@@ -64,8 +64,8 @@
     <Brackets>
       <Bracket>
         <Quantity>1</Quantity>
-        <StopLoss>9</StopLoss>
-        <Target>8</Target>
+        <StopLoss>17</StopLoss>
+        <Target>7</Target>
       </Bracket>
     </Brackets>
     <CalculationMode>Ticks</CalculationMode>

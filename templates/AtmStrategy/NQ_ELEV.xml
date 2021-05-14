@@ -53,7 +53,7 @@
     <TestPeriod>28</TestPeriod>
     <TradingHoursSerializable />
     <Gtd>1800-01-01T00:00:00</Gtd>
-    <Template>CL_ETX</Template>
+    <Template>NQ_ELEV</Template>
     <TimeInForce>Gtc</TimeInForce>
     <AtmSelector>3fdcf4e05b7947ffa5932bd515cf12a4</AtmSelector>
     <OnBehalfOf />
@@ -64,8 +64,8 @@
     <Brackets>
       <Bracket>
         <Quantity>1</Quantity>
-        <StopLoss>17</StopLoss>
-        <Target>7</Target>
+        <StopLoss>21</StopLoss>
+        <Target>9</Target>
       </Bracket>
     </Brackets>
     <CalculationMode>Ticks</CalculationMode>
