@@ -18,11 +18,11 @@
       </BarsPeriodSerializable>
       <BarsToLoad>0</BarsToLoad>
       <DisplayInDataBox>false</DisplayInDataBox>
-      <From>2021-05-11T00:00:00</From>
+      <From>2021-05-14T00:00:00</From>
       <Panel>-1</Panel>
       <ScaleJustification>Overlay</ScaleJustification>
       <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-      <To>2021-05-14T00:00:00</To>
+      <To>2021-05-17T00:00:00</To>
       <Calculate>OnEachTick</Calculate>
       <Displacement>0</Displacement>
       <IsAutoScale>false</IsAutoScale>
@@ -71,11 +71,33 @@
       <SettingsSerialized>eyJJc1VwQ2xvc2VCYXIiOnRydWUsIklzRG93bkNsb3NlQmFyIjp0cnVlLCJVc2VQcmljZVZhbHVlIjpmYWxzZSwiVGlja09mZnNldCI6MCwiVXBDbG9zZVZhbHVlIjoxLjAsIlVwQ2xvc2VMaXZlVmFsdWUiOi0xLjAsIkRvd25DbG9zZVZhbHVlIjoxLjAsIkRvd25DbG9zZUxpdmVWYWx1ZSI6LTEuMH0=</SettingsSerialized>
       <UserSettingsSerialized>e30=</UserSettingsSerialized>
       <FTXDRValue>0.65</FTXDRValue>
-      <ODDValue>75</ODDValue>
-      <HDValue>130</HDValue>
-      <TicksFromSettlement>15</TicksFromSettlement>
+      <TicksFromSettlement>0</TicksFromSettlement>
       <OrderPrintsID>clTickID</OrderPrintsID>
       <MultiSetupEntry>false</MultiSetupEntry>
+      <DTX_OD_Enabled>false</DTX_OD_Enabled>
+      <DTX_ODMinValue>1</DTX_ODMinValue>
+      <DTX_ODMaxValue>999</DTX_ODMaxValue>
+      <ELEV_OD_Enabled>false</ELEV_OD_Enabled>
+      <ELEV_ODMinValue>1</ELEV_ODMinValue>
+      <ELEV_ODMaxValue>999</ELEV_ODMaxValue>
+      <ETX_OD_Enabled>false</ETX_OD_Enabled>
+      <ETX_ODMinValue>1</ETX_ODMinValue>
+      <ETX_ODMaxValue>999</ETX_ODMaxValue>
+      <FTX_OD_Enabled>false</FTX_OD_Enabled>
+      <FTX_ODMinValue>1</FTX_ODMinValue>
+      <FTX_ODMaxValue>999</FTX_ODMaxValue>
+      <HD_OD_Enabled>true</HD_OD_Enabled>
+      <HD_ODMinValue>130</HD_ODMinValue>
+      <HD_ODMaxValue>270</HD_ODMaxValue>
+      <ODD_OD_Enabled>true</ODD_OD_Enabled>
+      <ODD_ODMinValue>20</ODD_ODMinValue>
+      <ODD_ODMaxValue>80</ODD_ODMaxValue>
+      <SLZ_OD_Enabled>false</SLZ_OD_Enabled>
+      <SLZ_ODMinValue>1</SLZ_ODMinValue>
+      <SLZ_ODMaxValue>999</SLZ_ODMaxValue>
+      <TBS_OD_Enabled>false</TBS_OD_Enabled>
+      <TBS_ODMinValue>1</TBS_ODMinValue>
+      <TBS_ODMaxValue>999</TBS_ODMaxValue>
       <PositivePNLReached>9999</PositivePNLReached>
       <NegativePNLReached>-9999</NegativePNLReached>
       <FastMarkets>true</FastMarkets>
@@ -96,29 +118,37 @@
       <ODDEnabled>true</ODDEnabled>
       <SLZEnabled>true</SLZEnabled>
       <TBSEnabled>true</TBSEnabled>
-      <DTXTicksObstruction>8</DTXTicksObstruction>
-      <ELEVTicksObstruction>8</ELEVTicksObstruction>
-      <ETXTicksObstruction>8</ETXTicksObstruction>
-      <FTXTicksObstruction>8</FTXTicksObstruction>
-      <HDTicksObstruction>8</HDTicksObstruction>
-      <ODDTicksObstruction>8</ODDTicksObstruction>
-      <SLZTicksObstruction>8</SLZTicksObstruction>
-      <TBSTicksObstruction>8</TBSTicksObstruction>
-      <ATM_DTX_CustomBool>true</ATM_DTX_CustomBool>
+      <DTXObsMin>8</DTXObsMin>
+      <DTXObsMax>999</DTXObsMax>
+      <ELEVObsMin>8</ELEVObsMin>
+      <ELEVObsMax>999</ELEVObsMax>
+      <ETXObsMin>8</ETXObsMin>
+      <ETXObsMax>999</ETXObsMax>
+      <FTXObsMin>8</FTXObsMin>
+      <FTXObsMax>999</FTXObsMax>
+      <HDObsMin>8</HDObsMin>
+      <HDObsMax>999</HDObsMax>
+      <ODDObsMin>8</ODDObsMin>
+      <ODDObsMax>999</ODDObsMax>
+      <SLZObsMin>8</SLZObsMin>
+      <SLZObsMax>999</SLZObsMax>
+      <TBSObsMin>8</TBSObsMin>
+      <TBSObsMax>999</TBSObsMax>
+      <ATM_DTX_Custom_Enable>true</ATM_DTX_Custom_Enable>
       <ATM_DTX_Custom>CL_DTX</ATM_DTX_Custom>
-      <ATM_ELEV_CustomBool>true</ATM_ELEV_CustomBool>
+      <ATM_ELEV_Custom_Enable>true</ATM_ELEV_Custom_Enable>
       <ATM_ELEV_Custom>CL_ELEV</ATM_ELEV_Custom>
-      <ATM_ETX_CustomBool>true</ATM_ETX_CustomBool>
+      <ATM_ETX_Custom_Enable>true</ATM_ETX_Custom_Enable>
       <ATM_ETX_Custom>CL_ETX</ATM_ETX_Custom>
-      <ATM_FTX_CustomBool>true</ATM_FTX_CustomBool>
+      <ATM_FTX_Custom_Enable>true</ATM_FTX_Custom_Enable>
       <ATM_FTX_Custom>CL_FTX</ATM_FTX_Custom>
-      <ATM_HD_CustomBool>true</ATM_HD_CustomBool>
+      <ATM_HD_Custom_Enable>true</ATM_HD_Custom_Enable>
       <ATM_HD_Custom>CL_HD</ATM_HD_Custom>
-      <ATM_ODD_CustomBool>true</ATM_ODD_CustomBool>
+      <ATM_ODD_Custom_Enable>true</ATM_ODD_Custom_Enable>
       <ATM_ODD_Custom>CL_ODD</ATM_ODD_Custom>
-      <ATM_SLZ_CustomBool>true</ATM_SLZ_CustomBool>
+      <ATM_SLZ_Custom_Enable>true</ATM_SLZ_Custom_Enable>
       <ATM_SLZ_Custom>CL_SLZ</ATM_SLZ_Custom>
-      <ATM_TBS_CustomBool>true</ATM_TBS_CustomBool>
+      <ATM_TBS_Custom_Enable>true</ATM_TBS_Custom_Enable>
       <ATM_TBS_Custom>CL_TBS</ATM_TBS_Custom>
       <EmailEnabled>false</EmailEnabled>
       <EmailUsername>email@gmail.com</EmailUsername>
@@ -127,7 +157,7 @@
       <PlivoAuthToken />
       <PlivoPhone />
       <PlivoYourPhone />
-      <SLZVolStars>false</SLZVolStars>
+      <SLZStarsEnable>false</SLZStarsEnable>
       <SLZVolStarsNumber>3</SLZVolStarsNumber>
       <SLZVolStarsValue>13</SLZVolStarsValue>
       <SLZVolStarsBars>6</SLZVolStarsBars>
@@ -140,21 +170,21 @@
       <ODDDRCoherent>false</ODDDRCoherent>
       <SLZDRCoherent>false</SLZDRCoherent>
       <TBSDRCoherent>false</TBSDRCoherent>
-      <TicksDTXAmplifyBool>false</TicksDTXAmplifyBool>
+      <TicksDTXAmplifyEnable>false</TicksDTXAmplifyEnable>
       <TicksDTXAmplify>6</TicksDTXAmplify>
-      <TicksELEVAmplifyBool>false</TicksELEVAmplifyBool>
+      <TicksELEVAmplifyEnable>false</TicksELEVAmplifyEnable>
       <TicksELEVAmplify>6</TicksELEVAmplify>
-      <TicksETXAmplifyBool>false</TicksETXAmplifyBool>
+      <TicksETXAmplifyEnable>false</TicksETXAmplifyEnable>
       <TicksETXAmplify>6</TicksETXAmplify>
-      <TicksFTXAmplifyBool>false</TicksFTXAmplifyBool>
+      <TicksFTXAmplifyEnable>false</TicksFTXAmplifyEnable>
       <TicksFTXAmplify>6</TicksFTXAmplify>
-      <TicksHDAmplifyBool>false</TicksHDAmplifyBool>
+      <TicksHDAmplifyEnable>false</TicksHDAmplifyEnable>
       <TicksHDAmplify>6</TicksHDAmplify>
-      <TicksODDAmplifyBool>false</TicksODDAmplifyBool>
+      <TicksODDAmplifyEnable>false</TicksODDAmplifyEnable>
       <TicksODDAmplify>6</TicksODDAmplify>
-      <TicksSLZAmplifyBool>true</TicksSLZAmplifyBool>
+      <TicksSLZAmplifyEnable>true</TicksSLZAmplifyEnable>
       <TicksSLZAmplify>6</TicksSLZAmplify>
-      <TicksTBSAmplifyBool>false</TicksTBSAmplifyBool>
+      <TicksTBSAmplifyEnable>false</TicksTBSAmplifyEnable>
       <TicksTBSAmplify>6</TicksTBSAmplify>
       <DTXBreakEvenOnCoil>false</DTXBreakEvenOnCoil>
       <ELEVBreakEvenOnCoil>false</ELEVBreakEvenOnCoil>
