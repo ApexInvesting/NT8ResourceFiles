@@ -22,14 +22,14 @@
           <RangeType>Days</RangeType>
           <BarsBack>50</BarsBack>
           <DaysBack>3</DaysBack>
-          <From>2021-05-17T00:00:00</From>
+          <From>2021-02-27T00:00:00</From>
           <IsStableSession>true</IsStableSession>
           <To>2099-12-01T00:00:00</To>
           <TradingHoursSerializable>Default 24 x 7</TradingHoursSerializable>
           <AutoScale>true</AutoScale>
           <CenterPriceOnScale>false</CenterPriceOnScale>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <Label>RTY 06-21</Label>
+          <Label>NQ 06-21</Label>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
           <Panel>0</Panel>
@@ -50,12 +50,12 @@
           <PositionPenLoserSerialize>DEFAULT</PositionPenLoserSerialize>
           <PositionPenWinnerSerialize>DEFAULT</PositionPenWinnerSerialize>
           <ShortExecutionBrushSerialize>DEFAULT</ShortExecutionBrushSerialize>
-          <BarsSeriesId>e641d937dac5400da10e2ca7a7fbb85b</BarsSeriesId>
-          <Id>e641d937dac5400da10e2ca7a7fbb85b</Id>
-          <Instrument>RTY 06-21</Instrument>
+          <BarsSeriesId>12f3023e426642328104b299666a801a</BarsSeriesId>
+          <Id>6159801e492f4f7db0ef4a697b2d00ae</Id>
+          <Instrument>NQ 06-21</Instrument>
           <IsLinked>true</IsLinked>
           <IsPrimarySeries>true</IsPrimarySeries>
-          <ZOrder>1</ZOrder>
+          <ZOrder>7</ZOrder>
         </BarsProperties>
         <ChartStyles>
           <ChartStyle>
@@ -83,7 +83,7 @@
       </BarsProperties>
     </DataSeries>
     <Indicators>
-      <Indicator BarsIndex="0" Instrument="RTY 06-21 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexOrderPrints" Panel="-1" DisplayName="_APEX Order Prints">
+      <Indicator BarsIndex="0" Instrument="NQ 06-21 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexOrderPrints" Panel="-1" DisplayName="_APEX Order Prints">
         <ApexOrderPrints xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
           <IsVisible>true</IsVisible>
           <AreLinesConfigurable>true</AreLinesConfigurable>
@@ -123,20 +123,20 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>true</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>433</IndicatorId>
-          <InstrumentDeserialized>RTY 06-21 Globex</InstrumentDeserialized>
+          <IndicatorId>612</IndicatorId>
+          <InstrumentDeserialized>NQ 06-21 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
-          <ZOrder>0</ZOrder>
+          <ZOrder>6</ZOrder>
           <SettingsSerialized>eyJ1c2VGdXR1cmVzVm9sdW1lRm9yRm9yZXgiOnRydWUsIm9wQ29waWVySWQiOiIiLCJwYXciOnsic3RyZW5ndGgiOjMwLjAsImNhbGN1bGF0ZU9uQmFyQ2xvc2UiOmZhbHNlLCJvbmx5U2hvd09uV2ljayI6dHJ1ZX0sImltYmFsYW5jZSI6eyJzdHJlbmd0aCI6My4wLCJ2b2x1bWVGaWx0ZXIiOjAsIndlYWtWb2x1bWVGaWx0ZXIiOjF9LCJ6b25lT2ZJbnRlcmVzdCI6eyJtaW5Wb2x1bWUiOjAsIm1pbkxldmVscyI6M30sImV4aGF1c3Rpb24iOnsic3RyZW5ndGgiOjMuMCwidm9sdW1lRmlsdGVyIjowfSwibmV0Vm9sdW1lQWNjZWxlcmF0aW9uIjp7ImNhbGNPbkJhckNsb3NlIjpmYWxzZSwicGVyaW9kIjo0LCJzdHJlbmd0aCI6Mi4wLCJ2b2x1bWVGaWx0ZXIiOjB9LCJ0b3RhbFZvbHVtZSI6eyJhbGVydFRocmVzaG9sZCI6NzAwMH0sInRvdGFsVm9sdW1lQWNjZWxlcmF0aW9uIjp7InBlcmlvZCI6NCwic3RyZW5ndGgiOjIuMH0sInRyYXBwZWRPcmRlcnMiOnsibWluVm9sdW1lIjoxMCwibWluTGV2ZWxzIjozLCJyZXZlcnNhbE9ubHlBbGVydCI6dHJ1ZX0sImxlYWRpbmdWb2x1bWVzIjp7Im1pblZvbHVtZSI6MTAsIm1pbkxldmVscyI6M30sImJsb2NrT3JkZXJTZXR0aW5ncyI6eyJibG9ja1NpemUiOjUwLCJtYXhEYXlzVG9TaG93UGFzdEJyb2tlbiI6MX0sImJsb2NrVm9sdW1lQWNjZWxlcmF0aW9uIjp7ImNhbGNPbkJhckNsb3NlIjpmYWxzZSwicGVyaW9kIjo3LCJzdHJlbmd0aCI6Mi4wLCJ2b2x1bWVGaWx0ZXIiOjB9LCJtb21lbnR1bSI6eyJzdHJlbmd0aCI6My4wLCJzaXplIjozLCJtaW5pbXVtVG90YWxWb2x1bWVUaHJlc2hvbGQiOjEwLCJsb3dWb2x1bWVTY29yZVRocmVzaG9sZCI6MTN9LCJhYnNvcnB0aW9uIjp7InN0cmVuZ3RoIjozLjAsInNpemUiOjMsIm1pbmltdW1Ub3RhbFZvbHVtZVRocmVzaG9sZCI6MTB9LCJtaW5pTWFnbmV0cyI6eyJtaW5pbXVtVm9sdW1lIjoxLCJ0aHJlc2hvbGQiOjEsIm1heERheXNUb1Nob3dQYXN0QnJva2VuIjoxLCJjYWxjdWxhdGVPbkJhckNsb3NlIjpmYWxzZX0sImRpc3BsYXlNaXNjIjp7InZvbHVtZU9mZnNldCI6MH0sIkNsdXN0ZXIiOnsiZ3JlYXRlclRoYW5NdWx0aXBsaWVyIjoyLjAsInBlcmlvZCI6NCwibWluaW11bVRvdGFsVm9sdW1lIjoxMH0sImJyaWNrV2FsbCI6eyJtaW5FbnRpdGllc1JlcXVpcmVkIjozLCJtYXhQcm94aW1pdHlJblRpY2tzIjozLCJtYXhUaW1lQmV0d2VlbkVudGl0aWVzIjoiMDg6MDA6MDAifSwidm9sdW1lU2NvcmUiOnsidXBwZXJBbGVydFRocmVzaG9sZCI6MTAwMCwibG93ZXJBbGVydFRocmVzaG9sZCI6MTN9LCJ0aGlyZEJhclNsaW5nIjp7InJlcXVpcmVtZW50cyI6M30sInN0YXJMVlNaT0kiOnsidHJhcHBlZE9yZGVyc0FuZEV4aGF1c3Rpb25Cb3hSZXF1aXJlZCI6ZmFsc2V9LCJlbGV2YXRvciI6eyJtaW5pTWFnbmV0UGF3UmVxdWlyZW1lbnRzIjoyLCJjbHVzdGVyUmVxdWlyZW1lbnRzIjoyfSwiZG91YmxlVFgiOnsicGVyaW9kIjozMCwic3RyZW5ndGgiOjV9LCJvcHJlamVjdGlvbiI6eyJzZXR1cEJhckNhbGN1bGF0aW9ucyI6MSwiUHJldmlvdXNCYXJDYWxjdWxhdGlvbnMiOjEsInNldHVwQmFyRGVwdGhNaW5pbnVtVm9sdW1lIjowLCJzZXR1cEJhck11bHRpcGxpZXIiOjMuMCwic2V0dXBCYXJEZXB0aCI6Miwic2V0dXBCYXJUaHJlc2hvbGQiOjEwLCJwcmV2aW91c0Jhck11bHRpcGxpZXIiOjIuNSwicHJldmlvdXNCYXJEZXB0aCI6MSwicHJldmlvdXNCYXJUaHJlc2hvbGQiOjEwLCJwZXJpb2QiOjMsInJlcXVpcmVQQVciOmZhbHNlLCJyZXF1aXJlVHJhcHBlZE9yZGVyIjpmYWxzZSwicmVxdWlyZUV4aGF1c3Rpb24iOmZhbHNlfSwib3BkaXZlcmdlbmNlIjp7InNldHVwQmFyTXVsdGlwbGllciI6Mi4wLCJzZXR1cEJhckRlcHRoIjoyLCJzZXR1cEJhclRocmVzaG9sZCI6MTAsInByZXZpb3VzQmFyTXVsdGlwbGllciI6MC4wLCJwcmV2aW91c0JhckRlcHRoIjowLCJwZXJpb2QiOjN9LCJkaXZlcmdlbnRMb3dSZXZlcnNhbEdvIjp7InRyYXBwZWRPcmRlcnNBbmRFeGhhdXN0aW9uQm94UmVxdWlyZWQiOmZhbHNlLCJpbmNsdWRlTG93RGl2ZXJnZW50UmV2ZXJzYWxHbyI6ZmFsc2UsImJhcnNCZWZvcmVTZXR1cCI6NH19</SettingsSerialized>
           <UserSettingsSerialized>eyJhbGVydHMiOnsidmlzdWFsIjpmYWxzZSwiYXVkaWJsZSI6dHJ1ZSwid2luZG93Rmxhc2giOmZhbHNlfSwicGF3UHJpbnRzIjp7InNob3ciOnRydWUsInNob3dSZWN0YW5nbGUiOnRydWUsInNob3dMaW5lIjp0cnVlLCJ1cHBlckxpbmUiOnsiYnJ1c2giOiIjRkZGRjhDMDAiLCJ3aWR0aCI6MS4wLCJkYXNoU3R5bGUiOjAsIm9wYWNpdHkiOjEwMH0sImxvd2VyTGluZSI6eyJicnVzaCI6IiNGRkZGOEMwMCIsIndpZHRoIjoxLjAsImRhc2hTdHlsZSI6MCwib3BhY2l0eSI6MTAwfSwiaW5zdGFudEFsZXJ0cyI6ZmFsc2UsImJhckNsb3NlQWxlcnRzIjpmYWxzZSwibWluV2lkdGgiOjE1fSwiaW1iYWxhbmNlIjp7InNob3ciOmZhbHNlLCJhc2tDb2xvciI6IiNGRjY5Njk2OSIsImJpZENvbG9yIjoiI0ZGNjk2OTY5Iiwid2Vha0NvbG9yIjoiI0ZGNjk2OTY5Iiwic2hvd1dlYWtJbWJhbGFuY2VzIjpmYWxzZX0sImJhbGFuY2VkVm9sdW1lIjp7IlNob3ciOmZhbHNlLCJGb250Q29sb3IiOiIjRkYwMDAwMDAifSwiem9uZU9mSW50ZXJlc3QiOnsic2hvdyI6dHJ1ZSwiZG93bkNvbG9yIjoiI0ZGQkE1NUQzIiwidXBDb2xvciI6IiNGRjAwQ0VEMSIsInNob3dCb3giOnRydWUsImluc3RhbnRBbGVydHMiOmZhbHNlLCJiYXJDbG9zZUFsZXJ0cyI6ZmFsc2UsIm9wYWNpdHkiOjQwLCJicm9rZW5PcGFjaXR5Ijo0MCwiYm94T3BhY2l0eSI6MTAwLCJib3hNaW5XaWR0aCI6MjV9LCJleGhhdXN0aW9uIjp7InNob3ciOnRydWUsInRvcExpbmVTdHlsZSI6eyJicnVzaCI6IiNGRkIyMjIyMiIsIndpZHRoIjoyLjAsImRhc2hTdHlsZSI6MCwib3BhY2l0eSI6MTAwfSwiYm90dG9tTGluZVN0eWxlIjp7ImJydXNoIjoiI0ZGMzJDRDMyIiwid2lkdGgiOjIuMCwiZGFzaFN0eWxlIjowLCJvcGFjaXR5IjoxMDB9LCJpbnN0YW50QWxlcnRzIjpmYWxzZSwiYmFyQ2xvc2VBbGVydHMiOmZhbHNlfSwibmV3Vm9sdW1lQWNjZWxlcnRpb24iOnsic2hvdyI6ZmFsc2UsImljb25Qb3NpdGl2ZUNvbG9yIjoiI0ZGOEZCQzhGIiwiaWNvbk5lZ2F0aXZlQ29sb3IiOiIjRkZGRjAwMDAiLCJpY29uRGl2ZXJnZW5jZUNvbG9yIjoiI0ZGRkZBNTAwIiwiaWNvbkJhY2tncm91bmRDb2xvciI6IiNGRkZGRkZGRiIsImluc3RhbnRBbGVydHMiOmZhbHNlLCJiYXJDbG9zZUFsZXJ0cyI6ZmFsc2V9LCJ0b3RhbFZvbHVtZUFjY2VsZXJhdGlvbiI6eyJzaG93IjpmYWxzZSwiaWNvbkJhY2tncm91bmRQb3NpdGl2ZUNvbG9yIjoiI0ZGN0I2OEVFIiwiaWNvbkJhY2tncm91bmROZWdhdGl2ZUNvbG9yIjoiI0ZGN0I2OEVFIiwiaWNvbkZvcmVDb2xvciI6IiNGRkZGRkZGRiIsImluc3RhbnRBbGVydHMiOmZhbHNlLCJiYXJDbG9zZUFsZXJ0cyI6ZmFsc2V9LCJ0cmFwcGVkT3JkZXJzIjp7InNob3ciOnRydWUsImhpZ2hsaWdodENvbG9yIjoiI0ZGMUU5MEZGIiwiZm9udENvbG9yIjoiIzAwRkZGRkZGIiwiaW5zdGFudEFsZXJ0cyI6ZmFsc2UsImJhckNsb3NlQWxlcnRzIjpmYWxzZSwid2l0aEV4aGF1c3Rpb25JbnN0YW50QWxlcnRzIjpmYWxzZSwid2l0aEV4aGF1c3Rpb25CYXJDbG9zZUFsZXJ0cyI6ZmFsc2UsIm1pbkJsb2NrV2lkdGgiOjIwfSwiYmxvY2tPcmRlcnMiOnsic2hvdyI6dHJ1ZSwiZm9udENvbG9yIjoiI0ZGRkZGRkZGIiwiaGlnaGxpZ2h0QmxvY2tzIjp0cnVlLCJzaG93QmxvY2tMaW5lIjp0cnVlLCJleHRlbmRQYXN0QnJva2VuIjpmYWxzZSwiYmlkTGluZVN0eWxlIjp7ImJydXNoIjoiI0ZGRkYwMDAwIiwid2lkdGgiOjIuMCwiZGFzaFN0eWxlIjowLCJvcGFjaXR5IjoxMDB9LCJhc2tMaW5lU3R5bGUiOnsiYnJ1c2giOiIjRkYwMEZGMDAiLCJ3aWR0aCI6Mi4wLCJkYXNoU3R5bGUiOjAsIm9wYWNpdHkiOjEwMH0sIm1pbkJsb2NrV2lkdGgiOjEyfSwiYmxvY2tOZXRWb2x1bWUiOnsic2hvd0RpdmVyZ2VuY2UiOmZhbHNlLCJkaXZlcmdlbmNlQ29sb3IiOiIjRkZGRkE1MDAiLCJkaXZlcmdlbmNlQm9yZGVyU3R5bGUiOnsiYnJ1c2giOiIjRkZGRkE1MDAiLCJ3aWR0aCI6MS4wLCJkYXNoU3R5bGUiOjAsIm9wYWNpdHkiOjEwMH0sImRpdmVyZ2VuY2VGb250Q29sb3IiOiIjRkZGRkZGRkYiLCJzaG93QmxvY2tOZXRUb3RhbCI6ZmFsc2UsIm5ldFZvbHVtZUZvbnQiOnsiZm9udEZhbWlseSI6IkFyaWFsIiwic2l6ZSI6MTIuMCwiYm9sZCI6dHJ1ZSwiaXRhbGljIjpmYWxzZX0sIm5ldFZvbHVtZVBvc2l0aXZlRm9udENvbG9yIjoiI0ZGRkZGRkZGIiwibmV0Vm9sdW1lTmVnYXRpdmVGb250Q29sb3IiOiIjRkZGRkZGRkYiLCJwb3NpdGl2ZUJvcmRlclN0eWxlIjp7ImJydXNoIjoiI0ZGMDA4MDAwIiwid2lkdGgiOjEuMCwiZGFzaFN0eWxlIjowLCJvcGFjaXR5IjoxMDB9LCJuZWdhdGl2ZUJvcmRlclN0eWxlIjp7ImJydXNoIjoiI0ZGRkYwMDAwIiwid2lkdGgiOjEuMCwiZGFzaFN0eWxlIjowLCJvcGFjaXR5IjoxMDB9fSwibW9tZW50dW0iOnsic2hvd01vbWVudHVtIjp0cnVlLCJ1cENvbG9yIjoiI0ZGN0ZGRjAwIiwiZG93bkNvbG9yIjoiI0ZGRkYwMDAwIiwiaWNvblVwQ29sb3IiOiIjRkYwMDAwMDAiLCJpY29uRG93bkNvbG9yIjoiI0ZGRkZGRkZGIiwic2hvd0RpYW1vbmQiOmZhbHNlLCJpbnN0YW50QWxlcnRzIjpmYWxzZSwiYmFyQ2xvc2VBbGVydHMiOmZhbHNlLCJ3aXRoTG93VlNJbnN0YW50QWxlcnRzIjpmYWxzZSwid2l0aExvd1ZTQmFyQ2xvc2VBbGVydHMiOmZhbHNlLCJpY29uVmVydGljYWxPZmZzZXQiOjIuMCwiaWNvblNpemUiOjJ9LCJhYnNvcnB0aW9uIjp7IlNob3ciOnRydWUsIlVwQ29sb3IiOiIjRkY1NTZCMkYiLCJEb3duQ29sb3IiOiIjRkY4MDAwMDAiLCJJY29uVXBDb2xvciI6IiNGRjAwMDAwMCIsIkljb25Eb3duQ29sb3IiOiIjRkYwMDAwMDAiLCJJbnN0YW50QWxlcnRzIjpmYWxzZSwiQmFyQ2xvc2VBbGVydHMiOmZhbHNlLCJJY29uVmVydGljYWxPZmZzZXQiOjAuMCwiSWNvblNpemUiOjJ9LCJtaW5pTWFnbmV0cyI6eyJleHRlbmRQYXN0QnJva2VuIjpmYWxzZSwibGl2ZUJvcmRlciI6eyJicnVzaCI6IiNGRkZGNjlCNCIsIndpZHRoIjozLjAsImRhc2hTdHlsZSI6MCwib3BhY2l0eSI6MTAwfSwiY2xvc2VkQm9yZGVyIjp7ImJydXNoIjoiI0ZGRkFGQUQyIiwid2lkdGgiOjMuMCwiZGFzaFN0eWxlIjowLCJvcGFjaXR5IjoxMDB9LCJicm9rZW5Cb3JkZXIiOnsiYnJ1c2giOiIjRkZGQUYwRTYiLCJ3aWR0aCI6My4wLCJkYXNoU3R5bGUiOjAsIm9wYWNpdHkiOjEwMH0sInNob3ciOnRydWUsImluc3RhbnRBbGVydHMiOmZhbHNlLCJiYXJDbG9zZUFsZXJ0cyI6ZmFsc2UsIndpdGhQYXdJbnN0YW50QWxlcnRzIjpmYWxzZSwid2l0aFBhckJhckNsb3NlQWxlcnRzIjpmYWxzZX0sImxlYWRpbmdWb2x1bWUiOnsic2hvdyI6dHJ1ZSwiY29sb3IiOiIjRkZEQzE0M0MiLCJmb250Q29sb3IiOiIjRkZEQzE0M0MiLCJiYXJDbG9zZUFsZXJ0cyI6ZmFsc2V9LCJuZXRWb2x1bWUiOnsic2hvdyI6ZmFsc2UsInBvc2l0aXZlQm9yZGVyU3R5bGUiOnsiYnJ1c2giOiIjRkY4RkJDOEYiLCJ3aWR0aCI6MS4wLCJkYXNoU3R5bGUiOjAsIm9wYWNpdHkiOjEwMH0sIm5lZ2F0aXZlQm9yZGVyU3R5bGUiOnsiYnJ1c2giOiIjRkZCMjIyMjIiLCJ3aWR0aCI6MS4wLCJkYXNoU3R5bGUiOjAsIm9wYWNpdHkiOjEwMH0sInBvc2l0aXZlVGV4dENvbG9yIjoiI0ZGRkZGRkZGIiwibmVnYXRpdmVUZXh0Q29sb3IiOiIjRkZGRkZGRkYiLCJmb250Ijp7ImZvbnRGYW1pbHkiOiJBcmlhbCIsInNpemUiOjEyLjAsImJvbGQiOnRydWUsIml0YWxpYyI6ZmFsc2V9LCJzaG93RGl2ZXJnZW5jZSI6dHJ1ZSwiZGl2ZXJnZW5jZUJvcmRlclN0eWxlIjp7ImJydXNoIjoiI0ZGRkZBNTAwIiwid2lkdGgiOjEuMCwiZGFzaFN0eWxlIjowLCJvcGFjaXR5IjoxMDB9LCJkaXZlcmdlbmNlVGV4dENvbG9yIjoiI0ZGRkZGRkZGIn0sInRvdGFsVm9sdW1lIjp7InNob3ciOmZhbHNlLCJ0ZXh0Q29sb3IiOiIjRkZCODg2MEIiLCJiYWNrZ3JvdW5kQ29sb3IiOiIjRkZGNUY1RjUiLCJmb250Ijp7ImZvbnRGYW1pbHkiOiJBcmlhbCIsInNpemUiOjEyLjAsImJvbGQiOnRydWUsIml0YWxpYyI6ZmFsc2V9LCJpbnN0YW50QWxlcnRzIjpmYWxzZSwiYmFyQ2xvc2VBbGVydHMiOmZhbHNlfSwiYmFyQ29udHJvbCI6eyJhdXRvc2NhbGUiOnRydWUsInNob3dCYXJPdXRsaW5lIjpmYWxzZSwic2hvd0xpbmVzIjpmYWxzZSwic2hvd0dyYWRpZW50IjpmYWxzZSwidm9sdW1lUG9zaXRpdmVHcmFkaWVudFN0YXJ0IjoiI0ZGRjVGRkZBIiwidm9sdW1lUG9zaXRpdmVHcmFkaWVudEVuZCI6IiNGRjhGQkM4RiIsInZvbHVtZU5lZ2F0aXZlR3JhZGllbnRTdGFydCI6IiNGRkZBRjBFNiIsInZvbHVtZU5lZ2F0aXZlR3JhZGllbnRFbmQiOiIjRkZCQzhGOEYiLCJiYXJDb2xvclVwIjoiI0ZGOEZCQzhGIiwiYmFyQ29sb3JEb3duIjoiI0ZGQkM4RjhGIiwic2hvd1ZvbHVtZXMiOmZhbHNlLCJ2b2x1bWVGb250Ijp7ImZvbnRGYW1pbHkiOiJBcmlhbCIsInNpemUiOjE0LjAsImJvbGQiOnRydWUsIml0YWxpYyI6ZmFsc2V9LCJiYXJXaWR0aEZhY3RvciI6NzB9LCJ2b2x1bWVDb250cm9sIjp7IkdyYWRpZW50U3RhcnQiOiIjRkZEM0QzRDMiLCJHcmFkaWVudEVuZCI6IiNGRjY5Njk2OSIsIlNob3ciOmZhbHNlLCJHcmFkaWVudE9wYWNpdHkiOjUwfSwiQ2x1c3RlciI6eyJzaG93Ijp0cnVlLCJib3JkZXJDb2xvciI6eyJicnVzaCI6IiNGRkZGRkYwMCIsIndpZHRoIjo0LjAsImRhc2hTdHlsZSI6MCwib3BhY2l0eSI6MTAwfSwiaW5zdGFudEFsZXJ0cyI6ZmFsc2UsImJhckNsb3NlQWxlcnRzIjpmYWxzZSwiZG91YmxlQ2x1c3Rlckluc3RhbnRBbGVydHMiOmZhbHNlLCJkb3VibGVDbHVzdGVyQWxlcnRzIjpmYWxzZSwibWluQ2x1c3RlcldpZHRoVG9FeHBhbmQiOjI1fSwiYmxvY2tWb2x1bWVBY2NlbGVyYXRpb24iOnsic2hvdyI6ZmFsc2UsImljb25CYWNrZ3JvdW5kUG9zaXRpdmVDb2xvciI6IiNGRjdCNjhFRSIsImljb25CYWNrZ3JvdW5kTmVnYXRpdmVDb2xvciI6IiNGRjdCNjhFRSIsImljb25CYWNrZ3JvdW5kRGl2ZXJnZW5jZUNvbG9yIjoiI0ZGRkZBNTAwIiwiaWNvbkZvcmVDb2xvciI6IiNGRkZGRkZGRiJ9LCJ2b2x1bWVTY29yZSI6eyJTaG93Ijp0cnVlLCJVcFRleHRDb2xvciI6IiNGRkQzRDNEMyIsIlVwQm9yZGVyIjp7ImJydXNoIjoiIzAwRkZGRkZGIiwid2lkdGgiOjEuMCwiZGFzaFN0eWxlIjowLCJvcGFjaXR5IjoxMDB9LCJEb3duVGV4dENvbG9yIjoiI0ZGRDNEM0QzIiwiRG93bkJvcmRlciI6eyJicnVzaCI6IiMwMEZGRkZGRiIsIndpZHRoIjoxLjAsImRhc2hTdHlsZSI6MCwib3BhY2l0eSI6MTAwfSwiRGl2ZXJnZW50VGV4dENvbG9yIjoiI0ZGRkZBNTAwIiwiRGl2ZXJnZW50Qm9yZGVyIjp7ImJydXNoIjoiIzAwRkZGRkZGIiwid2lkdGgiOjEuMCwiZGFzaFN0eWxlIjowLCJvcGFjaXR5IjoxMDB9LCJBdXRvU2NhbGUiOmZhbHNlLCJGb250Ijp7ImZvbnRGYW1pbHkiOiJBcmlhbCIsInNpemUiOjEyLjAsImJvbGQiOnRydWUsIml0YWxpYyI6ZmFsc2V9LCJVcHBlckluc3RhbnRBbGVydHMiOmZhbHNlLCJVcHBlckJhckNsb3NlQWxlcnRzIjpmYWxzZSwiTG93ZXJJbnN0YW50QWxlcnRzIjpmYWxzZSwiTG93ZXJCYXJDbG9zZUFsZXJ0cyI6ZmFsc2V9LCJvcFJlamVjdGlvbiI6eyJpbnN0YW50QWxlcnRzIjpmYWxzZSwiYmFyQ2xvc2VBbGVydHMiOmZhbHNlLCJzaG93T1BSZWplY3Rpb24iOnRydWUsImljb25VcENvbG9yIjoiI0ZGQURGRjJGIiwiaWNvbkRvd25Db2xvciI6IiNGRkZGNjM0NyIsInZlcnRpY2FsT2Zmc2V0IjowLjAsInNjYWxlT2Zmc2V0IjoyfSwib3BEaXZlcmdlbmNlIjp7Imluc3RhbnRBbGVydHMiOmZhbHNlLCJiYXJDbG9zZUFsZXJ0cyI6ZmFsc2UsInNob3dPUERpdmVyZ2VuY2UiOmZhbHNlLCJpY29uVXBDb2xvciI6IiNGRkFERkYyRiIsImljb25Eb3duQ29sb3IiOiIjRkZGRjYzNDciLCJ2ZXJ0aWNhbE9mZnNldCI6MC4wLCJzY2FsZU9mZnNldCI6Mn0sInRoaXJkQmFyU2xpbmciOnsiaW5zdGFudEFsZXJ0cyI6ZmFsc2UsImJhckNsb3NlQWxlcnRzIjpmYWxzZX0sInN0YXJMVlNaT0kiOnsiaW5zdGFudEFsZXJ0cyI6ZmFsc2UsImJhckNsb3NlQWxlcnRzIjpmYWxzZX0sImVsZXZhdG9yIjp7Imluc3RhbnRBbGVydHMiOmZhbHNlLCJiYXJDbG9zZUFsZXJ0cyI6ZmFsc2V9LCJkaXZlcmdlbnRMb3dSZXZlcnNhbEdvIjp7Imluc3RhbnRBbGVydHMiOmZhbHNlLCJiYXJDbG9zZUFsZXJ0cyI6ZmFsc2V9LCJkb3VibGVUWCI6eyJpbnN0YW50QWxlcnRzIjpmYWxzZSwiYmFyQ2xvc2VBbGVydHMiOmZhbHNlfX0=</UserSettingsSerialized>
-          <MasterTickSize>0.1</MasterTickSize>
+          <MasterTickSize>0.25</MasterTickSize>
         </ApexOrderPrints>
         <Input>
           <PriceType>Close</PriceType>
         </Input>
       </Indicator>
-      <Indicator BarsIndex="0" Instrument="RTY 06-21 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexChartMarkers" Panel="-1" DisplayName="_APEX Chart Markers">
+      <Indicator BarsIndex="0" Instrument="NQ 06-21 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexChartMarkers" Panel="-1" DisplayName="_APEX Chart Markers">
         <ApexChartMarkers xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
           <IsVisible>true</IsVisible>
           <AreLinesConfigurable>true</AreLinesConfigurable>
@@ -176,8 +176,8 @@
           <DrawOnPricePanel>false</DrawOnPricePanel>
           <PaintPriceMarkers>true</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>437</IndicatorId>
-          <InstrumentDeserialized>RTY 06-21 Globex</InstrumentDeserialized>
+          <IndicatorId>616</IndicatorId>
+          <InstrumentDeserialized>NQ 06-21 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
           <ZOrder>10015</ZOrder>
@@ -262,7 +262,7 @@
           </Indicator>
         </Input>
       </Indicator>
-      <Indicator BarsIndex="0" Instrument="RTY 06-21 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexChartMarkers" Panel="-1" DisplayName="_APEX Chart Markers">
+      <Indicator BarsIndex="0" Instrument="NQ 06-21 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexChartMarkers" Panel="-1" DisplayName="_APEX Chart Markers">
         <ApexChartMarkers xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
           <IsVisible>true</IsVisible>
           <AreLinesConfigurable>true</AreLinesConfigurable>
@@ -302,8 +302,8 @@
           <DrawOnPricePanel>false</DrawOnPricePanel>
           <PaintPriceMarkers>true</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>441</IndicatorId>
-          <InstrumentDeserialized>RTY 06-21 Globex</InstrumentDeserialized>
+          <IndicatorId>620</IndicatorId>
+          <InstrumentDeserialized>NQ 06-21 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
           <ZOrder>10019</ZOrder>
@@ -388,7 +388,7 @@
           </Indicator>
         </Input>
       </Indicator>
-      <Indicator BarsIndex="0" Instrument="RTY 06-21 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexChartMarkers" Panel="-1" DisplayName="_APEX Chart Markers">
+      <Indicator BarsIndex="0" Instrument="NQ 06-21 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexChartMarkers" Panel="-1" DisplayName="_APEX Chart Markers">
         <ApexChartMarkers xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
           <IsVisible>true</IsVisible>
           <AreLinesConfigurable>true</AreLinesConfigurable>
@@ -428,8 +428,8 @@
           <DrawOnPricePanel>false</DrawOnPricePanel>
           <PaintPriceMarkers>true</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>445</IndicatorId>
-          <InstrumentDeserialized>RTY 06-21 Globex</InstrumentDeserialized>
+          <IndicatorId>624</IndicatorId>
+          <InstrumentDeserialized>NQ 06-21 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
           <ZOrder>10020</ZOrder>
@@ -514,7 +514,7 @@
           </Indicator>
         </Input>
       </Indicator>
-      <Indicator BarsIndex="0" Instrument="RTY 06-21 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexChartMarkers" Panel="-1" DisplayName="_APEX Chart Markers">
+      <Indicator BarsIndex="0" Instrument="NQ 06-21 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexChartMarkers" Panel="-1" DisplayName="_APEX Chart Markers">
         <ApexChartMarkers xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
           <IsVisible>true</IsVisible>
           <AreLinesConfigurable>true</AreLinesConfigurable>
@@ -554,8 +554,8 @@
           <DrawOnPricePanel>false</DrawOnPricePanel>
           <PaintPriceMarkers>true</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>449</IndicatorId>
-          <InstrumentDeserialized>RTY 06-21 Globex</InstrumentDeserialized>
+          <IndicatorId>628</IndicatorId>
+          <InstrumentDeserialized>NQ 06-21 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
           <ZOrder>10016</ZOrder>
@@ -646,7 +646,7 @@
           </Indicator>
         </Input>
       </Indicator>
-      <Indicator BarsIndex="0" Instrument="RTY 06-21 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexChartMarkers" Panel="-1" DisplayName="_APEX Chart Markers">
+      <Indicator BarsIndex="0" Instrument="NQ 06-21 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexChartMarkers" Panel="-1" DisplayName="_APEX Chart Markers">
         <ApexChartMarkers xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
           <IsVisible>true</IsVisible>
           <AreLinesConfigurable>true</AreLinesConfigurable>
@@ -686,8 +686,8 @@
           <DrawOnPricePanel>false</DrawOnPricePanel>
           <PaintPriceMarkers>true</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>453</IndicatorId>
-          <InstrumentDeserialized>RTY 06-21 Globex</InstrumentDeserialized>
+          <IndicatorId>632</IndicatorId>
+          <InstrumentDeserialized>NQ 06-21 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
           <ZOrder>10017</ZOrder>
@@ -775,7 +775,7 @@
           </Indicator>
         </Input>
       </Indicator>
-      <Indicator BarsIndex="0" Instrument="RTY 06-21 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexChartMarkers" Panel="-1" DisplayName="_APEX Chart Markers">
+      <Indicator BarsIndex="0" Instrument="NQ 06-21 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexChartMarkers" Panel="-1" DisplayName="_APEX Chart Markers">
         <ApexChartMarkers xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
           <IsVisible>true</IsVisible>
           <AreLinesConfigurable>true</AreLinesConfigurable>
@@ -815,8 +815,8 @@
           <DrawOnPricePanel>false</DrawOnPricePanel>
           <PaintPriceMarkers>true</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>457</IndicatorId>
-          <InstrumentDeserialized>RTY 06-21 Globex</InstrumentDeserialized>
+          <IndicatorId>636</IndicatorId>
+          <InstrumentDeserialized>NQ 06-21 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
           <ZOrder>10018</ZOrder>
@@ -907,7 +907,7 @@
           </Indicator>
         </Input>
       </Indicator>
-      <Indicator BarsIndex="0" Instrument="RTY 06-21 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexDeviationReversal" Panel="1" DisplayName="_APEX Deviation Reversal">
+      <Indicator BarsIndex="0" Instrument="NQ 06-21 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexDeviationReversal" Panel="1" DisplayName="_APEX Deviation Reversal">
         <ApexDeviationReversal xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
           <IsVisible>true</IsVisible>
           <AreLinesConfigurable>true</AreLinesConfigurable>
@@ -997,8 +997,8 @@
           <DrawOnPricePanel>false</DrawOnPricePanel>
           <PaintPriceMarkers>true</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>460</IndicatorId>
-          <InstrumentDeserialized>RTY 06-21 Globex</InstrumentDeserialized>
+          <IndicatorId>639</IndicatorId>
+          <InstrumentDeserialized>NQ 06-21 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
           <ZOrder>10006</ZOrder>
@@ -1009,7 +1009,7 @@
           <PriceType>Close</PriceType>
         </Input>
       </Indicator>
-      <Indicator BarsIndex="0" Instrument="RTY 06-21 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexHiddenDivergence" Panel="-1" DisplayName="_APEX Early Hidden Divergence Signal Detector">
+      <Indicator BarsIndex="0" Instrument="NQ 06-21 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexHiddenDivergence" Panel="-1" DisplayName="_APEX Early Hidden Divergence Signal Detector">
         <ApexHiddenDivergence xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
           <IsVisible>true</IsVisible>
           <AreLinesConfigurable>true</AreLinesConfigurable>
@@ -1049,8 +1049,8 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>463</IndicatorId>
-          <InstrumentDeserialized>RTY 06-21 Globex</InstrumentDeserialized>
+          <IndicatorId>642</IndicatorId>
+          <InstrumentDeserialized>NQ 06-21 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
           <ZOrder>10004</ZOrder>
@@ -1061,7 +1061,7 @@
           <PriceType>Close</PriceType>
         </Input>
       </Indicator>
-      <Indicator BarsIndex="0" Instrument="RTY 06-21 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexHiddenDivergence" Panel="-1" DisplayName="_APEX Early Hidden Divergence Signal Detector">
+      <Indicator BarsIndex="0" Instrument="NQ 06-21 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexHiddenDivergence" Panel="-1" DisplayName="_APEX Early Hidden Divergence Signal Detector">
         <ApexHiddenDivergence xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
           <IsVisible>true</IsVisible>
           <AreLinesConfigurable>true</AreLinesConfigurable>
@@ -1101,8 +1101,8 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>466</IndicatorId>
-          <InstrumentDeserialized>RTY 06-21 Globex</InstrumentDeserialized>
+          <IndicatorId>645</IndicatorId>
+          <InstrumentDeserialized>NQ 06-21 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
           <ZOrder>10005</ZOrder>
@@ -1113,7 +1113,7 @@
           <PriceType>Close</PriceType>
         </Input>
       </Indicator>
-      <Indicator BarsIndex="0" Instrument="RTY 06-21 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexDivergenceWarningIcons" Panel="-1" DisplayName="_APEX Divergence Warning Icons">
+      <Indicator BarsIndex="0" Instrument="NQ 06-21 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexDivergenceWarningIcons" Panel="-1" DisplayName="_APEX Divergence Warning Icons">
         <ApexDivergenceWarningIcons xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
           <IsVisible>true</IsVisible>
           <AreLinesConfigurable>true</AreLinesConfigurable>
@@ -1153,8 +1153,8 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>469</IndicatorId>
-          <InstrumentDeserialized>RTY 06-21 Globex</InstrumentDeserialized>
+          <IndicatorId>648</IndicatorId>
+          <InstrumentDeserialized>NQ 06-21 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
           <ZOrder>10006</ZOrder>
@@ -1165,7 +1165,7 @@
           <PriceType>Close</PriceType>
         </Input>
       </Indicator>
-      <Indicator BarsIndex="0" Instrument="RTY 06-21 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexBarRange" Panel="-1" DisplayName="_APEX Bar Range">
+      <Indicator BarsIndex="0" Instrument="NQ 06-21 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexBarRange" Panel="-1" DisplayName="_APEX Bar Range">
         <ApexBarRange xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
           <IsVisible>true</IsVisible>
           <AreLinesConfigurable>true</AreLinesConfigurable>
@@ -1230,8 +1230,8 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>472</IndicatorId>
-          <InstrumentDeserialized>RTY 06-21 Globex</InstrumentDeserialized>
+          <IndicatorId>651</IndicatorId>
+          <InstrumentDeserialized>NQ 06-21 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
           <ZOrder>10007</ZOrder>
@@ -1242,7 +1242,7 @@
           <PriceType>Close</PriceType>
         </Input>
       </Indicator>
-      <Indicator BarsIndex="0" Instrument="RTY 06-21 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexBarRange" Panel="-1" DisplayName="_APEX Bar Range">
+      <Indicator BarsIndex="0" Instrument="NQ 06-21 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexBarRange" Panel="-1" DisplayName="_APEX Bar Range">
         <ApexBarRange xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
           <IsVisible>true</IsVisible>
           <AreLinesConfigurable>true</AreLinesConfigurable>
@@ -1307,8 +1307,8 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>475</IndicatorId>
-          <InstrumentDeserialized>RTY 06-21 Globex</InstrumentDeserialized>
+          <IndicatorId>654</IndicatorId>
+          <InstrumentDeserialized>NQ 06-21 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
           <ZOrder>10008</ZOrder>
@@ -1319,7 +1319,7 @@
           <PriceType>Close</PriceType>
         </Input>
       </Indicator>
-      <Indicator BarsIndex="0" Instrument="RTY 06-21 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexBarRange" Panel="-1" DisplayName="_APEX Bar Range">
+      <Indicator BarsIndex="0" Instrument="NQ 06-21 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexBarRange" Panel="-1" DisplayName="_APEX Bar Range">
         <ApexBarRange xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
           <IsVisible>true</IsVisible>
           <AreLinesConfigurable>true</AreLinesConfigurable>
@@ -1384,8 +1384,8 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>478</IndicatorId>
-          <InstrumentDeserialized>RTY 06-21 Globex</InstrumentDeserialized>
+          <IndicatorId>657</IndicatorId>
+          <InstrumentDeserialized>NQ 06-21 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
           <ZOrder>10009</ZOrder>
@@ -1396,7 +1396,7 @@
           <PriceType>Close</PriceType>
         </Input>
       </Indicator>
-      <Indicator BarsIndex="0" Instrument="RTY 06-21 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexOscillationDetector" Panel="-1" DisplayName="_APEX Oscillation Detector">
+      <Indicator BarsIndex="0" Instrument="NQ 06-21 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexOscillationDetector" Panel="-1" DisplayName="_APEX Oscillation Detector">
         <ApexOscillationDetector xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
           <IsVisible>true</IsVisible>
           <AreLinesConfigurable>true</AreLinesConfigurable>
@@ -1449,20 +1449,20 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>481</IndicatorId>
-          <InstrumentDeserialized>RTY 06-21 Globex</InstrumentDeserialized>
+          <IndicatorId>660</IndicatorId>
+          <InstrumentDeserialized>NQ 06-21 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
           <ZOrder>10010</ZOrder>
           <SettingsSerialized>eyJSZXF1aXJlQ2xvc2VCcmVha291dCI6ZmFsc2UsIk1vdmVTYW1lTG93SGlnaCI6ZmFsc2UsIlNwYW4iOjQsIlN0cmVuZ3RoIjo0fQ==</SettingsSerialized>
           <UserSettingsSerialized>eyJBbGVydHMiOnsidmlzdWFsIjpmYWxzZSwiYXVkaWJsZSI6ZmFsc2UsIndpbmRvd0ZsYXNoIjpmYWxzZX0sIkFsZXJ0c0ZpbHRlciI6ZmFsc2UsIkZvbnRDaGFydExhYmVsIjp7ImZvbnRGYW1pbHkiOiJNaWNyb3NvZnQgU2FucyBTZXJpZiIsInNpemUiOjE0LjAsImJvbGQiOnRydWUsIml0YWxpYyI6ZmFsc2V9LCJCb2xkIjp0cnVlLCJTaG93UGVyY2VudGFnZSI6dHJ1ZSwiQ29sb3JEb3VibGUiOiIjRkZGRkQ3MDAiLCJDb2xvckhITEwiOiIjRkZGRkZGRkYiLCJDb2xvckhMTEgiOiIjRkZEM0QzRDMiLCJMYWJlbE9mZnNldCI6MTd9</UserSettingsSerialized>
-          <iOD>170</iOD>
+          <iOD>14</iOD>
         </ApexOscillationDetector>
         <Input>
           <PriceType>Close</PriceType>
         </Input>
       </Indicator>
-      <Indicator BarsIndex="0" Instrument="RTY 06-21 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexDeviationLevels" Panel="-1" DisplayName="_APEX Deviation Levels">
+      <Indicator BarsIndex="0" Instrument="NQ 06-21 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexDeviationLevels" Panel="-1" DisplayName="_APEX Deviation Levels">
         <ApexDeviationLevels xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
           <IsVisible>true</IsVisible>
           <AreLinesConfigurable>true</AreLinesConfigurable>
@@ -1502,8 +1502,8 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>484</IndicatorId>
-          <InstrumentDeserialized>RTY 06-21 Globex</InstrumentDeserialized>
+          <IndicatorId>663</IndicatorId>
+          <InstrumentDeserialized>NQ 06-21 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
           <ZOrder>10011</ZOrder>
@@ -1514,7 +1514,7 @@
           <PriceType>Close</PriceType>
         </Input>
       </Indicator>
-      <Indicator BarsIndex="0" Instrument="RTY 06-21 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexICE" Panel="-1" DisplayName="_APEX ICE Volume Zones">
+      <Indicator BarsIndex="0" Instrument="NQ 06-21 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexICE" Panel="-1" DisplayName="_APEX ICE Volume Zones">
         <ApexICE xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
           <IsVisible>true</IsVisible>
           <AreLinesConfigurable>true</AreLinesConfigurable>
@@ -1591,8 +1591,8 @@
           <DrawOnPricePanel>false</DrawOnPricePanel>
           <PaintPriceMarkers>true</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>487</IndicatorId>
-          <InstrumentDeserialized>RTY 06-21 Globex</InstrumentDeserialized>
+          <IndicatorId>666</IndicatorId>
+          <InstrumentDeserialized>NQ 06-21 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
           <ZOrder>10012</ZOrder>
@@ -1603,7 +1603,7 @@
           <PriceType>Close</PriceType>
         </Input>
       </Indicator>
-      <Indicator BarsIndex="0" Instrument="RTY 06-21 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexCurrentPrice" Panel="-1" DisplayName="_APEX Current Price">
+      <Indicator BarsIndex="0" Instrument="NQ 06-21 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexCurrentPrice" Panel="-1" DisplayName="_APEX Current Price">
         <ApexCurrentPrice xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
           <IsVisible>true</IsVisible>
           <AreLinesConfigurable>true</AreLinesConfigurable>
@@ -1656,8 +1656,8 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>true</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>490</IndicatorId>
-          <InstrumentDeserialized>RTY 06-21 Globex</InstrumentDeserialized>
+          <IndicatorId>669</IndicatorId>
+          <InstrumentDeserialized>NQ 06-21 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
           <ZOrder>10013</ZOrder>
@@ -1668,7 +1668,59 @@
           <PriceType>Close</PriceType>
         </Input>
       </Indicator>
-      <Indicator BarsIndex="0" Instrument="RTY 06-21 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexOrderPrintsDetector_StarLVSZOI" Panel="2" DisplayName="SLZ">
+      <Indicator BarsIndex="0" Instrument="NQ 06-21 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexWalls" Panel="-1" DisplayName="_APEX Walls - NQ ES YM">
+        <ApexWalls xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+          <IsVisible>true</IsVisible>
+          <AreLinesConfigurable>true</AreLinesConfigurable>
+          <ArePlotsConfigurable>true</ArePlotsConfigurable>
+          <BarsPeriodSerializable>
+            <BarsPeriodTypeSerialize>5132</BarsPeriodTypeSerialize>
+            <BaseBarsPeriodType>Tick</BaseBarsPeriodType>
+            <BaseBarsPeriodValue>100</BaseBarsPeriodValue>
+            <VolumetricDeltaType>BidAsk</VolumetricDeltaType>
+            <MarketDataType>Last</MarketDataType>
+            <PointAndFigurePriceType>Close</PointAndFigurePriceType>
+            <ReversalType>Tick</ReversalType>
+            <Value>10</Value>
+            <Value2>50</Value2>
+          </BarsPeriodSerializable>
+          <BarsToLoad>0</BarsToLoad>
+          <DisplayInDataBox>false</DisplayInDataBox>
+          <From>2021-05-17T00:00:00</From>
+          <Panel>-1</Panel>
+          <ScaleJustification>Right</ScaleJustification>
+          <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
+          <To>2021-05-20T00:00:00</To>
+          <Calculate>OnBarClose</Calculate>
+          <Displacement>0</Displacement>
+          <IsAutoScale>false</IsAutoScale>
+          <IsDataSeriesRequired>true</IsDataSeriesRequired>
+          <IsOverlay>true</IsOverlay>
+          <Lines />
+          <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
+          <Name>_APEX Walls - NQ ES YM</Name>
+          <Plots />
+          <SelectedValueSeries>0</SelectedValueSeries>
+          <InputPlot>0</InputPlot>
+          <IsTradingHoursBreakLineVisible>true</IsTradingHoursBreakLineVisible>
+          <DrawHorizontalGridLines>true</DrawHorizontalGridLines>
+          <DrawVerticalGridLines>true</DrawVerticalGridLines>
+          <DrawOnPricePanel>true</DrawOnPricePanel>
+          <PaintPriceMarkers>false</PaintPriceMarkers>
+          <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
+          <IndicatorId>672</IndicatorId>
+          <InstrumentDeserialized>NQ 06-21 Globex</InstrumentDeserialized>
+          <MaxSerialized>0</MaxSerialized>
+          <MinSerialized>0</MinSerialized>
+          <ZOrder>10014</ZOrder>
+          <SettingsSerialized>e30=</SettingsSerialized>
+          <UserSettingsSerialized>eyJXYWxsT3BhY2l0eSI6MTAwfQ==</UserSettingsSerialized>
+        </ApexWalls>
+        <Input>
+          <PriceType>Close</PriceType>
+        </Input>
+      </Indicator>
+      <Indicator BarsIndex="0" Instrument="NQ 06-21 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexOrderPrintsDetector_StarLVSZOI" Panel="2" DisplayName="SLZ">
         <ApexOrderPrintsDetector_StarLVSZOI xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
           <IsVisible>true</IsVisible>
           <AreLinesConfigurable>true</AreLinesConfigurable>
@@ -1731,8 +1783,8 @@
           <DrawOnPricePanel>false</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>493</IndicatorId>
-          <InstrumentDeserialized>RTY 06-21 Globex</InstrumentDeserialized>
+          <IndicatorId>675</IndicatorId>
+          <InstrumentDeserialized>NQ 06-21 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
           <ZOrder>10004</ZOrder>
@@ -1743,7 +1795,7 @@
           <PriceType>Close</PriceType>
         </Input>
       </Indicator>
-      <Indicator BarsIndex="0" Instrument="RTY 06-21 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexOrderPrintsDetector_ThirdBarSling" Panel="2" DisplayName="TBS">
+      <Indicator BarsIndex="0" Instrument="NQ 06-21 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexOrderPrintsDetector_ThirdBarSling" Panel="2" DisplayName="TBS">
         <ApexOrderPrintsDetector_ThirdBarSling xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
           <IsVisible>true</IsVisible>
           <AreLinesConfigurable>true</AreLinesConfigurable>
@@ -1806,8 +1858,8 @@
           <DrawOnPricePanel>false</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>496</IndicatorId>
-          <InstrumentDeserialized>RTY 06-21 Globex</InstrumentDeserialized>
+          <IndicatorId>678</IndicatorId>
+          <InstrumentDeserialized>NQ 06-21 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
           <ZOrder>10007</ZOrder>
@@ -1818,7 +1870,7 @@
           <PriceType>Close</PriceType>
         </Input>
       </Indicator>
-      <Indicator BarsIndex="0" Instrument="RTY 06-21 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexOrderPrintsDetector_Elevator" Panel="2" DisplayName="ELEV">
+      <Indicator BarsIndex="0" Instrument="NQ 06-21 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexOrderPrintsDetector_Elevator" Panel="2" DisplayName="ELEV">
         <ApexOrderPrintsDetector_Elevator xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
           <IsVisible>true</IsVisible>
           <AreLinesConfigurable>true</AreLinesConfigurable>
@@ -1881,8 +1933,8 @@
           <DrawOnPricePanel>false</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>499</IndicatorId>
-          <InstrumentDeserialized>RTY 06-21 Globex</InstrumentDeserialized>
+          <IndicatorId>681</IndicatorId>
+          <InstrumentDeserialized>NQ 06-21 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
           <ZOrder>10008</ZOrder>
@@ -1893,7 +1945,7 @@
           <PriceType>Close</PriceType>
         </Input>
       </Indicator>
-      <Indicator BarsIndex="0" Instrument="RTY 06-21 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexOrderPrintsDetector_TrappedOrdersWithExauhstionBox" Panel="2" DisplayName="TX ODD(2,22,False,False,False,True)">
+      <Indicator BarsIndex="0" Instrument="NQ 06-21 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexOrderPrintsDetector_TrappedOrdersWithExauhstionBox" Panel="2" DisplayName="TX ODD(2,22,False,False,False,True)">
         <ApexOrderPrintsDetector_TrappedOrdersWithExauhstionBox xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
           <IsVisible>true</IsVisible>
           <AreLinesConfigurable>true</AreLinesConfigurable>
@@ -1956,8 +2008,8 @@
           <DrawOnPricePanel>false</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>502</IndicatorId>
-          <InstrumentDeserialized>RTY 06-21 Globex</InstrumentDeserialized>
+          <IndicatorId>684</IndicatorId>
+          <InstrumentDeserialized>NQ 06-21 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
           <ZOrder>10010</ZOrder>
@@ -1974,7 +2026,7 @@
           <PriceType>Close</PriceType>
         </Input>
       </Indicator>
-      <Indicator BarsIndex="0" Instrument="RTY 06-21 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexOrderPrintsDetector_DoubleTX" Panel="2" DisplayName="DTX(2,22,False)">
+      <Indicator BarsIndex="0" Instrument="NQ 06-21 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexOrderPrintsDetector_DoubleTX" Panel="2" DisplayName="DTX(2,22,False)">
         <ApexOrderPrintsDetector_DoubleTX xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
           <IsVisible>true</IsVisible>
           <AreLinesConfigurable>true</AreLinesConfigurable>
@@ -2037,8 +2089,8 @@
           <DrawOnPricePanel>false</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>505</IndicatorId>
-          <InstrumentDeserialized>RTY 06-21 Globex</InstrumentDeserialized>
+          <IndicatorId>687</IndicatorId>
+          <InstrumentDeserialized>NQ 06-21 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
           <ZOrder>10009</ZOrder>
@@ -2052,7 +2104,7 @@
           <PriceType>Close</PriceType>
         </Input>
       </Indicator>
-      <Indicator BarsIndex="0" Instrument="RTY 06-21 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexOrderPrintsDetector_TrappedOrdersWithExauhstionBox" Panel="2" DisplayName="TXF(2,22,True,True,True,True)">
+      <Indicator BarsIndex="0" Instrument="NQ 06-21 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexOrderPrintsDetector_TrappedOrdersWithExauhstionBox" Panel="2" DisplayName="TXF(2,22,True,True,True,True)">
         <ApexOrderPrintsDetector_TrappedOrdersWithExauhstionBox xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
           <IsVisible>true</IsVisible>
           <AreLinesConfigurable>true</AreLinesConfigurable>
@@ -2115,8 +2167,8 @@
           <DrawOnPricePanel>false</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>508</IndicatorId>
-          <InstrumentDeserialized>RTY 06-21 Globex</InstrumentDeserialized>
+          <IndicatorId>690</IndicatorId>
+          <InstrumentDeserialized>NQ 06-21 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
           <ZOrder>10011</ZOrder>
@@ -2133,7 +2185,7 @@
           <PriceType>Close</PriceType>
         </Input>
       </Indicator>
-      <Indicator BarsIndex="0" Instrument="RTY 06-21 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexOrderPrintsDetector_OPRejection" Panel="2" DisplayName="OPR">
+      <Indicator BarsIndex="0" Instrument="NQ 06-21 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexOrderPrintsDetector_OPRejection" Panel="2" DisplayName="OPR">
         <ApexOrderPrintsDetector_OPRejection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
           <IsVisible>true</IsVisible>
           <AreLinesConfigurable>true</AreLinesConfigurable>
@@ -2196,8 +2248,8 @@
           <DrawOnPricePanel>false</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>511</IndicatorId>
-          <InstrumentDeserialized>RTY 06-21 Globex</InstrumentDeserialized>
+          <IndicatorId>693</IndicatorId>
+          <InstrumentDeserialized>NQ 06-21 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
           <ZOrder>10012</ZOrder>
@@ -2208,7 +2260,7 @@
           <PriceType>Close</PriceType>
         </Input>
       </Indicator>
-      <Indicator BarsIndex="0" Instrument="RTY 06-21 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexOrderPrintsDetector_OPDivergence" Panel="2" DisplayName="OPAR">
+      <Indicator BarsIndex="0" Instrument="NQ 06-21 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexOrderPrintsDetector_OPDivergence" Panel="2" DisplayName="OPAR">
         <ApexOrderPrintsDetector_OPDivergence xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
           <IsVisible>true</IsVisible>
           <AreLinesConfigurable>true</AreLinesConfigurable>
@@ -2271,8 +2323,8 @@
           <DrawOnPricePanel>false</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>514</IndicatorId>
-          <InstrumentDeserialized>RTY 06-21 Globex</InstrumentDeserialized>
+          <IndicatorId>696</IndicatorId>
+          <InstrumentDeserialized>NQ 06-21 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
           <ZOrder>10013</ZOrder>
@@ -2283,7 +2335,7 @@
           <PriceType>Close</PriceType>
         </Input>
       </Indicator>
-      <Indicator BarsIndex="0" Instrument="RTY 06-21 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexOrderPrintsCopier" Panel="-1" DisplayName="_APEX Order Prints Copier">
+      <Indicator BarsIndex="0" Instrument="NQ 06-21 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexOrderPrintsCopier" Panel="-1" DisplayName="_APEX Order Prints Copier">
         <ApexOrderPrintsCopier xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
           <IsVisible>true</IsVisible>
           <AreLinesConfigurable>true</AreLinesConfigurable>
@@ -2323,19 +2375,19 @@
           <DrawOnPricePanel>false</DrawOnPricePanel>
           <PaintPriceMarkers>true</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>517</IndicatorId>
-          <InstrumentDeserialized>RTY 06-21 Globex</InstrumentDeserialized>
+          <IndicatorId>699</IndicatorId>
+          <InstrumentDeserialized>NQ 06-21 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
           <ZOrder>31316</ZOrder>
-          <SettingsSerialized>eyJPUENvcGllcklkIjoicnR5VGlja0lEIn0=</SettingsSerialized>
+          <SettingsSerialized>eyJPUENvcGllcklkIjoibnFUaWNrSUQifQ==</SettingsSerialized>
           <UserSettingsSerialized>eyJTaG93QmxvY2tzIjp0cnVlLCJCbG9ja1NlbGxTdHJva2UiOnsiYnJ1c2giOiIjRkZGRjAwMDAiLCJ3aWR0aCI6NC4wLCJkYXNoU3R5bGUiOjAsIm9wYWNpdHkiOjEwMH0sIkJsb2NrQnV5U3Ryb2tlIjp7ImJydXNoIjoiI0ZGN0NGQzAwIiwid2lkdGgiOjQuMCwiZGFzaFN0eWxlIjowLCJvcGFjaXR5IjoxMDB9LCJTaG93TU1zIjp0cnVlLCJTaG93TGl2ZU1NcyI6dHJ1ZSwiTU1TdHJva2UiOnsiYnJ1c2giOiIjRkYwMDAwMDAiLCJ3aWR0aCI6My4wLCJkYXNoU3R5bGUiOjQsIm9wYWNpdHkiOjEwMH0sIkxpdmVNTVN0cm9rZSI6eyJicnVzaCI6IiNGRjdCNjhFRSIsIndpZHRoIjozLjAsImRhc2hTdHlsZSI6MCwib3BhY2l0eSI6MTAwfSwiU2hvd1Bhd3MiOnRydWUsIlNob3dMaXZlUGF3cyI6dHJ1ZSwiUGF3VXBwZXJTdHJva2UiOnsiYnJ1c2giOiIjRkZGRjY5QjQiLCJ3aWR0aCI6My4wLCJkYXNoU3R5bGUiOjQsIm9wYWNpdHkiOjEwMH0sIlBhd0xvd2VyU3Ryb2tlIjp7ImJydXNoIjoiI0ZGRkY2OUI0Iiwid2lkdGgiOjMuMCwiZGFzaFN0eWxlIjo0LCJvcGFjaXR5IjoxMDB9LCJMaXZlUGF3VXBwZXJTdHJva2UiOnsiYnJ1c2giOiIjRkZGRkRBQjkiLCJ3aWR0aCI6MS4wLCJkYXNoU3R5bGUiOjAsIm9wYWNpdHkiOjEwMH0sIkxpdmVQYXdMb3dlclN0cm9rZSI6eyJicnVzaCI6IiNGRkZGREFCOSIsIndpZHRoIjoxLjAsImRhc2hTdHlsZSI6MCwib3BhY2l0eSI6MTAwfSwiU2hvd1pPSXMiOnRydWUsIlpPSURvd25Db2xvciI6IiNGRkZGMDAwMCIsIlpPSVVwQ29sb3IiOiIjRkY3RkZGMDAiLCJaT0lPcGFjaXR5IjozMH0=</UserSettingsSerialized>
         </ApexOrderPrintsCopier>
         <Input>
           <PriceType>Close</PriceType>
         </Input>
       </Indicator>
-      <Indicator BarsIndex="0" Instrument="RTY 06-21 Globex" Name="NinjaTrader.NinjaScript.Indicators.AutoToolHighLow" Panel="-1" DisplayName="_APEX Higher High Lower Low">
+      <Indicator BarsIndex="0" Instrument="NQ 06-21 Globex" Name="NinjaTrader.NinjaScript.Indicators.AutoToolHighLow" Panel="-1" DisplayName="_APEX Higher High Lower Low">
         <AutoToolHighLow xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
           <IsVisible>true</IsVisible>
           <AreLinesConfigurable>true</AreLinesConfigurable>
@@ -2369,9 +2421,9 @@
           <Plots>
             <Plot>
               <IsOpacityVisible>false</IsOpacityVisible>
-              <BrushSerialize>&lt;SolidColorBrush Color="#FFB22222" Opacity="0.5" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" /&gt;</BrushSerialize>
+              <BrushSerialize>&lt;SolidColorBrush Color="#FFFAA3A3" Opacity="0.75" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" /&gt;</BrushSerialize>
               <DashStyleHelper>Solid</DashStyleHelper>
-              <Opacity>50</Opacity>
+              <Opacity>75</Opacity>
               <Width>8</Width>
               <AutoWidth>false</AutoWidth>
               <Max>1.7976931348623157E+308</Max>
@@ -2381,9 +2433,9 @@
             </Plot>
             <Plot>
               <IsOpacityVisible>false</IsOpacityVisible>
-              <BrushSerialize>&lt;SolidColorBrush Color="#FF228B22" Opacity="0.5" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" /&gt;</BrushSerialize>
+              <BrushSerialize>&lt;SolidColorBrush Color="#FF84F184" Opacity="0.75" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" /&gt;</BrushSerialize>
               <DashStyleHelper>Solid</DashStyleHelper>
-              <Opacity>50</Opacity>
+              <Opacity>75</Opacity>
               <Width>8</Width>
               <AutoWidth>false</AutoWidth>
               <Max>1.7976931348623157E+308</Max>
@@ -2400,18 +2452,18 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>520</IndicatorId>
-          <InstrumentDeserialized>RTY 06-21 Globex</InstrumentDeserialized>
+          <IndicatorId>702</IndicatorId>
+          <InstrumentDeserialized>NQ 06-21 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
-          <ZOrder>20088</ZOrder>
+          <ZOrder>10004</ZOrder>
           <SettingsSerialized>eyJTdHJlbmd0aCI6Mn0=</SettingsSerialized>
         </AutoToolHighLow>
         <Input>
           <PriceType>Close</PriceType>
         </Input>
       </Indicator>
-      <Indicator BarsIndex="0" Instrument="RTY 06-21 Globex" Name="NinjaTrader.NinjaScript.Indicators.AutoToolHighLow" Panel="-1" DisplayName="_APEX Higher High Lower Low">
+      <Indicator BarsIndex="0" Instrument="NQ 06-21 Globex" Name="NinjaTrader.NinjaScript.Indicators.AutoToolHighLow" Panel="-1" DisplayName="_APEX Higher High Lower Low">
         <AutoToolHighLow xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
           <IsVisible>true</IsVisible>
           <AreLinesConfigurable>true</AreLinesConfigurable>
@@ -2445,9 +2497,9 @@
           <Plots>
             <Plot>
               <IsOpacityVisible>false</IsOpacityVisible>
-              <BrushSerialize>&lt;SolidColorBrush Color="#FFB22222" Opacity="0.5" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" /&gt;</BrushSerialize>
+              <BrushSerialize>&lt;SolidColorBrush Color="#FFE07070" Opacity="0.75" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" /&gt;</BrushSerialize>
               <DashStyleHelper>Solid</DashStyleHelper>
-              <Opacity>50</Opacity>
+              <Opacity>75</Opacity>
               <Width>8</Width>
               <AutoWidth>false</AutoWidth>
               <Max>1.7976931348623157E+308</Max>
@@ -2457,9 +2509,9 @@
             </Plot>
             <Plot>
               <IsOpacityVisible>false</IsOpacityVisible>
-              <BrushSerialize>&lt;SolidColorBrush Color="#FF228B22" Opacity="0.5" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" /&gt;</BrushSerialize>
+              <BrushSerialize>&lt;SolidColorBrush Color="#FF59CA59" Opacity="0.75" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" /&gt;</BrushSerialize>
               <DashStyleHelper>Solid</DashStyleHelper>
-              <Opacity>50</Opacity>
+              <Opacity>75</Opacity>
               <Width>8</Width>
               <AutoWidth>false</AutoWidth>
               <Max>1.7976931348623157E+308</Max>
@@ -2476,18 +2528,18 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>523</IndicatorId>
-          <InstrumentDeserialized>RTY 06-21 Globex</InstrumentDeserialized>
+          <IndicatorId>705</IndicatorId>
+          <InstrumentDeserialized>NQ 06-21 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
-          <ZOrder>20089</ZOrder>
+          <ZOrder>10005</ZOrder>
           <SettingsSerialized>eyJTdHJlbmd0aCI6NH0=</SettingsSerialized>
         </AutoToolHighLow>
         <Input>
           <PriceType>Close</PriceType>
         </Input>
       </Indicator>
-      <Indicator BarsIndex="0" Instrument="RTY 06-21 Globex" Name="NinjaTrader.NinjaScript.Indicators.AutoToolHighLow" Panel="-1" DisplayName="_APEX Higher High Lower Low">
+      <Indicator BarsIndex="0" Instrument="NQ 06-21 Globex" Name="NinjaTrader.NinjaScript.Indicators.AutoToolHighLow" Panel="-1" DisplayName="_APEX Higher High Lower Low">
         <AutoToolHighLow xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
           <IsVisible>true</IsVisible>
           <AreLinesConfigurable>true</AreLinesConfigurable>
@@ -2521,9 +2573,9 @@
           <Plots>
             <Plot>
               <IsOpacityVisible>false</IsOpacityVisible>
-              <BrushSerialize>&lt;SolidColorBrush Color="#FFB22222" Opacity="0.5" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" /&gt;</BrushSerialize>
+              <BrushSerialize>&lt;SolidColorBrush Color="#FFC64949" Opacity="0.75" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" /&gt;</BrushSerialize>
               <DashStyleHelper>Solid</DashStyleHelper>
-              <Opacity>50</Opacity>
+              <Opacity>75</Opacity>
               <Width>8</Width>
               <AutoWidth>false</AutoWidth>
               <Max>1.7976931348623157E+308</Max>
@@ -2533,9 +2585,9 @@
             </Plot>
             <Plot>
               <IsOpacityVisible>false</IsOpacityVisible>
-              <BrushSerialize>&lt;SolidColorBrush Color="#FF228B22" Opacity="0.5" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" /&gt;</BrushSerialize>
+              <BrushSerialize>&lt;SolidColorBrush Color="#FF3AA93A" Opacity="0.75" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" /&gt;</BrushSerialize>
               <DashStyleHelper>Solid</DashStyleHelper>
-              <Opacity>50</Opacity>
+              <Opacity>75</Opacity>
               <Width>8</Width>
               <AutoWidth>false</AutoWidth>
               <Max>1.7976931348623157E+308</Max>
@@ -2552,18 +2604,18 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>526</IndicatorId>
-          <InstrumentDeserialized>RTY 06-21 Globex</InstrumentDeserialized>
+          <IndicatorId>708</IndicatorId>
+          <InstrumentDeserialized>NQ 06-21 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
-          <ZOrder>20090</ZOrder>
+          <ZOrder>10006</ZOrder>
           <SettingsSerialized>eyJTdHJlbmd0aCI6Nn0=</SettingsSerialized>
         </AutoToolHighLow>
         <Input>
           <PriceType>Close</PriceType>
         </Input>
       </Indicator>
-      <Indicator BarsIndex="0" Instrument="RTY 06-21 Globex" Name="NinjaTrader.NinjaScript.Indicators.AutoToolHighLow" Panel="-1" DisplayName="_APEX Higher High Lower Low">
+      <Indicator BarsIndex="0" Instrument="NQ 06-21 Globex" Name="NinjaTrader.NinjaScript.Indicators.AutoToolHighLow" Panel="-1" DisplayName="_APEX Higher High Lower Low">
         <AutoToolHighLow xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
           <IsVisible>true</IsVisible>
           <AreLinesConfigurable>true</AreLinesConfigurable>
@@ -2597,9 +2649,9 @@
           <Plots>
             <Plot>
               <IsOpacityVisible>false</IsOpacityVisible>
-              <BrushSerialize>&lt;SolidColorBrush Color="#FFB22222" Opacity="0.5" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" /&gt;</BrushSerialize>
+              <BrushSerialize>&lt;SolidColorBrush Color="#FFB22222" Opacity="0.75" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" /&gt;</BrushSerialize>
               <DashStyleHelper>Solid</DashStyleHelper>
-              <Opacity>50</Opacity>
+              <Opacity>75</Opacity>
               <Width>8</Width>
               <AutoWidth>false</AutoWidth>
               <Max>1.7976931348623157E+308</Max>
@@ -2609,9 +2661,9 @@
             </Plot>
             <Plot>
               <IsOpacityVisible>false</IsOpacityVisible>
-              <BrushSerialize>&lt;SolidColorBrush Color="#FF228B22" Opacity="0.5" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" /&gt;</BrushSerialize>
+              <BrushSerialize>&lt;SolidColorBrush Color="#FF228B22" Opacity="0.75" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" /&gt;</BrushSerialize>
               <DashStyleHelper>Solid</DashStyleHelper>
-              <Opacity>50</Opacity>
+              <Opacity>75</Opacity>
               <Width>8</Width>
               <AutoWidth>false</AutoWidth>
               <Max>1.7976931348623157E+308</Max>
@@ -2628,18 +2680,18 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>529</IndicatorId>
-          <InstrumentDeserialized>RTY 06-21 Globex</InstrumentDeserialized>
+          <IndicatorId>711</IndicatorId>
+          <InstrumentDeserialized>NQ 06-21 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
-          <ZOrder>20091</ZOrder>
+          <ZOrder>10007</ZOrder>
           <SettingsSerialized>eyJTdHJlbmd0aCI6OH0=</SettingsSerialized>
         </AutoToolHighLow>
         <Input>
           <PriceType>Close</PriceType>
         </Input>
       </Indicator>
-      <Indicator BarsIndex="0" Instrument="RTY 06-21 Globex" Name="NinjaTrader.NinjaScript.Indicators.AutomationTool" Panel="-1" DisplayName="_APEX Automation Tool(RTY_DTX,False,RTY_ELEV,False,RTY_ETX,False,RTY_FTX,False,RTY_HD,False,RTY_ODD,False,RTY_SLZ,False,RTY_TBS,False,True,4/27/2021 9:35:00 AM,4/27/2021 9:25:00 AM,True,4/27/2021 6:00:00 PM,4/27/2021 4:00:00 PM,False,5/10/2021 3:00:00 AM,5/10/2021 1:00:00 AM,False,999,1,True,False,False,False,True,False,False,False,True,0.5,False,True,False,False,14,2,999,10,False,False,True,0,False,90,10,False,False,999,1,True,False,False,False,True,False,False,False,False,0.5,False,True,False,False,14,2,999,10,False,False,True,0,False,90,10,False,False,email@gmail.com,False,999,1,False,False,False,False,True,False,False,False,False,0.5,False,True,False,False,False,14,2,999,10,False,True,True,0,False,90,10,False,True,False,999,1,True,False,False,False,True,True,False,False,True,0.65,True,True,False,False,14,2,999,10,False,False,True,0,False,90,10,False,True,270,130,True,False,False,False,True,True,False,False,False,0.5,False,True,False,False,14,2,999,10,False,False,True,0,False,90,10,False,3,False,-9999,True,80,20,True,False,False,False,True,True,False,False,False,0.5,False,True,False,False,14,2,999,10,False,False,True,0,False,90,10,False,rtyTickID,,,False,,,9999,False,999,1,True,False,False,False,True,False,False,False,False,0.5,False,True,False,False,14,2,999,10,False,False,True,0,False,False,90,10,6,2,2,13,False,False,999,1,False,False,False,False,True,True,False,False,False,0.5,False,True,False,False,14,2,999,10,False,False,True,0,False,90,10,False,8,False,8,False,8,False,8,False,8,False,8,False,8,True,8,False)">
+      <Indicator BarsIndex="0" Instrument="NQ 06-21 Globex" Name="NinjaTrader.NinjaScript.Indicators.AutomationTool" Panel="-1" DisplayName="_APEX Automation Tool(NQ_DTX,True,NQ_ELEV,True,NQ_ETX,True,NQ_FTX,True,NQ_HD,True,NQ_ODD,True,NQ_SLZ,True,NQ_TBS,True,True,4/27/2021 9:35:00 AM,4/27/2021 9:25:00 AM,True,4/27/2021 6:00:00 PM,4/27/2021 4:00:00 PM,False,5/6/2021 3:00:00 AM,5/6/2021 1:00:00 AM,False,999,1,True,False,False,False,True,False,False,False,True,2,0.31,True,True,False,True,999,4,999,0,False,False,True,0,True,999,30,False,False,999,1,True,False,False,False,True,False,False,False,False,2,0.01,False,False,False,False,14,2,999,0,False,False,True,0,False,90,10,False,False,email@gmail.com,True,900,37,False,False,False,False,True,False,False,False,False,2,0.01,False,True,False,False,True,16,6.1,999,11,False,True,True,0,True,190,13,False,True,True,265,1,True,True,False,True,True,True,False,False,True,2,0.25,True,True,False,True,16,2.1,999,9,False,False,True,0,True,500,19,False,True,270,127,True,False,False,False,True,True,False,False,False,2,0.01,False,True,False,True,999,2.36,999,6,False,False,True,0,False,90,10,True,3,False,-9999,True,80,20,True,False,False,False,True,True,False,False,False,2,0.01,False,True,False,False,14,2,999,8,True,False,True,0,True,70,1,False,nqTickID,,,False,,,9999,True,550,1,True,False,False,False,True,False,False,False,False,2,0.01,False,True,False,True,6.5,1.4,999,8,False,False,True,0,False,True,90,1,6,2,2,13,True,False,999,1,False,False,False,False,True,True,False,False,False,2,0.01,False,False,False,False,14,2,999,0,False,False,True,0,False,90,10,False,8,False,8,False,8,False,8,False,8,False,8,False,17,True,8,False)">
         <AutomationTool xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
           <IsVisible>true</IsVisible>
           <AreLinesConfigurable>true</AreLinesConfigurable>
@@ -2670,7 +2722,7 @@
           <Lines>
             <Line>
               <IsOpacityVisible>false</IsOpacityVisible>
-              <BrushSerialize>&lt;SolidColorBrush xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;#FF000000&lt;/SolidColorBrush&gt;</BrushSerialize>
+              <BrushSerialize>&lt;SolidColorBrush xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;#00FFFFFF&lt;/SolidColorBrush&gt;</BrushSerialize>
               <DashStyleHelper>Solid</DashStyleHelper>
               <Opacity>100</Opacity>
               <Width>1</Width>
@@ -2702,14 +2754,14 @@
           <DrawOnPricePanel>false</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>532</IndicatorId>
-          <InstrumentDeserialized>RTY 06-21 Globex</InstrumentDeserialized>
+          <IndicatorId>1464</IndicatorId>
+          <InstrumentDeserialized>NQ 06-21 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
           <ZOrder>31366</ZOrder>
           <SettingsSerialized>eyJJc1VwQ2xvc2VCYXIiOnRydWUsIklzRG93bkNsb3NlQmFyIjp0cnVlLCJVc2VQcmljZVZhbHVlIjpmYWxzZSwiVGlja09mZnNldCI6MCwiVXBDbG9zZVZhbHVlIjoxLjAsIlVwQ2xvc2VMaXZlVmFsdWUiOi0xLjAsIkRvd25DbG9zZVZhbHVlIjoxLjAsIkRvd25DbG9zZUxpdmVWYWx1ZSI6LTEuMH0=</SettingsSerialized>
           <UserSettingsSerialized>e30=</UserSettingsSerialized>
-          <OrderPrintsID>rtyTickID</OrderPrintsID>
+          <OrderPrintsID>nqTickID</OrderPrintsID>
           <MultiSetupEntry>false</MultiSetupEntry>
           <DTX_OD_Enabled>false</DTX_OD_Enabled>
           <DTX_ODMinValue>1</DTX_ODMinValue>
@@ -2717,21 +2769,21 @@
           <ELEV_OD_Enabled>false</ELEV_OD_Enabled>
           <ELEV_ODMinValue>1</ELEV_ODMinValue>
           <ELEV_ODMaxValue>999</ELEV_ODMaxValue>
-          <ETX_OD_Enabled>false</ETX_OD_Enabled>
-          <ETX_ODMinValue>1</ETX_ODMinValue>
-          <ETX_ODMaxValue>999</ETX_ODMaxValue>
-          <FTX_OD_Enabled>false</FTX_OD_Enabled>
+          <ETX_OD_Enabled>true</ETX_OD_Enabled>
+          <ETX_ODMinValue>37</ETX_ODMinValue>
+          <ETX_ODMaxValue>900</ETX_ODMaxValue>
+          <FTX_OD_Enabled>true</FTX_OD_Enabled>
           <FTX_ODMinValue>1</FTX_ODMinValue>
-          <FTX_ODMaxValue>999</FTX_ODMaxValue>
+          <FTX_ODMaxValue>265</FTX_ODMaxValue>
           <HD_OD_Enabled>true</HD_OD_Enabled>
-          <HD_ODMinValue>130</HD_ODMinValue>
+          <HD_ODMinValue>127</HD_ODMinValue>
           <HD_ODMaxValue>270</HD_ODMaxValue>
           <ODD_OD_Enabled>true</ODD_OD_Enabled>
           <ODD_ODMinValue>20</ODD_ODMinValue>
           <ODD_ODMaxValue>80</ODD_ODMaxValue>
-          <SLZ_OD_Enabled>false</SLZ_OD_Enabled>
+          <SLZ_OD_Enabled>true</SLZ_OD_Enabled>
           <SLZ_ODMinValue>1</SLZ_ODMinValue>
-          <SLZ_ODMaxValue>999</SLZ_ODMaxValue>
+          <SLZ_ODMaxValue>550</SLZ_ODMaxValue>
           <TBS_OD_Enabled>false</TBS_OD_Enabled>
           <TBS_ODMinValue>1</TBS_ODMinValue>
           <TBS_ODMaxValue>999</TBS_ODMaxValue>
@@ -2745,48 +2797,48 @@
           <DarkZone2Start>2021-04-27T16:00:00</DarkZone2Start>
           <DarkZone2End>2021-04-27T18:00:00</DarkZone2End>
           <DarkZone3>false</DarkZone3>
-          <DarkZone3Start>2021-05-10T01:00:00</DarkZone3Start>
-          <DarkZone3End>2021-05-10T03:00:00</DarkZone3End>
+          <DarkZone3Start>2021-05-06T01:00:00</DarkZone3Start>
+          <DarkZone3End>2021-05-06T03:00:00</DarkZone3End>
           <DTXEnabled>true</DTXEnabled>
-          <ELEVEnabled>true</ELEVEnabled>
+          <ELEVEnabled>false</ELEVEnabled>
           <ETXEnabled>true</ETXEnabled>
           <FTXEnabled>true</FTXEnabled>
           <HDEnabled>true</HDEnabled>
           <ODDEnabled>true</ODDEnabled>
           <SLZEnabled>true</SLZEnabled>
-          <TBSEnabled>true</TBSEnabled>
-          <DTXObsMin>10</DTXObsMin>
+          <TBSEnabled>false</TBSEnabled>
+          <DTXObsMin>0</DTXObsMin>
           <DTXObsMax>999</DTXObsMax>
-          <ELEVObsMin>10</ELEVObsMin>
+          <ELEVObsMin>0</ELEVObsMin>
           <ELEVObsMax>999</ELEVObsMax>
-          <ETXObsMin>10</ETXObsMin>
+          <ETXObsMin>11</ETXObsMin>
           <ETXObsMax>999</ETXObsMax>
-          <FTXObsMin>10</FTXObsMin>
+          <FTXObsMin>9</FTXObsMin>
           <FTXObsMax>999</FTXObsMax>
-          <HDObsMin>10</HDObsMin>
+          <HDObsMin>6</HDObsMin>
           <HDObsMax>999</HDObsMax>
-          <ODDObsMin>10</ODDObsMin>
+          <ODDObsMin>8</ODDObsMin>
           <ODDObsMax>999</ODDObsMax>
-          <SLZObsMin>10</SLZObsMin>
+          <SLZObsMin>8</SLZObsMin>
           <SLZObsMax>999</SLZObsMax>
-          <TBSObsMin>10</TBSObsMin>
+          <TBSObsMin>0</TBSObsMin>
           <TBSObsMax>999</TBSObsMax>
-          <ATM_DTX_Custom_Enable>false</ATM_DTX_Custom_Enable>
-          <ATM_DTX_Custom>RTY_DTX</ATM_DTX_Custom>
-          <ATM_ELEV_Custom_Enable>false</ATM_ELEV_Custom_Enable>
-          <ATM_ELEV_Custom>RTY_ELEV</ATM_ELEV_Custom>
-          <ATM_ETX_Custom_Enable>false</ATM_ETX_Custom_Enable>
-          <ATM_ETX_Custom>RTY_ETX</ATM_ETX_Custom>
-          <ATM_FTX_Custom_Enable>false</ATM_FTX_Custom_Enable>
-          <ATM_FTX_Custom>RTY_FTX</ATM_FTX_Custom>
-          <ATM_HD_Custom_Enable>false</ATM_HD_Custom_Enable>
-          <ATM_HD_Custom>RTY_HD</ATM_HD_Custom>
-          <ATM_ODD_Custom_Enable>false</ATM_ODD_Custom_Enable>
-          <ATM_ODD_Custom>RTY_ODD</ATM_ODD_Custom>
-          <ATM_SLZ_Custom_Enable>false</ATM_SLZ_Custom_Enable>
-          <ATM_SLZ_Custom>RTY_SLZ</ATM_SLZ_Custom>
-          <ATM_TBS_Custom_Enable>false</ATM_TBS_Custom_Enable>
-          <ATM_TBS_Custom>RTY_TBS</ATM_TBS_Custom>
+          <ATM_DTX_Custom_Enable>true</ATM_DTX_Custom_Enable>
+          <ATM_DTX_Custom>NQ_DTX</ATM_DTX_Custom>
+          <ATM_ELEV_Custom_Enable>true</ATM_ELEV_Custom_Enable>
+          <ATM_ELEV_Custom>NQ_ELEV</ATM_ELEV_Custom>
+          <ATM_ETX_Custom_Enable>true</ATM_ETX_Custom_Enable>
+          <ATM_ETX_Custom>NQ_ETX</ATM_ETX_Custom>
+          <ATM_FTX_Custom_Enable>true</ATM_FTX_Custom_Enable>
+          <ATM_FTX_Custom>NQ_FTX</ATM_FTX_Custom>
+          <ATM_HD_Custom_Enable>true</ATM_HD_Custom_Enable>
+          <ATM_HD_Custom>NQ_HD</ATM_HD_Custom>
+          <ATM_ODD_Custom_Enable>true</ATM_ODD_Custom_Enable>
+          <ATM_ODD_Custom>NQ_ODD</ATM_ODD_Custom>
+          <ATM_SLZ_Custom_Enable>true</ATM_SLZ_Custom_Enable>
+          <ATM_SLZ_Custom>NQ_SLZ</ATM_SLZ_Custom>
+          <ATM_TBS_Custom_Enable>true</ATM_TBS_Custom_Enable>
+          <ATM_TBS_Custom>NQ_TBS</ATM_TBS_Custom>
           <EmailEnabled>false</EmailEnabled>
           <EmailUsername>email@gmail.com</EmailUsername>
           <PlivoEnabled>false</PlivoEnabled>
@@ -2808,22 +2860,30 @@
           <ODDDRCoherent>false</ODDDRCoherent>
           <SLZDRCoherent>false</SLZDRCoherent>
           <TBSDRCoherent>false</TBSDRCoherent>
-          <DTXDRValueEnable>false</DTXDRValueEnable>
-          <DTXDRValue>0.5</DTXDRValue>
+          <DTXDRValueEnable>true</DTXDRValueEnable>
+          <DTXDRMinValue>0.31</DTXDRMinValue>
+          <DTXDRMaxValue>2</DTXDRMaxValue>
           <ELEVDRValueEnable>false</ELEVDRValueEnable>
-          <ELEVDRValue>0.5</ELEVDRValue>
+          <ELEVDRMinValue>0.01</ELEVDRMinValue>
+          <ELEVDRMaxValue>2</ELEVDRMaxValue>
           <ETXDRValueEnable>false</ETXDRValueEnable>
-          <ETXDRValue>0.5</ETXDRValue>
+          <ETXDRMinValue>0.01</ETXDRMinValue>
+          <ETXDRMaxValue>2</ETXDRMaxValue>
           <FTXDRValueEnable>true</FTXDRValueEnable>
-          <FTXDRValue>0.65</FTXDRValue>
+          <FTXDRMinValue>0.25</FTXDRMinValue>
+          <FTXDRMaxValue>2</FTXDRMaxValue>
           <HDDRValueEnable>false</HDDRValueEnable>
-          <HDDRValue>0.5</HDDRValue>
+          <HDDRMinValue>0.01</HDDRMinValue>
+          <HDDRMaxValue>2</HDDRMaxValue>
           <ODDDRValueEnable>false</ODDDRValueEnable>
-          <ODDDRValue>0.5</ODDDRValue>
+          <ODDDRMinValue>0.01</ODDDRMinValue>
+          <ODDDRMaxValue>2</ODDDRMaxValue>
           <SLZDRValueEnable>false</SLZDRValueEnable>
-          <SLZDRValue>0.5</SLZDRValue>
+          <SLZDRMinValue>0.01</SLZDRMinValue>
+          <SLZDRMaxValue>2</SLZDRMaxValue>
           <TBSDRValueEnable>false</TBSDRValueEnable>
-          <TBSDRValue>0.5</TBSDRValue>
+          <TBSDRMinValue>0.01</TBSDRMinValue>
+          <TBSDRMaxValue>2</TBSDRMaxValue>
           <TicksDTXAmplifyEnable>false</TicksDTXAmplifyEnable>
           <TicksDTXAmplify>8</TicksDTXAmplify>
           <TicksELEVAmplifyEnable>false</TicksELEVAmplifyEnable>
@@ -2837,7 +2897,7 @@
           <TicksODDAmplifyEnable>false</TicksODDAmplifyEnable>
           <TicksODDAmplify>8</TicksODDAmplify>
           <TicksSLZAmplifyEnable>true</TicksSLZAmplifyEnable>
-          <TicksSLZAmplify>8</TicksSLZAmplify>
+          <TicksSLZAmplify>17</TicksSLZAmplify>
           <TicksTBSAmplifyEnable>false</TicksTBSAmplifyEnable>
           <TicksTBSAmplify>8</TicksTBSAmplify>
           <DTXBreakEvenOnCoil>false</DTXBreakEvenOnCoil>
@@ -2867,7 +2927,7 @@
           <DTXBrokenOPLevels>false</DTXBrokenOPLevels>
           <ELEVBrokenOPLevels>false</ELEVBrokenOPLevels>
           <ETXBrokenOPLevels>false</ETXBrokenOPLevels>
-          <FTXBrokenOPLevels>false</FTXBrokenOPLevels>
+          <FTXBrokenOPLevels>true</FTXBrokenOPLevels>
           <HDBrokenOPLevels>false</HDBrokenOPLevels>
           <ODDBrokenOPLevels>false</ODDBrokenOPLevels>
           <SLZBrokenOPLevels>false</SLZBrokenOPLevels>
@@ -2876,9 +2936,9 @@
           <ELEVWickPreviousBar>false</ELEVWickPreviousBar>
           <ETXWickPreviousBar>false</ETXWickPreviousBar>
           <FTXWickPreviousBar>false</FTXWickPreviousBar>
-          <HDWickPreviousBar>false</HDWickPreviousBar>
+          <HDWickPreviousBar>true</HDWickPreviousBar>
           <ODDWickPreviousBar>false</ODDWickPreviousBar>
-          <SLZWickPreviousBar>false</SLZWickPreviousBar>
+          <SLZWickPreviousBar>true</SLZWickPreviousBar>
           <TBSWickPreviousBar>false</TBSWickPreviousBar>
           <DTXRequireLevel>false</DTXRequireLevel>
           <ELEVRequireLevel>false</ELEVRequireLevel>
@@ -2893,13 +2953,13 @@
           <ETXRequireCluster>false</ETXRequireCluster>
           <FTXRequireCluster>false</FTXRequireCluster>
           <HDRequireCluster>false</HDRequireCluster>
-          <ODDRequireCluster>false</ODDRequireCluster>
+          <ODDRequireCluster>true</ODDRequireCluster>
           <SLZRequireCluster>false</SLZRequireCluster>
           <TBSRequireCluster>false</TBSRequireCluster>
           <DTXAvoidCluster>false</DTXAvoidCluster>
           <ELEVAvoidCluster>false</ELEVAvoidCluster>
           <ETXAvoidCluster>false</ETXAvoidCluster>
-          <FTXAvoidCluster>false</FTXAvoidCluster>
+          <FTXAvoidCluster>true</FTXAvoidCluster>
           <HDAvoidCluster>false</HDAvoidCluster>
           <ODDAvoidCluster>false</ODDAvoidCluster>
           <SLZAvoidCluster>false</SLZAvoidCluster>
@@ -2920,27 +2980,27 @@
           <SLZSell>true</SLZSell>
           <TBSBuy>true</TBSBuy>
           <TBSSell>true</TBSSell>
-          <DTXLiquidEnable>false</DTXLiquidEnable>
-          <DTXLiquidMinValue>2</DTXLiquidMinValue>
-          <DTXLiquidMaxValue>14</DTXLiquidMaxValue>
+          <DTXLiquidEnable>true</DTXLiquidEnable>
+          <DTXLiquidMinValue>4</DTXLiquidMinValue>
+          <DTXLiquidMaxValue>999</DTXLiquidMaxValue>
           <ELEVLiquidEnable>false</ELEVLiquidEnable>
           <ELEVLiquidMinValue>2</ELEVLiquidMinValue>
           <ELEVLiquidMaxValue>14</ELEVLiquidMaxValue>
-          <ETXLiquidEnable>false</ETXLiquidEnable>
-          <ETXLiquidMinValue>2</ETXLiquidMinValue>
-          <ETXLiquidMaxValue>14</ETXLiquidMaxValue>
-          <FTXLiquidEnable>false</FTXLiquidEnable>
-          <FTXLiquidMinValue>2</FTXLiquidMinValue>
-          <FTXLiquidMaxValue>14</FTXLiquidMaxValue>
-          <HDLiquidEnable>false</HDLiquidEnable>
-          <HDLiquidMinValue>2</HDLiquidMinValue>
-          <HDLiquidMaxValue>14</HDLiquidMaxValue>
+          <ETXLiquidEnable>true</ETXLiquidEnable>
+          <ETXLiquidMinValue>6.1</ETXLiquidMinValue>
+          <ETXLiquidMaxValue>16</ETXLiquidMaxValue>
+          <FTXLiquidEnable>true</FTXLiquidEnable>
+          <FTXLiquidMinValue>2.1</FTXLiquidMinValue>
+          <FTXLiquidMaxValue>16</FTXLiquidMaxValue>
+          <HDLiquidEnable>true</HDLiquidEnable>
+          <HDLiquidMinValue>2.36</HDLiquidMinValue>
+          <HDLiquidMaxValue>999</HDLiquidMaxValue>
           <ODDLiquidEnable>false</ODDLiquidEnable>
           <ODDLiquidMinValue>2</ODDLiquidMinValue>
           <ODDLiquidMaxValue>14</ODDLiquidMaxValue>
-          <SLZLiquidEnable>false</SLZLiquidEnable>
-          <SLZLiquidMinValue>2</SLZLiquidMinValue>
-          <SLZLiquidMaxValue>14</SLZLiquidMaxValue>
+          <SLZLiquidEnable>true</SLZLiquidEnable>
+          <SLZLiquidMinValue>1.4</SLZLiquidMinValue>
+          <SLZLiquidMaxValue>6.5</SLZLiquidMaxValue>
           <TBSLiquidEnable>false</TBSLiquidEnable>
           <TBSLiquidMinValue>2</TBSLiquidMinValue>
           <TBSLiquidMaxValue>14</TBSLiquidMaxValue>
@@ -2953,26 +3013,26 @@
           <ODDDivergence>false</ODDDivergence>
           <SLZDivergence>false</SLZDivergence>
           <TBSDivergence>false</TBSDivergence>
-          <DTXVolScoreEnable>false</DTXVolScoreEnable>
-          <DTXVolScoreMin>10</DTXVolScoreMin>
-          <DTXVolScoreMax>90</DTXVolScoreMax>
+          <DTXVolScoreEnable>true</DTXVolScoreEnable>
+          <DTXVolScoreMin>30</DTXVolScoreMin>
+          <DTXVolScoreMax>999</DTXVolScoreMax>
           <ELEVVolScoreEnable>false</ELEVVolScoreEnable>
           <ELEVVolScoreMin>10</ELEVVolScoreMin>
           <ELEVVolScoreMax>90</ELEVVolScoreMax>
-          <ETXVolScoreEnable>false</ETXVolScoreEnable>
-          <ETXVolScoreMin>10</ETXVolScoreMin>
-          <ETXVolScoreMax>90</ETXVolScoreMax>
-          <FTXVolScoreEnable>false</FTXVolScoreEnable>
-          <FTXVolScoreMin>10</FTXVolScoreMin>
-          <FTXVolScoreMax>90</FTXVolScoreMax>
+          <ETXVolScoreEnable>true</ETXVolScoreEnable>
+          <ETXVolScoreMin>13</ETXVolScoreMin>
+          <ETXVolScoreMax>190</ETXVolScoreMax>
+          <FTXVolScoreEnable>true</FTXVolScoreEnable>
+          <FTXVolScoreMin>19</FTXVolScoreMin>
+          <FTXVolScoreMax>500</FTXVolScoreMax>
           <HDVolScoreEnable>false</HDVolScoreEnable>
           <HDVolScoreMin>10</HDVolScoreMin>
           <HDVolScoreMax>90</HDVolScoreMax>
-          <ODDVolScoreEnable>false</ODDVolScoreEnable>
-          <ODDVolScoreMin>10</ODDVolScoreMin>
-          <ODDVolScoreMax>90</ODDVolScoreMax>
-          <SLZVolScoreEnable>false</SLZVolScoreEnable>
-          <SLZVolScoreMin>10</SLZVolScoreMin>
+          <ODDVolScoreEnable>true</ODDVolScoreEnable>
+          <ODDVolScoreMin>1</ODDVolScoreMin>
+          <ODDVolScoreMax>70</ODDVolScoreMax>
+          <SLZVolScoreEnable>true</SLZVolScoreEnable>
+          <SLZVolScoreMin>1</SLZVolScoreMin>
           <SLZVolScoreMax>90</SLZVolScoreMax>
           <TBSVolScoreEnable>false</TBSVolScoreEnable>
           <TBSVolScoreMin>10</TBSVolScoreMin>
@@ -3088,8 +3148,8 @@
             <AutoScaleMarginLower>40</AutoScaleMarginLower>
             <AutoScaleMarginUpper>40</AutoScaleMarginUpper>
             <YAxisScalingType>Linear</YAxisScalingType>
-            <FixedScaleMaxSerialize>2211.2</FixedScaleMaxSerialize>
-            <FixedScaleMinSerialize>2196.1</FixedScaleMinSerialize>
+            <FixedScaleMaxSerialize>13362</FixedScaleMaxSerialize>
+            <FixedScaleMinSerialize>13341.5</FixedScaleMinSerialize>
           </ChartScaleProperties>
         </Right>
         <Left>
@@ -3138,7 +3198,7 @@
             <AutoScaleMarginLower>6</AutoScaleMarginLower>
             <AutoScaleMarginUpper>6</AutoScaleMarginUpper>
             <YAxisScalingType>Linear</YAxisScalingType>
-            <FixedScaleMaxSerialize>1.7411493073375237</FixedScaleMaxSerialize>
+            <FixedScaleMaxSerialize>1.9035659407618999</FixedScaleMaxSerialize>
             <FixedScaleMinSerialize>0</FixedScaleMinSerialize>
           </ChartScaleProperties>
         </Right>
@@ -3279,9 +3339,9 @@
 &lt;/Pen&gt;</StopMarketSerialize>
       </ChartTraderProperties>
     </Properties>
-    <Account>Sim101</Account>
+    <Account>Playback101</Account>
     <ATM>1_9_21</ATM>
-    <Instrument>RTY 06-21</Instrument>
+    <Instrument>NQ 06-21</Instrument>
     <Quantity>1</Quantity>
     <TIF>Gtc</TIF>
   </ChartTrader>

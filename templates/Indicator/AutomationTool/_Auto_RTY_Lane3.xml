@@ -13,7 +13,7 @@
         <MarketDataType>Last</MarketDataType>
         <PointAndFigurePriceType>Close</PointAndFigurePriceType>
         <ReversalType>Tick</ReversalType>
-        <Value>8</Value>
+        <Value>10</Value>
         <Value2>50</Value2>
       </BarsPeriodSerializable>
       <BarsToLoad>0</BarsToLoad>
@@ -31,7 +31,7 @@
       <Lines>
         <Line>
           <IsOpacityVisible>false</IsOpacityVisible>
-          <BrushSerialize>&lt;SolidColorBrush xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;#00FFFFFF&lt;/SolidColorBrush&gt;</BrushSerialize>
+          <BrushSerialize>&lt;SolidColorBrush xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;#FF000000&lt;/SolidColorBrush&gt;</BrushSerialize>
           <DashStyleHelper>Solid</DashStyleHelper>
           <Opacity>100</Opacity>
           <Width>1</Width>
@@ -63,14 +63,14 @@
       <DrawOnPricePanel>false</DrawOnPricePanel>
       <PaintPriceMarkers>false</PaintPriceMarkers>
       <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-      <IndicatorId>817</IndicatorId>
-      <InstrumentDeserialized>ES 06-21 Globex</InstrumentDeserialized>
+      <IndicatorId>244</IndicatorId>
+      <InstrumentDeserialized>RTY 06-21 Globex</InstrumentDeserialized>
       <MaxSerialized>0</MaxSerialized>
       <MinSerialized>0</MinSerialized>
-      <ZOrder>31329</ZOrder>
+      <ZOrder>31366</ZOrder>
       <SettingsSerialized>eyJJc1VwQ2xvc2VCYXIiOnRydWUsIklzRG93bkNsb3NlQmFyIjp0cnVlLCJVc2VQcmljZVZhbHVlIjpmYWxzZSwiVGlja09mZnNldCI6MCwiVXBDbG9zZVZhbHVlIjoxLjAsIlVwQ2xvc2VMaXZlVmFsdWUiOi0xLjAsIkRvd25DbG9zZVZhbHVlIjoxLjAsIkRvd25DbG9zZUxpdmVWYWx1ZSI6LTEuMH0=</SettingsSerialized>
       <UserSettingsSerialized>e30=</UserSettingsSerialized>
-      <OrderPrintsID>esTickID</OrderPrintsID>
+      <OrderPrintsID>rtyTickID</OrderPrintsID>
       <MultiSetupEntry>false</MultiSetupEntry>
       <DTX_OD_Enabled>false</DTX_OD_Enabled>
       <DTX_ODMinValue>1</DTX_ODMinValue>
@@ -78,21 +78,21 @@
       <ELEV_OD_Enabled>false</ELEV_OD_Enabled>
       <ELEV_ODMinValue>1</ELEV_ODMinValue>
       <ELEV_ODMaxValue>999</ELEV_ODMaxValue>
-      <ETX_OD_Enabled>false</ETX_OD_Enabled>
-      <ETX_ODMinValue>1</ETX_ODMinValue>
-      <ETX_ODMaxValue>999</ETX_ODMaxValue>
-      <FTX_OD_Enabled>false</FTX_OD_Enabled>
+      <ETX_OD_Enabled>true</ETX_OD_Enabled>
+      <ETX_ODMinValue>30</ETX_ODMinValue>
+      <ETX_ODMaxValue>9999</ETX_ODMaxValue>
+      <FTX_OD_Enabled>true</FTX_OD_Enabled>
       <FTX_ODMinValue>1</FTX_ODMinValue>
-      <FTX_ODMaxValue>999</FTX_ODMaxValue>
+      <FTX_ODMaxValue>115</FTX_ODMaxValue>
       <HD_OD_Enabled>true</HD_OD_Enabled>
-      <HD_ODMinValue>130</HD_ODMinValue>
-      <HD_ODMaxValue>270</HD_ODMaxValue>
+      <HD_ODMinValue>34</HD_ODMinValue>
+      <HD_ODMaxValue>225</HD_ODMaxValue>
       <ODD_OD_Enabled>true</ODD_OD_Enabled>
-      <ODD_ODMinValue>20</ODD_ODMinValue>
-      <ODD_ODMaxValue>80</ODD_ODMaxValue>
-      <SLZ_OD_Enabled>false</SLZ_OD_Enabled>
-      <SLZ_ODMinValue>1</SLZ_ODMinValue>
-      <SLZ_ODMaxValue>999</SLZ_ODMaxValue>
+      <ODD_ODMinValue>13</ODD_ODMinValue>
+      <ODD_ODMaxValue>110</ODD_ODMaxValue>
+      <SLZ_OD_Enabled>true</SLZ_OD_Enabled>
+      <SLZ_ODMinValue>45</SLZ_ODMinValue>
+      <SLZ_ODMaxValue>2000</SLZ_ODMaxValue>
       <TBS_OD_Enabled>false</TBS_OD_Enabled>
       <TBS_ODMinValue>1</TBS_ODMinValue>
       <TBS_ODMaxValue>999</TBS_ODMaxValue>
@@ -106,8 +106,8 @@
       <DarkZone2Start>2021-04-27T16:00:00</DarkZone2Start>
       <DarkZone2End>2021-04-27T18:00:00</DarkZone2End>
       <DarkZone3>false</DarkZone3>
-      <DarkZone3Start>2021-05-06T01:00:00</DarkZone3Start>
-      <DarkZone3End>2021-05-06T03:00:00</DarkZone3End>
+      <DarkZone3Start>2021-05-10T01:00:00</DarkZone3Start>
+      <DarkZone3End>2021-05-10T03:00:00</DarkZone3End>
       <DTXEnabled>true</DTXEnabled>
       <ELEVEnabled>true</ELEVEnabled>
       <ETXEnabled>true</ETXEnabled>
@@ -116,38 +116,38 @@
       <ODDEnabled>true</ODDEnabled>
       <SLZEnabled>true</SLZEnabled>
       <TBSEnabled>true</TBSEnabled>
-      <DTXObsMin>8</DTXObsMin>
+      <DTXObsMin>0</DTXObsMin>
       <DTXObsMax>999</DTXObsMax>
-      <ELEVObsMin>8</ELEVObsMin>
+      <ELEVObsMin>0</ELEVObsMin>
       <ELEVObsMax>999</ELEVObsMax>
-      <ETXObsMin>8</ETXObsMin>
+      <ETXObsMin>0</ETXObsMin>
       <ETXObsMax>999</ETXObsMax>
-      <FTXObsMin>8</FTXObsMin>
+      <FTXObsMin>9</FTXObsMin>
       <FTXObsMax>999</FTXObsMax>
-      <HDObsMin>8</HDObsMin>
+      <HDObsMin>11</HDObsMin>
       <HDObsMax>999</HDObsMax>
-      <ODDObsMin>8</ODDObsMin>
+      <ODDObsMin>0</ODDObsMin>
       <ODDObsMax>999</ODDObsMax>
-      <SLZObsMin>8</SLZObsMin>
+      <SLZObsMin>0</SLZObsMin>
       <SLZObsMax>999</SLZObsMax>
-      <TBSObsMin>8</TBSObsMin>
+      <TBSObsMin>0</TBSObsMin>
       <TBSObsMax>999</TBSObsMax>
       <ATM_DTX_Custom_Enable>true</ATM_DTX_Custom_Enable>
-      <ATM_DTX_Custom>ES_DTX</ATM_DTX_Custom>
+      <ATM_DTX_Custom>RTY_DTX</ATM_DTX_Custom>
       <ATM_ELEV_Custom_Enable>true</ATM_ELEV_Custom_Enable>
-      <ATM_ELEV_Custom>ES_ELEV</ATM_ELEV_Custom>
+      <ATM_ELEV_Custom>RTY_ELEV</ATM_ELEV_Custom>
       <ATM_ETX_Custom_Enable>true</ATM_ETX_Custom_Enable>
-      <ATM_ETX_Custom>ES_ETX</ATM_ETX_Custom>
+      <ATM_ETX_Custom>RTY_ETX</ATM_ETX_Custom>
       <ATM_FTX_Custom_Enable>true</ATM_FTX_Custom_Enable>
-      <ATM_FTX_Custom>ES_FTX</ATM_FTX_Custom>
+      <ATM_FTX_Custom>RTY_FTX</ATM_FTX_Custom>
       <ATM_HD_Custom_Enable>true</ATM_HD_Custom_Enable>
-      <ATM_HD_Custom>ES_HD</ATM_HD_Custom>
+      <ATM_HD_Custom>RTY_HD</ATM_HD_Custom>
       <ATM_ODD_Custom_Enable>true</ATM_ODD_Custom_Enable>
-      <ATM_ODD_Custom>ES_ODD</ATM_ODD_Custom>
+      <ATM_ODD_Custom>RTY_ODD</ATM_ODD_Custom>
       <ATM_SLZ_Custom_Enable>true</ATM_SLZ_Custom_Enable>
-      <ATM_SLZ_Custom>ES_SLZ</ATM_SLZ_Custom>
+      <ATM_SLZ_Custom>RTY_SLZ</ATM_SLZ_Custom>
       <ATM_TBS_Custom_Enable>true</ATM_TBS_Custom_Enable>
-      <ATM_TBS_Custom>ES_TBS</ATM_TBS_Custom>
+      <ATM_TBS_Custom>RTY_TBS</ATM_TBS_Custom>
       <EmailEnabled>false</EmailEnabled>
       <EmailUsername>email@gmail.com</EmailUsername>
       <PlivoEnabled>false</PlivoEnabled>
@@ -170,37 +170,45 @@
       <SLZDRCoherent>false</SLZDRCoherent>
       <TBSDRCoherent>false</TBSDRCoherent>
       <DTXDRValueEnable>false</DTXDRValueEnable>
-      <DTXDRValue>0.5</DTXDRValue>
+      <DTXDRMinValue>0.01</DTXDRMinValue>
+      <DTXDRMaxValue>2</DTXDRMaxValue>
       <ELEVDRValueEnable>false</ELEVDRValueEnable>
-      <ELEVDRValue>0.5</ELEVDRValue>
+      <ELEVDRMinValue>0.01</ELEVDRMinValue>
+      <ELEVDRMaxValue>2</ELEVDRMaxValue>
       <ETXDRValueEnable>false</ETXDRValueEnable>
-      <ETXDRValue>0.5</ETXDRValue>
+      <ETXDRMinValue>0.01</ETXDRMinValue>
+      <ETXDRMaxValue>2</ETXDRMaxValue>
       <FTXDRValueEnable>true</FTXDRValueEnable>
-      <FTXDRValue>0.65</FTXDRValue>
-      <HDDRValueEnable>false</HDDRValueEnable>
-      <HDDRValue>0.5</HDDRValue>
+      <FTXDRMinValue>0.32</FTXDRMinValue>
+      <FTXDRMaxValue>0.95</FTXDRMaxValue>
+      <HDDRValueEnable>true</HDDRValueEnable>
+      <HDDRMinValue>0.4</HDDRMinValue>
+      <HDDRMaxValue>1</HDDRMaxValue>
       <ODDDRValueEnable>false</ODDDRValueEnable>
-      <ODDDRValue>0.5</ODDDRValue>
+      <ODDDRMinValue>0.01</ODDDRMinValue>
+      <ODDDRMaxValue>2</ODDDRMaxValue>
       <SLZDRValueEnable>false</SLZDRValueEnable>
-      <SLZDRValue>0.5</SLZDRValue>
+      <SLZDRMinValue>0.01</SLZDRMinValue>
+      <SLZDRMaxValue>2</SLZDRMaxValue>
       <TBSDRValueEnable>false</TBSDRValueEnable>
-      <TBSDRValue>0.5</TBSDRValue>
+      <TBSDRMinValue>0.01</TBSDRMinValue>
+      <TBSDRMaxValue>2</TBSDRMaxValue>
       <TicksDTXAmplifyEnable>false</TicksDTXAmplifyEnable>
-      <TicksDTXAmplify>6</TicksDTXAmplify>
+      <TicksDTXAmplify>8</TicksDTXAmplify>
       <TicksELEVAmplifyEnable>false</TicksELEVAmplifyEnable>
-      <TicksELEVAmplify>6</TicksELEVAmplify>
+      <TicksELEVAmplify>8</TicksELEVAmplify>
       <TicksETXAmplifyEnable>false</TicksETXAmplifyEnable>
-      <TicksETXAmplify>6</TicksETXAmplify>
+      <TicksETXAmplify>8</TicksETXAmplify>
       <TicksFTXAmplifyEnable>false</TicksFTXAmplifyEnable>
-      <TicksFTXAmplify>6</TicksFTXAmplify>
+      <TicksFTXAmplify>8</TicksFTXAmplify>
       <TicksHDAmplifyEnable>false</TicksHDAmplifyEnable>
-      <TicksHDAmplify>6</TicksHDAmplify>
+      <TicksHDAmplify>8</TicksHDAmplify>
       <TicksODDAmplifyEnable>false</TicksODDAmplifyEnable>
-      <TicksODDAmplify>6</TicksODDAmplify>
-      <TicksSLZAmplifyEnable>true</TicksSLZAmplifyEnable>
-      <TicksSLZAmplify>6</TicksSLZAmplify>
+      <TicksODDAmplify>8</TicksODDAmplify>
+      <TicksSLZAmplifyEnable>false</TicksSLZAmplifyEnable>
+      <TicksSLZAmplify>8</TicksSLZAmplify>
       <TicksTBSAmplifyEnable>false</TicksTBSAmplifyEnable>
-      <TicksTBSAmplify>6</TicksTBSAmplify>
+      <TicksTBSAmplify>8</TicksTBSAmplify>
       <DTXBreakEvenOnCoil>false</DTXBreakEvenOnCoil>
       <ELEVBreakEvenOnCoil>false</ELEVBreakEvenOnCoil>
       <ETXBreakEvenOnCoil>false</ETXBreakEvenOnCoil>
@@ -221,7 +229,7 @@
       <ELEVCrocEyes>false</ELEVCrocEyes>
       <ETXCrocEyes>false</ETXCrocEyes>
       <FTXCrocEyes>false</FTXCrocEyes>
-      <HDCrocEyes>false</HDCrocEyes>
+      <HDCrocEyes>true</HDCrocEyes>
       <ODDCrocEyes>false</ODDCrocEyes>
       <SLZCrocEyes>false</SLZCrocEyes>
       <TBSCrocEyes>false</TBSCrocEyes>
@@ -287,12 +295,12 @@
       <ELEVLiquidEnable>false</ELEVLiquidEnable>
       <ELEVLiquidMinValue>2</ELEVLiquidMinValue>
       <ELEVLiquidMaxValue>14</ELEVLiquidMaxValue>
-      <ETXLiquidEnable>false</ETXLiquidEnable>
-      <ETXLiquidMinValue>2</ETXLiquidMinValue>
-      <ETXLiquidMaxValue>14</ETXLiquidMaxValue>
-      <FTXLiquidEnable>false</FTXLiquidEnable>
-      <FTXLiquidMinValue>2</FTXLiquidMinValue>
-      <FTXLiquidMaxValue>14</FTXLiquidMaxValue>
+      <ETXLiquidEnable>true</ETXLiquidEnable>
+      <ETXLiquidMinValue>5.6</ETXLiquidMinValue>
+      <ETXLiquidMaxValue>99</ETXLiquidMaxValue>
+      <FTXLiquidEnable>true</FTXLiquidEnable>
+      <FTXLiquidMinValue>2.95</FTXLiquidMinValue>
+      <FTXLiquidMaxValue>8.25</FTXLiquidMaxValue>
       <HDLiquidEnable>false</HDLiquidEnable>
       <HDLiquidMinValue>2</HDLiquidMinValue>
       <HDLiquidMaxValue>14</HDLiquidMaxValue>
@@ -323,18 +331,18 @@
       <ETXVolScoreEnable>false</ETXVolScoreEnable>
       <ETXVolScoreMin>10</ETXVolScoreMin>
       <ETXVolScoreMax>90</ETXVolScoreMax>
-      <FTXVolScoreEnable>false</FTXVolScoreEnable>
-      <FTXVolScoreMin>10</FTXVolScoreMin>
-      <FTXVolScoreMax>90</FTXVolScoreMax>
+      <FTXVolScoreEnable>true</FTXVolScoreEnable>
+      <FTXVolScoreMin>15</FTXVolScoreMin>
+      <FTXVolScoreMax>400</FTXVolScoreMax>
       <HDVolScoreEnable>false</HDVolScoreEnable>
       <HDVolScoreMin>10</HDVolScoreMin>
       <HDVolScoreMax>90</HDVolScoreMax>
-      <ODDVolScoreEnable>false</ODDVolScoreEnable>
-      <ODDVolScoreMin>10</ODDVolScoreMin>
-      <ODDVolScoreMax>90</ODDVolScoreMax>
-      <SLZVolScoreEnable>false</SLZVolScoreEnable>
-      <SLZVolScoreMin>10</SLZVolScoreMin>
-      <SLZVolScoreMax>90</SLZVolScoreMax>
+      <ODDVolScoreEnable>true</ODDVolScoreEnable>
+      <ODDVolScoreMin>1</ODDVolScoreMin>
+      <ODDVolScoreMax>21</ODDVolScoreMax>
+      <SLZVolScoreEnable>true</SLZVolScoreEnable>
+      <SLZVolScoreMin>13</SLZVolScoreMin>
+      <SLZVolScoreMax>64</SLZVolScoreMax>
       <TBSVolScoreEnable>false</TBSVolScoreEnable>
       <TBSVolScoreMin>10</TBSVolScoreMin>
       <TBSVolScoreMax>90</TBSVolScoreMax>

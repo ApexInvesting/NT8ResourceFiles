@@ -22,7 +22,7 @@
           <RangeType>Days</RangeType>
           <BarsBack>50</BarsBack>
           <DaysBack>3</DaysBack>
-          <From>2021-02-27T00:00:00</From>
+          <From>2021-05-17T00:00:00</From>
           <IsStableSession>true</IsStableSession>
           <To>2099-12-01T00:00:00</To>
           <TradingHoursSerializable>Default 24 x 7</TradingHoursSerializable>
@@ -50,12 +50,12 @@
           <PositionPenLoserSerialize>DEFAULT</PositionPenLoserSerialize>
           <PositionPenWinnerSerialize>DEFAULT</PositionPenWinnerSerialize>
           <ShortExecutionBrushSerialize>DEFAULT</ShortExecutionBrushSerialize>
-          <BarsSeriesId>12f3023e426642328104b299666a801a</BarsSeriesId>
-          <Id>6159801e492f4f7db0ef4a697b2d00ae</Id>
+          <BarsSeriesId>11a568f176554fe591181f79b7d08524</BarsSeriesId>
+          <Id>11a568f176554fe591181f79b7d08524</Id>
           <Instrument>GC 06-21</Instrument>
           <IsLinked>true</IsLinked>
           <IsPrimarySeries>true</IsPrimarySeries>
-          <ZOrder>7</ZOrder>
+          <ZOrder>1</ZOrder>
         </BarsProperties>
         <ChartStyles>
           <ChartStyle>
@@ -101,11 +101,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2021-05-07T00:00:00</From>
+          <From>2021-05-17T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2021-05-10T00:00:00</To>
+          <To>2021-05-20T00:00:00</To>
           <Calculate>OnEachTick</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>false</IsAutoScale>
@@ -123,11 +123,11 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>true</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>1</IndicatorId>
+          <IndicatorId>574</IndicatorId>
           <InstrumentDeserialized>GC 06-21 Nymex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
-          <ZOrder>6</ZOrder>
+          <ZOrder>0</ZOrder>
           <SettingsSerialized>eyJ1c2VGdXR1cmVzVm9sdW1lRm9yRm9yZXgiOnRydWUsIm9wQ29waWVySWQiOiIiLCJwYXciOnsic3RyZW5ndGgiOjMwLjAsImNhbGN1bGF0ZU9uQmFyQ2xvc2UiOmZhbHNlLCJvbmx5U2hvd09uV2ljayI6dHJ1ZX0sImltYmFsYW5jZSI6eyJzdHJlbmd0aCI6My4wLCJ2b2x1bWVGaWx0ZXIiOjAsIndlYWtWb2x1bWVGaWx0ZXIiOjF9LCJ6b25lT2ZJbnRlcmVzdCI6eyJtaW5Wb2x1bWUiOjAsIm1pbkxldmVscyI6M30sImV4aGF1c3Rpb24iOnsic3RyZW5ndGgiOjMuMCwidm9sdW1lRmlsdGVyIjowfSwibmV0Vm9sdW1lQWNjZWxlcmF0aW9uIjp7ImNhbGNPbkJhckNsb3NlIjpmYWxzZSwicGVyaW9kIjo0LCJzdHJlbmd0aCI6Mi4wLCJ2b2x1bWVGaWx0ZXIiOjB9LCJ0b3RhbFZvbHVtZSI6eyJhbGVydFRocmVzaG9sZCI6NzAwMH0sInRvdGFsVm9sdW1lQWNjZWxlcmF0aW9uIjp7InBlcmlvZCI6NCwic3RyZW5ndGgiOjIuMH0sInRyYXBwZWRPcmRlcnMiOnsibWluVm9sdW1lIjoxMCwibWluTGV2ZWxzIjozLCJyZXZlcnNhbE9ubHlBbGVydCI6dHJ1ZX0sImxlYWRpbmdWb2x1bWVzIjp7Im1pblZvbHVtZSI6MTAsIm1pbkxldmVscyI6M30sImJsb2NrT3JkZXJTZXR0aW5ncyI6eyJibG9ja1NpemUiOjUwLCJtYXhEYXlzVG9TaG93UGFzdEJyb2tlbiI6MX0sImJsb2NrVm9sdW1lQWNjZWxlcmF0aW9uIjp7ImNhbGNPbkJhckNsb3NlIjpmYWxzZSwicGVyaW9kIjo3LCJzdHJlbmd0aCI6Mi4wLCJ2b2x1bWVGaWx0ZXIiOjB9LCJtb21lbnR1bSI6eyJzdHJlbmd0aCI6My4wLCJzaXplIjozLCJtaW5pbXVtVG90YWxWb2x1bWVUaHJlc2hvbGQiOjEwLCJsb3dWb2x1bWVTY29yZVRocmVzaG9sZCI6MTN9LCJhYnNvcnB0aW9uIjp7InN0cmVuZ3RoIjozLjAsInNpemUiOjMsIm1pbmltdW1Ub3RhbFZvbHVtZVRocmVzaG9sZCI6MTB9LCJtaW5pTWFnbmV0cyI6eyJtaW5pbXVtVm9sdW1lIjoxLCJ0aHJlc2hvbGQiOjEsIm1heERheXNUb1Nob3dQYXN0QnJva2VuIjoxLCJjYWxjdWxhdGVPbkJhckNsb3NlIjpmYWxzZX0sImRpc3BsYXlNaXNjIjp7InZvbHVtZU9mZnNldCI6MH0sIkNsdXN0ZXIiOnsiZ3JlYXRlclRoYW5NdWx0aXBsaWVyIjoyLjAsInBlcmlvZCI6NCwibWluaW11bVRvdGFsVm9sdW1lIjoxMH0sImJyaWNrV2FsbCI6eyJtaW5FbnRpdGllc1JlcXVpcmVkIjozLCJtYXhQcm94aW1pdHlJblRpY2tzIjozLCJtYXhUaW1lQmV0d2VlbkVudGl0aWVzIjoiMDg6MDA6MDAifSwidm9sdW1lU2NvcmUiOnsidXBwZXJBbGVydFRocmVzaG9sZCI6MTAwMCwibG93ZXJBbGVydFRocmVzaG9sZCI6MTN9LCJ0aGlyZEJhclNsaW5nIjp7InJlcXVpcmVtZW50cyI6M30sInN0YXJMVlNaT0kiOnsidHJhcHBlZE9yZGVyc0FuZEV4aGF1c3Rpb25Cb3hSZXF1aXJlZCI6ZmFsc2V9LCJlbGV2YXRvciI6eyJtaW5pTWFnbmV0UGF3UmVxdWlyZW1lbnRzIjoyLCJjbHVzdGVyUmVxdWlyZW1lbnRzIjoyfSwiZG91YmxlVFgiOnsicGVyaW9kIjozMCwic3RyZW5ndGgiOjV9LCJvcHJlamVjdGlvbiI6eyJzZXR1cEJhckNhbGN1bGF0aW9ucyI6MSwiUHJldmlvdXNCYXJDYWxjdWxhdGlvbnMiOjEsInNldHVwQmFyRGVwdGhNaW5pbnVtVm9sdW1lIjowLCJzZXR1cEJhck11bHRpcGxpZXIiOjMuMCwic2V0dXBCYXJEZXB0aCI6Miwic2V0dXBCYXJUaHJlc2hvbGQiOjEwLCJwcmV2aW91c0Jhck11bHRpcGxpZXIiOjIuNSwicHJldmlvdXNCYXJEZXB0aCI6MSwicHJldmlvdXNCYXJUaHJlc2hvbGQiOjEwLCJwZXJpb2QiOjMsInJlcXVpcmVQQVciOmZhbHNlLCJyZXF1aXJlVHJhcHBlZE9yZGVyIjpmYWxzZSwicmVxdWlyZUV4aGF1c3Rpb24iOmZhbHNlfSwib3BkaXZlcmdlbmNlIjp7InNldHVwQmFyTXVsdGlwbGllciI6Mi4wLCJzZXR1cEJhckRlcHRoIjoyLCJzZXR1cEJhclRocmVzaG9sZCI6MTAsInByZXZpb3VzQmFyTXVsdGlwbGllciI6MC4wLCJwcmV2aW91c0JhckRlcHRoIjowLCJwZXJpb2QiOjN9LCJkaXZlcmdlbnRMb3dSZXZlcnNhbEdvIjp7InRyYXBwZWRPcmRlcnNBbmRFeGhhdXN0aW9uQm94UmVxdWlyZWQiOmZhbHNlLCJpbmNsdWRlTG93RGl2ZXJnZW50UmV2ZXJzYWxHbyI6ZmFsc2UsImJhcnNCZWZvcmVTZXR1cCI6NH19</SettingsSerialized>
           <UserSettingsSerialized>eyJhbGVydHMiOnsidmlzdWFsIjpmYWxzZSwiYXVkaWJsZSI6dHJ1ZSwid2luZG93Rmxhc2giOmZhbHNlfSwicGF3UHJpbnRzIjp7InNob3ciOnRydWUsInNob3dSZWN0YW5nbGUiOnRydWUsInNob3dMaW5lIjp0cnVlLCJ1cHBlckxpbmUiOnsiYnJ1c2giOiIjRkZGRjhDMDAiLCJ3aWR0aCI6MS4wLCJkYXNoU3R5bGUiOjAsIm9wYWNpdHkiOjEwMH0sImxvd2VyTGluZSI6eyJicnVzaCI6IiNGRkZGOEMwMCIsIndpZHRoIjoxLjAsImRhc2hTdHlsZSI6MCwib3BhY2l0eSI6MTAwfSwiaW5zdGFudEFsZXJ0cyI6ZmFsc2UsImJhckNsb3NlQWxlcnRzIjpmYWxzZSwibWluV2lkdGgiOjE1fSwiaW1iYWxhbmNlIjp7InNob3ciOmZhbHNlLCJhc2tDb2xvciI6IiNGRjY5Njk2OSIsImJpZENvbG9yIjoiI0ZGNjk2OTY5Iiwid2Vha0NvbG9yIjoiI0ZGNjk2OTY5Iiwic2hvd1dlYWtJbWJhbGFuY2VzIjpmYWxzZX0sImJhbGFuY2VkVm9sdW1lIjp7IlNob3ciOmZhbHNlLCJGb250Q29sb3IiOiIjRkYwMDAwMDAifSwiem9uZU9mSW50ZXJlc3QiOnsic2hvdyI6dHJ1ZSwiZG93bkNvbG9yIjoiI0ZGQkE1NUQzIiwidXBDb2xvciI6IiNGRjAwQ0VEMSIsInNob3dCb3giOnRydWUsImluc3RhbnRBbGVydHMiOmZhbHNlLCJiYXJDbG9zZUFsZXJ0cyI6ZmFsc2UsIm9wYWNpdHkiOjQwLCJicm9rZW5PcGFjaXR5Ijo0MCwiYm94T3BhY2l0eSI6MTAwLCJib3hNaW5XaWR0aCI6MjV9LCJleGhhdXN0aW9uIjp7InNob3ciOnRydWUsInRvcExpbmVTdHlsZSI6eyJicnVzaCI6IiNGRkIyMjIyMiIsIndpZHRoIjoyLjAsImRhc2hTdHlsZSI6MCwib3BhY2l0eSI6MTAwfSwiYm90dG9tTGluZVN0eWxlIjp7ImJydXNoIjoiI0ZGMzJDRDMyIiwid2lkdGgiOjIuMCwiZGFzaFN0eWxlIjowLCJvcGFjaXR5IjoxMDB9LCJpbnN0YW50QWxlcnRzIjpmYWxzZSwiYmFyQ2xvc2VBbGVydHMiOmZhbHNlfSwibmV3Vm9sdW1lQWNjZWxlcnRpb24iOnsic2hvdyI6ZmFsc2UsImljb25Qb3NpdGl2ZUNvbG9yIjoiI0ZGOEZCQzhGIiwiaWNvbk5lZ2F0aXZlQ29sb3IiOiIjRkZGRjAwMDAiLCJpY29uRGl2ZXJnZW5jZUNvbG9yIjoiI0ZGRkZBNTAwIiwiaWNvbkJhY2tncm91bmRDb2xvciI6IiNGRkZGRkZGRiIsImluc3RhbnRBbGVydHMiOmZhbHNlLCJiYXJDbG9zZUFsZXJ0cyI6ZmFsc2V9LCJ0b3RhbFZvbHVtZUFjY2VsZXJhdGlvbiI6eyJzaG93IjpmYWxzZSwiaWNvbkJhY2tncm91bmRQb3NpdGl2ZUNvbG9yIjoiI0ZGN0I2OEVFIiwiaWNvbkJhY2tncm91bmROZWdhdGl2ZUNvbG9yIjoiI0ZGN0I2OEVFIiwiaWNvbkZvcmVDb2xvciI6IiNGRkZGRkZGRiIsImluc3RhbnRBbGVydHMiOmZhbHNlLCJiYXJDbG9zZUFsZXJ0cyI6ZmFsc2V9LCJ0cmFwcGVkT3JkZXJzIjp7InNob3ciOnRydWUsImhpZ2hsaWdodENvbG9yIjoiI0ZGMUU5MEZGIiwiZm9udENvbG9yIjoiIzAwRkZGRkZGIiwiaW5zdGFudEFsZXJ0cyI6ZmFsc2UsImJhckNsb3NlQWxlcnRzIjpmYWxzZSwid2l0aEV4aGF1c3Rpb25JbnN0YW50QWxlcnRzIjpmYWxzZSwid2l0aEV4aGF1c3Rpb25CYXJDbG9zZUFsZXJ0cyI6ZmFsc2UsIm1pbkJsb2NrV2lkdGgiOjIwfSwiYmxvY2tPcmRlcnMiOnsic2hvdyI6dHJ1ZSwiZm9udENvbG9yIjoiI0ZGRkZGRkZGIiwiaGlnaGxpZ2h0QmxvY2tzIjp0cnVlLCJzaG93QmxvY2tMaW5lIjp0cnVlLCJleHRlbmRQYXN0QnJva2VuIjpmYWxzZSwiYmlkTGluZVN0eWxlIjp7ImJydXNoIjoiI0ZGRkYwMDAwIiwid2lkdGgiOjIuMCwiZGFzaFN0eWxlIjowLCJvcGFjaXR5IjoxMDB9LCJhc2tMaW5lU3R5bGUiOnsiYnJ1c2giOiIjRkYwMEZGMDAiLCJ3aWR0aCI6Mi4wLCJkYXNoU3R5bGUiOjAsIm9wYWNpdHkiOjEwMH0sIm1pbkJsb2NrV2lkdGgiOjEyfSwiYmxvY2tOZXRWb2x1bWUiOnsic2hvd0RpdmVyZ2VuY2UiOmZhbHNlLCJkaXZlcmdlbmNlQ29sb3IiOiIjRkZGRkE1MDAiLCJkaXZlcmdlbmNlQm9yZGVyU3R5bGUiOnsiYnJ1c2giOiIjRkZGRkE1MDAiLCJ3aWR0aCI6MS4wLCJkYXNoU3R5bGUiOjAsIm9wYWNpdHkiOjEwMH0sImRpdmVyZ2VuY2VGb250Q29sb3IiOiIjRkZGRkZGRkYiLCJzaG93QmxvY2tOZXRUb3RhbCI6ZmFsc2UsIm5ldFZvbHVtZUZvbnQiOnsiZm9udEZhbWlseSI6IkFyaWFsIiwic2l6ZSI6MTIuMCwiYm9sZCI6dHJ1ZSwiaXRhbGljIjpmYWxzZX0sIm5ldFZvbHVtZVBvc2l0aXZlRm9udENvbG9yIjoiI0ZGRkZGRkZGIiwibmV0Vm9sdW1lTmVnYXRpdmVGb250Q29sb3IiOiIjRkZGRkZGRkYiLCJwb3NpdGl2ZUJvcmRlclN0eWxlIjp7ImJydXNoIjoiI0ZGMDA4MDAwIiwid2lkdGgiOjEuMCwiZGFzaFN0eWxlIjowLCJvcGFjaXR5IjoxMDB9LCJuZWdhdGl2ZUJvcmRlclN0eWxlIjp7ImJydXNoIjoiI0ZGRkYwMDAwIiwid2lkdGgiOjEuMCwiZGFzaFN0eWxlIjowLCJvcGFjaXR5IjoxMDB9fSwibW9tZW50dW0iOnsic2hvd01vbWVudHVtIjp0cnVlLCJ1cENvbG9yIjoiI0ZGN0ZGRjAwIiwiZG93bkNvbG9yIjoiI0ZGRkYwMDAwIiwiaWNvblVwQ29sb3IiOiIjRkYwMDAwMDAiLCJpY29uRG93bkNvbG9yIjoiI0ZGRkZGRkZGIiwic2hvd0RpYW1vbmQiOmZhbHNlLCJpbnN0YW50QWxlcnRzIjpmYWxzZSwiYmFyQ2xvc2VBbGVydHMiOmZhbHNlLCJ3aXRoTG93VlNJbnN0YW50QWxlcnRzIjpmYWxzZSwid2l0aExvd1ZTQmFyQ2xvc2VBbGVydHMiOmZhbHNlLCJpY29uVmVydGljYWxPZmZzZXQiOjIuMCwiaWNvblNpemUiOjJ9LCJhYnNvcnB0aW9uIjp7IlNob3ciOnRydWUsIlVwQ29sb3IiOiIjRkY1NTZCMkYiLCJEb3duQ29sb3IiOiIjRkY4MDAwMDAiLCJJY29uVXBDb2xvciI6IiNGRjAwMDAwMCIsIkljb25Eb3duQ29sb3IiOiIjRkYwMDAwMDAiLCJJbnN0YW50QWxlcnRzIjpmYWxzZSwiQmFyQ2xvc2VBbGVydHMiOmZhbHNlLCJJY29uVmVydGljYWxPZmZzZXQiOjAuMCwiSWNvblNpemUiOjJ9LCJtaW5pTWFnbmV0cyI6eyJleHRlbmRQYXN0QnJva2VuIjpmYWxzZSwibGl2ZUJvcmRlciI6eyJicnVzaCI6IiNGRkZGNjlCNCIsIndpZHRoIjozLjAsImRhc2hTdHlsZSI6MCwib3BhY2l0eSI6MTAwfSwiY2xvc2VkQm9yZGVyIjp7ImJydXNoIjoiI0ZGRkFGQUQyIiwid2lkdGgiOjMuMCwiZGFzaFN0eWxlIjowLCJvcGFjaXR5IjoxMDB9LCJicm9rZW5Cb3JkZXIiOnsiYnJ1c2giOiIjRkZGQUYwRTYiLCJ3aWR0aCI6My4wLCJkYXNoU3R5bGUiOjAsIm9wYWNpdHkiOjEwMH0sInNob3ciOnRydWUsImluc3RhbnRBbGVydHMiOmZhbHNlLCJiYXJDbG9zZUFsZXJ0cyI6ZmFsc2UsIndpdGhQYXdJbnN0YW50QWxlcnRzIjpmYWxzZSwid2l0aFBhckJhckNsb3NlQWxlcnRzIjpmYWxzZX0sImxlYWRpbmdWb2x1bWUiOnsic2hvdyI6dHJ1ZSwiY29sb3IiOiIjRkZEQzE0M0MiLCJmb250Q29sb3IiOiIjRkZEQzE0M0MiLCJiYXJDbG9zZUFsZXJ0cyI6ZmFsc2V9LCJuZXRWb2x1bWUiOnsic2hvdyI6ZmFsc2UsInBvc2l0aXZlQm9yZGVyU3R5bGUiOnsiYnJ1c2giOiIjRkY4RkJDOEYiLCJ3aWR0aCI6MS4wLCJkYXNoU3R5bGUiOjAsIm9wYWNpdHkiOjEwMH0sIm5lZ2F0aXZlQm9yZGVyU3R5bGUiOnsiYnJ1c2giOiIjRkZCMjIyMjIiLCJ3aWR0aCI6MS4wLCJkYXNoU3R5bGUiOjAsIm9wYWNpdHkiOjEwMH0sInBvc2l0aXZlVGV4dENvbG9yIjoiI0ZGRkZGRkZGIiwibmVnYXRpdmVUZXh0Q29sb3IiOiIjRkZGRkZGRkYiLCJmb250Ijp7ImZvbnRGYW1pbHkiOiJBcmlhbCIsInNpemUiOjEyLjAsImJvbGQiOnRydWUsIml0YWxpYyI6ZmFsc2V9LCJzaG93RGl2ZXJnZW5jZSI6dHJ1ZSwiZGl2ZXJnZW5jZUJvcmRlclN0eWxlIjp7ImJydXNoIjoiI0ZGRkZBNTAwIiwid2lkdGgiOjEuMCwiZGFzaFN0eWxlIjowLCJvcGFjaXR5IjoxMDB9LCJkaXZlcmdlbmNlVGV4dENvbG9yIjoiI0ZGRkZGRkZGIn0sInRvdGFsVm9sdW1lIjp7InNob3ciOmZhbHNlLCJ0ZXh0Q29sb3IiOiIjRkZCODg2MEIiLCJiYWNrZ3JvdW5kQ29sb3IiOiIjRkZGNUY1RjUiLCJmb250Ijp7ImZvbnRGYW1pbHkiOiJBcmlhbCIsInNpemUiOjEyLjAsImJvbGQiOnRydWUsIml0YWxpYyI6ZmFsc2V9LCJpbnN0YW50QWxlcnRzIjpmYWxzZSwiYmFyQ2xvc2VBbGVydHMiOmZhbHNlfSwiYmFyQ29udHJvbCI6eyJhdXRvc2NhbGUiOnRydWUsInNob3dCYXJPdXRsaW5lIjpmYWxzZSwic2hvd0xpbmVzIjpmYWxzZSwic2hvd0dyYWRpZW50IjpmYWxzZSwidm9sdW1lUG9zaXRpdmVHcmFkaWVudFN0YXJ0IjoiI0ZGRjVGRkZBIiwidm9sdW1lUG9zaXRpdmVHcmFkaWVudEVuZCI6IiNGRjhGQkM4RiIsInZvbHVtZU5lZ2F0aXZlR3JhZGllbnRTdGFydCI6IiNGRkZBRjBFNiIsInZvbHVtZU5lZ2F0aXZlR3JhZGllbnRFbmQiOiIjRkZCQzhGOEYiLCJiYXJDb2xvclVwIjoiI0ZGOEZCQzhGIiwiYmFyQ29sb3JEb3duIjoiI0ZGQkM4RjhGIiwic2hvd1ZvbHVtZXMiOmZhbHNlLCJ2b2x1bWVGb250Ijp7ImZvbnRGYW1pbHkiOiJBcmlhbCIsInNpemUiOjE0LjAsImJvbGQiOnRydWUsIml0YWxpYyI6ZmFsc2V9LCJiYXJXaWR0aEZhY3RvciI6NzB9LCJ2b2x1bWVDb250cm9sIjp7IkdyYWRpZW50U3RhcnQiOiIjRkZEM0QzRDMiLCJHcmFkaWVudEVuZCI6IiNGRjY5Njk2OSIsIlNob3ciOmZhbHNlLCJHcmFkaWVudE9wYWNpdHkiOjUwfSwiQ2x1c3RlciI6eyJzaG93Ijp0cnVlLCJib3JkZXJDb2xvciI6eyJicnVzaCI6IiNGRkZGRkYwMCIsIndpZHRoIjo0LjAsImRhc2hTdHlsZSI6MCwib3BhY2l0eSI6MTAwfSwiaW5zdGFudEFsZXJ0cyI6ZmFsc2UsImJhckNsb3NlQWxlcnRzIjpmYWxzZSwiZG91YmxlQ2x1c3Rlckluc3RhbnRBbGVydHMiOmZhbHNlLCJkb3VibGVDbHVzdGVyQWxlcnRzIjpmYWxzZSwibWluQ2x1c3RlcldpZHRoVG9FeHBhbmQiOjI1fSwiYmxvY2tWb2x1bWVBY2NlbGVyYXRpb24iOnsic2hvdyI6ZmFsc2UsImljb25CYWNrZ3JvdW5kUG9zaXRpdmVDb2xvciI6IiNGRjdCNjhFRSIsImljb25CYWNrZ3JvdW5kTmVnYXRpdmVDb2xvciI6IiNGRjdCNjhFRSIsImljb25CYWNrZ3JvdW5kRGl2ZXJnZW5jZUNvbG9yIjoiI0ZGRkZBNTAwIiwiaWNvbkZvcmVDb2xvciI6IiNGRkZGRkZGRiJ9LCJ2b2x1bWVTY29yZSI6eyJTaG93Ijp0cnVlLCJVcFRleHRDb2xvciI6IiNGRkQzRDNEMyIsIlVwQm9yZGVyIjp7ImJydXNoIjoiIzAwRkZGRkZGIiwid2lkdGgiOjEuMCwiZGFzaFN0eWxlIjowLCJvcGFjaXR5IjoxMDB9LCJEb3duVGV4dENvbG9yIjoiI0ZGRDNEM0QzIiwiRG93bkJvcmRlciI6eyJicnVzaCI6IiMwMEZGRkZGRiIsIndpZHRoIjoxLjAsImRhc2hTdHlsZSI6MCwib3BhY2l0eSI6MTAwfSwiRGl2ZXJnZW50VGV4dENvbG9yIjoiI0ZGRkZBNTAwIiwiRGl2ZXJnZW50Qm9yZGVyIjp7ImJydXNoIjoiIzAwRkZGRkZGIiwid2lkdGgiOjEuMCwiZGFzaFN0eWxlIjowLCJvcGFjaXR5IjoxMDB9LCJBdXRvU2NhbGUiOmZhbHNlLCJGb250Ijp7ImZvbnRGYW1pbHkiOiJBcmlhbCIsInNpemUiOjEyLjAsImJvbGQiOnRydWUsIml0YWxpYyI6ZmFsc2V9LCJVcHBlckluc3RhbnRBbGVydHMiOmZhbHNlLCJVcHBlckJhckNsb3NlQWxlcnRzIjpmYWxzZSwiTG93ZXJJbnN0YW50QWxlcnRzIjpmYWxzZSwiTG93ZXJCYXJDbG9zZUFsZXJ0cyI6ZmFsc2V9LCJvcFJlamVjdGlvbiI6eyJpbnN0YW50QWxlcnRzIjpmYWxzZSwiYmFyQ2xvc2VBbGVydHMiOmZhbHNlLCJzaG93T1BSZWplY3Rpb24iOnRydWUsImljb25VcENvbG9yIjoiI0ZGQURGRjJGIiwiaWNvbkRvd25Db2xvciI6IiNGRkZGNjM0NyIsInZlcnRpY2FsT2Zmc2V0IjowLjAsInNjYWxlT2Zmc2V0IjoyfSwib3BEaXZlcmdlbmNlIjp7Imluc3RhbnRBbGVydHMiOmZhbHNlLCJiYXJDbG9zZUFsZXJ0cyI6ZmFsc2UsInNob3dPUERpdmVyZ2VuY2UiOmZhbHNlLCJpY29uVXBDb2xvciI6IiNGRkFERkYyRiIsImljb25Eb3duQ29sb3IiOiIjRkZGRjYzNDciLCJ2ZXJ0aWNhbE9mZnNldCI6MC4wLCJzY2FsZU9mZnNldCI6Mn0sInRoaXJkQmFyU2xpbmciOnsiaW5zdGFudEFsZXJ0cyI6ZmFsc2UsImJhckNsb3NlQWxlcnRzIjpmYWxzZX0sInN0YXJMVlNaT0kiOnsiaW5zdGFudEFsZXJ0cyI6ZmFsc2UsImJhckNsb3NlQWxlcnRzIjpmYWxzZX0sImVsZXZhdG9yIjp7Imluc3RhbnRBbGVydHMiOmZhbHNlLCJiYXJDbG9zZUFsZXJ0cyI6ZmFsc2V9LCJkaXZlcmdlbnRMb3dSZXZlcnNhbEdvIjp7Imluc3RhbnRBbGVydHMiOmZhbHNlLCJiYXJDbG9zZUFsZXJ0cyI6ZmFsc2V9LCJkb3VibGVUWCI6eyJpbnN0YW50QWxlcnRzIjpmYWxzZSwiYmFyQ2xvc2VBbGVydHMiOmZhbHNlfX0=</UserSettingsSerialized>
           <MasterTickSize>0.1</MasterTickSize>
@@ -154,11 +154,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2021-05-07T00:00:00</From>
+          <From>2021-05-17T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2021-05-10T00:00:00</To>
+          <To>2021-05-20T00:00:00</To>
           <Calculate>OnBarClose</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -176,7 +176,7 @@
           <DrawOnPricePanel>false</DrawOnPricePanel>
           <PaintPriceMarkers>true</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>5</IndicatorId>
+          <IndicatorId>578</IndicatorId>
           <InstrumentDeserialized>GC 06-21 Nymex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -207,11 +207,11 @@
               </BarsPeriodSerializable>
               <BarsToLoad>0</BarsToLoad>
               <DisplayInDataBox>true</DisplayInDataBox>
-              <From>2021-05-07T00:00:00</From>
+              <From>2021-05-17T00:00:00</From>
               <Panel>0</Panel>
               <ScaleJustification>Right</ScaleJustification>
               <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-              <To>2021-05-10T00:00:00</To>
+              <To>2021-05-20T00:00:00</To>
               <Calculate>OnBarClose</Calculate>
               <Displacement>0</Displacement>
               <IsAutoScale>true</IsAutoScale>
@@ -280,11 +280,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2021-05-07T00:00:00</From>
+          <From>2021-05-17T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2021-05-10T00:00:00</To>
+          <To>2021-05-20T00:00:00</To>
           <Calculate>OnBarClose</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -302,7 +302,7 @@
           <DrawOnPricePanel>false</DrawOnPricePanel>
           <PaintPriceMarkers>true</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>9</IndicatorId>
+          <IndicatorId>582</IndicatorId>
           <InstrumentDeserialized>GC 06-21 Nymex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -333,11 +333,11 @@
               </BarsPeriodSerializable>
               <BarsToLoad>0</BarsToLoad>
               <DisplayInDataBox>true</DisplayInDataBox>
-              <From>2021-05-07T00:00:00</From>
+              <From>2021-05-17T00:00:00</From>
               <Panel>0</Panel>
               <ScaleJustification>Right</ScaleJustification>
               <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-              <To>2021-05-10T00:00:00</To>
+              <To>2021-05-20T00:00:00</To>
               <Calculate>OnBarClose</Calculate>
               <Displacement>0</Displacement>
               <IsAutoScale>true</IsAutoScale>
@@ -406,11 +406,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2021-05-07T00:00:00</From>
+          <From>2021-05-17T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2021-05-10T00:00:00</To>
+          <To>2021-05-20T00:00:00</To>
           <Calculate>OnBarClose</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -428,7 +428,7 @@
           <DrawOnPricePanel>false</DrawOnPricePanel>
           <PaintPriceMarkers>true</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>13</IndicatorId>
+          <IndicatorId>586</IndicatorId>
           <InstrumentDeserialized>GC 06-21 Nymex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -459,11 +459,11 @@
               </BarsPeriodSerializable>
               <BarsToLoad>0</BarsToLoad>
               <DisplayInDataBox>true</DisplayInDataBox>
-              <From>2021-05-07T00:00:00</From>
+              <From>2021-05-17T00:00:00</From>
               <Panel>0</Panel>
               <ScaleJustification>Right</ScaleJustification>
               <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-              <To>2021-05-10T00:00:00</To>
+              <To>2021-05-20T00:00:00</To>
               <Calculate>OnBarClose</Calculate>
               <Displacement>0</Displacement>
               <IsAutoScale>true</IsAutoScale>
@@ -532,11 +532,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2021-05-07T00:00:00</From>
+          <From>2021-05-17T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2021-05-10T00:00:00</To>
+          <To>2021-05-20T00:00:00</To>
           <Calculate>OnBarClose</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -554,7 +554,7 @@
           <DrawOnPricePanel>false</DrawOnPricePanel>
           <PaintPriceMarkers>true</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>17</IndicatorId>
+          <IndicatorId>590</IndicatorId>
           <InstrumentDeserialized>GC 06-21 Nymex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -585,11 +585,11 @@
               </BarsPeriodSerializable>
               <BarsToLoad>0</BarsToLoad>
               <DisplayInDataBox>true</DisplayInDataBox>
-              <From>2021-05-07T00:00:00</From>
+              <From>2021-05-17T00:00:00</From>
               <Panel>0</Panel>
               <ScaleJustification>Right</ScaleJustification>
               <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-              <To>2021-05-10T00:00:00</To>
+              <To>2021-05-20T00:00:00</To>
               <Calculate>OnBarClose</Calculate>
               <Displacement>0</Displacement>
               <IsAutoScale>true</IsAutoScale>
@@ -664,11 +664,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2021-05-07T00:00:00</From>
+          <From>2021-05-17T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2021-05-10T00:00:00</To>
+          <To>2021-05-20T00:00:00</To>
           <Calculate>OnBarClose</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -686,7 +686,7 @@
           <DrawOnPricePanel>false</DrawOnPricePanel>
           <PaintPriceMarkers>true</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>21</IndicatorId>
+          <IndicatorId>594</IndicatorId>
           <InstrumentDeserialized>GC 06-21 Nymex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -717,11 +717,11 @@
               </BarsPeriodSerializable>
               <BarsToLoad>0</BarsToLoad>
               <DisplayInDataBox>true</DisplayInDataBox>
-              <From>2021-05-07T00:00:00</From>
+              <From>2021-05-17T00:00:00</From>
               <Panel>0</Panel>
               <ScaleJustification>Right</ScaleJustification>
               <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-              <To>2021-05-10T00:00:00</To>
+              <To>2021-05-20T00:00:00</To>
               <Calculate>OnBarClose</Calculate>
               <Displacement>0</Displacement>
               <IsAutoScale>true</IsAutoScale>
@@ -793,11 +793,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2021-05-07T00:00:00</From>
+          <From>2021-05-17T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2021-05-10T00:00:00</To>
+          <To>2021-05-20T00:00:00</To>
           <Calculate>OnBarClose</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -815,7 +815,7 @@
           <DrawOnPricePanel>false</DrawOnPricePanel>
           <PaintPriceMarkers>true</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>25</IndicatorId>
+          <IndicatorId>598</IndicatorId>
           <InstrumentDeserialized>GC 06-21 Nymex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -846,11 +846,11 @@
               </BarsPeriodSerializable>
               <BarsToLoad>0</BarsToLoad>
               <DisplayInDataBox>true</DisplayInDataBox>
-              <From>2021-05-07T00:00:00</From>
+              <From>2021-05-17T00:00:00</From>
               <Panel>0</Panel>
               <ScaleJustification>Right</ScaleJustification>
               <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-              <To>2021-05-10T00:00:00</To>
+              <To>2021-05-20T00:00:00</To>
               <Calculate>OnBarClose</Calculate>
               <Displacement>0</Displacement>
               <IsAutoScale>true</IsAutoScale>
@@ -925,11 +925,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2021-05-07T00:00:00</From>
+          <From>2021-05-17T00:00:00</From>
           <Panel>1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2021-05-10T00:00:00</To>
+          <To>2021-05-20T00:00:00</To>
           <Calculate>OnEachTick</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>false</IsAutoScale>
@@ -997,7 +997,7 @@
           <DrawOnPricePanel>false</DrawOnPricePanel>
           <PaintPriceMarkers>true</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>28</IndicatorId>
+          <IndicatorId>601</IndicatorId>
           <InstrumentDeserialized>GC 06-21 Nymex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -1027,11 +1027,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>false</DisplayInDataBox>
-          <From>2021-05-07T00:00:00</From>
+          <From>2021-05-17T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2021-05-10T00:00:00</To>
+          <To>2021-05-20T00:00:00</To>
           <Calculate>OnBarClose</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -1049,7 +1049,7 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>31</IndicatorId>
+          <IndicatorId>604</IndicatorId>
           <InstrumentDeserialized>GC 06-21 Nymex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -1079,11 +1079,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>false</DisplayInDataBox>
-          <From>2021-05-07T00:00:00</From>
+          <From>2021-05-17T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2021-05-10T00:00:00</To>
+          <To>2021-05-20T00:00:00</To>
           <Calculate>OnBarClose</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -1101,7 +1101,7 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>34</IndicatorId>
+          <IndicatorId>607</IndicatorId>
           <InstrumentDeserialized>GC 06-21 Nymex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -1131,11 +1131,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2021-05-07T00:00:00</From>
+          <From>2021-05-17T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2021-05-10T00:00:00</To>
+          <To>2021-05-20T00:00:00</To>
           <Calculate>OnBarClose</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -1153,7 +1153,7 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>37</IndicatorId>
+          <IndicatorId>610</IndicatorId>
           <InstrumentDeserialized>GC 06-21 Nymex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -1183,11 +1183,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>false</DisplayInDataBox>
-          <From>2021-05-07T00:00:00</From>
+          <From>2021-05-17T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2021-05-10T00:00:00</To>
+          <To>2021-05-20T00:00:00</To>
           <Calculate>OnPriceChange</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>false</IsAutoScale>
@@ -1230,7 +1230,7 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>40</IndicatorId>
+          <IndicatorId>613</IndicatorId>
           <InstrumentDeserialized>GC 06-21 Nymex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -1260,11 +1260,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>false</DisplayInDataBox>
-          <From>2021-05-07T00:00:00</From>
+          <From>2021-05-17T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2021-05-10T00:00:00</To>
+          <To>2021-05-20T00:00:00</To>
           <Calculate>OnPriceChange</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>false</IsAutoScale>
@@ -1307,7 +1307,7 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>43</IndicatorId>
+          <IndicatorId>616</IndicatorId>
           <InstrumentDeserialized>GC 06-21 Nymex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -1337,11 +1337,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>false</DisplayInDataBox>
-          <From>2021-05-07T00:00:00</From>
+          <From>2021-05-17T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2021-05-10T00:00:00</To>
+          <To>2021-05-20T00:00:00</To>
           <Calculate>OnPriceChange</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>false</IsAutoScale>
@@ -1384,7 +1384,7 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>46</IndicatorId>
+          <IndicatorId>619</IndicatorId>
           <InstrumentDeserialized>GC 06-21 Nymex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -1414,11 +1414,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2021-05-07T00:00:00</From>
+          <From>2021-05-17T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2021-05-10T00:00:00</To>
+          <To>2021-05-20T00:00:00</To>
           <Calculate>OnEachTick</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>false</IsAutoScale>
@@ -1449,14 +1449,14 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>49</IndicatorId>
+          <IndicatorId>622</IndicatorId>
           <InstrumentDeserialized>GC 06-21 Nymex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
           <ZOrder>10010</ZOrder>
           <SettingsSerialized>eyJSZXF1aXJlQ2xvc2VCcmVha291dCI6ZmFsc2UsIk1vdmVTYW1lTG93SGlnaCI6ZmFsc2UsIlNwYW4iOjQsIlN0cmVuZ3RoIjo0fQ==</SettingsSerialized>
           <UserSettingsSerialized>eyJBbGVydHMiOnsidmlzdWFsIjpmYWxzZSwiYXVkaWJsZSI6ZmFsc2UsIndpbmRvd0ZsYXNoIjpmYWxzZX0sIkFsZXJ0c0ZpbHRlciI6ZmFsc2UsIkZvbnRDaGFydExhYmVsIjp7ImZvbnRGYW1pbHkiOiJNaWNyb3NvZnQgU2FucyBTZXJpZiIsInNpemUiOjE0LjAsImJvbGQiOnRydWUsIml0YWxpYyI6ZmFsc2V9LCJCb2xkIjp0cnVlLCJTaG93UGVyY2VudGFnZSI6dHJ1ZSwiQ29sb3JEb3VibGUiOiIjRkZGRkQ3MDAiLCJDb2xvckhITEwiOiIjRkZGRkZGRkYiLCJDb2xvckhMTEgiOiIjRkZEM0QzRDMiLCJMYWJlbE9mZnNldCI6MTd9</UserSettingsSerialized>
-          <iOD>15</iOD>
+          <iOD>255</iOD>
         </ApexOscillationDetector>
         <Input>
           <PriceType>Close</PriceType>
@@ -1480,11 +1480,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>false</DisplayInDataBox>
-          <From>2021-05-07T00:00:00</From>
+          <From>2021-05-17T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2021-05-10T00:00:00</To>
+          <To>2021-05-20T00:00:00</To>
           <Calculate>OnPriceChange</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>false</IsAutoScale>
@@ -1502,7 +1502,7 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>52</IndicatorId>
+          <IndicatorId>625</IndicatorId>
           <InstrumentDeserialized>GC 06-21 Nymex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -1532,11 +1532,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2021-05-07T00:00:00</From>
+          <From>2021-05-17T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2021-05-10T00:00:00</To>
+          <To>2021-05-20T00:00:00</To>
           <Calculate>OnPriceChange</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>false</IsAutoScale>
@@ -1591,7 +1591,7 @@
           <DrawOnPricePanel>false</DrawOnPricePanel>
           <PaintPriceMarkers>true</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>55</IndicatorId>
+          <IndicatorId>628</IndicatorId>
           <InstrumentDeserialized>GC 06-21 Nymex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -1621,11 +1621,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>false</DisplayInDataBox>
-          <From>2021-05-07T00:00:00</From>
+          <From>2021-05-17T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2021-05-10T00:00:00</To>
+          <To>2021-05-20T00:00:00</To>
           <Calculate>OnPriceChange</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -1656,7 +1656,7 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>true</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>58</IndicatorId>
+          <IndicatorId>631</IndicatorId>
           <InstrumentDeserialized>GC 06-21 Nymex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -1686,11 +1686,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2021-05-07T00:00:00</From>
+          <From>2021-05-17T00:00:00</From>
           <Panel>2</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2021-05-10T00:00:00</To>
+          <To>2021-05-20T00:00:00</To>
           <Calculate>OnEachTick</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -1731,7 +1731,7 @@
           <DrawOnPricePanel>false</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>61</IndicatorId>
+          <IndicatorId>634</IndicatorId>
           <InstrumentDeserialized>GC 06-21 Nymex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -1761,11 +1761,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2021-05-07T00:00:00</From>
+          <From>2021-05-17T00:00:00</From>
           <Panel>2</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2021-05-10T00:00:00</To>
+          <To>2021-05-20T00:00:00</To>
           <Calculate>OnEachTick</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -1806,7 +1806,7 @@
           <DrawOnPricePanel>false</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>64</IndicatorId>
+          <IndicatorId>637</IndicatorId>
           <InstrumentDeserialized>GC 06-21 Nymex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -1836,11 +1836,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2021-05-07T00:00:00</From>
+          <From>2021-05-17T00:00:00</From>
           <Panel>2</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2021-05-10T00:00:00</To>
+          <To>2021-05-20T00:00:00</To>
           <Calculate>OnEachTick</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -1881,7 +1881,7 @@
           <DrawOnPricePanel>false</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>67</IndicatorId>
+          <IndicatorId>640</IndicatorId>
           <InstrumentDeserialized>GC 06-21 Nymex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -1911,11 +1911,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2021-05-07T00:00:00</From>
+          <From>2021-05-17T00:00:00</From>
           <Panel>2</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2021-05-10T00:00:00</To>
+          <To>2021-05-20T00:00:00</To>
           <Calculate>OnEachTick</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -1956,7 +1956,7 @@
           <DrawOnPricePanel>false</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>70</IndicatorId>
+          <IndicatorId>643</IndicatorId>
           <InstrumentDeserialized>GC 06-21 Nymex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -1992,11 +1992,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2021-05-07T00:00:00</From>
+          <From>2021-05-17T00:00:00</From>
           <Panel>2</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2021-05-10T00:00:00</To>
+          <To>2021-05-20T00:00:00</To>
           <Calculate>OnEachTick</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -2037,7 +2037,7 @@
           <DrawOnPricePanel>false</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>73</IndicatorId>
+          <IndicatorId>646</IndicatorId>
           <InstrumentDeserialized>GC 06-21 Nymex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -2070,11 +2070,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2021-05-07T00:00:00</From>
+          <From>2021-05-17T00:00:00</From>
           <Panel>2</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2021-05-10T00:00:00</To>
+          <To>2021-05-20T00:00:00</To>
           <Calculate>OnEachTick</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -2115,7 +2115,7 @@
           <DrawOnPricePanel>false</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>76</IndicatorId>
+          <IndicatorId>649</IndicatorId>
           <InstrumentDeserialized>GC 06-21 Nymex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -2151,11 +2151,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2021-05-07T00:00:00</From>
+          <From>2021-05-17T00:00:00</From>
           <Panel>2</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2021-05-10T00:00:00</To>
+          <To>2021-05-20T00:00:00</To>
           <Calculate>OnEachTick</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -2196,7 +2196,7 @@
           <DrawOnPricePanel>false</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>79</IndicatorId>
+          <IndicatorId>652</IndicatorId>
           <InstrumentDeserialized>GC 06-21 Nymex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -2226,11 +2226,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2021-05-07T00:00:00</From>
+          <From>2021-05-17T00:00:00</From>
           <Panel>2</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2021-05-10T00:00:00</To>
+          <To>2021-05-20T00:00:00</To>
           <Calculate>OnEachTick</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -2271,7 +2271,7 @@
           <DrawOnPricePanel>false</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>82</IndicatorId>
+          <IndicatorId>655</IndicatorId>
           <InstrumentDeserialized>GC 06-21 Nymex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -2301,11 +2301,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2021-05-07T00:00:00</From>
+          <From>2021-05-17T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2021-05-10T00:00:00</To>
+          <To>2021-05-20T00:00:00</To>
           <Calculate>OnBarClose</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -2323,7 +2323,7 @@
           <DrawOnPricePanel>false</DrawOnPricePanel>
           <PaintPriceMarkers>true</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>85</IndicatorId>
+          <IndicatorId>658</IndicatorId>
           <InstrumentDeserialized>GC 06-21 Nymex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -2353,11 +2353,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>false</DisplayInDataBox>
-          <From>2021-05-07T00:00:00</From>
+          <From>2021-05-17T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2021-05-10T00:00:00</To>
+          <To>2021-05-20T00:00:00</To>
           <Calculate>OnBarClose</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -2400,7 +2400,7 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>88</IndicatorId>
+          <IndicatorId>661</IndicatorId>
           <InstrumentDeserialized>GC 06-21 Nymex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -2429,11 +2429,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>false</DisplayInDataBox>
-          <From>2021-05-07T00:00:00</From>
+          <From>2021-05-17T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2021-05-10T00:00:00</To>
+          <To>2021-05-20T00:00:00</To>
           <Calculate>OnBarClose</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -2476,7 +2476,7 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>91</IndicatorId>
+          <IndicatorId>664</IndicatorId>
           <InstrumentDeserialized>GC 06-21 Nymex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -2505,11 +2505,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>false</DisplayInDataBox>
-          <From>2021-05-07T00:00:00</From>
+          <From>2021-05-17T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2021-05-10T00:00:00</To>
+          <To>2021-05-20T00:00:00</To>
           <Calculate>OnBarClose</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -2552,7 +2552,7 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>94</IndicatorId>
+          <IndicatorId>667</IndicatorId>
           <InstrumentDeserialized>GC 06-21 Nymex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -2581,11 +2581,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>false</DisplayInDataBox>
-          <From>2021-05-07T00:00:00</From>
+          <From>2021-05-17T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2021-05-10T00:00:00</To>
+          <To>2021-05-20T00:00:00</To>
           <Calculate>OnBarClose</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -2628,7 +2628,7 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>97</IndicatorId>
+          <IndicatorId>670</IndicatorId>
           <InstrumentDeserialized>GC 06-21 Nymex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -2639,7 +2639,7 @@
           <PriceType>Close</PriceType>
         </Input>
       </Indicator>
-      <Indicator BarsIndex="0" Instrument="GC 06-21 Nymex" Name="NinjaTrader.NinjaScript.Indicators.AutomationTool" Panel="-1" DisplayName="_APEX Automation Tool(GC_DTX,False,GC_ELEV,False,GC_ETX,False,GC_FTX,False,GC_HD,False,GC_ODD,False,GC_SLZ,False,GC_TBS,False,True,4/29/2021 9:35:00 AM,4/29/2021 9:25:00 AM,True,4/29/2021 6:00:00 PM,4/29/2021 1:15:00 PM,False,5/10/2021 3:00:00 AM,5/10/2021 1:00:00 AM,False,False,False,True,True,False,6,False,False,False,False,False,True,False,6,False,False,email@gmail.com,False,False,False,False,True,False,False,6,False,True,False,False,False,True,0.65,True,False,6,False,False,False,False,False,True,False,6,130,False,False,-9999,False,False,False,False,True,False,6,75,False,gcTickID,,,False,,,9999,False,False,False,False,True,False,6,False,6,3,13,False,False,False,False,False,True,False,6,False,4,False,4,False,4,False,15,4,False,4,False,4,False,4,True,4,False)">
+      <Indicator BarsIndex="0" Instrument="GC 06-21 Nymex" Name="NinjaTrader.NinjaScript.Indicators.AutomationTool" Panel="-1" DisplayName="_APEX Automation Tool(GC_DTX,False,GC_ELEV,False,GC_ETX,False,GC_FTX,False,GC_HD,False,GC_ODD,False,GC_SLZ,False,GC_TBS,False,True,4/29/2021 9:35:00 AM,4/29/2021 9:25:00 AM,True,4/29/2021 6:00:00 PM,4/29/2021 1:15:00 PM,False,5/10/2021 3:00:00 AM,5/10/2021 1:00:00 AM,False,999,1,True,False,False,False,True,False,False,False,True,0.5,False,True,False,False,14,2,999,10,False,False,True,0,False,90,10,False,False,999,1,True,False,False,False,True,False,False,False,False,0.5,False,True,False,False,14,2,999,10,False,False,True,0,False,90,10,False,False,email@gmail.com,False,999,1,False,False,False,False,True,False,False,False,False,0.5,False,True,False,False,False,14,2,999,10,False,True,True,0,False,90,10,False,True,False,999,1,True,False,False,False,True,True,False,False,True,0.65,True,True,False,False,14,2,999,10,False,False,True,0,False,90,10,False,True,270,130,True,False,False,False,True,True,False,False,False,0.5,False,True,False,False,14,2,999,10,False,False,True,0,False,90,10,False,3,False,-9999,True,80,20,True,False,False,False,True,True,False,False,False,0.5,False,True,False,False,14,2,999,10,False,False,True,0,False,90,10,False,gcTickID,,,False,,,9999,False,999,1,True,False,False,False,True,False,False,False,False,0.5,False,True,False,False,14,2,999,10,False,False,True,0,False,False,90,10,6,2,2,13,False,False,999,1,False,False,False,False,True,True,False,False,False,0.5,False,True,False,False,14,2,999,10,False,False,True,0,False,90,10,False,4,False,4,False,4,False,4,False,4,False,4,False,4,True,4,False)">
         <AutomationTool xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
           <IsVisible>true</IsVisible>
           <AreLinesConfigurable>true</AreLinesConfigurable>
@@ -2657,11 +2657,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>false</DisplayInDataBox>
-          <From>2021-05-07T00:00:00</From>
+          <From>2021-05-17T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Overlay</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2021-05-10T00:00:00</To>
+          <To>2021-05-20T00:00:00</To>
           <Calculate>OnEachTick</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>false</IsAutoScale>
@@ -2702,19 +2702,39 @@
           <DrawOnPricePanel>false</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>100</IndicatorId>
+          <IndicatorId>673</IndicatorId>
           <InstrumentDeserialized>GC 06-21 Nymex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
           <ZOrder>31317</ZOrder>
           <SettingsSerialized>eyJJc1VwQ2xvc2VCYXIiOnRydWUsIklzRG93bkNsb3NlQmFyIjp0cnVlLCJVc2VQcmljZVZhbHVlIjpmYWxzZSwiVGlja09mZnNldCI6MCwiVXBDbG9zZVZhbHVlIjoxLjAsIlVwQ2xvc2VMaXZlVmFsdWUiOi0xLjAsIkRvd25DbG9zZVZhbHVlIjoxLjAsIkRvd25DbG9zZUxpdmVWYWx1ZSI6LTEuMH0=</SettingsSerialized>
           <UserSettingsSerialized>e30=</UserSettingsSerialized>
-          <FTXDRValue>0.65</FTXDRValue>
-          <ODDValue>75</ODDValue>
-          <HDValue>130</HDValue>
-          <TicksFromSettlement>15</TicksFromSettlement>
           <OrderPrintsID>gcTickID</OrderPrintsID>
           <MultiSetupEntry>false</MultiSetupEntry>
+          <DTX_OD_Enabled>false</DTX_OD_Enabled>
+          <DTX_ODMinValue>1</DTX_ODMinValue>
+          <DTX_ODMaxValue>999</DTX_ODMaxValue>
+          <ELEV_OD_Enabled>false</ELEV_OD_Enabled>
+          <ELEV_ODMinValue>1</ELEV_ODMinValue>
+          <ELEV_ODMaxValue>999</ELEV_ODMaxValue>
+          <ETX_OD_Enabled>false</ETX_OD_Enabled>
+          <ETX_ODMinValue>1</ETX_ODMinValue>
+          <ETX_ODMaxValue>999</ETX_ODMaxValue>
+          <FTX_OD_Enabled>false</FTX_OD_Enabled>
+          <FTX_ODMinValue>1</FTX_ODMinValue>
+          <FTX_ODMaxValue>999</FTX_ODMaxValue>
+          <HD_OD_Enabled>true</HD_OD_Enabled>
+          <HD_ODMinValue>130</HD_ODMinValue>
+          <HD_ODMaxValue>270</HD_ODMaxValue>
+          <ODD_OD_Enabled>true</ODD_OD_Enabled>
+          <ODD_ODMinValue>20</ODD_ODMinValue>
+          <ODD_ODMaxValue>80</ODD_ODMaxValue>
+          <SLZ_OD_Enabled>false</SLZ_OD_Enabled>
+          <SLZ_ODMinValue>1</SLZ_ODMinValue>
+          <SLZ_ODMaxValue>999</SLZ_ODMaxValue>
+          <TBS_OD_Enabled>false</TBS_OD_Enabled>
+          <TBS_ODMinValue>1</TBS_ODMinValue>
+          <TBS_ODMaxValue>999</TBS_ODMaxValue>
           <PositivePNLReached>9999</PositivePNLReached>
           <NegativePNLReached>-9999</NegativePNLReached>
           <FastMarkets>true</FastMarkets>
@@ -2735,29 +2755,37 @@
           <ODDEnabled>true</ODDEnabled>
           <SLZEnabled>true</SLZEnabled>
           <TBSEnabled>true</TBSEnabled>
-          <DTXTicksObstruction>6</DTXTicksObstruction>
-          <ELEVTicksObstruction>6</ELEVTicksObstruction>
-          <ETXTicksObstruction>6</ETXTicksObstruction>
-          <FTXTicksObstruction>6</FTXTicksObstruction>
-          <HDTicksObstruction>6</HDTicksObstruction>
-          <ODDTicksObstruction>6</ODDTicksObstruction>
-          <SLZTicksObstruction>6</SLZTicksObstruction>
-          <TBSTicksObstruction>6</TBSTicksObstruction>
-          <ATM_DTX_CustomBool>false</ATM_DTX_CustomBool>
+          <DTXObsMin>10</DTXObsMin>
+          <DTXObsMax>999</DTXObsMax>
+          <ELEVObsMin>10</ELEVObsMin>
+          <ELEVObsMax>999</ELEVObsMax>
+          <ETXObsMin>10</ETXObsMin>
+          <ETXObsMax>999</ETXObsMax>
+          <FTXObsMin>10</FTXObsMin>
+          <FTXObsMax>999</FTXObsMax>
+          <HDObsMin>10</HDObsMin>
+          <HDObsMax>999</HDObsMax>
+          <ODDObsMin>10</ODDObsMin>
+          <ODDObsMax>999</ODDObsMax>
+          <SLZObsMin>10</SLZObsMin>
+          <SLZObsMax>999</SLZObsMax>
+          <TBSObsMin>10</TBSObsMin>
+          <TBSObsMax>999</TBSObsMax>
+          <ATM_DTX_Custom_Enable>false</ATM_DTX_Custom_Enable>
           <ATM_DTX_Custom>GC_DTX</ATM_DTX_Custom>
-          <ATM_ELEV_CustomBool>false</ATM_ELEV_CustomBool>
+          <ATM_ELEV_Custom_Enable>false</ATM_ELEV_Custom_Enable>
           <ATM_ELEV_Custom>GC_ELEV</ATM_ELEV_Custom>
-          <ATM_ETX_CustomBool>false</ATM_ETX_CustomBool>
+          <ATM_ETX_Custom_Enable>false</ATM_ETX_Custom_Enable>
           <ATM_ETX_Custom>GC_ETX</ATM_ETX_Custom>
-          <ATM_FTX_CustomBool>false</ATM_FTX_CustomBool>
+          <ATM_FTX_Custom_Enable>false</ATM_FTX_Custom_Enable>
           <ATM_FTX_Custom>GC_FTX</ATM_FTX_Custom>
-          <ATM_HD_CustomBool>false</ATM_HD_CustomBool>
+          <ATM_HD_Custom_Enable>false</ATM_HD_Custom_Enable>
           <ATM_HD_Custom>GC_HD</ATM_HD_Custom>
-          <ATM_ODD_CustomBool>false</ATM_ODD_CustomBool>
+          <ATM_ODD_Custom_Enable>false</ATM_ODD_Custom_Enable>
           <ATM_ODD_Custom>GC_ODD</ATM_ODD_Custom>
-          <ATM_SLZ_CustomBool>false</ATM_SLZ_CustomBool>
+          <ATM_SLZ_Custom_Enable>false</ATM_SLZ_Custom_Enable>
           <ATM_SLZ_Custom>GC_SLZ</ATM_SLZ_Custom>
-          <ATM_TBS_CustomBool>false</ATM_TBS_CustomBool>
+          <ATM_TBS_Custom_Enable>false</ATM_TBS_Custom_Enable>
           <ATM_TBS_Custom>GC_TBS</ATM_TBS_Custom>
           <EmailEnabled>false</EmailEnabled>
           <EmailUsername>email@gmail.com</EmailUsername>
@@ -2766,8 +2794,9 @@
           <PlivoAuthToken />
           <PlivoPhone />
           <PlivoYourPhone />
-          <SLZVolStars>false</SLZVolStars>
-          <SLZVolStarsNumber>3</SLZVolStarsNumber>
+          <SLZStarsEnable>false</SLZStarsEnable>
+          <SLZVolStarsNumberMin>2</SLZVolStarsNumberMin>
+          <SLZVolStarsNumberMax>2</SLZVolStarsNumberMax>
           <SLZVolStarsValue>13</SLZVolStarsValue>
           <SLZVolStarsBars>6</SLZVolStarsBars>
           <ETXHigherHigh>false</ETXHigherHigh>
@@ -2779,21 +2808,37 @@
           <ODDDRCoherent>false</ODDDRCoherent>
           <SLZDRCoherent>false</SLZDRCoherent>
           <TBSDRCoherent>false</TBSDRCoherent>
-          <TicksDTXAmplifyBool>false</TicksDTXAmplifyBool>
+          <DTXDRValueEnable>false</DTXDRValueEnable>
+          <DTXDRValue>0.5</DTXDRValue>
+          <ELEVDRValueEnable>false</ELEVDRValueEnable>
+          <ELEVDRValue>0.5</ELEVDRValue>
+          <ETXDRValueEnable>false</ETXDRValueEnable>
+          <ETXDRValue>0.5</ETXDRValue>
+          <FTXDRValueEnable>true</FTXDRValueEnable>
+          <FTXDRValue>0.65</FTXDRValue>
+          <HDDRValueEnable>false</HDDRValueEnable>
+          <HDDRValue>0.5</HDDRValue>
+          <ODDDRValueEnable>false</ODDDRValueEnable>
+          <ODDDRValue>0.5</ODDDRValue>
+          <SLZDRValueEnable>false</SLZDRValueEnable>
+          <SLZDRValue>0.5</SLZDRValue>
+          <TBSDRValueEnable>false</TBSDRValueEnable>
+          <TBSDRValue>0.5</TBSDRValue>
+          <TicksDTXAmplifyEnable>false</TicksDTXAmplifyEnable>
           <TicksDTXAmplify>4</TicksDTXAmplify>
-          <TicksELEVAmplifyBool>false</TicksELEVAmplifyBool>
+          <TicksELEVAmplifyEnable>false</TicksELEVAmplifyEnable>
           <TicksELEVAmplify>4</TicksELEVAmplify>
-          <TicksETXAmplifyBool>false</TicksETXAmplifyBool>
+          <TicksETXAmplifyEnable>false</TicksETXAmplifyEnable>
           <TicksETXAmplify>4</TicksETXAmplify>
-          <TicksFTXAmplifyBool>false</TicksFTXAmplifyBool>
+          <TicksFTXAmplifyEnable>false</TicksFTXAmplifyEnable>
           <TicksFTXAmplify>4</TicksFTXAmplify>
-          <TicksHDAmplifyBool>false</TicksHDAmplifyBool>
+          <TicksHDAmplifyEnable>false</TicksHDAmplifyEnable>
           <TicksHDAmplify>4</TicksHDAmplify>
-          <TicksODDAmplifyBool>false</TicksODDAmplifyBool>
+          <TicksODDAmplifyEnable>false</TicksODDAmplifyEnable>
           <TicksODDAmplify>4</TicksODDAmplify>
-          <TicksSLZAmplifyBool>true</TicksSLZAmplifyBool>
+          <TicksSLZAmplifyEnable>true</TicksSLZAmplifyEnable>
           <TicksSLZAmplify>4</TicksSLZAmplify>
-          <TicksTBSAmplifyBool>false</TicksTBSAmplifyBool>
+          <TicksTBSAmplifyEnable>false</TicksTBSAmplifyEnable>
           <TicksTBSAmplify>4</TicksTBSAmplify>
           <DTXBreakEvenOnCoil>false</DTXBreakEvenOnCoil>
           <ELEVBreakEvenOnCoil>false</ELEVBreakEvenOnCoil>
@@ -2835,6 +2880,127 @@
           <ODDWickPreviousBar>false</ODDWickPreviousBar>
           <SLZWickPreviousBar>false</SLZWickPreviousBar>
           <TBSWickPreviousBar>false</TBSWickPreviousBar>
+          <DTXRequireLevel>false</DTXRequireLevel>
+          <ELEVRequireLevel>false</ELEVRequireLevel>
+          <ETXRequireLevel>true</ETXRequireLevel>
+          <FTXRequireLevel>false</FTXRequireLevel>
+          <HDRequireLevel>false</HDRequireLevel>
+          <ODDRequireLevel>false</ODDRequireLevel>
+          <SLZRequireLevel>false</SLZRequireLevel>
+          <TBSRequireLevel>false</TBSRequireLevel>
+          <DTXRequireCluster>false</DTXRequireCluster>
+          <ELEVRequireCluster>false</ELEVRequireCluster>
+          <ETXRequireCluster>false</ETXRequireCluster>
+          <FTXRequireCluster>false</FTXRequireCluster>
+          <HDRequireCluster>false</HDRequireCluster>
+          <ODDRequireCluster>false</ODDRequireCluster>
+          <SLZRequireCluster>false</SLZRequireCluster>
+          <TBSRequireCluster>false</TBSRequireCluster>
+          <DTXAvoidCluster>false</DTXAvoidCluster>
+          <ELEVAvoidCluster>false</ELEVAvoidCluster>
+          <ETXAvoidCluster>false</ETXAvoidCluster>
+          <FTXAvoidCluster>false</FTXAvoidCluster>
+          <HDAvoidCluster>false</HDAvoidCluster>
+          <ODDAvoidCluster>false</ODDAvoidCluster>
+          <SLZAvoidCluster>false</SLZAvoidCluster>
+          <TBSAvoidCluster>false</TBSAvoidCluster>
+          <DTXBuy>true</DTXBuy>
+          <DTXSell>true</DTXSell>
+          <ELEVBuy>true</ELEVBuy>
+          <ELEVSell>true</ELEVSell>
+          <ETXBuy>true</ETXBuy>
+          <ETXSell>true</ETXSell>
+          <FTXBuy>true</FTXBuy>
+          <FTXSell>true</FTXSell>
+          <HDBuy>true</HDBuy>
+          <HDSell>true</HDSell>
+          <ODDBuy>true</ODDBuy>
+          <ODDSell>true</ODDSell>
+          <SLZBuy>true</SLZBuy>
+          <SLZSell>true</SLZSell>
+          <TBSBuy>true</TBSBuy>
+          <TBSSell>true</TBSSell>
+          <DTXLiquidEnable>false</DTXLiquidEnable>
+          <DTXLiquidMinValue>2</DTXLiquidMinValue>
+          <DTXLiquidMaxValue>14</DTXLiquidMaxValue>
+          <ELEVLiquidEnable>false</ELEVLiquidEnable>
+          <ELEVLiquidMinValue>2</ELEVLiquidMinValue>
+          <ELEVLiquidMaxValue>14</ELEVLiquidMaxValue>
+          <ETXLiquidEnable>false</ETXLiquidEnable>
+          <ETXLiquidMinValue>2</ETXLiquidMinValue>
+          <ETXLiquidMaxValue>14</ETXLiquidMaxValue>
+          <FTXLiquidEnable>false</FTXLiquidEnable>
+          <FTXLiquidMinValue>2</FTXLiquidMinValue>
+          <FTXLiquidMaxValue>14</FTXLiquidMaxValue>
+          <HDLiquidEnable>false</HDLiquidEnable>
+          <HDLiquidMinValue>2</HDLiquidMinValue>
+          <HDLiquidMaxValue>14</HDLiquidMaxValue>
+          <ODDLiquidEnable>false</ODDLiquidEnable>
+          <ODDLiquidMinValue>2</ODDLiquidMinValue>
+          <ODDLiquidMaxValue>14</ODDLiquidMaxValue>
+          <SLZLiquidEnable>false</SLZLiquidEnable>
+          <SLZLiquidMinValue>2</SLZLiquidMinValue>
+          <SLZLiquidMaxValue>14</SLZLiquidMaxValue>
+          <TBSLiquidEnable>false</TBSLiquidEnable>
+          <TBSLiquidMinValue>2</TBSLiquidMinValue>
+          <TBSLiquidMaxValue>14</TBSLiquidMaxValue>
+          <MLiquidityBars>3</MLiquidityBars>
+          <DTXDivergence>false</DTXDivergence>
+          <ELEVDivergence>false</ELEVDivergence>
+          <ETXDivergence>false</ETXDivergence>
+          <FTXDivergence>false</FTXDivergence>
+          <HDDivergence>false</HDDivergence>
+          <ODDDivergence>false</ODDDivergence>
+          <SLZDivergence>false</SLZDivergence>
+          <TBSDivergence>false</TBSDivergence>
+          <DTXVolScoreEnable>false</DTXVolScoreEnable>
+          <DTXVolScoreMin>10</DTXVolScoreMin>
+          <DTXVolScoreMax>90</DTXVolScoreMax>
+          <ELEVVolScoreEnable>false</ELEVVolScoreEnable>
+          <ELEVVolScoreMin>10</ELEVVolScoreMin>
+          <ELEVVolScoreMax>90</ELEVVolScoreMax>
+          <ETXVolScoreEnable>false</ETXVolScoreEnable>
+          <ETXVolScoreMin>10</ETXVolScoreMin>
+          <ETXVolScoreMax>90</ETXVolScoreMax>
+          <FTXVolScoreEnable>false</FTXVolScoreEnable>
+          <FTXVolScoreMin>10</FTXVolScoreMin>
+          <FTXVolScoreMax>90</FTXVolScoreMax>
+          <HDVolScoreEnable>false</HDVolScoreEnable>
+          <HDVolScoreMin>10</HDVolScoreMin>
+          <HDVolScoreMax>90</HDVolScoreMax>
+          <ODDVolScoreEnable>false</ODDVolScoreEnable>
+          <ODDVolScoreMin>10</ODDVolScoreMin>
+          <ODDVolScoreMax>90</ODDVolScoreMax>
+          <SLZVolScoreEnable>false</SLZVolScoreEnable>
+          <SLZVolScoreMin>10</SLZVolScoreMin>
+          <SLZVolScoreMax>90</SLZVolScoreMax>
+          <TBSVolScoreEnable>false</TBSVolScoreEnable>
+          <TBSVolScoreMin>10</TBSVolScoreMin>
+          <TBSVolScoreMax>90</TBSVolScoreMax>
+          <DTXCoilChop>false</DTXCoilChop>
+          <ELEVCoilChop>false</ELEVCoilChop>
+          <ETXCoilChop>false</ETXCoilChop>
+          <FTXCoilChop>true</FTXCoilChop>
+          <HDCoilChop>true</HDCoilChop>
+          <ODDCoilChop>true</ODDCoilChop>
+          <SLZCoilChop>false</SLZCoilChop>
+          <TBSCoilChop>true</TBSCoilChop>
+          <DTX23BarChop>true</DTX23BarChop>
+          <ELEV23BarChop>true</ELEV23BarChop>
+          <ETX23BarChop>false</ETX23BarChop>
+          <FTX23BarChop>true</FTX23BarChop>
+          <HD23BarChop>true</HD23BarChop>
+          <ODD23BarChop>true</ODD23BarChop>
+          <SLZ23BarChop>true</SLZ23BarChop>
+          <TBS23BarChop>false</TBS23BarChop>
+          <DTXSettlement>0</DTXSettlement>
+          <ELEVSettlement>0</ELEVSettlement>
+          <ETXSettlement>0</ETXSettlement>
+          <FTXSettlement>0</FTXSettlement>
+          <HDSettlement>0</HDSettlement>
+          <ODDSettlement>0</ODDSettlement>
+          <SLZSettlement>0</SLZSettlement>
+          <TBSSettlement>0</TBSSettlement>
         </AutomationTool>
         <Input>
           <PriceType>Close</PriceType>
@@ -2908,7 +3074,7 @@
     </Properties>
     <ChartPanels>
       <ChartPanel>
-        <Height>790</Height>
+        <Height>825</Height>
         <HoldChartTraderOrders>false</HoldChartTraderOrders>
         <IsMaximized>false</IsMaximized>
         <Right>
@@ -2922,8 +3088,8 @@
             <AutoScaleMarginLower>40</AutoScaleMarginLower>
             <AutoScaleMarginUpper>40</AutoScaleMarginUpper>
             <YAxisScalingType>Linear</YAxisScalingType>
-            <FixedScaleMaxSerialize>1770</FixedScaleMaxSerialize>
-            <FixedScaleMinSerialize>1765.1</FixedScaleMinSerialize>
+            <FixedScaleMaxSerialize>1884.5</FixedScaleMaxSerialize>
+            <FixedScaleMinSerialize>1873.5</FixedScaleMinSerialize>
           </ChartScaleProperties>
         </Right>
         <Left>
@@ -2958,7 +3124,7 @@
         </Overlay>
       </ChartPanel>
       <ChartPanel>
-        <Height>77</Height>
+        <Height>64</Height>
         <HoldChartTraderOrders>false</HoldChartTraderOrders>
         <IsMaximized>false</IsMaximized>
         <Right>
@@ -2972,7 +3138,7 @@
             <AutoScaleMarginLower>6</AutoScaleMarginLower>
             <AutoScaleMarginUpper>6</AutoScaleMarginUpper>
             <YAxisScalingType>Linear</YAxisScalingType>
-            <FixedScaleMaxSerialize>2.0186379928312808</FixedScaleMaxSerialize>
+            <FixedScaleMaxSerialize>1.8148769574935906</FixedScaleMaxSerialize>
             <FixedScaleMinSerialize>0</FixedScaleMinSerialize>
           </ChartScaleProperties>
         </Right>
@@ -3008,7 +3174,7 @@
         </Overlay>
       </ChartPanel>
       <ChartPanel>
-        <Height>66</Height>
+        <Height>44</Height>
         <HoldChartTraderOrders>false</HoldChartTraderOrders>
         <IsMaximized>false</IsMaximized>
         <Right>
@@ -3113,7 +3279,7 @@
 &lt;/Pen&gt;</StopMarketSerialize>
       </ChartTraderProperties>
     </Properties>
-    <Account>Playback101</Account>
+    <Account>Sim101</Account>
     <ATM>1_5_13</ATM>
     <Instrument>GC 06-21</Instrument>
     <Quantity>1</Quantity>
