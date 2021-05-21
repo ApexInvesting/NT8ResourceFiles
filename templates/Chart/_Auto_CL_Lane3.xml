@@ -123,7 +123,7 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>true</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>797</IndicatorId>
+          <IndicatorId>1</IndicatorId>
           <InstrumentDeserialized>CL 07-21 Nymex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -176,7 +176,7 @@
           <DrawOnPricePanel>false</DrawOnPricePanel>
           <PaintPriceMarkers>true</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>801</IndicatorId>
+          <IndicatorId>5</IndicatorId>
           <InstrumentDeserialized>CL 07-21 Nymex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -302,7 +302,7 @@
           <DrawOnPricePanel>false</DrawOnPricePanel>
           <PaintPriceMarkers>true</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>805</IndicatorId>
+          <IndicatorId>9</IndicatorId>
           <InstrumentDeserialized>CL 07-21 Nymex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -428,7 +428,7 @@
           <DrawOnPricePanel>false</DrawOnPricePanel>
           <PaintPriceMarkers>true</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>809</IndicatorId>
+          <IndicatorId>13</IndicatorId>
           <InstrumentDeserialized>CL 07-21 Nymex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -554,7 +554,7 @@
           <DrawOnPricePanel>false</DrawOnPricePanel>
           <PaintPriceMarkers>true</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>813</IndicatorId>
+          <IndicatorId>17</IndicatorId>
           <InstrumentDeserialized>CL 07-21 Nymex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -686,7 +686,7 @@
           <DrawOnPricePanel>false</DrawOnPricePanel>
           <PaintPriceMarkers>true</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>817</IndicatorId>
+          <IndicatorId>21</IndicatorId>
           <InstrumentDeserialized>CL 07-21 Nymex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -815,7 +815,7 @@
           <DrawOnPricePanel>false</DrawOnPricePanel>
           <PaintPriceMarkers>true</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>821</IndicatorId>
+          <IndicatorId>25</IndicatorId>
           <InstrumentDeserialized>CL 07-21 Nymex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -997,7 +997,7 @@
           <DrawOnPricePanel>false</DrawOnPricePanel>
           <PaintPriceMarkers>true</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>824</IndicatorId>
+          <IndicatorId>28</IndicatorId>
           <InstrumentDeserialized>CL 07-21 Nymex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -1049,7 +1049,7 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>827</IndicatorId>
+          <IndicatorId>31</IndicatorId>
           <InstrumentDeserialized>CL 07-21 Nymex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -1101,7 +1101,7 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>830</IndicatorId>
+          <IndicatorId>34</IndicatorId>
           <InstrumentDeserialized>CL 07-21 Nymex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -1153,7 +1153,7 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>833</IndicatorId>
+          <IndicatorId>37</IndicatorId>
           <InstrumentDeserialized>CL 07-21 Nymex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -1230,7 +1230,7 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>836</IndicatorId>
+          <IndicatorId>40</IndicatorId>
           <InstrumentDeserialized>CL 07-21 Nymex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -1307,7 +1307,7 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>839</IndicatorId>
+          <IndicatorId>43</IndicatorId>
           <InstrumentDeserialized>CL 07-21 Nymex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -1384,7 +1384,7 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>842</IndicatorId>
+          <IndicatorId>46</IndicatorId>
           <InstrumentDeserialized>CL 07-21 Nymex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -1449,14 +1449,14 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>845</IndicatorId>
+          <IndicatorId>49</IndicatorId>
           <InstrumentDeserialized>CL 07-21 Nymex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
           <ZOrder>10010</ZOrder>
           <SettingsSerialized>eyJSZXF1aXJlQ2xvc2VCcmVha291dCI6ZmFsc2UsIk1vdmVTYW1lTG93SGlnaCI6ZmFsc2UsIlNwYW4iOjQsIlN0cmVuZ3RoIjo0fQ==</SettingsSerialized>
           <UserSettingsSerialized>eyJBbGVydHMiOnsidmlzdWFsIjpmYWxzZSwiYXVkaWJsZSI6ZmFsc2UsIndpbmRvd0ZsYXNoIjpmYWxzZX0sIkFsZXJ0c0ZpbHRlciI6ZmFsc2UsIkZvbnRDaGFydExhYmVsIjp7ImZvbnRGYW1pbHkiOiJNaWNyb3NvZnQgU2FucyBTZXJpZiIsInNpemUiOjE0LjAsImJvbGQiOnRydWUsIml0YWxpYyI6ZmFsc2V9LCJCb2xkIjp0cnVlLCJTaG93UGVyY2VudGFnZSI6dHJ1ZSwiQ29sb3JEb3VibGUiOiIjRkZGRkQ3MDAiLCJDb2xvckhITEwiOiIjRkZGRkZGRkYiLCJDb2xvckhMTEgiOiIjRkZEM0QzRDMiLCJMYWJlbE9mZnNldCI6MTd9</UserSettingsSerialized>
-          <iOD>154</iOD>
+          <iOD>182</iOD>
         </ApexOscillationDetector>
         <Input>
           <PriceType>Close</PriceType>
@@ -1502,7 +1502,7 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>848</IndicatorId>
+          <IndicatorId>52</IndicatorId>
           <InstrumentDeserialized>CL 07-21 Nymex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -1591,7 +1591,7 @@
           <DrawOnPricePanel>false</DrawOnPricePanel>
           <PaintPriceMarkers>true</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>851</IndicatorId>
+          <IndicatorId>55</IndicatorId>
           <InstrumentDeserialized>CL 07-21 Nymex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -1656,7 +1656,7 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>true</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>854</IndicatorId>
+          <IndicatorId>58</IndicatorId>
           <InstrumentDeserialized>CL 07-21 Nymex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -1708,7 +1708,7 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>857</IndicatorId>
+          <IndicatorId>61</IndicatorId>
           <InstrumentDeserialized>CL 07-21 Nymex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -1783,7 +1783,7 @@
           <DrawOnPricePanel>false</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>860</IndicatorId>
+          <IndicatorId>64</IndicatorId>
           <InstrumentDeserialized>CL 07-21 Nymex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -1858,7 +1858,7 @@
           <DrawOnPricePanel>false</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>863</IndicatorId>
+          <IndicatorId>67</IndicatorId>
           <InstrumentDeserialized>CL 07-21 Nymex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -1933,7 +1933,7 @@
           <DrawOnPricePanel>false</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>866</IndicatorId>
+          <IndicatorId>70</IndicatorId>
           <InstrumentDeserialized>CL 07-21 Nymex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -2008,7 +2008,7 @@
           <DrawOnPricePanel>false</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>869</IndicatorId>
+          <IndicatorId>73</IndicatorId>
           <InstrumentDeserialized>CL 07-21 Nymex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -2089,7 +2089,7 @@
           <DrawOnPricePanel>false</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>872</IndicatorId>
+          <IndicatorId>76</IndicatorId>
           <InstrumentDeserialized>CL 07-21 Nymex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -2167,7 +2167,7 @@
           <DrawOnPricePanel>false</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>876</IndicatorId>
+          <IndicatorId>79</IndicatorId>
           <InstrumentDeserialized>CL 07-21 Nymex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -2248,7 +2248,7 @@
           <DrawOnPricePanel>false</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>882</IndicatorId>
+          <IndicatorId>82</IndicatorId>
           <InstrumentDeserialized>CL 07-21 Nymex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -2323,7 +2323,7 @@
           <DrawOnPricePanel>false</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>885</IndicatorId>
+          <IndicatorId>85</IndicatorId>
           <InstrumentDeserialized>CL 07-21 Nymex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -2375,7 +2375,7 @@
           <DrawOnPricePanel>false</DrawOnPricePanel>
           <PaintPriceMarkers>true</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>888</IndicatorId>
+          <IndicatorId>88</IndicatorId>
           <InstrumentDeserialized>CL 07-21 Nymex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -2452,7 +2452,7 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>891</IndicatorId>
+          <IndicatorId>91</IndicatorId>
           <InstrumentDeserialized>CL 07-21 Nymex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -2528,7 +2528,7 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>894</IndicatorId>
+          <IndicatorId>94</IndicatorId>
           <InstrumentDeserialized>CL 07-21 Nymex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -2604,7 +2604,7 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>900</IndicatorId>
+          <IndicatorId>97</IndicatorId>
           <InstrumentDeserialized>CL 07-21 Nymex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -2680,7 +2680,7 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>908</IndicatorId>
+          <IndicatorId>100</IndicatorId>
           <InstrumentDeserialized>CL 07-21 Nymex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -2691,7 +2691,7 @@
           <PriceType>Close</PriceType>
         </Input>
       </Indicator>
-      <Indicator BarsIndex="0" Instrument="CL 07-21 Nymex" Name="NinjaTrader.NinjaScript.Indicators.AutomationTool" Panel="-1" DisplayName="_APEX Automation Tool(CL_DTX,True,CL_ELEV,True,CL_ETX,True,CL_FTX,True,CL_HD,True,CL_ODD,True,CL_SLZ,True,CL_TBS,True,True,4/23/2021 9:35:00 AM,4/23/2021 9:25:00 AM,True,4/23/2021 6:00:00 PM,4/23/2021 2:15:00 PM,False,5/6/2021 3:00:00 AM,5/6/2021 1:00:00 AM,True,86,1,True,False,False,False,True,False,False,False,True,2,0.16,True,True,False,False,14,2,999,2,False,False,True,0,False,90,10,False,False,999,1,True,False,False,False,True,False,False,False,False,2,0.01,False,True,False,False,14,2,999,0,False,False,True,0,False,90,10,False,False,email@gmail.com,True,1150,54,False,False,False,False,True,False,False,False,False,1.23,0.41,True,True,False,False,True,200,15.87,999,0,False,True,True,0,True,2000,26,False,True,False,999,1,True,False,False,False,True,True,False,False,True,0.95,0.37,True,True,False,False,14,2,999,0,False,False,True,0,True,244,25,False,True,999,65,True,False,False,False,True,True,False,False,False,2,0.01,False,True,False,True,999,21,999,0,False,False,True,0,False,90,10,False,3,False,-9999,False,999,1,True,False,False,False,True,True,True,False,False,2,0.01,False,True,False,True,40,5.14,999,0,False,False,True,0,True,123,8,False,clTickID,,,False,,,9999,False,999,1,True,False,False,False,True,False,False,False,False,2,0.01,False,True,False,False,14,2,999,0,False,False,True,0,False,False,90,10,6,2,2,13,False,False,999,1,False,False,False,False,True,True,False,False,False,2,0.01,False,True,False,False,14,2,999,0,False,False,True,0,False,90,10,False,6,False,6,False,6,False,6,False,6,False,6,False,6,True,6,False)">
+      <Indicator BarsIndex="0" Instrument="CL 07-21 Nymex" Name="NinjaTrader.NinjaScript.Indicators.AutomationTool" Panel="-1" DisplayName="_APEX Automation Tool(CL_DTX,True,CL_ELEV,True,CL_ETX,True,CL_FTX,True,CL_HD,True,CL_ODD,True,CL_SLZ,True,CL_TBS,True,True,4/23/2021 9:35:00 AM,4/23/2021 9:25:00 AM,True,4/23/2021 6:00:00 PM,4/23/2021 2:15:00 PM,False,5/6/2021 3:00:00 AM,5/6/2021 1:00:00 AM,True,86,1,True,False,False,False,True,False,False,False,True,2,0.16,True,True,False,False,14,2,999,2,False,False,True,0,False,90,10,False,False,999,1,True,False,False,False,True,False,False,False,False,2,0.01,False,False,False,False,14,2,999,0,False,False,True,0,False,90,10,False,False,email@gmail.com,True,1150,54,False,False,False,False,True,False,False,False,False,1.23,0.41,True,True,False,False,True,200,15.87,999,0,False,True,True,0,True,2000,26,False,True,False,999,1,True,False,False,False,True,True,False,False,True,0.95,0.37,True,True,False,False,14,2,999,0,False,False,True,0,True,244,25,False,True,999,65,True,False,False,False,True,True,False,False,False,2,0.01,False,True,False,True,999,21,999,0,False,False,True,0,False,90,10,False,3,False,-9999,False,999,1,True,False,False,False,True,True,True,False,False,2,0.01,False,True,False,True,40,5.14,999,0,False,False,True,0,True,123,8,False,clTickID,,,False,,,9999,False,999,1,True,False,False,False,True,False,False,False,False,2,0.01,False,False,False,False,14,2,999,0,False,False,True,0,False,False,90,10,6,2,2,13,False,False,999,1,False,False,False,False,True,True,False,False,False,2,0.01,False,False,False,False,14,2,999,0,False,False,True,0,False,90,10,False,6,False,6,False,6,False,6,False,6,False,6,False,6,True,6,False)">
         <AutomationTool xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
           <IsVisible>true</IsVisible>
           <AreLinesConfigurable>true</AreLinesConfigurable>
@@ -2754,7 +2754,7 @@
           <DrawOnPricePanel>false</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>911</IndicatorId>
+          <IndicatorId>103</IndicatorId>
           <InstrumentDeserialized>CL 07-21 Nymex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -2800,13 +2800,13 @@
           <DarkZone3Start>2021-05-06T01:00:00</DarkZone3Start>
           <DarkZone3End>2021-05-06T03:00:00</DarkZone3End>
           <DTXEnabled>true</DTXEnabled>
-          <ELEVEnabled>true</ELEVEnabled>
+          <ELEVEnabled>false</ELEVEnabled>
           <ETXEnabled>true</ETXEnabled>
           <FTXEnabled>true</FTXEnabled>
           <HDEnabled>true</HDEnabled>
           <ODDEnabled>true</ODDEnabled>
-          <SLZEnabled>true</SLZEnabled>
-          <TBSEnabled>true</TBSEnabled>
+          <SLZEnabled>false</SLZEnabled>
+          <TBSEnabled>false</TBSEnabled>
           <DTXObsMin>2</DTXObsMin>
           <DTXObsMax>999</DTXObsMax>
           <ELEVObsMin>0</ELEVObsMin>
@@ -3134,7 +3134,7 @@
     </Properties>
     <ChartPanels>
       <ChartPanel>
-        <Height>826</Height>
+        <Height>827</Height>
         <HoldChartTraderOrders>false</HoldChartTraderOrders>
         <IsMaximized>false</IsMaximized>
         <Right>
@@ -3184,7 +3184,7 @@
         </Overlay>
       </ChartPanel>
       <ChartPanel>
-        <Height>62</Height>
+        <Height>61</Height>
         <HoldChartTraderOrders>false</HoldChartTraderOrders>
         <IsMaximized>false</IsMaximized>
         <Right>

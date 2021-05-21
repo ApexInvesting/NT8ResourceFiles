@@ -63,7 +63,7 @@
       <DrawOnPricePanel>false</DrawOnPricePanel>
       <PaintPriceMarkers>false</PaintPriceMarkers>
       <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-      <IndicatorId>385</IndicatorId>
+      <IndicatorId>537</IndicatorId>
       <InstrumentDeserialized>GC 06-21 Nymex</InstrumentDeserialized>
       <MaxSerialized>0</MaxSerialized>
       <MinSerialized>0</MinSerialized>
@@ -109,13 +109,13 @@
       <DarkZone3Start>2021-05-10T01:00:00</DarkZone3Start>
       <DarkZone3End>2021-05-10T03:00:00</DarkZone3End>
       <DTXEnabled>true</DTXEnabled>
-      <ELEVEnabled>true</ELEVEnabled>
+      <ELEVEnabled>false</ELEVEnabled>
       <ETXEnabled>true</ETXEnabled>
       <FTXEnabled>true</FTXEnabled>
       <HDEnabled>true</HDEnabled>
       <ODDEnabled>true</ODDEnabled>
-      <SLZEnabled>true</SLZEnabled>
-      <TBSEnabled>true</TBSEnabled>
+      <SLZEnabled>false</SLZEnabled>
+      <TBSEnabled>false</TBSEnabled>
       <DTXObsMin>0</DTXObsMin>
       <DTXObsMax>999</DTXObsMax>
       <ELEVObsMin>0</ELEVObsMin>

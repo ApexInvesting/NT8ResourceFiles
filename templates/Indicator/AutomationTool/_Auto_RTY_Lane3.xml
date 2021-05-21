@@ -63,7 +63,7 @@
       <DrawOnPricePanel>false</DrawOnPricePanel>
       <PaintPriceMarkers>false</PaintPriceMarkers>
       <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-      <IndicatorId>244</IndicatorId>
+      <IndicatorId>714</IndicatorId>
       <InstrumentDeserialized>RTY 06-21 Globex</InstrumentDeserialized>
       <MaxSerialized>0</MaxSerialized>
       <MinSerialized>0</MinSerialized>
@@ -108,14 +108,14 @@
       <DarkZone3>false</DarkZone3>
       <DarkZone3Start>2021-05-10T01:00:00</DarkZone3Start>
       <DarkZone3End>2021-05-10T03:00:00</DarkZone3End>
-      <DTXEnabled>true</DTXEnabled>
-      <ELEVEnabled>true</ELEVEnabled>
+      <DTXEnabled>false</DTXEnabled>
+      <ELEVEnabled>false</ELEVEnabled>
       <ETXEnabled>true</ETXEnabled>
       <FTXEnabled>true</FTXEnabled>
       <HDEnabled>true</HDEnabled>
       <ODDEnabled>true</ODDEnabled>
       <SLZEnabled>true</SLZEnabled>
-      <TBSEnabled>true</TBSEnabled>
+      <TBSEnabled>false</TBSEnabled>
       <DTXObsMin>0</DTXObsMin>
       <DTXObsMax>999</DTXObsMax>
       <ELEVObsMin>0</ELEVObsMin>
