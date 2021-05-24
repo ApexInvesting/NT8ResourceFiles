@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <NinjaTrader>
-  <AutomationTool>
-    <AutomationTool xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <AutoAlgo>
+    <AutoAlgo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
       <IsVisible>true</IsVisible>
       <AreLinesConfigurable>true</AreLinesConfigurable>
       <ArePlotsConfigurable>true</ArePlotsConfigurable>
@@ -31,7 +31,7 @@
       <Lines>
         <Line>
           <IsOpacityVisible>false</IsOpacityVisible>
-          <BrushSerialize>&lt;SolidColorBrush xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;#FF000000&lt;/SolidColorBrush&gt;</BrushSerialize>
+          <BrushSerialize>&lt;SolidColorBrush xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;#00FFFFFF&lt;/SolidColorBrush&gt;</BrushSerialize>
           <DashStyleHelper>Solid</DashStyleHelper>
           <Opacity>100</Opacity>
           <Width>1</Width>
@@ -40,7 +40,7 @@
         </Line>
       </Lines>
       <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
-      <Name>_APEX Automation Tool</Name>
+      <Name>_APEX Auto Algo</Name>
       <Plots>
         <Plot>
           <IsOpacityVisible>false</IsOpacityVisible>
@@ -51,7 +51,7 @@
           <AutoWidth>false</AutoWidth>
           <Max>1.7976931348623157E+308</Max>
           <Min>-1.7976931348623157E+308</Min>
-          <Name>AutomationTool</Name>
+          <Name>AutoAlgo</Name>
           <PlotStyle>Line</PlotStyle>
         </Plot>
       </Plots>
@@ -63,14 +63,14 @@
       <DrawOnPricePanel>false</DrawOnPricePanel>
       <PaintPriceMarkers>false</PaintPriceMarkers>
       <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-      <IndicatorId>532</IndicatorId>
-      <InstrumentDeserialized>RTY 06-21 Globex</InstrumentDeserialized>
+      <IndicatorId>103</IndicatorId>
+      <InstrumentDeserialized>NQ 06-21 Globex</InstrumentDeserialized>
       <MaxSerialized>0</MaxSerialized>
       <MinSerialized>0</MinSerialized>
       <ZOrder>31366</ZOrder>
       <SettingsSerialized>eyJJc1VwQ2xvc2VCYXIiOnRydWUsIklzRG93bkNsb3NlQmFyIjp0cnVlLCJVc2VQcmljZVZhbHVlIjpmYWxzZSwiVGlja09mZnNldCI6MCwiVXBDbG9zZVZhbHVlIjoxLjAsIlVwQ2xvc2VMaXZlVmFsdWUiOi0xLjAsIkRvd25DbG9zZVZhbHVlIjoxLjAsIkRvd25DbG9zZUxpdmVWYWx1ZSI6LTEuMH0=</SettingsSerialized>
       <UserSettingsSerialized>e30=</UserSettingsSerialized>
-      <OrderPrintsID>rtyTickID</OrderPrintsID>
+      <OrderPrintsID>nqTickID</OrderPrintsID>
       <MultiSetupEntry>false</MultiSetupEntry>
       <DTX_OD_Enabled>false</DTX_OD_Enabled>
       <DTX_ODMinValue>1</DTX_ODMinValue>
@@ -106,8 +106,8 @@
       <DarkZone2Start>2021-04-27T16:00:00</DarkZone2Start>
       <DarkZone2End>2021-04-27T18:00:00</DarkZone2End>
       <DarkZone3>false</DarkZone3>
-      <DarkZone3Start>2021-05-10T01:00:00</DarkZone3Start>
-      <DarkZone3End>2021-05-10T03:00:00</DarkZone3End>
+      <DarkZone3Start>2021-05-06T01:00:00</DarkZone3Start>
+      <DarkZone3End>2021-05-06T03:00:00</DarkZone3End>
       <DTXEnabled>true</DTXEnabled>
       <ELEVEnabled>true</ELEVEnabled>
       <ETXEnabled>true</ETXEnabled>
@@ -132,22 +132,22 @@
       <SLZObsMax>999</SLZObsMax>
       <TBSObsMin>10</TBSObsMin>
       <TBSObsMax>999</TBSObsMax>
-      <ATM_DTX_Custom_Enable>false</ATM_DTX_Custom_Enable>
-      <ATM_DTX_Custom>RTY_DTX</ATM_DTX_Custom>
-      <ATM_ELEV_Custom_Enable>false</ATM_ELEV_Custom_Enable>
-      <ATM_ELEV_Custom>RTY_ELEV</ATM_ELEV_Custom>
-      <ATM_ETX_Custom_Enable>false</ATM_ETX_Custom_Enable>
-      <ATM_ETX_Custom>RTY_ETX</ATM_ETX_Custom>
-      <ATM_FTX_Custom_Enable>false</ATM_FTX_Custom_Enable>
-      <ATM_FTX_Custom>RTY_FTX</ATM_FTX_Custom>
-      <ATM_HD_Custom_Enable>false</ATM_HD_Custom_Enable>
-      <ATM_HD_Custom>RTY_HD</ATM_HD_Custom>
-      <ATM_ODD_Custom_Enable>false</ATM_ODD_Custom_Enable>
-      <ATM_ODD_Custom>RTY_ODD</ATM_ODD_Custom>
-      <ATM_SLZ_Custom_Enable>false</ATM_SLZ_Custom_Enable>
-      <ATM_SLZ_Custom>RTY_SLZ</ATM_SLZ_Custom>
-      <ATM_TBS_Custom_Enable>false</ATM_TBS_Custom_Enable>
-      <ATM_TBS_Custom>RTY_TBS</ATM_TBS_Custom>
+      <ATM_DTX_Custom_Enable>true</ATM_DTX_Custom_Enable>
+      <ATM_DTX_Custom>NQ_DTX</ATM_DTX_Custom>
+      <ATM_ELEV_Custom_Enable>true</ATM_ELEV_Custom_Enable>
+      <ATM_ELEV_Custom>NQ_ELEV</ATM_ELEV_Custom>
+      <ATM_ETX_Custom_Enable>true</ATM_ETX_Custom_Enable>
+      <ATM_ETX_Custom>NQ_ETX</ATM_ETX_Custom>
+      <ATM_FTX_Custom_Enable>true</ATM_FTX_Custom_Enable>
+      <ATM_FTX_Custom>NQ_FTX</ATM_FTX_Custom>
+      <ATM_HD_Custom_Enable>true</ATM_HD_Custom_Enable>
+      <ATM_HD_Custom>NQ_HD</ATM_HD_Custom>
+      <ATM_ODD_Custom_Enable>true</ATM_ODD_Custom_Enable>
+      <ATM_ODD_Custom>NQ_ODD</ATM_ODD_Custom>
+      <ATM_SLZ_Custom_Enable>true</ATM_SLZ_Custom_Enable>
+      <ATM_SLZ_Custom>NQ_SLZ</ATM_SLZ_Custom>
+      <ATM_TBS_Custom_Enable>true</ATM_TBS_Custom_Enable>
+      <ATM_TBS_Custom>NQ_TBS</ATM_TBS_Custom>
       <EmailEnabled>false</EmailEnabled>
       <EmailUsername>email@gmail.com</EmailUsername>
       <PlivoEnabled>false</PlivoEnabled>
@@ -362,6 +362,6 @@
       <ODDSettlement>0</ODDSettlement>
       <SLZSettlement>0</SLZSettlement>
       <TBSSettlement>0</TBSSettlement>
-    </AutomationTool>
-  </AutomationTool>
+    </AutoAlgo>
+  </AutoAlgo>
 </NinjaTrader>

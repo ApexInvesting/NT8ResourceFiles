@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <NinjaTrader>
-  <AutomationTool>
-    <AutomationTool xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <AutoAlgo>
+    <AutoAlgo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
       <IsVisible>true</IsVisible>
       <AreLinesConfigurable>true</AreLinesConfigurable>
       <ArePlotsConfigurable>true</ArePlotsConfigurable>
@@ -13,7 +13,7 @@
         <MarketDataType>Last</MarketDataType>
         <PointAndFigurePriceType>Close</PointAndFigurePriceType>
         <ReversalType>Tick</ReversalType>
-        <Value>8</Value>
+        <Value>10</Value>
         <Value2>50</Value2>
       </BarsPeriodSerializable>
       <BarsToLoad>0</BarsToLoad>
@@ -40,7 +40,7 @@
         </Line>
       </Lines>
       <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
-      <Name>_APEX Automation Tool</Name>
+      <Name>_APEX Auto Algo</Name>
       <Plots>
         <Plot>
           <IsOpacityVisible>false</IsOpacityVisible>
@@ -51,7 +51,7 @@
           <AutoWidth>false</AutoWidth>
           <Max>1.7976931348623157E+308</Max>
           <Min>-1.7976931348623157E+308</Min>
-          <Name>AutomationTool</Name>
+          <Name>AutoAlgo</Name>
           <PlotStyle>Line</PlotStyle>
         </Plot>
       </Plots>
@@ -63,14 +63,14 @@
       <DrawOnPricePanel>false</DrawOnPricePanel>
       <PaintPriceMarkers>false</PaintPriceMarkers>
       <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-      <IndicatorId>391</IndicatorId>
-      <InstrumentDeserialized>CL 07-21 Nymex</InstrumentDeserialized>
+      <IndicatorId>247</IndicatorId>
+      <InstrumentDeserialized>YM 06-21 Globex</InstrumentDeserialized>
       <MaxSerialized>0</MaxSerialized>
       <MinSerialized>0</MinSerialized>
-      <ZOrder>10014</ZOrder>
+      <ZOrder>31341</ZOrder>
       <SettingsSerialized>eyJJc1VwQ2xvc2VCYXIiOnRydWUsIklzRG93bkNsb3NlQmFyIjp0cnVlLCJVc2VQcmljZVZhbHVlIjpmYWxzZSwiVGlja09mZnNldCI6MCwiVXBDbG9zZVZhbHVlIjoxLjAsIlVwQ2xvc2VMaXZlVmFsdWUiOi0xLjAsIkRvd25DbG9zZVZhbHVlIjoxLjAsIkRvd25DbG9zZUxpdmVWYWx1ZSI6LTEuMH0=</SettingsSerialized>
       <UserSettingsSerialized>e30=</UserSettingsSerialized>
-      <OrderPrintsID>clTickID</OrderPrintsID>
+      <OrderPrintsID>ymTickID</OrderPrintsID>
       <MultiSetupEntry>false</MultiSetupEntry>
       <DTX_OD_Enabled>false</DTX_OD_Enabled>
       <DTX_ODMinValue>1</DTX_ODMinValue>
@@ -100,11 +100,11 @@
       <NegativePNLReached>-9999</NegativePNLReached>
       <FastMarkets>true</FastMarkets>
       <DarkZone1>true</DarkZone1>
-      <DarkZone1Start>2021-04-23T09:25:00</DarkZone1Start>
-      <DarkZone1End>2021-04-23T09:35:00</DarkZone1End>
+      <DarkZone1Start>2021-04-27T09:25:00</DarkZone1Start>
+      <DarkZone1End>2021-04-27T09:35:00</DarkZone1End>
       <DarkZone2>true</DarkZone2>
-      <DarkZone2Start>2021-04-23T14:15:00</DarkZone2Start>
-      <DarkZone2End>2021-04-23T18:00:00</DarkZone2End>
+      <DarkZone2Start>2021-04-27T16:00:00</DarkZone2Start>
+      <DarkZone2End>2021-04-27T18:00:00</DarkZone2End>
       <DarkZone3>false</DarkZone3>
       <DarkZone3Start>2021-05-06T01:00:00</DarkZone3Start>
       <DarkZone3End>2021-05-06T03:00:00</DarkZone3End>
@@ -116,38 +116,38 @@
       <ODDEnabled>true</ODDEnabled>
       <SLZEnabled>true</SLZEnabled>
       <TBSEnabled>true</TBSEnabled>
-      <DTXObsMin>8</DTXObsMin>
+      <DTXObsMin>10</DTXObsMin>
       <DTXObsMax>999</DTXObsMax>
-      <ELEVObsMin>8</ELEVObsMin>
+      <ELEVObsMin>10</ELEVObsMin>
       <ELEVObsMax>999</ELEVObsMax>
-      <ETXObsMin>8</ETXObsMin>
+      <ETXObsMin>10</ETXObsMin>
       <ETXObsMax>999</ETXObsMax>
-      <FTXObsMin>8</FTXObsMin>
+      <FTXObsMin>10</FTXObsMin>
       <FTXObsMax>999</FTXObsMax>
-      <HDObsMin>8</HDObsMin>
+      <HDObsMin>10</HDObsMin>
       <HDObsMax>999</HDObsMax>
-      <ODDObsMin>8</ODDObsMin>
+      <ODDObsMin>10</ODDObsMin>
       <ODDObsMax>999</ODDObsMax>
-      <SLZObsMin>8</SLZObsMin>
+      <SLZObsMin>10</SLZObsMin>
       <SLZObsMax>999</SLZObsMax>
-      <TBSObsMin>8</TBSObsMin>
+      <TBSObsMin>10</TBSObsMin>
       <TBSObsMax>999</TBSObsMax>
       <ATM_DTX_Custom_Enable>true</ATM_DTX_Custom_Enable>
-      <ATM_DTX_Custom>CL_DTX</ATM_DTX_Custom>
+      <ATM_DTX_Custom>YM_DTX</ATM_DTX_Custom>
       <ATM_ELEV_Custom_Enable>true</ATM_ELEV_Custom_Enable>
-      <ATM_ELEV_Custom>CL_ELEV</ATM_ELEV_Custom>
+      <ATM_ELEV_Custom>YM_ELEV</ATM_ELEV_Custom>
       <ATM_ETX_Custom_Enable>true</ATM_ETX_Custom_Enable>
-      <ATM_ETX_Custom>CL_ETX</ATM_ETX_Custom>
+      <ATM_ETX_Custom>YM_ETX</ATM_ETX_Custom>
       <ATM_FTX_Custom_Enable>true</ATM_FTX_Custom_Enable>
-      <ATM_FTX_Custom>CL_FTX</ATM_FTX_Custom>
+      <ATM_FTX_Custom>YM_FTX</ATM_FTX_Custom>
       <ATM_HD_Custom_Enable>true</ATM_HD_Custom_Enable>
-      <ATM_HD_Custom>CL_HD</ATM_HD_Custom>
+      <ATM_HD_Custom>YM_HD</ATM_HD_Custom>
       <ATM_ODD_Custom_Enable>true</ATM_ODD_Custom_Enable>
-      <ATM_ODD_Custom>CL_ODD</ATM_ODD_Custom>
+      <ATM_ODD_Custom>YM_ODD</ATM_ODD_Custom>
       <ATM_SLZ_Custom_Enable>true</ATM_SLZ_Custom_Enable>
-      <ATM_SLZ_Custom>CL_SLZ</ATM_SLZ_Custom>
+      <ATM_SLZ_Custom>YM_SLZ</ATM_SLZ_Custom>
       <ATM_TBS_Custom_Enable>true</ATM_TBS_Custom_Enable>
-      <ATM_TBS_Custom>CL_TBS</ATM_TBS_Custom>
+      <ATM_TBS_Custom>YM_TBS</ATM_TBS_Custom>
       <EmailEnabled>false</EmailEnabled>
       <EmailUsername>email@gmail.com</EmailUsername>
       <PlivoEnabled>false</PlivoEnabled>
@@ -186,21 +186,21 @@
       <TBSDRValueEnable>false</TBSDRValueEnable>
       <TBSDRValue>0.5</TBSDRValue>
       <TicksDTXAmplifyEnable>false</TicksDTXAmplifyEnable>
-      <TicksDTXAmplify>6</TicksDTXAmplify>
+      <TicksDTXAmplify>8</TicksDTXAmplify>
       <TicksELEVAmplifyEnable>false</TicksELEVAmplifyEnable>
-      <TicksELEVAmplify>6</TicksELEVAmplify>
+      <TicksELEVAmplify>8</TicksELEVAmplify>
       <TicksETXAmplifyEnable>false</TicksETXAmplifyEnable>
-      <TicksETXAmplify>6</TicksETXAmplify>
+      <TicksETXAmplify>8</TicksETXAmplify>
       <TicksFTXAmplifyEnable>false</TicksFTXAmplifyEnable>
-      <TicksFTXAmplify>6</TicksFTXAmplify>
+      <TicksFTXAmplify>8</TicksFTXAmplify>
       <TicksHDAmplifyEnable>false</TicksHDAmplifyEnable>
-      <TicksHDAmplify>6</TicksHDAmplify>
+      <TicksHDAmplify>8</TicksHDAmplify>
       <TicksODDAmplifyEnable>false</TicksODDAmplifyEnable>
-      <TicksODDAmplify>6</TicksODDAmplify>
+      <TicksODDAmplify>8</TicksODDAmplify>
       <TicksSLZAmplifyEnable>true</TicksSLZAmplifyEnable>
-      <TicksSLZAmplify>6</TicksSLZAmplify>
+      <TicksSLZAmplify>8</TicksSLZAmplify>
       <TicksTBSAmplifyEnable>false</TicksTBSAmplifyEnable>
-      <TicksTBSAmplify>6</TicksTBSAmplify>
+      <TicksTBSAmplify>8</TicksTBSAmplify>
       <DTXBreakEvenOnCoil>false</DTXBreakEvenOnCoil>
       <ELEVBreakEvenOnCoil>false</ELEVBreakEvenOnCoil>
       <ETXBreakEvenOnCoil>false</ETXBreakEvenOnCoil>
@@ -362,6 +362,6 @@
       <ODDSettlement>0</ODDSettlement>
       <SLZSettlement>0</SLZSettlement>
       <TBSSettlement>0</TBSSettlement>
-    </AutomationTool>
-  </AutomationTool>
+    </AutoAlgo>
+  </AutoAlgo>
 </NinjaTrader>

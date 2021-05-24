@@ -123,7 +123,7 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>true</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>294</IndicatorId>
+          <IndicatorId>1</IndicatorId>
           <InstrumentDeserialized>NQ 06-21 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -176,7 +176,7 @@
           <DrawOnPricePanel>false</DrawOnPricePanel>
           <PaintPriceMarkers>true</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>298</IndicatorId>
+          <IndicatorId>5</IndicatorId>
           <InstrumentDeserialized>NQ 06-21 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -302,7 +302,7 @@
           <DrawOnPricePanel>false</DrawOnPricePanel>
           <PaintPriceMarkers>true</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>302</IndicatorId>
+          <IndicatorId>9</IndicatorId>
           <InstrumentDeserialized>NQ 06-21 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -428,7 +428,7 @@
           <DrawOnPricePanel>false</DrawOnPricePanel>
           <PaintPriceMarkers>true</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>306</IndicatorId>
+          <IndicatorId>13</IndicatorId>
           <InstrumentDeserialized>NQ 06-21 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -554,7 +554,7 @@
           <DrawOnPricePanel>false</DrawOnPricePanel>
           <PaintPriceMarkers>true</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>310</IndicatorId>
+          <IndicatorId>17</IndicatorId>
           <InstrumentDeserialized>NQ 06-21 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -686,7 +686,7 @@
           <DrawOnPricePanel>false</DrawOnPricePanel>
           <PaintPriceMarkers>true</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>314</IndicatorId>
+          <IndicatorId>21</IndicatorId>
           <InstrumentDeserialized>NQ 06-21 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -815,7 +815,7 @@
           <DrawOnPricePanel>false</DrawOnPricePanel>
           <PaintPriceMarkers>true</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>318</IndicatorId>
+          <IndicatorId>25</IndicatorId>
           <InstrumentDeserialized>NQ 06-21 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -997,7 +997,7 @@
           <DrawOnPricePanel>false</DrawOnPricePanel>
           <PaintPriceMarkers>true</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>321</IndicatorId>
+          <IndicatorId>28</IndicatorId>
           <InstrumentDeserialized>NQ 06-21 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -1049,7 +1049,7 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>324</IndicatorId>
+          <IndicatorId>31</IndicatorId>
           <InstrumentDeserialized>NQ 06-21 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -1101,7 +1101,7 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>327</IndicatorId>
+          <IndicatorId>34</IndicatorId>
           <InstrumentDeserialized>NQ 06-21 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -1153,7 +1153,7 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>330</IndicatorId>
+          <IndicatorId>37</IndicatorId>
           <InstrumentDeserialized>NQ 06-21 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -1230,7 +1230,7 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>333</IndicatorId>
+          <IndicatorId>40</IndicatorId>
           <InstrumentDeserialized>NQ 06-21 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -1307,7 +1307,7 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>336</IndicatorId>
+          <IndicatorId>43</IndicatorId>
           <InstrumentDeserialized>NQ 06-21 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -1384,7 +1384,7 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>339</IndicatorId>
+          <IndicatorId>46</IndicatorId>
           <InstrumentDeserialized>NQ 06-21 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -1449,14 +1449,14 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>342</IndicatorId>
+          <IndicatorId>49</IndicatorId>
           <InstrumentDeserialized>NQ 06-21 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
           <ZOrder>10010</ZOrder>
           <SettingsSerialized>eyJSZXF1aXJlQ2xvc2VCcmVha291dCI6ZmFsc2UsIk1vdmVTYW1lTG93SGlnaCI6ZmFsc2UsIlNwYW4iOjQsIlN0cmVuZ3RoIjo0fQ==</SettingsSerialized>
           <UserSettingsSerialized>eyJBbGVydHMiOnsidmlzdWFsIjpmYWxzZSwiYXVkaWJsZSI6ZmFsc2UsIndpbmRvd0ZsYXNoIjpmYWxzZX0sIkFsZXJ0c0ZpbHRlciI6ZmFsc2UsIkZvbnRDaGFydExhYmVsIjp7ImZvbnRGYW1pbHkiOiJNaWNyb3NvZnQgU2FucyBTZXJpZiIsInNpemUiOjE0LjAsImJvbGQiOnRydWUsIml0YWxpYyI6ZmFsc2V9LCJCb2xkIjp0cnVlLCJTaG93UGVyY2VudGFnZSI6dHJ1ZSwiQ29sb3JEb3VibGUiOiIjRkZGRkQ3MDAiLCJDb2xvckhITEwiOiIjRkZGRkZGRkYiLCJDb2xvckhMTEgiOiIjRkZEM0QzRDMiLCJMYWJlbE9mZnNldCI6MTd9</UserSettingsSerialized>
-          <iOD>37</iOD>
+          <iOD>906</iOD>
         </ApexOscillationDetector>
         <Input>
           <PriceType>Close</PriceType>
@@ -1502,7 +1502,7 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>345</IndicatorId>
+          <IndicatorId>52</IndicatorId>
           <InstrumentDeserialized>NQ 06-21 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -1591,7 +1591,7 @@
           <DrawOnPricePanel>false</DrawOnPricePanel>
           <PaintPriceMarkers>true</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>348</IndicatorId>
+          <IndicatorId>55</IndicatorId>
           <InstrumentDeserialized>NQ 06-21 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -1656,7 +1656,7 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>true</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>351</IndicatorId>
+          <IndicatorId>58</IndicatorId>
           <InstrumentDeserialized>NQ 06-21 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -1708,7 +1708,7 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>354</IndicatorId>
+          <IndicatorId>61</IndicatorId>
           <InstrumentDeserialized>NQ 06-21 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -1783,7 +1783,7 @@
           <DrawOnPricePanel>false</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>357</IndicatorId>
+          <IndicatorId>64</IndicatorId>
           <InstrumentDeserialized>NQ 06-21 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -1858,7 +1858,7 @@
           <DrawOnPricePanel>false</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>360</IndicatorId>
+          <IndicatorId>67</IndicatorId>
           <InstrumentDeserialized>NQ 06-21 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -1933,7 +1933,7 @@
           <DrawOnPricePanel>false</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>363</IndicatorId>
+          <IndicatorId>70</IndicatorId>
           <InstrumentDeserialized>NQ 06-21 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -2008,7 +2008,7 @@
           <DrawOnPricePanel>false</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>366</IndicatorId>
+          <IndicatorId>73</IndicatorId>
           <InstrumentDeserialized>NQ 06-21 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -2089,7 +2089,7 @@
           <DrawOnPricePanel>false</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>369</IndicatorId>
+          <IndicatorId>76</IndicatorId>
           <InstrumentDeserialized>NQ 06-21 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -2167,7 +2167,7 @@
           <DrawOnPricePanel>false</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>372</IndicatorId>
+          <IndicatorId>79</IndicatorId>
           <InstrumentDeserialized>NQ 06-21 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -2248,7 +2248,7 @@
           <DrawOnPricePanel>false</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>375</IndicatorId>
+          <IndicatorId>82</IndicatorId>
           <InstrumentDeserialized>NQ 06-21 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -2323,7 +2323,7 @@
           <DrawOnPricePanel>false</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>378</IndicatorId>
+          <IndicatorId>85</IndicatorId>
           <InstrumentDeserialized>NQ 06-21 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -2375,7 +2375,7 @@
           <DrawOnPricePanel>false</DrawOnPricePanel>
           <PaintPriceMarkers>true</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>381</IndicatorId>
+          <IndicatorId>88</IndicatorId>
           <InstrumentDeserialized>NQ 06-21 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -2387,8 +2387,8 @@
           <PriceType>Close</PriceType>
         </Input>
       </Indicator>
-      <Indicator BarsIndex="0" Instrument="NQ 06-21 Globex" Name="NinjaTrader.NinjaScript.Indicators.AutoToolHighLow" Panel="-1" DisplayName="_APEX Higher High Lower Low">
-        <AutoToolHighLow xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+      <Indicator BarsIndex="0" Instrument="NQ 06-21 Globex" Name="NinjaTrader.NinjaScript.Indicators.AutoAlgoHighLow" Panel="-1" DisplayName="_APEX Higher High Lower Low">
+        <AutoAlgoHighLow xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
           <IsVisible>true</IsVisible>
           <AreLinesConfigurable>true</AreLinesConfigurable>
           <ArePlotsConfigurable>true</ArePlotsConfigurable>
@@ -2452,19 +2452,19 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>384</IndicatorId>
+          <IndicatorId>91</IndicatorId>
           <InstrumentDeserialized>NQ 06-21 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
           <ZOrder>10004</ZOrder>
           <SettingsSerialized>eyJTdHJlbmd0aCI6Mn0=</SettingsSerialized>
-        </AutoToolHighLow>
+        </AutoAlgoHighLow>
         <Input>
           <PriceType>Close</PriceType>
         </Input>
       </Indicator>
-      <Indicator BarsIndex="0" Instrument="NQ 06-21 Globex" Name="NinjaTrader.NinjaScript.Indicators.AutoToolHighLow" Panel="-1" DisplayName="_APEX Higher High Lower Low">
-        <AutoToolHighLow xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+      <Indicator BarsIndex="0" Instrument="NQ 06-21 Globex" Name="NinjaTrader.NinjaScript.Indicators.AutoAlgoHighLow" Panel="-1" DisplayName="_APEX Higher High Lower Low">
+        <AutoAlgoHighLow xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
           <IsVisible>true</IsVisible>
           <AreLinesConfigurable>true</AreLinesConfigurable>
           <ArePlotsConfigurable>true</ArePlotsConfigurable>
@@ -2528,19 +2528,19 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>387</IndicatorId>
+          <IndicatorId>94</IndicatorId>
           <InstrumentDeserialized>NQ 06-21 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
           <ZOrder>10005</ZOrder>
           <SettingsSerialized>eyJTdHJlbmd0aCI6NH0=</SettingsSerialized>
-        </AutoToolHighLow>
+        </AutoAlgoHighLow>
         <Input>
           <PriceType>Close</PriceType>
         </Input>
       </Indicator>
-      <Indicator BarsIndex="0" Instrument="NQ 06-21 Globex" Name="NinjaTrader.NinjaScript.Indicators.AutoToolHighLow" Panel="-1" DisplayName="_APEX Higher High Lower Low">
-        <AutoToolHighLow xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+      <Indicator BarsIndex="0" Instrument="NQ 06-21 Globex" Name="NinjaTrader.NinjaScript.Indicators.AutoAlgoHighLow" Panel="-1" DisplayName="_APEX Higher High Lower Low">
+        <AutoAlgoHighLow xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
           <IsVisible>true</IsVisible>
           <AreLinesConfigurable>true</AreLinesConfigurable>
           <ArePlotsConfigurable>true</ArePlotsConfigurable>
@@ -2604,19 +2604,19 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>390</IndicatorId>
+          <IndicatorId>97</IndicatorId>
           <InstrumentDeserialized>NQ 06-21 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
           <ZOrder>10006</ZOrder>
           <SettingsSerialized>eyJTdHJlbmd0aCI6Nn0=</SettingsSerialized>
-        </AutoToolHighLow>
+        </AutoAlgoHighLow>
         <Input>
           <PriceType>Close</PriceType>
         </Input>
       </Indicator>
-      <Indicator BarsIndex="0" Instrument="NQ 06-21 Globex" Name="NinjaTrader.NinjaScript.Indicators.AutoToolHighLow" Panel="-1" DisplayName="_APEX Higher High Lower Low">
-        <AutoToolHighLow xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+      <Indicator BarsIndex="0" Instrument="NQ 06-21 Globex" Name="NinjaTrader.NinjaScript.Indicators.AutoAlgoHighLow" Panel="-1" DisplayName="_APEX Higher High Lower Low">
+        <AutoAlgoHighLow xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
           <IsVisible>true</IsVisible>
           <AreLinesConfigurable>true</AreLinesConfigurable>
           <ArePlotsConfigurable>true</ArePlotsConfigurable>
@@ -2680,19 +2680,19 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>393</IndicatorId>
+          <IndicatorId>100</IndicatorId>
           <InstrumentDeserialized>NQ 06-21 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
           <ZOrder>10007</ZOrder>
           <SettingsSerialized>eyJTdHJlbmd0aCI6OH0=</SettingsSerialized>
-        </AutoToolHighLow>
+        </AutoAlgoHighLow>
         <Input>
           <PriceType>Close</PriceType>
         </Input>
       </Indicator>
-      <Indicator BarsIndex="0" Instrument="NQ 06-21 Globex" Name="NinjaTrader.NinjaScript.Indicators.AutomationTool" Panel="-1" DisplayName="_APEX Automation Tool(NQ_DTX,True,NQ_ELEV,True,NQ_ETX,True,NQ_FTX,True,NQ_HD,True,NQ_ODD,True,NQ_SLZ,True,NQ_TBS,True,True,4/27/2021 9:35:00 AM,4/27/2021 9:25:00 AM,True,4/27/2021 6:00:00 PM,4/27/2021 4:00:00 PM,False,5/6/2021 3:00:00 AM,5/6/2021 1:00:00 AM,False,999,1,True,False,False,False,True,False,False,False,True,2,0.31,True,True,False,True,999,4,999,0,False,False,True,0,True,999,30,False,False,999,1,True,False,False,False,True,False,False,False,False,2,0.01,False,False,False,False,14,2,999,0,False,False,True,0,False,90,10,False,False,email@gmail.com,True,900,37,False,False,False,False,True,False,False,False,False,2,0.01,False,True,False,False,True,16,6.1,999,11,False,True,True,0,True,190,13,False,True,True,265,1,True,True,False,True,True,True,False,False,True,2,0.25,True,True,False,True,16,2.1,999,9,False,False,True,0,True,500,19,False,True,270,127,True,False,False,False,True,True,False,False,False,2,0.01,False,True,False,True,999,2.36,999,6,False,False,True,0,False,90,10,True,3,False,-9999,True,80,20,True,False,False,False,True,True,False,False,False,2,0.01,False,True,False,False,14,2,999,8,True,False,True,0,True,70,1,False,nqTickID,,,False,,,9999,True,550,1,True,False,False,False,True,False,False,False,False,2,0.01,False,True,False,True,6.5,1.4,999,8,False,False,True,0,False,True,90,1,6,2,2,13,True,False,999,1,False,False,False,False,True,True,False,False,False,2,0.01,False,False,False,False,14,2,999,0,False,False,True,0,False,90,10,False,8,False,8,False,8,False,8,False,8,False,8,False,17,True,8,False)">
-        <AutomationTool xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+      <Indicator BarsIndex="0" Instrument="NQ 06-21 Globex" Name="NinjaTrader.NinjaScript.Indicators.AutoAlgo" Panel="-1" DisplayName="_APEX Auto Algo(NQ_DTX,True,NQ_ELEV,True,NQ_ETX,True,NQ_FTX,True,NQ_HD,True,NQ_ODD,True,NQ_SLZ,True,NQ_TBS,True,True,4/27/2021 9:35:00 AM,4/27/2021 9:25:00 AM,True,4/27/2021 6:00:00 PM,4/27/2021 4:00:00 PM,False,5/6/2021 3:00:00 AM,5/6/2021 1:00:00 AM,False,999,1,True,False,False,False,True,False,False,False,True,0.5,False,True,False,False,14,2,999,10,False,False,True,0,False,90,10,False,False,999,1,True,False,False,False,True,False,False,False,False,0.5,False,True,False,False,14,2,999,10,False,False,True,0,False,90,10,False,False,email@gmail.com,False,999,1,False,False,False,False,True,False,False,False,False,0.5,False,True,False,False,False,14,2,999,10,False,True,True,0,False,90,10,False,True,False,999,1,True,False,False,False,True,True,False,False,True,0.65,True,True,False,False,14,2,999,10,False,False,True,0,False,90,10,False,True,270,130,True,False,False,False,True,True,False,False,False,0.5,False,True,False,False,14,2,999,10,False,False,True,0,False,90,10,False,3,False,-9999,True,80,20,True,False,False,False,True,True,False,False,False,0.5,False,True,False,False,14,2,999,10,False,False,True,0,False,90,10,False,nqTickID,,,False,,,9999,False,999,1,True,False,False,False,True,False,False,False,False,0.5,False,True,False,False,14,2,999,10,False,False,True,0,False,False,90,10,6,2,2,13,False,False,999,1,False,False,False,False,True,True,False,False,False,0.5,False,True,False,False,14,2,999,10,False,False,True,0,False,90,10,False,8,False,8,False,8,False,8,False,8,False,8,False,8,True,8,False)">
+        <AutoAlgo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
           <IsVisible>true</IsVisible>
           <AreLinesConfigurable>true</AreLinesConfigurable>
           <ArePlotsConfigurable>true</ArePlotsConfigurable>
@@ -2731,7 +2731,7 @@
             </Line>
           </Lines>
           <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
-          <Name>_APEX Automation Tool</Name>
+          <Name>_APEX Auto Algo</Name>
           <Plots>
             <Plot>
               <IsOpacityVisible>false</IsOpacityVisible>
@@ -2742,7 +2742,7 @@
               <AutoWidth>false</AutoWidth>
               <Max>1.7976931348623157E+308</Max>
               <Min>-1.7976931348623157E+308</Min>
-              <Name>AutomationTool</Name>
+              <Name>AutoAlgo</Name>
               <PlotStyle>Line</PlotStyle>
             </Plot>
           </Plots>
@@ -2754,7 +2754,7 @@
           <DrawOnPricePanel>false</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>396</IndicatorId>
+          <IndicatorId>103</IndicatorId>
           <InstrumentDeserialized>NQ 06-21 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -2769,21 +2769,21 @@
           <ELEV_OD_Enabled>false</ELEV_OD_Enabled>
           <ELEV_ODMinValue>1</ELEV_ODMinValue>
           <ELEV_ODMaxValue>999</ELEV_ODMaxValue>
-          <ETX_OD_Enabled>true</ETX_OD_Enabled>
-          <ETX_ODMinValue>37</ETX_ODMinValue>
-          <ETX_ODMaxValue>900</ETX_ODMaxValue>
-          <FTX_OD_Enabled>true</FTX_OD_Enabled>
+          <ETX_OD_Enabled>false</ETX_OD_Enabled>
+          <ETX_ODMinValue>1</ETX_ODMinValue>
+          <ETX_ODMaxValue>999</ETX_ODMaxValue>
+          <FTX_OD_Enabled>false</FTX_OD_Enabled>
           <FTX_ODMinValue>1</FTX_ODMinValue>
-          <FTX_ODMaxValue>265</FTX_ODMaxValue>
+          <FTX_ODMaxValue>999</FTX_ODMaxValue>
           <HD_OD_Enabled>true</HD_OD_Enabled>
-          <HD_ODMinValue>127</HD_ODMinValue>
+          <HD_ODMinValue>130</HD_ODMinValue>
           <HD_ODMaxValue>270</HD_ODMaxValue>
           <ODD_OD_Enabled>true</ODD_OD_Enabled>
           <ODD_ODMinValue>20</ODD_ODMinValue>
           <ODD_ODMaxValue>80</ODD_ODMaxValue>
-          <SLZ_OD_Enabled>true</SLZ_OD_Enabled>
+          <SLZ_OD_Enabled>false</SLZ_OD_Enabled>
           <SLZ_ODMinValue>1</SLZ_ODMinValue>
-          <SLZ_ODMaxValue>550</SLZ_ODMaxValue>
+          <SLZ_ODMaxValue>999</SLZ_ODMaxValue>
           <TBS_OD_Enabled>false</TBS_OD_Enabled>
           <TBS_ODMinValue>1</TBS_ODMinValue>
           <TBS_ODMaxValue>999</TBS_ODMaxValue>
@@ -2800,28 +2800,28 @@
           <DarkZone3Start>2021-05-06T01:00:00</DarkZone3Start>
           <DarkZone3End>2021-05-06T03:00:00</DarkZone3End>
           <DTXEnabled>true</DTXEnabled>
-          <ELEVEnabled>false</ELEVEnabled>
+          <ELEVEnabled>true</ELEVEnabled>
           <ETXEnabled>true</ETXEnabled>
           <FTXEnabled>true</FTXEnabled>
           <HDEnabled>true</HDEnabled>
           <ODDEnabled>true</ODDEnabled>
           <SLZEnabled>true</SLZEnabled>
-          <TBSEnabled>false</TBSEnabled>
-          <DTXObsMin>0</DTXObsMin>
+          <TBSEnabled>true</TBSEnabled>
+          <DTXObsMin>10</DTXObsMin>
           <DTXObsMax>999</DTXObsMax>
-          <ELEVObsMin>0</ELEVObsMin>
+          <ELEVObsMin>10</ELEVObsMin>
           <ELEVObsMax>999</ELEVObsMax>
-          <ETXObsMin>11</ETXObsMin>
+          <ETXObsMin>10</ETXObsMin>
           <ETXObsMax>999</ETXObsMax>
-          <FTXObsMin>9</FTXObsMin>
+          <FTXObsMin>10</FTXObsMin>
           <FTXObsMax>999</FTXObsMax>
-          <HDObsMin>6</HDObsMin>
+          <HDObsMin>10</HDObsMin>
           <HDObsMax>999</HDObsMax>
-          <ODDObsMin>8</ODDObsMin>
+          <ODDObsMin>10</ODDObsMin>
           <ODDObsMax>999</ODDObsMax>
-          <SLZObsMin>8</SLZObsMin>
+          <SLZObsMin>10</SLZObsMin>
           <SLZObsMax>999</SLZObsMax>
-          <TBSObsMin>0</TBSObsMin>
+          <TBSObsMin>10</TBSObsMin>
           <TBSObsMax>999</TBSObsMax>
           <ATM_DTX_Custom_Enable>true</ATM_DTX_Custom_Enable>
           <ATM_DTX_Custom>NQ_DTX</ATM_DTX_Custom>
@@ -2860,30 +2860,22 @@
           <ODDDRCoherent>false</ODDDRCoherent>
           <SLZDRCoherent>false</SLZDRCoherent>
           <TBSDRCoherent>false</TBSDRCoherent>
-          <DTXDRValueEnable>true</DTXDRValueEnable>
-          <DTXDRMinValue>0.31</DTXDRMinValue>
-          <DTXDRMaxValue>2</DTXDRMaxValue>
+          <DTXDRValueEnable>false</DTXDRValueEnable>
+          <DTXDRValue>0.5</DTXDRValue>
           <ELEVDRValueEnable>false</ELEVDRValueEnable>
-          <ELEVDRMinValue>0.01</ELEVDRMinValue>
-          <ELEVDRMaxValue>2</ELEVDRMaxValue>
+          <ELEVDRValue>0.5</ELEVDRValue>
           <ETXDRValueEnable>false</ETXDRValueEnable>
-          <ETXDRMinValue>0.01</ETXDRMinValue>
-          <ETXDRMaxValue>2</ETXDRMaxValue>
+          <ETXDRValue>0.5</ETXDRValue>
           <FTXDRValueEnable>true</FTXDRValueEnable>
-          <FTXDRMinValue>0.25</FTXDRMinValue>
-          <FTXDRMaxValue>2</FTXDRMaxValue>
+          <FTXDRValue>0.65</FTXDRValue>
           <HDDRValueEnable>false</HDDRValueEnable>
-          <HDDRMinValue>0.01</HDDRMinValue>
-          <HDDRMaxValue>2</HDDRMaxValue>
+          <HDDRValue>0.5</HDDRValue>
           <ODDDRValueEnable>false</ODDDRValueEnable>
-          <ODDDRMinValue>0.01</ODDDRMinValue>
-          <ODDDRMaxValue>2</ODDDRMaxValue>
+          <ODDDRValue>0.5</ODDDRValue>
           <SLZDRValueEnable>false</SLZDRValueEnable>
-          <SLZDRMinValue>0.01</SLZDRMinValue>
-          <SLZDRMaxValue>2</SLZDRMaxValue>
+          <SLZDRValue>0.5</SLZDRValue>
           <TBSDRValueEnable>false</TBSDRValueEnable>
-          <TBSDRMinValue>0.01</TBSDRMinValue>
-          <TBSDRMaxValue>2</TBSDRMaxValue>
+          <TBSDRValue>0.5</TBSDRValue>
           <TicksDTXAmplifyEnable>false</TicksDTXAmplifyEnable>
           <TicksDTXAmplify>8</TicksDTXAmplify>
           <TicksELEVAmplifyEnable>false</TicksELEVAmplifyEnable>
@@ -2897,7 +2889,7 @@
           <TicksODDAmplifyEnable>false</TicksODDAmplifyEnable>
           <TicksODDAmplify>8</TicksODDAmplify>
           <TicksSLZAmplifyEnable>true</TicksSLZAmplifyEnable>
-          <TicksSLZAmplify>17</TicksSLZAmplify>
+          <TicksSLZAmplify>8</TicksSLZAmplify>
           <TicksTBSAmplifyEnable>false</TicksTBSAmplifyEnable>
           <TicksTBSAmplify>8</TicksTBSAmplify>
           <DTXBreakEvenOnCoil>false</DTXBreakEvenOnCoil>
@@ -2927,7 +2919,7 @@
           <DTXBrokenOPLevels>false</DTXBrokenOPLevels>
           <ELEVBrokenOPLevels>false</ELEVBrokenOPLevels>
           <ETXBrokenOPLevels>false</ETXBrokenOPLevels>
-          <FTXBrokenOPLevels>true</FTXBrokenOPLevels>
+          <FTXBrokenOPLevels>false</FTXBrokenOPLevels>
           <HDBrokenOPLevels>false</HDBrokenOPLevels>
           <ODDBrokenOPLevels>false</ODDBrokenOPLevels>
           <SLZBrokenOPLevels>false</SLZBrokenOPLevels>
@@ -2936,9 +2928,9 @@
           <ELEVWickPreviousBar>false</ELEVWickPreviousBar>
           <ETXWickPreviousBar>false</ETXWickPreviousBar>
           <FTXWickPreviousBar>false</FTXWickPreviousBar>
-          <HDWickPreviousBar>true</HDWickPreviousBar>
+          <HDWickPreviousBar>false</HDWickPreviousBar>
           <ODDWickPreviousBar>false</ODDWickPreviousBar>
-          <SLZWickPreviousBar>true</SLZWickPreviousBar>
+          <SLZWickPreviousBar>false</SLZWickPreviousBar>
           <TBSWickPreviousBar>false</TBSWickPreviousBar>
           <DTXRequireLevel>false</DTXRequireLevel>
           <ELEVRequireLevel>false</ELEVRequireLevel>
@@ -2953,13 +2945,13 @@
           <ETXRequireCluster>false</ETXRequireCluster>
           <FTXRequireCluster>false</FTXRequireCluster>
           <HDRequireCluster>false</HDRequireCluster>
-          <ODDRequireCluster>true</ODDRequireCluster>
+          <ODDRequireCluster>false</ODDRequireCluster>
           <SLZRequireCluster>false</SLZRequireCluster>
           <TBSRequireCluster>false</TBSRequireCluster>
           <DTXAvoidCluster>false</DTXAvoidCluster>
           <ELEVAvoidCluster>false</ELEVAvoidCluster>
           <ETXAvoidCluster>false</ETXAvoidCluster>
-          <FTXAvoidCluster>true</FTXAvoidCluster>
+          <FTXAvoidCluster>false</FTXAvoidCluster>
           <HDAvoidCluster>false</HDAvoidCluster>
           <ODDAvoidCluster>false</ODDAvoidCluster>
           <SLZAvoidCluster>false</SLZAvoidCluster>
@@ -2980,27 +2972,27 @@
           <SLZSell>true</SLZSell>
           <TBSBuy>true</TBSBuy>
           <TBSSell>true</TBSSell>
-          <DTXLiquidEnable>true</DTXLiquidEnable>
-          <DTXLiquidMinValue>4</DTXLiquidMinValue>
-          <DTXLiquidMaxValue>999</DTXLiquidMaxValue>
+          <DTXLiquidEnable>false</DTXLiquidEnable>
+          <DTXLiquidMinValue>2</DTXLiquidMinValue>
+          <DTXLiquidMaxValue>14</DTXLiquidMaxValue>
           <ELEVLiquidEnable>false</ELEVLiquidEnable>
           <ELEVLiquidMinValue>2</ELEVLiquidMinValue>
           <ELEVLiquidMaxValue>14</ELEVLiquidMaxValue>
-          <ETXLiquidEnable>true</ETXLiquidEnable>
-          <ETXLiquidMinValue>6.1</ETXLiquidMinValue>
-          <ETXLiquidMaxValue>16</ETXLiquidMaxValue>
-          <FTXLiquidEnable>true</FTXLiquidEnable>
-          <FTXLiquidMinValue>2.1</FTXLiquidMinValue>
-          <FTXLiquidMaxValue>16</FTXLiquidMaxValue>
-          <HDLiquidEnable>true</HDLiquidEnable>
-          <HDLiquidMinValue>2.36</HDLiquidMinValue>
-          <HDLiquidMaxValue>999</HDLiquidMaxValue>
+          <ETXLiquidEnable>false</ETXLiquidEnable>
+          <ETXLiquidMinValue>2</ETXLiquidMinValue>
+          <ETXLiquidMaxValue>14</ETXLiquidMaxValue>
+          <FTXLiquidEnable>false</FTXLiquidEnable>
+          <FTXLiquidMinValue>2</FTXLiquidMinValue>
+          <FTXLiquidMaxValue>14</FTXLiquidMaxValue>
+          <HDLiquidEnable>false</HDLiquidEnable>
+          <HDLiquidMinValue>2</HDLiquidMinValue>
+          <HDLiquidMaxValue>14</HDLiquidMaxValue>
           <ODDLiquidEnable>false</ODDLiquidEnable>
           <ODDLiquidMinValue>2</ODDLiquidMinValue>
           <ODDLiquidMaxValue>14</ODDLiquidMaxValue>
-          <SLZLiquidEnable>true</SLZLiquidEnable>
-          <SLZLiquidMinValue>1.4</SLZLiquidMinValue>
-          <SLZLiquidMaxValue>6.5</SLZLiquidMaxValue>
+          <SLZLiquidEnable>false</SLZLiquidEnable>
+          <SLZLiquidMinValue>2</SLZLiquidMinValue>
+          <SLZLiquidMaxValue>14</SLZLiquidMaxValue>
           <TBSLiquidEnable>false</TBSLiquidEnable>
           <TBSLiquidMinValue>2</TBSLiquidMinValue>
           <TBSLiquidMaxValue>14</TBSLiquidMaxValue>
@@ -3013,26 +3005,26 @@
           <ODDDivergence>false</ODDDivergence>
           <SLZDivergence>false</SLZDivergence>
           <TBSDivergence>false</TBSDivergence>
-          <DTXVolScoreEnable>true</DTXVolScoreEnable>
-          <DTXVolScoreMin>30</DTXVolScoreMin>
-          <DTXVolScoreMax>999</DTXVolScoreMax>
+          <DTXVolScoreEnable>false</DTXVolScoreEnable>
+          <DTXVolScoreMin>10</DTXVolScoreMin>
+          <DTXVolScoreMax>90</DTXVolScoreMax>
           <ELEVVolScoreEnable>false</ELEVVolScoreEnable>
           <ELEVVolScoreMin>10</ELEVVolScoreMin>
           <ELEVVolScoreMax>90</ELEVVolScoreMax>
-          <ETXVolScoreEnable>true</ETXVolScoreEnable>
-          <ETXVolScoreMin>13</ETXVolScoreMin>
-          <ETXVolScoreMax>190</ETXVolScoreMax>
-          <FTXVolScoreEnable>true</FTXVolScoreEnable>
-          <FTXVolScoreMin>19</FTXVolScoreMin>
-          <FTXVolScoreMax>500</FTXVolScoreMax>
+          <ETXVolScoreEnable>false</ETXVolScoreEnable>
+          <ETXVolScoreMin>10</ETXVolScoreMin>
+          <ETXVolScoreMax>90</ETXVolScoreMax>
+          <FTXVolScoreEnable>false</FTXVolScoreEnable>
+          <FTXVolScoreMin>10</FTXVolScoreMin>
+          <FTXVolScoreMax>90</FTXVolScoreMax>
           <HDVolScoreEnable>false</HDVolScoreEnable>
           <HDVolScoreMin>10</HDVolScoreMin>
           <HDVolScoreMax>90</HDVolScoreMax>
-          <ODDVolScoreEnable>true</ODDVolScoreEnable>
-          <ODDVolScoreMin>1</ODDVolScoreMin>
-          <ODDVolScoreMax>70</ODDVolScoreMax>
-          <SLZVolScoreEnable>true</SLZVolScoreEnable>
-          <SLZVolScoreMin>1</SLZVolScoreMin>
+          <ODDVolScoreEnable>false</ODDVolScoreEnable>
+          <ODDVolScoreMin>10</ODDVolScoreMin>
+          <ODDVolScoreMax>90</ODDVolScoreMax>
+          <SLZVolScoreEnable>false</SLZVolScoreEnable>
+          <SLZVolScoreMin>10</SLZVolScoreMin>
           <SLZVolScoreMax>90</SLZVolScoreMax>
           <TBSVolScoreEnable>false</TBSVolScoreEnable>
           <TBSVolScoreMin>10</TBSVolScoreMin>
@@ -3061,7 +3053,7 @@
           <ODDSettlement>0</ODDSettlement>
           <SLZSettlement>0</SLZSettlement>
           <TBSSettlement>0</TBSSettlement>
-        </AutomationTool>
+        </AutoAlgo>
         <Input>
           <PriceType>Close</PriceType>
         </Input>
@@ -3148,8 +3140,8 @@
             <AutoScaleMarginLower>40</AutoScaleMarginLower>
             <AutoScaleMarginUpper>40</AutoScaleMarginUpper>
             <YAxisScalingType>Linear</YAxisScalingType>
-            <FixedScaleMaxSerialize>13356.75</FixedScaleMaxSerialize>
-            <FixedScaleMinSerialize>13340.25</FixedScaleMinSerialize>
+            <FixedScaleMaxSerialize>13514</FixedScaleMaxSerialize>
+            <FixedScaleMinSerialize>13481</FixedScaleMinSerialize>
           </ChartScaleProperties>
         </Right>
         <Left>
@@ -3198,7 +3190,7 @@
             <AutoScaleMarginLower>6</AutoScaleMarginLower>
             <AutoScaleMarginUpper>6</AutoScaleMarginUpper>
             <YAxisScalingType>Linear</YAxisScalingType>
-            <FixedScaleMaxSerialize>1.9035659407618999</FixedScaleMaxSerialize>
+            <FixedScaleMaxSerialize>1.9784946236550771</FixedScaleMaxSerialize>
             <FixedScaleMinSerialize>0</FixedScaleMinSerialize>
           </ChartScaleProperties>
         </Right>
@@ -3339,7 +3331,7 @@
 &lt;/Pen&gt;</StopMarketSerialize>
       </ChartTraderProperties>
     </Properties>
-    <Account>Playback101</Account>
+    <Account>Sim101</Account>
     <ATM>1_9_21</ATM>
     <Instrument>NQ 06-21</Instrument>
     <Quantity>1</Quantity>

@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <NinjaTrader>
-  <AutomationTool>
-    <AutomationTool xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <AutoAlgo>
+    <AutoAlgo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
       <IsVisible>true</IsVisible>
       <AreLinesConfigurable>true</AreLinesConfigurable>
       <ArePlotsConfigurable>true</ArePlotsConfigurable>
@@ -13,7 +13,7 @@
         <MarketDataType>Last</MarketDataType>
         <PointAndFigurePriceType>Close</PointAndFigurePriceType>
         <ReversalType>Tick</ReversalType>
-        <Value>10</Value>
+        <Value>8</Value>
         <Value2>50</Value2>
       </BarsPeriodSerializable>
       <BarsToLoad>0</BarsToLoad>
@@ -40,7 +40,7 @@
         </Line>
       </Lines>
       <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
-      <Name>_APEX Automation Tool</Name>
+      <Name>_APEX Auto Algo</Name>
       <Plots>
         <Plot>
           <IsOpacityVisible>false</IsOpacityVisible>
@@ -51,7 +51,7 @@
           <AutoWidth>false</AutoWidth>
           <Max>1.7976931348623157E+308</Max>
           <Min>-1.7976931348623157E+308</Min>
-          <Name>AutomationTool</Name>
+          <Name>AutoAlgo</Name>
           <PlotStyle>Line</PlotStyle>
         </Plot>
       </Plots>
@@ -63,14 +63,14 @@
       <DrawOnPricePanel>false</DrawOnPricePanel>
       <PaintPriceMarkers>false</PaintPriceMarkers>
       <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-      <IndicatorId>103</IndicatorId>
-      <InstrumentDeserialized>NQ 06-21 Globex</InstrumentDeserialized>
+      <IndicatorId>817</IndicatorId>
+      <InstrumentDeserialized>ES 06-21 Globex</InstrumentDeserialized>
       <MaxSerialized>0</MaxSerialized>
       <MinSerialized>0</MinSerialized>
-      <ZOrder>31366</ZOrder>
+      <ZOrder>31329</ZOrder>
       <SettingsSerialized>eyJJc1VwQ2xvc2VCYXIiOnRydWUsIklzRG93bkNsb3NlQmFyIjp0cnVlLCJVc2VQcmljZVZhbHVlIjpmYWxzZSwiVGlja09mZnNldCI6MCwiVXBDbG9zZVZhbHVlIjoxLjAsIlVwQ2xvc2VMaXZlVmFsdWUiOi0xLjAsIkRvd25DbG9zZVZhbHVlIjoxLjAsIkRvd25DbG9zZUxpdmVWYWx1ZSI6LTEuMH0=</SettingsSerialized>
       <UserSettingsSerialized>e30=</UserSettingsSerialized>
-      <OrderPrintsID>nqTickID</OrderPrintsID>
+      <OrderPrintsID>esTickID</OrderPrintsID>
       <MultiSetupEntry>false</MultiSetupEntry>
       <DTX_OD_Enabled>false</DTX_OD_Enabled>
       <DTX_ODMinValue>1</DTX_ODMinValue>
@@ -116,38 +116,38 @@
       <ODDEnabled>true</ODDEnabled>
       <SLZEnabled>true</SLZEnabled>
       <TBSEnabled>true</TBSEnabled>
-      <DTXObsMin>10</DTXObsMin>
+      <DTXObsMin>8</DTXObsMin>
       <DTXObsMax>999</DTXObsMax>
-      <ELEVObsMin>10</ELEVObsMin>
+      <ELEVObsMin>8</ELEVObsMin>
       <ELEVObsMax>999</ELEVObsMax>
-      <ETXObsMin>10</ETXObsMin>
+      <ETXObsMin>8</ETXObsMin>
       <ETXObsMax>999</ETXObsMax>
-      <FTXObsMin>10</FTXObsMin>
+      <FTXObsMin>8</FTXObsMin>
       <FTXObsMax>999</FTXObsMax>
-      <HDObsMin>10</HDObsMin>
+      <HDObsMin>8</HDObsMin>
       <HDObsMax>999</HDObsMax>
-      <ODDObsMin>10</ODDObsMin>
+      <ODDObsMin>8</ODDObsMin>
       <ODDObsMax>999</ODDObsMax>
-      <SLZObsMin>10</SLZObsMin>
+      <SLZObsMin>8</SLZObsMin>
       <SLZObsMax>999</SLZObsMax>
-      <TBSObsMin>10</TBSObsMin>
+      <TBSObsMin>8</TBSObsMin>
       <TBSObsMax>999</TBSObsMax>
       <ATM_DTX_Custom_Enable>true</ATM_DTX_Custom_Enable>
-      <ATM_DTX_Custom>NQ_DTX</ATM_DTX_Custom>
+      <ATM_DTX_Custom>ES_DTX</ATM_DTX_Custom>
       <ATM_ELEV_Custom_Enable>true</ATM_ELEV_Custom_Enable>
-      <ATM_ELEV_Custom>NQ_ELEV</ATM_ELEV_Custom>
+      <ATM_ELEV_Custom>ES_ELEV</ATM_ELEV_Custom>
       <ATM_ETX_Custom_Enable>true</ATM_ETX_Custom_Enable>
-      <ATM_ETX_Custom>NQ_ETX</ATM_ETX_Custom>
+      <ATM_ETX_Custom>ES_ETX</ATM_ETX_Custom>
       <ATM_FTX_Custom_Enable>true</ATM_FTX_Custom_Enable>
-      <ATM_FTX_Custom>NQ_FTX</ATM_FTX_Custom>
+      <ATM_FTX_Custom>ES_FTX</ATM_FTX_Custom>
       <ATM_HD_Custom_Enable>true</ATM_HD_Custom_Enable>
-      <ATM_HD_Custom>NQ_HD</ATM_HD_Custom>
+      <ATM_HD_Custom>ES_HD</ATM_HD_Custom>
       <ATM_ODD_Custom_Enable>true</ATM_ODD_Custom_Enable>
-      <ATM_ODD_Custom>NQ_ODD</ATM_ODD_Custom>
+      <ATM_ODD_Custom>ES_ODD</ATM_ODD_Custom>
       <ATM_SLZ_Custom_Enable>true</ATM_SLZ_Custom_Enable>
-      <ATM_SLZ_Custom>NQ_SLZ</ATM_SLZ_Custom>
+      <ATM_SLZ_Custom>ES_SLZ</ATM_SLZ_Custom>
       <ATM_TBS_Custom_Enable>true</ATM_TBS_Custom_Enable>
-      <ATM_TBS_Custom>NQ_TBS</ATM_TBS_Custom>
+      <ATM_TBS_Custom>ES_TBS</ATM_TBS_Custom>
       <EmailEnabled>false</EmailEnabled>
       <EmailUsername>email@gmail.com</EmailUsername>
       <PlivoEnabled>false</PlivoEnabled>
@@ -186,21 +186,21 @@
       <TBSDRValueEnable>false</TBSDRValueEnable>
       <TBSDRValue>0.5</TBSDRValue>
       <TicksDTXAmplifyEnable>false</TicksDTXAmplifyEnable>
-      <TicksDTXAmplify>8</TicksDTXAmplify>
+      <TicksDTXAmplify>6</TicksDTXAmplify>
       <TicksELEVAmplifyEnable>false</TicksELEVAmplifyEnable>
-      <TicksELEVAmplify>8</TicksELEVAmplify>
+      <TicksELEVAmplify>6</TicksELEVAmplify>
       <TicksETXAmplifyEnable>false</TicksETXAmplifyEnable>
-      <TicksETXAmplify>8</TicksETXAmplify>
+      <TicksETXAmplify>6</TicksETXAmplify>
       <TicksFTXAmplifyEnable>false</TicksFTXAmplifyEnable>
-      <TicksFTXAmplify>8</TicksFTXAmplify>
+      <TicksFTXAmplify>6</TicksFTXAmplify>
       <TicksHDAmplifyEnable>false</TicksHDAmplifyEnable>
-      <TicksHDAmplify>8</TicksHDAmplify>
+      <TicksHDAmplify>6</TicksHDAmplify>
       <TicksODDAmplifyEnable>false</TicksODDAmplifyEnable>
-      <TicksODDAmplify>8</TicksODDAmplify>
+      <TicksODDAmplify>6</TicksODDAmplify>
       <TicksSLZAmplifyEnable>true</TicksSLZAmplifyEnable>
-      <TicksSLZAmplify>8</TicksSLZAmplify>
+      <TicksSLZAmplify>6</TicksSLZAmplify>
       <TicksTBSAmplifyEnable>false</TicksTBSAmplifyEnable>
-      <TicksTBSAmplify>8</TicksTBSAmplify>
+      <TicksTBSAmplify>6</TicksTBSAmplify>
       <DTXBreakEvenOnCoil>false</DTXBreakEvenOnCoil>
       <ELEVBreakEvenOnCoil>false</ELEVBreakEvenOnCoil>
       <ETXBreakEvenOnCoil>false</ETXBreakEvenOnCoil>
@@ -362,6 +362,6 @@
       <ODDSettlement>0</ODDSettlement>
       <SLZSettlement>0</SLZSettlement>
       <TBSSettlement>0</TBSSettlement>
-    </AutomationTool>
-  </AutomationTool>
+    </AutoAlgo>
+  </AutoAlgo>
 </NinjaTrader>
