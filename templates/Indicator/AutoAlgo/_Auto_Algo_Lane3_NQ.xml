@@ -18,11 +18,11 @@
       </BarsPeriodSerializable>
       <BarsToLoad>0</BarsToLoad>
       <DisplayInDataBox>false</DisplayInDataBox>
-      <From>2021-05-23T00:00:00</From>
+      <From>2021-05-24T00:00:00</From>
       <Panel>-1</Panel>
       <ScaleJustification>Overlay</ScaleJustification>
       <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-      <To>2021-05-26T00:00:00</To>
+      <To>2021-05-27T00:00:00</To>
       <Calculate>OnEachTick</Calculate>
       <Displacement>0</Displacement>
       <IsAutoScale>false</IsAutoScale>
@@ -63,7 +63,7 @@
       <DrawOnPricePanel>false</DrawOnPricePanel>
       <PaintPriceMarkers>false</PaintPriceMarkers>
       <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-      <IndicatorId>728</IndicatorId>
+      <IndicatorId>537</IndicatorId>
       <InstrumentDeserialized>NQ 06-21 Globex</InstrumentDeserialized>
       <MaxSerialized>0</MaxSerialized>
       <MinSerialized>0</MinSerialized>
@@ -101,15 +101,21 @@
       <PositivePNLReached>9999</PositivePNLReached>
       <NegativePNLReached>-9999</NegativePNLReached>
       <FastMarkets>true</FastMarkets>
+      <WhiteZone1>true</WhiteZone1>
+      <WhiteZone1Start>2021-05-27T08:30:00</WhiteZone1Start>
+      <WhiteZone1End>2021-05-27T16:00:00</WhiteZone1End>
+      <WhiteZone2>false</WhiteZone2>
+      <WhiteZone2Start>2021-05-27T00:00:00</WhiteZone2Start>
+      <WhiteZone2End>2021-05-27T16:00:00</WhiteZone2End>
       <DarkZone1>true</DarkZone1>
       <DarkZone1Start>2021-04-27T09:25:00</DarkZone1Start>
       <DarkZone1End>2021-04-27T09:35:00</DarkZone1End>
       <DarkZone2>true</DarkZone2>
       <DarkZone2Start>2021-04-27T16:00:00</DarkZone2Start>
       <DarkZone2End>2021-04-27T18:00:00</DarkZone2End>
-      <DarkZone3>false</DarkZone3>
-      <DarkZone3Start>2021-05-06T01:00:00</DarkZone3Start>
-      <DarkZone3End>2021-05-06T03:00:00</DarkZone3End>
+      <DarkZone3>true</DarkZone3>
+      <DarkZone3Start>2021-05-06T15:00:00</DarkZone3Start>
+      <DarkZone3End>2021-05-06T15:30:00</DarkZone3End>
       <DarkZone4>false</DarkZone4>
       <DarkZone4Start>2021-05-24T14:15:00</DarkZone4Start>
       <DarkZone4End>2021-05-24T18:00:00</DarkZone4End>
@@ -129,21 +135,13 @@
       <SLZEnabled>true</SLZEnabled>
       <TBSEnabled>false</TBSEnabled>
       <DTXObsMin>0</DTXObsMin>
-      <DTXObsMax>999</DTXObsMax>
       <ELEVObsMin>0</ELEVObsMin>
-      <ELEVObsMax>999</ELEVObsMax>
       <ETXObsMin>9</ETXObsMin>
-      <ETXObsMax>999</ETXObsMax>
       <FTXObsMin>7</FTXObsMin>
-      <FTXObsMax>999</FTXObsMax>
       <HDObsMin>7</HDObsMin>
-      <HDObsMax>999</HDObsMax>
       <ODDObsMin>8</ODDObsMin>
-      <ODDObsMax>999</ODDObsMax>
       <SLZObsMin>0</SLZObsMin>
-      <SLZObsMax>999</SLZObsMax>
       <TBSObsMin>0</TBSObsMin>
-      <TBSObsMax>999</TBSObsMax>
       <ATM_DTX_Custom_Enable>true</ATM_DTX_Custom_Enable>
       <ATM_DTX_Custom>NQ_DTX</ATM_DTX_Custom>
       <ATM_ELEV_Custom_Enable>true</ATM_ELEV_Custom_Enable>
