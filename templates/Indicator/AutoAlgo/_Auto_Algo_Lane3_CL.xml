@@ -18,11 +18,11 @@
       </BarsPeriodSerializable>
       <BarsToLoad>0</BarsToLoad>
       <DisplayInDataBox>false</DisplayInDataBox>
-      <From>2021-05-24T00:00:00</From>
+      <From>2021-05-27T00:00:00</From>
       <Panel>-1</Panel>
       <ScaleJustification>Overlay</ScaleJustification>
       <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-      <To>2021-05-27T00:00:00</To>
+      <To>2021-05-30T00:00:00</To>
       <Calculate>OnEachTick</Calculate>
       <Displacement>0</Displacement>
       <IsAutoScale>false</IsAutoScale>
@@ -74,6 +74,7 @@
       <MultiSetupEntry>false</MultiSetupEntry>
       <AvoidNews>true</AvoidNews>
       <TickSettlement>15</TickSettlement>
+      <CommissionFee>3.88</CommissionFee>
       <DTX_OD_Enabled>true</DTX_OD_Enabled>
       <DTX_ODMinValue>1</DTX_ODMinValue>
       <DTX_ODMaxValue>140</DTX_ODMaxValue>
@@ -122,10 +123,6 @@
       <DarkZone5>false</DarkZone5>
       <DarkZone5Start>2021-05-24T01:20:00</DarkZone5Start>
       <DarkZone5End>2021-05-24T01:30:00</DarkZone5End>
-      <CloseOpen1>true</CloseOpen1>
-      <CloseOpen1Time>2021-05-24T09:25:00</CloseOpen1Time>
-      <CloseOpen2>true</CloseOpen2>
-      <CloseOpen2Time>2021-05-24T14:15:00</CloseOpen2Time>
       <DTXEnabled>true</DTXEnabled>
       <ELEVEnabled>false</ELEVEnabled>
       <ETXEnabled>true</ETXEnabled>
@@ -267,22 +264,14 @@
       <ODDRequireLevel>false</ODDRequireLevel>
       <SLZRequireLevel>false</SLZRequireLevel>
       <TBSRequireLevel>false</TBSRequireLevel>
-      <DTXRequireCluster>false</DTXRequireCluster>
-      <ELEVRequireCluster>false</ELEVRequireCluster>
-      <ETXRequireCluster>false</ETXRequireCluster>
-      <FTXRequireCluster>false</FTXRequireCluster>
-      <HDRequireCluster>false</HDRequireCluster>
-      <ODDRequireCluster>false</ODDRequireCluster>
-      <SLZRequireCluster>false</SLZRequireCluster>
-      <TBSRequireCluster>false</TBSRequireCluster>
-      <DTXAvoidCluster>false</DTXAvoidCluster>
-      <ELEVAvoidCluster>false</ELEVAvoidCluster>
-      <ETXAvoidCluster>false</ETXAvoidCluster>
-      <FTXAvoidCluster>false</FTXAvoidCluster>
-      <HDAvoidCluster>false</HDAvoidCluster>
-      <ODDAvoidCluster>false</ODDAvoidCluster>
-      <SLZAvoidCluster>false</SLZAvoidCluster>
-      <TBSAvoidCluster>false</TBSAvoidCluster>
+      <DTXClusters>Disabled</DTXClusters>
+      <ELEVClusters>Disabled</ELEVClusters>
+      <ETXClusters>Disabled</ETXClusters>
+      <FTXClusters>Disabled</FTXClusters>
+      <HDClusters>Disabled</HDClusters>
+      <ODDClusters>Disabled</ODDClusters>
+      <SLZClusters>Disabled</SLZClusters>
+      <TBSClusters>Disabled</TBSClusters>
       <DTXBuy>true</DTXBuy>
       <DTXSell>true</DTXSell>
       <ELEVBuy>true</ELEVBuy>
