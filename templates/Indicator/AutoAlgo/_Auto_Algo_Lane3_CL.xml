@@ -18,11 +18,11 @@
       </BarsPeriodSerializable>
       <BarsToLoad>0</BarsToLoad>
       <DisplayInDataBox>false</DisplayInDataBox>
-      <From>2021-05-27T00:00:00</From>
+      <From>2021-05-29T00:00:00</From>
       <Panel>-1</Panel>
       <ScaleJustification>Overlay</ScaleJustification>
       <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-      <To>2021-05-30T00:00:00</To>
+      <To>2021-06-01T00:00:00</To>
       <Calculate>OnEachTick</Calculate>
       <Displacement>0</Displacement>
       <IsAutoScale>false</IsAutoScale>
@@ -70,11 +70,12 @@
       <ZOrder>10014</ZOrder>
       <SettingsSerialized>eyJJc1VwQ2xvc2VCYXIiOnRydWUsIklzRG93bkNsb3NlQmFyIjp0cnVlLCJVc2VQcmljZVZhbHVlIjpmYWxzZSwiVGlja09mZnNldCI6MCwiVXBDbG9zZVZhbHVlIjoxLjAsIlVwQ2xvc2VMaXZlVmFsdWUiOi0xLjAsIkRvd25DbG9zZVZhbHVlIjoxLjAsIkRvd25DbG9zZUxpdmVWYWx1ZSI6LTEuMH0=</SettingsSerialized>
       <UserSettingsSerialized>e30=</UserSettingsSerialized>
-      <OrderPrintsID>CL20</OrderPrintsID>
+      <OrderPrintsID>CL24</OrderPrintsID>
       <MultiSetupEntry>false</MultiSetupEntry>
       <AvoidNews>true</AvoidNews>
       <TickSettlement>15</TickSettlement>
       <CommissionFee>3.88</CommissionFee>
+      <EnableMartingale>false</EnableMartingale>
       <DTX_OD_Enabled>true</DTX_OD_Enabled>
       <DTX_ODMinValue>1</DTX_ODMinValue>
       <DTX_ODMaxValue>140</DTX_ODMaxValue>
