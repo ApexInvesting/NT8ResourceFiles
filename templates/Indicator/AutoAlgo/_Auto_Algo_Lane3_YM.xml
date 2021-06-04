@@ -18,11 +18,11 @@
       </BarsPeriodSerializable>
       <BarsToLoad>0</BarsToLoad>
       <DisplayInDataBox>false</DisplayInDataBox>
-      <From>2021-05-27T00:00:00</From>
+      <From>2021-06-01T00:00:00</From>
       <Panel>-1</Panel>
       <ScaleJustification>Overlay</ScaleJustification>
       <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-      <To>2021-05-30T00:00:00</To>
+      <To>2021-06-04T00:00:00</To>
       <Calculate>OnEachTick</Calculate>
       <Displacement>0</Displacement>
       <IsAutoScale>false</IsAutoScale>
@@ -63,7 +63,7 @@
       <DrawOnPricePanel>false</DrawOnPricePanel>
       <PaintPriceMarkers>false</PaintPriceMarkers>
       <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-      <IndicatorId>851</IndicatorId>
+      <IndicatorId>529</IndicatorId>
       <InstrumentDeserialized>YM 06-21 Globex</InstrumentDeserialized>
       <MaxSerialized>0</MaxSerialized>
       <MinSerialized>0</MinSerialized>
@@ -74,7 +74,14 @@
       <MultiSetupEntry>false</MultiSetupEntry>
       <AvoidNews>true</AvoidNews>
       <TickSettlement>15</TickSettlement>
-      <CommissionFee>3.88</CommissionFee>
+      <CommissionFee>3.98</CommissionFee>
+      <ConsecutiveLossEnabled>true</ConsecutiveLossEnabled>
+      <ConsecutiveLosses>4</ConsecutiveLosses>
+      <EnableMartingale>false</EnableMartingale>
+      <MartingaleSize>8</MartingaleSize>
+      <FastMarkets>true</FastMarkets>
+      <FastMarketBars>35</FastMarketBars>
+      <FastMarketSecs>60</FastMarketSecs>
       <DTX_OD_Enabled>false</DTX_OD_Enabled>
       <DTX_ODMinValue>0</DTX_ODMinValue>
       <DTX_ODMaxValue>999</DTX_ODMaxValue>
@@ -101,7 +108,6 @@
       <TBS_ODMaxValue>999</TBS_ODMaxValue>
       <PositivePNLReached>9999</PositivePNLReached>
       <NegativePNLReached>-9999</NegativePNLReached>
-      <FastMarkets>true</FastMarkets>
       <WhiteZone1>true</WhiteZone1>
       <WhiteZone1Start>2021-05-27T09:30:00</WhiteZone1Start>
       <WhiteZone1End>2021-05-27T15:30:00</WhiteZone1End>

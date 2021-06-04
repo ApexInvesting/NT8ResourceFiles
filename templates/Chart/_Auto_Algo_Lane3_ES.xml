@@ -2765,7 +2765,7 @@
           <MultiSetupEntry>false</MultiSetupEntry>
           <AvoidNews>true</AvoidNews>
           <TickSettlement>15</TickSettlement>
-          <CommissionFee>3.88</CommissionFee>
+          <CommissionFee>3.98</CommissionFee>
           <EnableMartingale>false</EnableMartingale>
           <DTX_OD_Enabled>true</DTX_OD_Enabled>
           <DTX_ODMinValue>20</DTX_ODMinValue>
