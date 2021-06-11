@@ -13,7 +13,7 @@
         <MarketDataType>Last</MarketDataType>
         <PointAndFigurePriceType>Close</PointAndFigurePriceType>
         <ReversalType>Tick</ReversalType>
-        <Value>8</Value>
+        <Value>10</Value>
         <Value2>50</Value2>
       </BarsPeriodSerializable>
       <BarsToLoad>0</BarsToLoad>
@@ -63,7 +63,7 @@
       <DrawOnPricePanel>false</DrawOnPricePanel>
       <PaintPriceMarkers>false</PaintPriceMarkers>
       <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-      <IndicatorId>2742</IndicatorId>
+      <IndicatorId>1237</IndicatorId>
       <InstrumentDeserialized>MNQ 06-21 Globex</InstrumentDeserialized>
       <MaxSerialized>0</MaxSerialized>
       <MinSerialized>0</MinSerialized>
@@ -82,6 +82,7 @@
       <FastMarkets>true</FastMarkets>
       <FastMarketBars>35</FastMarketBars>
       <FastMarketSecs>60</FastMarketSecs>
+      <EnableSettings>false</EnableSettings>
       <DTX_OD_Enabled>false</DTX_OD_Enabled>
       <DTX_ODMinValue>1</DTX_ODMinValue>
       <DTX_ODMaxValue>9999</DTX_ODMaxValue>
@@ -262,6 +263,14 @@
       <ODDWickPreviousBar>false</ODDWickPreviousBar>
       <SLZWickPreviousBar>false</SLZWickPreviousBar>
       <TBSWickPreviousBar>false</TBSWickPreviousBar>
+      <DTXWickSize>50</DTXWickSize>
+      <ELEVWickSize>50</ELEVWickSize>
+      <ETXWickSize>50</ETXWickSize>
+      <FTXWickSize>50</FTXWickSize>
+      <HDWickSize>50</HDWickSize>
+      <ODDWickSize>50</ODDWickSize>
+      <SLZWickSize>50</SLZWickSize>
+      <TBSWickSize>50</TBSWickSize>
       <DTXRequireLevel>false</DTXRequireLevel>
       <ELEVRequireLevel>false</ELEVRequireLevel>
       <ETXRequireLevel>true</ETXRequireLevel>
