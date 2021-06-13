@@ -101,11 +101,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2021-05-29T00:00:00</From>
+          <From>2021-06-09T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2021-06-01T00:00:00</To>
+          <To>2021-06-12T00:00:00</To>
           <Calculate>OnEachTick</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>false</IsAutoScale>
@@ -123,7 +123,7 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>true</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>430</IndicatorId>
+          <IndicatorId>633</IndicatorId>
           <InstrumentDeserialized>RTY 06-21 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -154,11 +154,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2021-05-29T00:00:00</From>
+          <From>2021-06-09T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2021-06-01T00:00:00</To>
+          <To>2021-06-12T00:00:00</To>
           <Calculate>OnBarClose</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -176,7 +176,7 @@
           <DrawOnPricePanel>false</DrawOnPricePanel>
           <PaintPriceMarkers>true</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>434</IndicatorId>
+          <IndicatorId>637</IndicatorId>
           <InstrumentDeserialized>RTY 06-21 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -207,11 +207,11 @@
               </BarsPeriodSerializable>
               <BarsToLoad>0</BarsToLoad>
               <DisplayInDataBox>true</DisplayInDataBox>
-              <From>2021-05-29T00:00:00</From>
+              <From>2021-06-09T00:00:00</From>
               <Panel>0</Panel>
               <ScaleJustification>Right</ScaleJustification>
               <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-              <To>2021-06-01T00:00:00</To>
+              <To>2021-06-12T00:00:00</To>
               <Calculate>OnBarClose</Calculate>
               <Displacement>0</Displacement>
               <IsAutoScale>true</IsAutoScale>
@@ -280,11 +280,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2021-05-29T00:00:00</From>
+          <From>2021-06-09T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2021-06-01T00:00:00</To>
+          <To>2021-06-12T00:00:00</To>
           <Calculate>OnBarClose</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -302,7 +302,7 @@
           <DrawOnPricePanel>false</DrawOnPricePanel>
           <PaintPriceMarkers>true</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>438</IndicatorId>
+          <IndicatorId>641</IndicatorId>
           <InstrumentDeserialized>RTY 06-21 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -333,11 +333,11 @@
               </BarsPeriodSerializable>
               <BarsToLoad>0</BarsToLoad>
               <DisplayInDataBox>true</DisplayInDataBox>
-              <From>2021-05-29T00:00:00</From>
+              <From>2021-06-09T00:00:00</From>
               <Panel>0</Panel>
               <ScaleJustification>Right</ScaleJustification>
               <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-              <To>2021-06-01T00:00:00</To>
+              <To>2021-06-12T00:00:00</To>
               <Calculate>OnBarClose</Calculate>
               <Displacement>0</Displacement>
               <IsAutoScale>true</IsAutoScale>
@@ -406,11 +406,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2021-05-29T00:00:00</From>
+          <From>2021-06-09T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2021-06-01T00:00:00</To>
+          <To>2021-06-12T00:00:00</To>
           <Calculate>OnBarClose</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -428,7 +428,7 @@
           <DrawOnPricePanel>false</DrawOnPricePanel>
           <PaintPriceMarkers>true</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>442</IndicatorId>
+          <IndicatorId>645</IndicatorId>
           <InstrumentDeserialized>RTY 06-21 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -459,11 +459,11 @@
               </BarsPeriodSerializable>
               <BarsToLoad>0</BarsToLoad>
               <DisplayInDataBox>true</DisplayInDataBox>
-              <From>2021-05-29T00:00:00</From>
+              <From>2021-06-09T00:00:00</From>
               <Panel>0</Panel>
               <ScaleJustification>Right</ScaleJustification>
               <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-              <To>2021-06-01T00:00:00</To>
+              <To>2021-06-12T00:00:00</To>
               <Calculate>OnBarClose</Calculate>
               <Displacement>0</Displacement>
               <IsAutoScale>true</IsAutoScale>
@@ -532,11 +532,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2021-05-29T00:00:00</From>
+          <From>2021-06-09T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2021-06-01T00:00:00</To>
+          <To>2021-06-12T00:00:00</To>
           <Calculate>OnBarClose</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -554,7 +554,7 @@
           <DrawOnPricePanel>false</DrawOnPricePanel>
           <PaintPriceMarkers>true</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>446</IndicatorId>
+          <IndicatorId>649</IndicatorId>
           <InstrumentDeserialized>RTY 06-21 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -585,11 +585,11 @@
               </BarsPeriodSerializable>
               <BarsToLoad>0</BarsToLoad>
               <DisplayInDataBox>true</DisplayInDataBox>
-              <From>2021-05-29T00:00:00</From>
+              <From>2021-06-09T00:00:00</From>
               <Panel>0</Panel>
               <ScaleJustification>Right</ScaleJustification>
               <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-              <To>2021-06-01T00:00:00</To>
+              <To>2021-06-12T00:00:00</To>
               <Calculate>OnBarClose</Calculate>
               <Displacement>0</Displacement>
               <IsAutoScale>true</IsAutoScale>
@@ -664,11 +664,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2021-05-29T00:00:00</From>
+          <From>2021-06-09T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2021-06-01T00:00:00</To>
+          <To>2021-06-12T00:00:00</To>
           <Calculate>OnBarClose</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -686,7 +686,7 @@
           <DrawOnPricePanel>false</DrawOnPricePanel>
           <PaintPriceMarkers>true</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>450</IndicatorId>
+          <IndicatorId>653</IndicatorId>
           <InstrumentDeserialized>RTY 06-21 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -717,11 +717,11 @@
               </BarsPeriodSerializable>
               <BarsToLoad>0</BarsToLoad>
               <DisplayInDataBox>true</DisplayInDataBox>
-              <From>2021-05-29T00:00:00</From>
+              <From>2021-06-09T00:00:00</From>
               <Panel>0</Panel>
               <ScaleJustification>Right</ScaleJustification>
               <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-              <To>2021-06-01T00:00:00</To>
+              <To>2021-06-12T00:00:00</To>
               <Calculate>OnBarClose</Calculate>
               <Displacement>0</Displacement>
               <IsAutoScale>true</IsAutoScale>
@@ -793,11 +793,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2021-05-29T00:00:00</From>
+          <From>2021-06-09T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2021-06-01T00:00:00</To>
+          <To>2021-06-12T00:00:00</To>
           <Calculate>OnBarClose</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -815,7 +815,7 @@
           <DrawOnPricePanel>false</DrawOnPricePanel>
           <PaintPriceMarkers>true</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>454</IndicatorId>
+          <IndicatorId>657</IndicatorId>
           <InstrumentDeserialized>RTY 06-21 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -846,11 +846,11 @@
               </BarsPeriodSerializable>
               <BarsToLoad>0</BarsToLoad>
               <DisplayInDataBox>true</DisplayInDataBox>
-              <From>2021-05-29T00:00:00</From>
+              <From>2021-06-09T00:00:00</From>
               <Panel>0</Panel>
               <ScaleJustification>Right</ScaleJustification>
               <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-              <To>2021-06-01T00:00:00</To>
+              <To>2021-06-12T00:00:00</To>
               <Calculate>OnBarClose</Calculate>
               <Displacement>0</Displacement>
               <IsAutoScale>true</IsAutoScale>
@@ -925,11 +925,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2021-05-29T00:00:00</From>
+          <From>2021-06-09T00:00:00</From>
           <Panel>1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2021-06-01T00:00:00</To>
+          <To>2021-06-12T00:00:00</To>
           <Calculate>OnEachTick</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>false</IsAutoScale>
@@ -997,7 +997,7 @@
           <DrawOnPricePanel>false</DrawOnPricePanel>
           <PaintPriceMarkers>true</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>457</IndicatorId>
+          <IndicatorId>660</IndicatorId>
           <InstrumentDeserialized>RTY 06-21 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -1027,11 +1027,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>false</DisplayInDataBox>
-          <From>2021-05-29T00:00:00</From>
+          <From>2021-06-09T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2021-06-01T00:00:00</To>
+          <To>2021-06-12T00:00:00</To>
           <Calculate>OnBarClose</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -1049,7 +1049,7 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>460</IndicatorId>
+          <IndicatorId>663</IndicatorId>
           <InstrumentDeserialized>RTY 06-21 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -1079,11 +1079,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>false</DisplayInDataBox>
-          <From>2021-05-29T00:00:00</From>
+          <From>2021-06-09T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2021-06-01T00:00:00</To>
+          <To>2021-06-12T00:00:00</To>
           <Calculate>OnBarClose</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -1101,7 +1101,7 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>463</IndicatorId>
+          <IndicatorId>666</IndicatorId>
           <InstrumentDeserialized>RTY 06-21 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -1131,11 +1131,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2021-05-29T00:00:00</From>
+          <From>2021-06-09T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2021-06-01T00:00:00</To>
+          <To>2021-06-12T00:00:00</To>
           <Calculate>OnBarClose</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -1153,7 +1153,7 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>466</IndicatorId>
+          <IndicatorId>669</IndicatorId>
           <InstrumentDeserialized>RTY 06-21 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -1183,11 +1183,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>false</DisplayInDataBox>
-          <From>2021-05-29T00:00:00</From>
+          <From>2021-06-09T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2021-06-01T00:00:00</To>
+          <To>2021-06-12T00:00:00</To>
           <Calculate>OnPriceChange</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>false</IsAutoScale>
@@ -1230,7 +1230,7 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>469</IndicatorId>
+          <IndicatorId>672</IndicatorId>
           <InstrumentDeserialized>RTY 06-21 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -1260,11 +1260,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>false</DisplayInDataBox>
-          <From>2021-05-29T00:00:00</From>
+          <From>2021-06-09T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2021-06-01T00:00:00</To>
+          <To>2021-06-12T00:00:00</To>
           <Calculate>OnPriceChange</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>false</IsAutoScale>
@@ -1307,7 +1307,7 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>472</IndicatorId>
+          <IndicatorId>675</IndicatorId>
           <InstrumentDeserialized>RTY 06-21 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -1337,11 +1337,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>false</DisplayInDataBox>
-          <From>2021-05-29T00:00:00</From>
+          <From>2021-06-09T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2021-06-01T00:00:00</To>
+          <To>2021-06-12T00:00:00</To>
           <Calculate>OnPriceChange</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>false</IsAutoScale>
@@ -1384,7 +1384,7 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>475</IndicatorId>
+          <IndicatorId>678</IndicatorId>
           <InstrumentDeserialized>RTY 06-21 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -1414,11 +1414,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2021-05-29T00:00:00</From>
+          <From>2021-06-09T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2021-06-01T00:00:00</To>
+          <To>2021-06-12T00:00:00</To>
           <Calculate>OnEachTick</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>false</IsAutoScale>
@@ -1449,14 +1449,14 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>478</IndicatorId>
+          <IndicatorId>681</IndicatorId>
           <InstrumentDeserialized>RTY 06-21 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
           <ZOrder>10010</ZOrder>
           <SettingsSerialized>eyJSZXF1aXJlQ2xvc2VCcmVha291dCI6ZmFsc2UsIk1vdmVTYW1lTG93SGlnaCI6ZmFsc2UsIlNwYW4iOjQsIlN0cmVuZ3RoIjo0fQ==</SettingsSerialized>
           <UserSettingsSerialized>eyJBbGVydHMiOnsidmlzdWFsIjpmYWxzZSwiYXVkaWJsZSI6ZmFsc2UsIndpbmRvd0ZsYXNoIjpmYWxzZX0sIkFsZXJ0c0ZpbHRlciI6ZmFsc2UsIkZvbnRDaGFydExhYmVsIjp7ImZvbnRGYW1pbHkiOiJNaWNyb3NvZnQgU2FucyBTZXJpZiIsInNpemUiOjE0LjAsImJvbGQiOnRydWUsIml0YWxpYyI6ZmFsc2V9LCJCb2xkIjp0cnVlLCJTaG93UGVyY2VudGFnZSI6dHJ1ZSwiQ29sb3JEb3VibGUiOiIjRkZGRkQ3MDAiLCJDb2xvckhITEwiOiIjRkZGRkZGRkYiLCJDb2xvckhMTEgiOiIjRkZEM0QzRDMiLCJMYWJlbE9mZnNldCI6MTd9</UserSettingsSerialized>
-          <iOD>456</iOD>
+          <iOD>253</iOD>
         </ApexOscillationDetector>
         <Input>
           <PriceType>Close</PriceType>
@@ -1480,11 +1480,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>false</DisplayInDataBox>
-          <From>2021-05-29T00:00:00</From>
+          <From>2021-06-09T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2021-06-01T00:00:00</To>
+          <To>2021-06-12T00:00:00</To>
           <Calculate>OnPriceChange</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>false</IsAutoScale>
@@ -1502,7 +1502,7 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>481</IndicatorId>
+          <IndicatorId>684</IndicatorId>
           <InstrumentDeserialized>RTY 06-21 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -1532,11 +1532,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2021-05-29T00:00:00</From>
+          <From>2021-06-09T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2021-06-01T00:00:00</To>
+          <To>2021-06-12T00:00:00</To>
           <Calculate>OnPriceChange</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>false</IsAutoScale>
@@ -1591,7 +1591,7 @@
           <DrawOnPricePanel>false</DrawOnPricePanel>
           <PaintPriceMarkers>true</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>484</IndicatorId>
+          <IndicatorId>687</IndicatorId>
           <InstrumentDeserialized>RTY 06-21 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -1621,11 +1621,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>false</DisplayInDataBox>
-          <From>2021-05-29T00:00:00</From>
+          <From>2021-06-09T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2021-06-01T00:00:00</To>
+          <To>2021-06-12T00:00:00</To>
           <Calculate>OnPriceChange</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -1656,7 +1656,7 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>true</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>487</IndicatorId>
+          <IndicatorId>690</IndicatorId>
           <InstrumentDeserialized>RTY 06-21 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -1686,11 +1686,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2021-05-29T00:00:00</From>
+          <From>2021-06-09T00:00:00</From>
           <Panel>2</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2021-06-01T00:00:00</To>
+          <To>2021-06-12T00:00:00</To>
           <Calculate>OnEachTick</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -1731,7 +1731,7 @@
           <DrawOnPricePanel>false</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>490</IndicatorId>
+          <IndicatorId>693</IndicatorId>
           <InstrumentDeserialized>RTY 06-21 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -1761,11 +1761,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2021-05-29T00:00:00</From>
+          <From>2021-06-09T00:00:00</From>
           <Panel>2</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2021-06-01T00:00:00</To>
+          <To>2021-06-12T00:00:00</To>
           <Calculate>OnEachTick</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -1806,7 +1806,7 @@
           <DrawOnPricePanel>false</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>493</IndicatorId>
+          <IndicatorId>696</IndicatorId>
           <InstrumentDeserialized>RTY 06-21 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -1836,11 +1836,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2021-05-29T00:00:00</From>
+          <From>2021-06-09T00:00:00</From>
           <Panel>2</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2021-06-01T00:00:00</To>
+          <To>2021-06-12T00:00:00</To>
           <Calculate>OnEachTick</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -1881,7 +1881,7 @@
           <DrawOnPricePanel>false</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>496</IndicatorId>
+          <IndicatorId>699</IndicatorId>
           <InstrumentDeserialized>RTY 06-21 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -1911,11 +1911,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2021-05-29T00:00:00</From>
+          <From>2021-06-09T00:00:00</From>
           <Panel>2</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2021-06-01T00:00:00</To>
+          <To>2021-06-12T00:00:00</To>
           <Calculate>OnEachTick</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -1956,7 +1956,7 @@
           <DrawOnPricePanel>false</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>499</IndicatorId>
+          <IndicatorId>702</IndicatorId>
           <InstrumentDeserialized>RTY 06-21 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -1992,11 +1992,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2021-05-29T00:00:00</From>
+          <From>2021-06-09T00:00:00</From>
           <Panel>2</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2021-06-01T00:00:00</To>
+          <To>2021-06-12T00:00:00</To>
           <Calculate>OnEachTick</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -2037,7 +2037,7 @@
           <DrawOnPricePanel>false</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>502</IndicatorId>
+          <IndicatorId>705</IndicatorId>
           <InstrumentDeserialized>RTY 06-21 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -2070,11 +2070,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2021-05-29T00:00:00</From>
+          <From>2021-06-09T00:00:00</From>
           <Panel>2</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2021-06-01T00:00:00</To>
+          <To>2021-06-12T00:00:00</To>
           <Calculate>OnEachTick</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -2115,7 +2115,7 @@
           <DrawOnPricePanel>false</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>505</IndicatorId>
+          <IndicatorId>708</IndicatorId>
           <InstrumentDeserialized>RTY 06-21 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -2151,11 +2151,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2021-05-29T00:00:00</From>
+          <From>2021-06-09T00:00:00</From>
           <Panel>2</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2021-06-01T00:00:00</To>
+          <To>2021-06-12T00:00:00</To>
           <Calculate>OnEachTick</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -2196,7 +2196,7 @@
           <DrawOnPricePanel>false</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>508</IndicatorId>
+          <IndicatorId>711</IndicatorId>
           <InstrumentDeserialized>RTY 06-21 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -2226,11 +2226,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2021-05-29T00:00:00</From>
+          <From>2021-06-09T00:00:00</From>
           <Panel>2</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2021-06-01T00:00:00</To>
+          <To>2021-06-12T00:00:00</To>
           <Calculate>OnEachTick</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -2271,7 +2271,7 @@
           <DrawOnPricePanel>false</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>511</IndicatorId>
+          <IndicatorId>714</IndicatorId>
           <InstrumentDeserialized>RTY 06-21 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -2301,11 +2301,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2021-05-29T00:00:00</From>
+          <From>2021-06-09T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2021-06-01T00:00:00</To>
+          <To>2021-06-12T00:00:00</To>
           <Calculate>OnBarClose</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -2323,7 +2323,7 @@
           <DrawOnPricePanel>false</DrawOnPricePanel>
           <PaintPriceMarkers>true</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>514</IndicatorId>
+          <IndicatorId>717</IndicatorId>
           <InstrumentDeserialized>RTY 06-21 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -2353,11 +2353,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>false</DisplayInDataBox>
-          <From>2021-05-29T00:00:00</From>
+          <From>2021-06-09T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2021-06-01T00:00:00</To>
+          <To>2021-06-12T00:00:00</To>
           <Calculate>OnBarClose</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -2400,7 +2400,7 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>517</IndicatorId>
+          <IndicatorId>720</IndicatorId>
           <InstrumentDeserialized>RTY 06-21 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -2429,11 +2429,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>false</DisplayInDataBox>
-          <From>2021-05-29T00:00:00</From>
+          <From>2021-06-09T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2021-06-01T00:00:00</To>
+          <To>2021-06-12T00:00:00</To>
           <Calculate>OnBarClose</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -2476,7 +2476,7 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>520</IndicatorId>
+          <IndicatorId>723</IndicatorId>
           <InstrumentDeserialized>RTY 06-21 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -2505,11 +2505,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>false</DisplayInDataBox>
-          <From>2021-05-29T00:00:00</From>
+          <From>2021-06-09T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2021-06-01T00:00:00</To>
+          <To>2021-06-12T00:00:00</To>
           <Calculate>OnBarClose</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -2552,7 +2552,7 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>523</IndicatorId>
+          <IndicatorId>726</IndicatorId>
           <InstrumentDeserialized>RTY 06-21 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -2581,11 +2581,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>false</DisplayInDataBox>
-          <From>2021-05-29T00:00:00</From>
+          <From>2021-06-09T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2021-06-01T00:00:00</To>
+          <To>2021-06-12T00:00:00</To>
           <Calculate>OnBarClose</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -2628,7 +2628,7 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>526</IndicatorId>
+          <IndicatorId>729</IndicatorId>
           <InstrumentDeserialized>RTY 06-21 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -2639,7 +2639,7 @@
           <PriceType>Close</PriceType>
         </Input>
       </Indicator>
-      <Indicator BarsIndex="0" Instrument="RTY 06-21 Globex" Name="NinjaTrader.NinjaScript.Indicators.AutoAlgo" Panel="-1" DisplayName="_APEX Auto Algo(RTY_DTX,True,RTY_ELEV,True,RTY_ETX,True,RTY_FTX,True,RTY_HD,True,RTY_ODD,True,RTY_SLZ,True,RTY_TBS,True,True,3.88,True,4/27/2021 9:35:00 AM,4/27/2021 9:25:00 AM,True,4/27/2021 6:00:00 PM,4/27/2021 4:00:00 PM,False,5/10/2021 3:00:00 AM,5/10/2021 1:00:00 AM,False,5/24/2021 6:00:00 PM,5/24/2021 2:15:00 PM,False,5/24/2021 1:30:00 AM,5/24/2021 1:20:00 AM,False,999,0,True,True,False,True,Disabled,False,False,False,True,2,0,False,False,False,False,14,0,0,False,True,False,90,0,False,False,999,0,True,True,False,True,Disabled,False,False,False,False,2,0,False,False,False,False,14,0,0,False,True,False,90,0,False,False,email@gmail.com,False,True,400,30,False,True,False,True,Disabled,False,False,False,False,1.07,0.44,True,True,False,False,True,13.82,2.56,0,True,True,True,346,13,False,True,True,75,1,True,True,False,True,Disabled,True,False,False,True,0.95,0.32,True,True,False,True,9.62,2.91,0,False,True,True,60,15,False,True,520,12,True,True,False,True,Disabled,True,False,False,False,0.72,0.4,True,True,False,True,32.81,2.22,0,False,True,True,934,10,False,3,False,-9999,True,115,30,True,True,False,True,Disabled,True,False,False,False,1.18,0.85,True,True,False,True,8.35,1.38,0,False,True,True,550,8,False,RTY30,,,False,,,9999,True,999,11,True,True,False,True,Disabled,False,False,False,False,1.45,0.09,True,True,False,True,20.82,2.24,0,False,True,False,True,64,13,6,2,2,13,False,False,999,0,False,True,False,True,Disabled,True,False,False,False,2,0,False,False,False,False,14,0,0,False,True,False,90,0,False,8,False,8,False,15,8,False,8,False,8,False,8,False,8,False,8,False,True,5/27/2021 4:00:00 PM,5/27/2021 8:30:00 AM,False,5/27/2021 4:00:00 PM,5/27/2021 12:00:00 AM)">
+      <Indicator BarsIndex="0" Instrument="RTY 06-21 Globex" Name="NinjaTrader.NinjaScript.Indicators.AutoAlgo" Panel="-1" DisplayName="_APEX Auto Algo(RTY_DTX,True,RTY_ELEV,True,RTY_ETX,True,RTY_FTX,True,RTY_HD,True,RTY_ODD,True,RTY_SLZ,True,RTY_TBS,True,True,3.98,True,4,True,4/27/2021 9:35:00 AM,4/27/2021 9:25:00 AM,True,4/27/2021 6:00:00 PM,4/27/2021 4:00:00 PM,False,5/10/2021 3:00:00 AM,5/10/2021 1:00:00 AM,False,5/24/2021 6:00:00 PM,5/24/2021 2:15:00 PM,False,5/24/2021 1:30:00 AM,5/24/2021 1:20:00 AM,True,142,30,True,Disabled,True,Avoid,True,Disabled,False,Disabled,False,True,0.62,0.02,True,False,Disabled,True,12.17,5.02,2,Avoid,False,True,True,198,32,False,19,True,188,3,True,Disabled,True,Avoid,True,Disabled,False,Disabled,False,False,1.2,0.08,True,False,Disabled,True,53.1,2.89,12,Avoid,False,True,True,172,14,False,20,False,email@gmail.com,False,True,True,945,17,False,Disabled,True,Disabled,True,Disabled,False,Disabled,False,False,1.07,0.01,True,True,False,Disabled,True,33.62,2.56,1,Disabled,True,True,True,357,38,False,20,35,True,60,True,1754,10,True,Disabled,True,Disabled,True,Disabled,True,Disabled,False,True,0.49,0.36,True,True,Disabled,True,9.23,2.54,1,Disabled,False,True,True,654,9,False,20,True,67,10,True,Disabled,True,Disabled,True,Disabled,True,Disabled,False,False,0.99,0.01,True,True,Disabled,True,25.75,0.88,2,Disabled,False,True,True,103,16,False,13,8,3,False,-9999,True,4391,13,True,Disabled,True,Avoid,True,Disabled,True,Disabled,False,False,1.29,0.86,True,True,Disabled,True,16.4,1.38,1,Disabled,False,True,True,20,7,False,19,RTY30,,,False,,,9999,True,1776,11,True,Disabled,True,Avoid,True,Disabled,False,Disabled,False,False,1.31,0.09,True,True,Disabled,True,20.82,2.28,2,Avoid,False,True,False,True,81,11,6,2,2,13,False,10,True,643,38,False,Avoid,True,Avoid,True,Disabled,True,Avoid,False,False,0.69,0.48,True,False,Disabled,True,21.02,7.05,8,Avoid,False,True,True,40,16,False,18,8,False,8,False,15,8,False,8,False,8,False,8,False,15,True,8,False,True,5/27/2021 4:00:00 PM,5/27/2021 8:30:00 AM,False,5/27/2021 4:00:00 PM,5/27/2021 12:00:00 AM)">
         <AutoAlgo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
           <IsVisible>true</IsVisible>
           <AreLinesConfigurable>true</AreLinesConfigurable>
@@ -2657,11 +2657,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>false</DisplayInDataBox>
-          <From>2021-05-29T00:00:00</From>
+          <From>2021-06-09T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Overlay</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2021-06-01T00:00:00</To>
+          <To>2021-06-12T00:00:00</To>
           <Calculate>OnEachTick</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>false</IsAutoScale>
@@ -2702,7 +2702,7 @@
           <DrawOnPricePanel>false</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>529</IndicatorId>
+          <IndicatorId>732</IndicatorId>
           <InstrumentDeserialized>RTY 06-21 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -2714,34 +2714,40 @@
           <AvoidNews>true</AvoidNews>
           <TickSettlement>15</TickSettlement>
           <CommissionFee>3.98</CommissionFee>
+          <ConsecutiveLossEnabled>true</ConsecutiveLossEnabled>
+          <ConsecutiveLosses>4</ConsecutiveLosses>
           <EnableMartingale>false</EnableMartingale>
-          <DTX_OD_Enabled>false</DTX_OD_Enabled>
-          <DTX_ODMinValue>0</DTX_ODMinValue>
-          <DTX_ODMaxValue>999</DTX_ODMaxValue>
-          <ELEV_OD_Enabled>false</ELEV_OD_Enabled>
-          <ELEV_ODMinValue>0</ELEV_ODMinValue>
-          <ELEV_ODMaxValue>999</ELEV_ODMaxValue>
+          <MartingaleSize>8</MartingaleSize>
+          <FastMarkets>true</FastMarkets>
+          <FastMarketBars>35</FastMarketBars>
+          <FastMarketSecs>60</FastMarketSecs>
+          <EnableSettings>true</EnableSettings>
+          <DTX_OD_Enabled>true</DTX_OD_Enabled>
+          <DTX_ODMinValue>30</DTX_ODMinValue>
+          <DTX_ODMaxValue>142</DTX_ODMaxValue>
+          <ELEV_OD_Enabled>true</ELEV_OD_Enabled>
+          <ELEV_ODMinValue>3</ELEV_ODMinValue>
+          <ELEV_ODMaxValue>188</ELEV_ODMaxValue>
           <ETX_OD_Enabled>true</ETX_OD_Enabled>
-          <ETX_ODMinValue>30</ETX_ODMinValue>
-          <ETX_ODMaxValue>400</ETX_ODMaxValue>
+          <ETX_ODMinValue>17</ETX_ODMinValue>
+          <ETX_ODMaxValue>945</ETX_ODMaxValue>
           <FTX_OD_Enabled>true</FTX_OD_Enabled>
-          <FTX_ODMinValue>1</FTX_ODMinValue>
-          <FTX_ODMaxValue>75</FTX_ODMaxValue>
+          <FTX_ODMinValue>10</FTX_ODMinValue>
+          <FTX_ODMaxValue>1754</FTX_ODMaxValue>
           <HD_OD_Enabled>true</HD_OD_Enabled>
-          <HD_ODMinValue>12</HD_ODMinValue>
-          <HD_ODMaxValue>520</HD_ODMaxValue>
+          <HD_ODMinValue>10</HD_ODMinValue>
+          <HD_ODMaxValue>67</HD_ODMaxValue>
           <ODD_OD_Enabled>true</ODD_OD_Enabled>
-          <ODD_ODMinValue>30</ODD_ODMinValue>
-          <ODD_ODMaxValue>115</ODD_ODMaxValue>
+          <ODD_ODMinValue>13</ODD_ODMinValue>
+          <ODD_ODMaxValue>4391</ODD_ODMaxValue>
           <SLZ_OD_Enabled>true</SLZ_OD_Enabled>
           <SLZ_ODMinValue>11</SLZ_ODMinValue>
-          <SLZ_ODMaxValue>999</SLZ_ODMaxValue>
-          <TBS_OD_Enabled>false</TBS_OD_Enabled>
-          <TBS_ODMinValue>0</TBS_ODMinValue>
-          <TBS_ODMaxValue>999</TBS_ODMaxValue>
+          <SLZ_ODMaxValue>1776</SLZ_ODMaxValue>
+          <TBS_OD_Enabled>true</TBS_OD_Enabled>
+          <TBS_ODMinValue>38</TBS_ODMinValue>
+          <TBS_ODMaxValue>643</TBS_ODMaxValue>
           <PositivePNLReached>9999</PositivePNLReached>
           <NegativePNLReached>-9999</NegativePNLReached>
-          <FastMarkets>true</FastMarkets>
           <WhiteZone1>true</WhiteZone1>
           <WhiteZone1Start>2021-05-27T08:30:00</WhiteZone1Start>
           <WhiteZone1End>2021-05-27T16:00:00</WhiteZone1End>
@@ -2771,14 +2777,14 @@
           <ODDEnabled>true</ODDEnabled>
           <SLZEnabled>true</SLZEnabled>
           <TBSEnabled>false</TBSEnabled>
-          <DTXObsMin>0</DTXObsMin>
-          <ELEVObsMin>0</ELEVObsMin>
-          <ETXObsMin>0</ETXObsMin>
-          <FTXObsMin>0</FTXObsMin>
-          <HDObsMin>0</HDObsMin>
-          <ODDObsMin>0</ODDObsMin>
-          <SLZObsMin>0</SLZObsMin>
-          <TBSObsMin>0</TBSObsMin>
+          <DTXObsMin>2</DTXObsMin>
+          <ELEVObsMin>12</ELEVObsMin>
+          <ETXObsMin>1</ETXObsMin>
+          <FTXObsMin>1</FTXObsMin>
+          <HDObsMin>2</HDObsMin>
+          <ODDObsMin>1</ODDObsMin>
+          <SLZObsMin>2</SLZObsMin>
+          <TBSObsMin>8</TBSObsMin>
           <ATM_DTX_Custom_Enable>true</ATM_DTX_Custom_Enable>
           <ATM_DTX_Custom>RTY_DTX</ATM_DTX_Custom>
           <ATM_ELEV_Custom_Enable>true</ATM_ELEV_Custom_Enable>
@@ -2816,30 +2822,30 @@
           <ODDDRCoherent>false</ODDDRCoherent>
           <SLZDRCoherent>false</SLZDRCoherent>
           <TBSDRCoherent>false</TBSDRCoherent>
-          <DTXDRValueEnable>false</DTXDRValueEnable>
-          <DTXDRMinValue>0</DTXDRMinValue>
-          <DTXDRMaxValue>2</DTXDRMaxValue>
-          <ELEVDRValueEnable>false</ELEVDRValueEnable>
-          <ELEVDRMinValue>0</ELEVDRMinValue>
-          <ELEVDRMaxValue>2</ELEVDRMaxValue>
+          <DTXDRValueEnable>true</DTXDRValueEnable>
+          <DTXDRMinValue>0.02</DTXDRMinValue>
+          <DTXDRMaxValue>0.62</DTXDRMaxValue>
+          <ELEVDRValueEnable>true</ELEVDRValueEnable>
+          <ELEVDRMinValue>0.08</ELEVDRMinValue>
+          <ELEVDRMaxValue>1.2</ELEVDRMaxValue>
           <ETXDRValueEnable>true</ETXDRValueEnable>
-          <ETXDRMinValue>0.44</ETXDRMinValue>
+          <ETXDRMinValue>0.01</ETXDRMinValue>
           <ETXDRMaxValue>1.07</ETXDRMaxValue>
           <FTXDRValueEnable>true</FTXDRValueEnable>
-          <FTXDRMinValue>0.32</FTXDRMinValue>
-          <FTXDRMaxValue>0.95</FTXDRMaxValue>
+          <FTXDRMinValue>0.36</FTXDRMinValue>
+          <FTXDRMaxValue>0.49</FTXDRMaxValue>
           <HDDRValueEnable>true</HDDRValueEnable>
-          <HDDRMinValue>0.4</HDDRMinValue>
-          <HDDRMaxValue>0.72</HDDRMaxValue>
+          <HDDRMinValue>0.01</HDDRMinValue>
+          <HDDRMaxValue>0.99</HDDRMaxValue>
           <ODDDRValueEnable>true</ODDDRValueEnable>
-          <ODDDRMinValue>0.85</ODDDRMinValue>
-          <ODDDRMaxValue>1.18</ODDDRMaxValue>
+          <ODDDRMinValue>0.86</ODDDRMinValue>
+          <ODDDRMaxValue>1.29</ODDDRMaxValue>
           <SLZDRValueEnable>true</SLZDRValueEnable>
           <SLZDRMinValue>0.09</SLZDRMinValue>
-          <SLZDRMaxValue>1.45</SLZDRMaxValue>
-          <TBSDRValueEnable>false</TBSDRValueEnable>
-          <TBSDRMinValue>0</TBSDRMinValue>
-          <TBSDRMaxValue>2</TBSDRMaxValue>
+          <SLZDRMaxValue>1.31</SLZDRMaxValue>
+          <TBSDRValueEnable>true</TBSDRValueEnable>
+          <TBSDRMinValue>0.48</TBSDRMinValue>
+          <TBSDRMaxValue>0.69</TBSDRMaxValue>
           <TicksDTXAmplifyEnable>false</TicksDTXAmplifyEnable>
           <TicksDTXAmplify>8</TicksDTXAmplify>
           <TicksELEVAmplifyEnable>false</TicksELEVAmplifyEnable>
@@ -2852,8 +2858,8 @@
           <TicksHDAmplify>8</TicksHDAmplify>
           <TicksODDAmplifyEnable>false</TicksODDAmplifyEnable>
           <TicksODDAmplify>8</TicksODDAmplify>
-          <TicksSLZAmplifyEnable>false</TicksSLZAmplifyEnable>
-          <TicksSLZAmplify>8</TicksSLZAmplify>
+          <TicksSLZAmplifyEnable>true</TicksSLZAmplifyEnable>
+          <TicksSLZAmplify>15</TicksSLZAmplify>
           <TicksTBSAmplifyEnable>false</TicksTBSAmplifyEnable>
           <TicksTBSAmplify>8</TicksTBSAmplify>
           <DTXBreakEvenOnCoil>true</DTXBreakEvenOnCoil>
@@ -2864,30 +2870,30 @@
           <ODDBreakEvenOnCoil>true</ODDBreakEvenOnCoil>
           <SLZBreakEvenOnCoil>true</SLZBreakEvenOnCoil>
           <TBSBreakEvenOnCoil>true</TBSBreakEvenOnCoil>
-          <DTXLevelThroughBar>false</DTXLevelThroughBar>
-          <ELEVLevelThroughBar>false</ELEVLevelThroughBar>
-          <ETXLevelThroughBar>false</ETXLevelThroughBar>
-          <FTXLevelThroughBar>false</FTXLevelThroughBar>
-          <HDLevelThroughBar>false</HDLevelThroughBar>
-          <ODDLevelThroughBar>false</ODDLevelThroughBar>
-          <SLZLevelThroughBar>false</SLZLevelThroughBar>
-          <TBSLevelThroughBar>false</TBSLevelThroughBar>
-          <DTXCrocEyes>false</DTXCrocEyes>
-          <ELEVCrocEyes>false</ELEVCrocEyes>
-          <ETXCrocEyes>false</ETXCrocEyes>
-          <FTXCrocEyes>false</FTXCrocEyes>
-          <HDCrocEyes>false</HDCrocEyes>
-          <ODDCrocEyes>false</ODDCrocEyes>
-          <SLZCrocEyes>false</SLZCrocEyes>
-          <TBSCrocEyes>false</TBSCrocEyes>
-          <DTXBrokenOPLevels>false</DTXBrokenOPLevels>
-          <ELEVBrokenOPLevels>false</ELEVBrokenOPLevels>
-          <ETXBrokenOPLevels>false</ETXBrokenOPLevels>
-          <FTXBrokenOPLevels>false</FTXBrokenOPLevels>
-          <HDBrokenOPLevels>false</HDBrokenOPLevels>
-          <ODDBrokenOPLevels>false</ODDBrokenOPLevels>
-          <SLZBrokenOPLevels>false</SLZBrokenOPLevels>
-          <TBSBrokenOPLevels>false</TBSBrokenOPLevels>
+          <DTXLevelThroughBar>Disabled</DTXLevelThroughBar>
+          <ELEVLevelThroughBar>Disabled</ELEVLevelThroughBar>
+          <ETXLevelThroughBar>Disabled</ETXLevelThroughBar>
+          <FTXLevelThroughBar>Disabled</FTXLevelThroughBar>
+          <HDLevelThroughBar>Disabled</HDLevelThroughBar>
+          <ODDLevelThroughBar>Disabled</ODDLevelThroughBar>
+          <SLZLevelThroughBar>Disabled</SLZLevelThroughBar>
+          <TBSLevelThroughBar>Disabled</TBSLevelThroughBar>
+          <DTXCrocEyes>Disabled</DTXCrocEyes>
+          <ELEVCrocEyes>Disabled</ELEVCrocEyes>
+          <ETXCrocEyes>Disabled</ETXCrocEyes>
+          <FTXCrocEyes>Disabled</FTXCrocEyes>
+          <HDCrocEyes>Disabled</HDCrocEyes>
+          <ODDCrocEyes>Disabled</ODDCrocEyes>
+          <SLZCrocEyes>Disabled</SLZCrocEyes>
+          <TBSCrocEyes>Avoid</TBSCrocEyes>
+          <DTXBrokenOPLevels>Avoid</DTXBrokenOPLevels>
+          <ELEVBrokenOPLevels>Avoid</ELEVBrokenOPLevels>
+          <ETXBrokenOPLevels>Disabled</ETXBrokenOPLevels>
+          <FTXBrokenOPLevels>Disabled</FTXBrokenOPLevels>
+          <HDBrokenOPLevels>Disabled</HDBrokenOPLevels>
+          <ODDBrokenOPLevels>Avoid</ODDBrokenOPLevels>
+          <SLZBrokenOPLevels>Avoid</SLZBrokenOPLevels>
+          <TBSBrokenOPLevels>Avoid</TBSBrokenOPLevels>
           <DTXWickPreviousBar>false</DTXWickPreviousBar>
           <ELEVWickPreviousBar>false</ELEVWickPreviousBar>
           <ETXWickPreviousBar>false</ETXWickPreviousBar>
@@ -2896,6 +2902,14 @@
           <ODDWickPreviousBar>false</ODDWickPreviousBar>
           <SLZWickPreviousBar>false</SLZWickPreviousBar>
           <TBSWickPreviousBar>false</TBSWickPreviousBar>
+          <DTXWickSize>19</DTXWickSize>
+          <ELEVWickSize>20</ELEVWickSize>
+          <ETXWickSize>20</ETXWickSize>
+          <FTXWickSize>20</FTXWickSize>
+          <HDWickSize>13</HDWickSize>
+          <ODDWickSize>19</ODDWickSize>
+          <SLZWickSize>10</SLZWickSize>
+          <TBSWickSize>18</TBSWickSize>
           <DTXRequireLevel>false</DTXRequireLevel>
           <ELEVRequireLevel>false</ELEVRequireLevel>
           <ETXRequireLevel>true</ETXRequireLevel>
@@ -2912,6 +2926,22 @@
           <ODDClusters>Disabled</ODDClusters>
           <SLZClusters>Disabled</SLZClusters>
           <TBSClusters>Disabled</TBSClusters>
+          <DTXOPR>Avoid</DTXOPR>
+          <ELEVOPR>Avoid</ELEVOPR>
+          <ETXOPR>Disabled</ETXOPR>
+          <FTXOPR>Disabled</FTXOPR>
+          <HDOPR>Disabled</HDOPR>
+          <ODDOPR>Disabled</ODDOPR>
+          <SLZOPR>Avoid</SLZOPR>
+          <TBSOPR>Avoid</TBSOPR>
+          <DTXAbsorption>Disabled</DTXAbsorption>
+          <ELEVAbsorption>Disabled</ELEVAbsorption>
+          <ETXAbsorption>Disabled</ETXAbsorption>
+          <FTXAbsorption>Disabled</FTXAbsorption>
+          <HDAbsorption>Disabled</HDAbsorption>
+          <ODDAbsorption>Disabled</ODDAbsorption>
+          <SLZAbsorption>Disabled</SLZAbsorption>
+          <TBSAbsorption>Avoid</TBSAbsorption>
           <DTXBuy>true</DTXBuy>
           <DTXSell>true</DTXSell>
           <ELEVBuy>true</ELEVBuy>
@@ -2928,30 +2958,30 @@
           <SLZSell>true</SLZSell>
           <TBSBuy>true</TBSBuy>
           <TBSSell>true</TBSSell>
-          <DTXLiquidEnable>false</DTXLiquidEnable>
-          <DTXLiquidMinValue>0</DTXLiquidMinValue>
-          <DTXLiquidMaxValue>14</DTXLiquidMaxValue>
-          <ELEVLiquidEnable>false</ELEVLiquidEnable>
-          <ELEVLiquidMinValue>0</ELEVLiquidMinValue>
-          <ELEVLiquidMaxValue>14</ELEVLiquidMaxValue>
+          <DTXLiquidEnable>true</DTXLiquidEnable>
+          <DTXLiquidMinValue>5.02</DTXLiquidMinValue>
+          <DTXLiquidMaxValue>12.17</DTXLiquidMaxValue>
+          <ELEVLiquidEnable>true</ELEVLiquidEnable>
+          <ELEVLiquidMinValue>2.89</ELEVLiquidMinValue>
+          <ELEVLiquidMaxValue>53.1</ELEVLiquidMaxValue>
           <ETXLiquidEnable>true</ETXLiquidEnable>
           <ETXLiquidMinValue>2.56</ETXLiquidMinValue>
-          <ETXLiquidMaxValue>13.82</ETXLiquidMaxValue>
+          <ETXLiquidMaxValue>33.62</ETXLiquidMaxValue>
           <FTXLiquidEnable>true</FTXLiquidEnable>
-          <FTXLiquidMinValue>2.91</FTXLiquidMinValue>
-          <FTXLiquidMaxValue>9.62</FTXLiquidMaxValue>
+          <FTXLiquidMinValue>2.54</FTXLiquidMinValue>
+          <FTXLiquidMaxValue>9.23</FTXLiquidMaxValue>
           <HDLiquidEnable>true</HDLiquidEnable>
-          <HDLiquidMinValue>2.22</HDLiquidMinValue>
-          <HDLiquidMaxValue>32.81</HDLiquidMaxValue>
+          <HDLiquidMinValue>0.88</HDLiquidMinValue>
+          <HDLiquidMaxValue>25.75</HDLiquidMaxValue>
           <ODDLiquidEnable>true</ODDLiquidEnable>
           <ODDLiquidMinValue>1.38</ODDLiquidMinValue>
-          <ODDLiquidMaxValue>8.35</ODDLiquidMaxValue>
+          <ODDLiquidMaxValue>16.4</ODDLiquidMaxValue>
           <SLZLiquidEnable>true</SLZLiquidEnable>
-          <SLZLiquidMinValue>2.24</SLZLiquidMinValue>
+          <SLZLiquidMinValue>2.28</SLZLiquidMinValue>
           <SLZLiquidMaxValue>20.82</SLZLiquidMaxValue>
-          <TBSLiquidEnable>false</TBSLiquidEnable>
-          <TBSLiquidMinValue>0</TBSLiquidMinValue>
-          <TBSLiquidMaxValue>14</TBSLiquidMaxValue>
+          <TBSLiquidEnable>true</TBSLiquidEnable>
+          <TBSLiquidMinValue>7.05</TBSLiquidMinValue>
+          <TBSLiquidMaxValue>21.02</TBSLiquidMaxValue>
           <MLiquidityBars>3</MLiquidityBars>
           <DTXDivergence>false</DTXDivergence>
           <ELEVDivergence>false</ELEVDivergence>
@@ -2961,30 +2991,30 @@
           <ODDDivergence>false</ODDDivergence>
           <SLZDivergence>false</SLZDivergence>
           <TBSDivergence>false</TBSDivergence>
-          <DTXVolScoreEnable>false</DTXVolScoreEnable>
-          <DTXVolScoreMin>0</DTXVolScoreMin>
-          <DTXVolScoreMax>90</DTXVolScoreMax>
-          <ELEVVolScoreEnable>false</ELEVVolScoreEnable>
-          <ELEVVolScoreMin>0</ELEVVolScoreMin>
-          <ELEVVolScoreMax>90</ELEVVolScoreMax>
+          <DTXVolScoreEnable>true</DTXVolScoreEnable>
+          <DTXVolScoreMin>32</DTXVolScoreMin>
+          <DTXVolScoreMax>198</DTXVolScoreMax>
+          <ELEVVolScoreEnable>true</ELEVVolScoreEnable>
+          <ELEVVolScoreMin>14</ELEVVolScoreMin>
+          <ELEVVolScoreMax>172</ELEVVolScoreMax>
           <ETXVolScoreEnable>true</ETXVolScoreEnable>
-          <ETXVolScoreMin>13</ETXVolScoreMin>
-          <ETXVolScoreMax>346</ETXVolScoreMax>
+          <ETXVolScoreMin>38</ETXVolScoreMin>
+          <ETXVolScoreMax>357</ETXVolScoreMax>
           <FTXVolScoreEnable>true</FTXVolScoreEnable>
-          <FTXVolScoreMin>15</FTXVolScoreMin>
-          <FTXVolScoreMax>60</FTXVolScoreMax>
+          <FTXVolScoreMin>9</FTXVolScoreMin>
+          <FTXVolScoreMax>654</FTXVolScoreMax>
           <HDVolScoreEnable>true</HDVolScoreEnable>
-          <HDVolScoreMin>10</HDVolScoreMin>
-          <HDVolScoreMax>934</HDVolScoreMax>
+          <HDVolScoreMin>16</HDVolScoreMin>
+          <HDVolScoreMax>103</HDVolScoreMax>
           <ODDVolScoreEnable>true</ODDVolScoreEnable>
-          <ODDVolScoreMin>8</ODDVolScoreMin>
-          <ODDVolScoreMax>550</ODDVolScoreMax>
+          <ODDVolScoreMin>7</ODDVolScoreMin>
+          <ODDVolScoreMax>20</ODDVolScoreMax>
           <SLZVolScoreEnable>true</SLZVolScoreEnable>
-          <SLZVolScoreMin>13</SLZVolScoreMin>
-          <SLZVolScoreMax>64</SLZVolScoreMax>
-          <TBSVolScoreEnable>false</TBSVolScoreEnable>
-          <TBSVolScoreMin>0</TBSVolScoreMin>
-          <TBSVolScoreMax>90</TBSVolScoreMax>
+          <SLZVolScoreMin>11</SLZVolScoreMin>
+          <SLZVolScoreMax>81</SLZVolScoreMax>
+          <TBSVolScoreEnable>true</TBSVolScoreEnable>
+          <TBSVolScoreMin>16</TBSVolScoreMin>
+          <TBSVolScoreMax>40</TBSVolScoreMax>
           <DTXCoilChop>false</DTXCoilChop>
           <ELEVCoilChop>false</ELEVCoilChop>
           <ETXCoilChop>false</ETXCoilChop>
@@ -3088,8 +3118,8 @@
             <AutoScaleMarginLower>40</AutoScaleMarginLower>
             <AutoScaleMarginUpper>40</AutoScaleMarginUpper>
             <YAxisScalingType>Linear</YAxisScalingType>
-            <FixedScaleMaxSerialize>2214.4</FixedScaleMaxSerialize>
-            <FixedScaleMinSerialize>2205</FixedScaleMinSerialize>
+            <FixedScaleMaxSerialize>2222.2</FixedScaleMaxSerialize>
+            <FixedScaleMinSerialize>2210.6</FixedScaleMinSerialize>
           </ChartScaleProperties>
         </Right>
         <Left>
@@ -3138,7 +3168,7 @@
             <AutoScaleMarginLower>6</AutoScaleMarginLower>
             <AutoScaleMarginUpper>6</AutoScaleMarginUpper>
             <YAxisScalingType>Linear</YAxisScalingType>
-            <FixedScaleMaxSerialize>1.806946843216457</FixedScaleMaxSerialize>
+            <FixedScaleMaxSerialize>1.6758739749692935</FixedScaleMaxSerialize>
             <FixedScaleMinSerialize>0</FixedScaleMinSerialize>
           </ChartScaleProperties>
         </Right>

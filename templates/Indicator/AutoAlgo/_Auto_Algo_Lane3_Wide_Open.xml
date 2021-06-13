@@ -63,11 +63,10 @@
       <DrawOnPricePanel>false</DrawOnPricePanel>
       <PaintPriceMarkers>false</PaintPriceMarkers>
       <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-      <IndicatorId>1237</IndicatorId>
-      <InstrumentDeserialized>MNQ 06-21 Globex</InstrumentDeserialized>
+      <IndicatorId>909</IndicatorId>
       <MaxSerialized>0</MaxSerialized>
       <MinSerialized>0</MinSerialized>
-      <ZOrder>31366</ZOrder>
+      <ZOrder>-2147483648</ZOrder>
       <SettingsSerialized>eyJJc1VwQ2xvc2VCYXIiOnRydWUsIklzRG93bkNsb3NlQmFyIjp0cnVlLCJVc2VQcmljZVZhbHVlIjpmYWxzZSwiVGlja09mZnNldCI6MCwiVXBDbG9zZVZhbHVlIjoxLjAsIlVwQ2xvc2VMaXZlVmFsdWUiOi0xLjAsIkRvd25DbG9zZVZhbHVlIjoxLjAsIkRvd25DbG9zZUxpdmVWYWx1ZSI6LTEuMH0=</SettingsSerialized>
       <UserSettingsSerialized>e30=</UserSettingsSerialized>
       <OrderPrintsID>NQ30</OrderPrintsID>
@@ -231,30 +230,30 @@
       <ODDBreakEvenOnCoil>false</ODDBreakEvenOnCoil>
       <SLZBreakEvenOnCoil>false</SLZBreakEvenOnCoil>
       <TBSBreakEvenOnCoil>false</TBSBreakEvenOnCoil>
-      <DTXLevelThroughBar>false</DTXLevelThroughBar>
-      <ELEVLevelThroughBar>false</ELEVLevelThroughBar>
-      <ETXLevelThroughBar>false</ETXLevelThroughBar>
-      <FTXLevelThroughBar>false</FTXLevelThroughBar>
-      <HDLevelThroughBar>false</HDLevelThroughBar>
-      <ODDLevelThroughBar>false</ODDLevelThroughBar>
-      <SLZLevelThroughBar>false</SLZLevelThroughBar>
-      <TBSLevelThroughBar>false</TBSLevelThroughBar>
-      <DTXCrocEyes>false</DTXCrocEyes>
-      <ELEVCrocEyes>false</ELEVCrocEyes>
-      <ETXCrocEyes>false</ETXCrocEyes>
-      <FTXCrocEyes>false</FTXCrocEyes>
-      <HDCrocEyes>false</HDCrocEyes>
-      <ODDCrocEyes>false</ODDCrocEyes>
-      <SLZCrocEyes>false</SLZCrocEyes>
-      <TBSCrocEyes>false</TBSCrocEyes>
-      <DTXBrokenOPLevels>false</DTXBrokenOPLevels>
-      <ELEVBrokenOPLevels>false</ELEVBrokenOPLevels>
-      <ETXBrokenOPLevels>false</ETXBrokenOPLevels>
-      <FTXBrokenOPLevels>false</FTXBrokenOPLevels>
-      <HDBrokenOPLevels>false</HDBrokenOPLevels>
-      <ODDBrokenOPLevels>false</ODDBrokenOPLevels>
-      <SLZBrokenOPLevels>false</SLZBrokenOPLevels>
-      <TBSBrokenOPLevels>false</TBSBrokenOPLevels>
+      <DTXLevelThroughBar>Disabled</DTXLevelThroughBar>
+      <ELEVLevelThroughBar>Disabled</ELEVLevelThroughBar>
+      <ETXLevelThroughBar>Disabled</ETXLevelThroughBar>
+      <FTXLevelThroughBar>Disabled</FTXLevelThroughBar>
+      <HDLevelThroughBar>Disabled</HDLevelThroughBar>
+      <ODDLevelThroughBar>Disabled</ODDLevelThroughBar>
+      <SLZLevelThroughBar>Disabled</SLZLevelThroughBar>
+      <TBSLevelThroughBar>Disabled</TBSLevelThroughBar>
+      <DTXCrocEyes>Disabled</DTXCrocEyes>
+      <ELEVCrocEyes>Disabled</ELEVCrocEyes>
+      <ETXCrocEyes>Disabled</ETXCrocEyes>
+      <FTXCrocEyes>Disabled</FTXCrocEyes>
+      <HDCrocEyes>Disabled</HDCrocEyes>
+      <ODDCrocEyes>Disabled</ODDCrocEyes>
+      <SLZCrocEyes>Disabled</SLZCrocEyes>
+      <TBSCrocEyes>Disabled</TBSCrocEyes>
+      <DTXBrokenOPLevels>Disabled</DTXBrokenOPLevels>
+      <ELEVBrokenOPLevels>Disabled</ELEVBrokenOPLevels>
+      <ETXBrokenOPLevels>Disabled</ETXBrokenOPLevels>
+      <FTXBrokenOPLevels>Disabled</FTXBrokenOPLevels>
+      <HDBrokenOPLevels>Disabled</HDBrokenOPLevels>
+      <ODDBrokenOPLevels>Disabled</ODDBrokenOPLevels>
+      <SLZBrokenOPLevels>Disabled</SLZBrokenOPLevels>
+      <TBSBrokenOPLevels>Disabled</TBSBrokenOPLevels>
       <DTXWickPreviousBar>false</DTXWickPreviousBar>
       <ELEVWickPreviousBar>false</ELEVWickPreviousBar>
       <ETXWickPreviousBar>false</ETXWickPreviousBar>
@@ -287,6 +286,22 @@
       <ODDClusters>Disabled</ODDClusters>
       <SLZClusters>Disabled</SLZClusters>
       <TBSClusters>Disabled</TBSClusters>
+      <DTXOPR>Disabled</DTXOPR>
+      <ELEVOPR>Disabled</ELEVOPR>
+      <ETXOPR>Disabled</ETXOPR>
+      <FTXOPR>Disabled</FTXOPR>
+      <HDOPR>Disabled</HDOPR>
+      <ODDOPR>Disabled</ODDOPR>
+      <SLZOPR>Disabled</SLZOPR>
+      <TBSOPR>Disabled</TBSOPR>
+      <DTXAbsorption>Disabled</DTXAbsorption>
+      <ELEVAbsorption>Disabled</ELEVAbsorption>
+      <ETXAbsorption>Disabled</ETXAbsorption>
+      <FTXAbsorption>Disabled</FTXAbsorption>
+      <HDAbsorption>Disabled</HDAbsorption>
+      <ODDAbsorption>Disabled</ODDAbsorption>
+      <SLZAbsorption>Disabled</SLZAbsorption>
+      <TBSAbsorption>Disabled</TBSAbsorption>
       <DTXBuy>true</DTXBuy>
       <DTXSell>true</DTXSell>
       <ELEVBuy>true</ELEVBuy>
