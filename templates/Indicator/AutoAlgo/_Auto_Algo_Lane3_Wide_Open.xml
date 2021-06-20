@@ -18,11 +18,11 @@
       </BarsPeriodSerializable>
       <BarsToLoad>0</BarsToLoad>
       <DisplayInDataBox>false</DisplayInDataBox>
-      <From>2021-05-25T00:00:00</From>
+      <From>2021-06-16T00:00:00</From>
       <Panel>-1</Panel>
       <ScaleJustification>Overlay</ScaleJustification>
       <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-      <To>2021-05-28T00:00:00</To>
+      <To>2021-06-19T00:00:00</To>
       <Calculate>OnEachTick</Calculate>
       <Displacement>0</Displacement>
       <IsAutoScale>false</IsAutoScale>
@@ -63,10 +63,10 @@
       <DrawOnPricePanel>false</DrawOnPricePanel>
       <PaintPriceMarkers>false</PaintPriceMarkers>
       <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-      <IndicatorId>909</IndicatorId>
+      <IndicatorId>1469</IndicatorId>
       <MaxSerialized>0</MaxSerialized>
       <MinSerialized>0</MinSerialized>
-      <ZOrder>-2147483648</ZOrder>
+      <ZOrder>31419</ZOrder>
       <SettingsSerialized>eyJJc1VwQ2xvc2VCYXIiOnRydWUsIklzRG93bkNsb3NlQmFyIjp0cnVlLCJVc2VQcmljZVZhbHVlIjpmYWxzZSwiVGlja09mZnNldCI6MCwiVXBDbG9zZVZhbHVlIjoxLjAsIlVwQ2xvc2VMaXZlVmFsdWUiOi0xLjAsIkRvd25DbG9zZVZhbHVlIjoxLjAsIkRvd25DbG9zZUxpdmVWYWx1ZSI6LTEuMH0=</SettingsSerialized>
       <UserSettingsSerialized>e30=</UserSettingsSerialized>
       <OrderPrintsID>NQ30</OrderPrintsID>
@@ -77,7 +77,7 @@
       <ConsecutiveLossEnabled>false</ConsecutiveLossEnabled>
       <ConsecutiveLosses>4</ConsecutiveLosses>
       <EnableMartingale>false</EnableMartingale>
-      <MartingaleSize>8</MartingaleSize>
+      <MartingaleSize>4</MartingaleSize>
       <FastMarkets>true</FastMarkets>
       <FastMarketBars>35</FastMarketBars>
       <FastMarketSecs>60</FastMarketSecs>
@@ -145,22 +145,22 @@
       <ODDObsMin>0</ODDObsMin>
       <SLZObsMin>0</SLZObsMin>
       <TBSObsMin>0</TBSObsMin>
-      <ATM_DTX_Custom_Enable>false</ATM_DTX_Custom_Enable>
-      <ATM_DTX_Custom>DTX</ATM_DTX_Custom>
-      <ATM_ELEV_Custom_Enable>false</ATM_ELEV_Custom_Enable>
-      <ATM_ELEV_Custom>ELEV</ATM_ELEV_Custom>
-      <ATM_ETX_Custom_Enable>false</ATM_ETX_Custom_Enable>
-      <ATM_ETX_Custom>ETX</ATM_ETX_Custom>
-      <ATM_FTX_Custom_Enable>false</ATM_FTX_Custom_Enable>
-      <ATM_FTX_Custom>FTX</ATM_FTX_Custom>
-      <ATM_HD_Custom_Enable>false</ATM_HD_Custom_Enable>
-      <ATM_HD_Custom>HD</ATM_HD_Custom>
-      <ATM_ODD_Custom_Enable>false</ATM_ODD_Custom_Enable>
-      <ATM_ODD_Custom>ODD</ATM_ODD_Custom>
-      <ATM_SLZ_Custom_Enable>false</ATM_SLZ_Custom_Enable>
-      <ATM_SLZ_Custom>SLZ</ATM_SLZ_Custom>
-      <ATM_TBS_Custom_Enable>false</ATM_TBS_Custom_Enable>
-      <ATM_TBS_Custom>TBS</ATM_TBS_Custom>
+      <ATM_DTX_Target>9</ATM_DTX_Target>
+      <ATM_DTX_Stop>21</ATM_DTX_Stop>
+      <ATM_ELEV_Target>9</ATM_ELEV_Target>
+      <ATM_ELEV_Stop>21</ATM_ELEV_Stop>
+      <ATM_ETX_Target>9</ATM_ETX_Target>
+      <ATM_ETX_Stop>21</ATM_ETX_Stop>
+      <ATM_FTX_Target>9</ATM_FTX_Target>
+      <ATM_FTX_Stop>21</ATM_FTX_Stop>
+      <ATM_HD_Target>9</ATM_HD_Target>
+      <ATM_HD_Stop>21</ATM_HD_Stop>
+      <ATM_ODD_Target>9</ATM_ODD_Target>
+      <ATM_ODD_Stop>21</ATM_ODD_Stop>
+      <ATM_SLZ_Target>9</ATM_SLZ_Target>
+      <ATM_SLZ_Stop>21</ATM_SLZ_Stop>
+      <ATM_TBS_Target>9</ATM_TBS_Target>
+      <ATM_TBS_Stop>21</ATM_TBS_Stop>
       <EmailEnabled>false</EmailEnabled>
       <EmailUsername>email@gmail.com</EmailUsername>
       <PlivoEnabled>false</PlivoEnabled>
@@ -254,22 +254,14 @@
       <ODDBrokenOPLevels>Disabled</ODDBrokenOPLevels>
       <SLZBrokenOPLevels>Disabled</SLZBrokenOPLevels>
       <TBSBrokenOPLevels>Disabled</TBSBrokenOPLevels>
-      <DTXWickPreviousBar>false</DTXWickPreviousBar>
-      <ELEVWickPreviousBar>false</ELEVWickPreviousBar>
-      <ETXWickPreviousBar>false</ETXWickPreviousBar>
-      <FTXWickPreviousBar>false</FTXWickPreviousBar>
-      <HDWickPreviousBar>false</HDWickPreviousBar>
-      <ODDWickPreviousBar>false</ODDWickPreviousBar>
-      <SLZWickPreviousBar>false</SLZWickPreviousBar>
-      <TBSWickPreviousBar>false</TBSWickPreviousBar>
-      <DTXWickSize>50</DTXWickSize>
-      <ELEVWickSize>50</ELEVWickSize>
-      <ETXWickSize>50</ETXWickSize>
-      <FTXWickSize>50</FTXWickSize>
-      <HDWickSize>50</HDWickSize>
-      <ODDWickSize>50</ODDWickSize>
-      <SLZWickSize>50</SLZWickSize>
-      <TBSWickSize>50</TBSWickSize>
+      <DTXBSAW>50</DTXBSAW>
+      <ELEVBSAW>50</ELEVBSAW>
+      <ETXBSAW>50</ETXBSAW>
+      <FTXBSAW>50</FTXBSAW>
+      <HDBSAW>50</HDBSAW>
+      <ODDBSAW>50</ODDBSAW>
+      <SLZBSAW>50</SLZBSAW>
+      <TBSBSAW>50</TBSBSAW>
       <DTXRequireLevel>false</DTXRequireLevel>
       <ELEVRequireLevel>false</ELEVRequireLevel>
       <ETXRequireLevel>true</ETXRequireLevel>
@@ -302,22 +294,14 @@
       <ODDAbsorption>Disabled</ODDAbsorption>
       <SLZAbsorption>Disabled</SLZAbsorption>
       <TBSAbsorption>Disabled</TBSAbsorption>
-      <DTXBuy>true</DTXBuy>
-      <DTXSell>true</DTXSell>
-      <ELEVBuy>true</ELEVBuy>
-      <ELEVSell>true</ELEVSell>
-      <ETXBuy>true</ETXBuy>
-      <ETXSell>true</ETXSell>
-      <FTXBuy>true</FTXBuy>
-      <FTXSell>true</FTXSell>
-      <HDBuy>true</HDBuy>
-      <HDSell>true</HDSell>
-      <ODDBuy>true</ODDBuy>
-      <ODDSell>true</ODDSell>
-      <SLZBuy>true</SLZBuy>
-      <SLZSell>true</SLZSell>
-      <TBSBuy>true</TBSBuy>
-      <TBSSell>true</TBSSell>
+      <DTXDirection>Both</DTXDirection>
+      <ELEVDirection>Both</ELEVDirection>
+      <ETXDirection>Both</ETXDirection>
+      <FTXDirection>Both</FTXDirection>
+      <HDDirection>Both</HDDirection>
+      <ODDDirection>Both</ODDDirection>
+      <SLZDirection>Both</SLZDirection>
+      <TBSDirection>Both</TBSDirection>
       <DTXLiquidEnable>false</DTXLiquidEnable>
       <DTXLiquidMinValue>4</DTXLiquidMinValue>
       <DTXLiquidMaxValue>999</DTXLiquidMaxValue>
@@ -343,14 +327,14 @@
       <TBSLiquidMinValue>4</TBSLiquidMinValue>
       <TBSLiquidMaxValue>999</TBSLiquidMaxValue>
       <MLiquidityBars>3</MLiquidityBars>
-      <DTXDivergence>false</DTXDivergence>
-      <ELEVDivergence>false</ELEVDivergence>
-      <ETXDivergence>false</ETXDivergence>
-      <FTXDivergence>false</FTXDivergence>
-      <HDDivergence>false</HDDivergence>
-      <ODDDivergence>false</ODDDivergence>
-      <SLZDivergence>false</SLZDivergence>
-      <TBSDivergence>false</TBSDivergence>
+      <DTXDivergence>Disabled</DTXDivergence>
+      <ELEVDivergence>Disabled</ELEVDivergence>
+      <ETXDivergence>Disabled</ETXDivergence>
+      <FTXDivergence>Disabled</FTXDivergence>
+      <HDDivergence>Disabled</HDDivergence>
+      <ODDDivergence>Disabled</ODDDivergence>
+      <SLZDivergence>Disabled</SLZDivergence>
+      <TBSDivergence>Disabled</TBSDivergence>
       <DTXVolScoreEnable>false</DTXVolScoreEnable>
       <DTXVolScoreMin>1</DTXVolScoreMin>
       <DTXVolScoreMax>999</DTXVolScoreMax>
