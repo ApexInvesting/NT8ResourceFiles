@@ -5775,7 +5775,7 @@
                 <AutoScale>true</AutoScale>
                 <CenterPriceOnScale>false</CenterPriceOnScale>
                 <DisplayInDataBox>true</DisplayInDataBox>
-                <Label>CL 08-21</Label>
+                <Label>CL 09-21</Label>
                 <MaxSerialized>0</MaxSerialized>
                 <MinSerialized>0</MinSerialized>
                 <Panel>0</Panel>
@@ -5798,7 +5798,7 @@
                 <ShortExecutionBrushSerialize>DEFAULT</ShortExecutionBrushSerialize>
                 <BarsSeriesId>53ac57419129441da8de6eb591112327</BarsSeriesId>
                 <Id>d4a77abd907c46a5bfc34ec4e85c9d53</Id>
-                <Instrument>CL 08-21</Instrument>
+                <Instrument>CL 09-21</Instrument>
                 <IsLinked>true</IsLinked>
                 <IsPrimarySeries>true</IsPrimarySeries>
                 <ZOrder>7</ZOrder>
@@ -5830,7 +5830,7 @@
           </DataSeries>
           <Strategies />
           <Indicators>
-            <Indicator BarsIndex="0" Instrument="CL 08-21 Nymex" Name="NinjaTrader.NinjaScript.Indicators.ApexOrderPrints" Panel="-1">
+            <Indicator BarsIndex="0" Instrument="CL 09-21 Nymex" Name="NinjaTrader.NinjaScript.Indicators.ApexOrderPrints" Panel="-1">
               <ApexOrderPrints xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
                 <IsVisible>true</IsVisible>
                 <AreLinesConfigurable>true</AreLinesConfigurable>
@@ -5871,7 +5871,7 @@
                 <PaintPriceMarkers>true</PaintPriceMarkers>
                 <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
                 <IndicatorId>1</IndicatorId>
-                <InstrumentDeserialized>CL 08-21 Nymex</InstrumentDeserialized>
+                <InstrumentDeserialized>CL 09-21 Nymex</InstrumentDeserialized>
                 <MaxSerialized>0</MaxSerialized>
                 <MinSerialized>0</MinSerialized>
                 <ZOrder>6</ZOrder>
@@ -5883,7 +5883,7 @@
                 <PriceType>Close</PriceType>
               </Input>
             </Indicator>
-            <Indicator BarsIndex="0" Instrument="CL 08-21 Nymex" Name="NinjaTrader.NinjaScript.Indicators.ApexDeviationLevels" Panel="-1">
+            <Indicator BarsIndex="0" Instrument="CL 09-21 Nymex" Name="NinjaTrader.NinjaScript.Indicators.ApexDeviationLevels" Panel="-1">
               <ApexDeviationLevels xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
                 <IsVisible>true</IsVisible>
                 <AreLinesConfigurable>true</AreLinesConfigurable>
@@ -5924,7 +5924,7 @@
                 <PaintPriceMarkers>false</PaintPriceMarkers>
                 <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
                 <IndicatorId>4</IndicatorId>
-                <InstrumentDeserialized>CL 08-21 Nymex</InstrumentDeserialized>
+                <InstrumentDeserialized>CL 09-21 Nymex</InstrumentDeserialized>
                 <MaxSerialized>0</MaxSerialized>
                 <MinSerialized>0</MinSerialized>
                 <ZOrder>10011</ZOrder>
@@ -5935,7 +5935,7 @@
                 <PriceType>Close</PriceType>
               </Input>
             </Indicator>
-            <Indicator BarsIndex="0" Instrument="CL 08-21 Nymex" Name="NinjaTrader.NinjaScript.Indicators.ApexCurrentPrice" Panel="-1">
+            <Indicator BarsIndex="0" Instrument="CL 09-21 Nymex" Name="NinjaTrader.NinjaScript.Indicators.ApexCurrentPrice" Panel="-1">
               <ApexCurrentPrice xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
                 <IsVisible>true</IsVisible>
                 <AreLinesConfigurable>true</AreLinesConfigurable>
@@ -5989,7 +5989,7 @@
                 <PaintPriceMarkers>true</PaintPriceMarkers>
                 <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
                 <IndicatorId>7</IndicatorId>
-                <InstrumentDeserialized>CL 08-21 Nymex</InstrumentDeserialized>
+                <InstrumentDeserialized>CL 09-21 Nymex</InstrumentDeserialized>
                 <MaxSerialized>0</MaxSerialized>
                 <MinSerialized>0</MinSerialized>
                 <ZOrder>10013</ZOrder>
@@ -6000,7 +6000,7 @@
                 <PriceType>Close</PriceType>
               </Input>
             </Indicator>
-            <Indicator BarsIndex="0" Instrument="CL 08-21 Nymex" Name="NinjaTrader.NinjaScript.Indicators.ApexWalls" Panel="-1">
+            <Indicator BarsIndex="0" Instrument="CL 09-21 Nymex" Name="NinjaTrader.NinjaScript.Indicators.ApexWalls" Panel="-1">
               <ApexWalls xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
                 <IsVisible>true</IsVisible>
                 <AreLinesConfigurable>true</AreLinesConfigurable>
@@ -6041,7 +6041,7 @@
                 <PaintPriceMarkers>false</PaintPriceMarkers>
                 <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
                 <IndicatorId>10</IndicatorId>
-                <InstrumentDeserialized>CL 08-21 Nymex</InstrumentDeserialized>
+                <InstrumentDeserialized>CL 09-21 Nymex</InstrumentDeserialized>
                 <MaxSerialized>0</MaxSerialized>
                 <MinSerialized>0</MinSerialized>
                 <ZOrder>10014</ZOrder>
@@ -6052,7 +6052,7 @@
                 <PriceType>Close</PriceType>
               </Input>
             </Indicator>
-            <Indicator BarsIndex="0" Instrument="CL 08-21 Nymex" Name="NinjaTrader.NinjaScript.Indicators.AutoAlgo" Panel="-1">
+            <Indicator BarsIndex="0" Instrument="CL 09-21 Nymex" Name="NinjaTrader.NinjaScript.Indicators.AutoAlgo" Panel="-1">
               <AutoAlgo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
                 <IsVisible>true</IsVisible>
                 <AreLinesConfigurable>true</AreLinesConfigurable>
@@ -6116,7 +6116,7 @@
                 <PaintPriceMarkers>false</PaintPriceMarkers>
                 <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
                 <IndicatorId>13</IndicatorId>
-                <InstrumentDeserialized>CL 08-21 Nymex</InstrumentDeserialized>
+                <InstrumentDeserialized>CL 09-21 Nymex</InstrumentDeserialized>
                 <MaxSerialized>0</MaxSerialized>
                 <MinSerialized>0</MinSerialized>
                 <ZOrder>31356</ZOrder>
@@ -6559,7 +6559,7 @@
       <ChartTrader>
         <Account>Playback101</Account>
         <ATM>1_7_17</ATM>
-        <Instrument>CL 08-21</Instrument>
+        <Instrument>CL 09-21</Instrument>
         <Quantity>1</Quantity>
         <TIF>Gtc</TIF>
         <Properties>
