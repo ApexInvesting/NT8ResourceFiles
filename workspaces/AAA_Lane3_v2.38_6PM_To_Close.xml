@@ -941,8 +941,8 @@
                 <TBS_OD_Enabled>true</TBS_OD_Enabled>
                 <TBS_OD_MinValue>0</TBS_OD_MinValue>
                 <TBS_OD_MaxValue>0</TBS_OD_MaxValue>
-                <PositivePNLTarget>100</PositivePNLTarget>
-                <NegativePNLStop>-200</NegativePNLStop>
+                <PositivePNLTarget>200</PositivePNLTarget>
+                <NegativePNLStop>-300</NegativePNLStop>
                 <WhiteZoneHours>18,19,20,21,22,23,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16</WhiteZoneHours>
                 <DarkZone1>true</DarkZone1>
                 <DarkZone1Start>2021-04-27T09:25:00</DarkZone1Start>
@@ -1769,8 +1769,8 @@
                 <TBS_OD_Enabled>true</TBS_OD_Enabled>
                 <TBS_OD_MinValue>24</TBS_OD_MinValue>
                 <TBS_OD_MaxValue>277</TBS_OD_MaxValue>
-                <PositivePNLTarget>100</PositivePNLTarget>
-                <NegativePNLStop>-200</NegativePNLStop>
+                <PositivePNLTarget>200</PositivePNLTarget>
+                <NegativePNLStop>-300</NegativePNLStop>
                 <WhiteZoneHours>18,19,20,21,22,23,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16</WhiteZoneHours>
                 <DarkZone1>true</DarkZone1>
                 <DarkZone1Start>2021-04-29T09:25:00</DarkZone1Start>
@@ -2597,8 +2597,8 @@
                 <TBS_OD_Enabled>true</TBS_OD_Enabled>
                 <TBS_OD_MinValue>0</TBS_OD_MinValue>
                 <TBS_OD_MaxValue>0</TBS_OD_MaxValue>
-                <PositivePNLTarget>100</PositivePNLTarget>
-                <NegativePNLStop>-200</NegativePNLStop>
+                <PositivePNLTarget>200</PositivePNLTarget>
+                <NegativePNLStop>-300</NegativePNLStop>
                 <WhiteZoneHours>18,19,20,21,22,23,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16</WhiteZoneHours>
                 <DarkZone1>true</DarkZone1>
                 <DarkZone1Start>2021-04-23T09:25:00</DarkZone1Start>
@@ -3425,8 +3425,8 @@
                 <TBS_OD_Enabled>true</TBS_OD_Enabled>
                 <TBS_OD_MinValue>0</TBS_OD_MinValue>
                 <TBS_OD_MaxValue>0</TBS_OD_MaxValue>
-                <PositivePNLTarget>100</PositivePNLTarget>
-                <NegativePNLStop>-200</NegativePNLStop>
+                <PositivePNLTarget>200</PositivePNLTarget>
+                <NegativePNLStop>-300</NegativePNLStop>
                 <WhiteZoneHours>18,19,20,21,22,23,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16</WhiteZoneHours>
                 <DarkZone1>true</DarkZone1>
                 <DarkZone1Start>2021-04-27T09:25:00</DarkZone1Start>
@@ -4446,8 +4446,8 @@
                 <TBS_OD_Enabled>true</TBS_OD_Enabled>
                 <TBS_OD_MinValue>114</TBS_OD_MinValue>
                 <TBS_OD_MaxValue>415</TBS_OD_MaxValue>
-                <PositivePNLTarget>100</PositivePNLTarget>
-                <NegativePNLStop>-200</NegativePNLStop>
+                <PositivePNLTarget>200</PositivePNLTarget>
+                <NegativePNLStop>-300</NegativePNLStop>
                 <WhiteZoneHours>18,19,20,21,22,23,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16</WhiteZoneHours>
                 <DarkZone1>true</DarkZone1>
                 <DarkZone1Start>2021-04-27T09:25:00</DarkZone1Start>
@@ -6997,8 +6997,8 @@
                 <TBS_OD_Enabled>true</TBS_OD_Enabled>
                 <TBS_OD_MinValue>5</TBS_OD_MinValue>
                 <TBS_OD_MaxValue>736</TBS_OD_MaxValue>
-                <PositivePNLTarget>100</PositivePNLTarget>
-                <NegativePNLStop>-200</NegativePNLStop>
+                <PositivePNLTarget>200</PositivePNLTarget>
+                <NegativePNLStop>-300</NegativePNLStop>
                 <WhiteZoneHours>18,19,20,21,22,23,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16</WhiteZoneHours>
                 <DarkZone1>true</DarkZone1>
                 <DarkZone1Start>2021-04-27T09:25:00</DarkZone1Start>
