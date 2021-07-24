@@ -659,7 +659,7 @@
                 <DrawOnPricePanel>true</DrawOnPricePanel>
                 <PaintPriceMarkers>true</PaintPriceMarkers>
                 <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-                <IndicatorId>7</IndicatorId>
+                <IndicatorId>1</IndicatorId>
                 <InstrumentDeserialized>YM 09-21 Globex</InstrumentDeserialized>
                 <MaxSerialized>0</MaxSerialized>
                 <MinSerialized>0</MinSerialized>
@@ -711,7 +711,7 @@
                 <DrawOnPricePanel>true</DrawOnPricePanel>
                 <PaintPriceMarkers>true</PaintPriceMarkers>
                 <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-                <IndicatorId>1</IndicatorId>
+                <IndicatorId>4</IndicatorId>
                 <InstrumentDeserialized>YM 09-21 Globex</InstrumentDeserialized>
                 <MaxSerialized>0</MaxSerialized>
                 <MinSerialized>0</MinSerialized>
@@ -764,7 +764,7 @@
                 <DrawOnPricePanel>true</DrawOnPricePanel>
                 <PaintPriceMarkers>false</PaintPriceMarkers>
                 <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-                <IndicatorId>4</IndicatorId>
+                <IndicatorId>7</IndicatorId>
                 <InstrumentDeserialized>YM 09-21 Globex</InstrumentDeserialized>
                 <MaxSerialized>0</MaxSerialized>
                 <MinSerialized>0</MinSerialized>
@@ -927,17 +927,17 @@
                 <ETX_OD_MinValue>24</ETX_OD_MinValue>
                 <ETX_OD_MaxValue>698</ETX_OD_MaxValue>
                 <FTX_OD_Enabled>true</FTX_OD_Enabled>
-                <FTX_OD_MinValue>72</FTX_OD_MinValue>
+                <FTX_OD_MinValue>66</FTX_OD_MinValue>
                 <FTX_OD_MaxValue>156</FTX_OD_MaxValue>
                 <HD_OD_Enabled>true</HD_OD_Enabled>
                 <HD_OD_MinValue>67</HD_OD_MinValue>
                 <HD_OD_MaxValue>165</HD_OD_MaxValue>
                 <ODD_OD_Enabled>true</ODD_OD_Enabled>
-                <ODD_OD_MinValue>20</ODD_OD_MinValue>
-                <ODD_OD_MaxValue>87</ODD_OD_MaxValue>
+                <ODD_OD_MinValue>67</ODD_OD_MinValue>
+                <ODD_OD_MaxValue>961</ODD_OD_MaxValue>
                 <SLZ_OD_Enabled>true</SLZ_OD_Enabled>
-                <SLZ_OD_MinValue>7</SLZ_OD_MinValue>
-                <SLZ_OD_MaxValue>867</SLZ_OD_MaxValue>
+                <SLZ_OD_MinValue>26</SLZ_OD_MinValue>
+                <SLZ_OD_MaxValue>1171</SLZ_OD_MaxValue>
                 <TBS_OD_Enabled>true</TBS_OD_Enabled>
                 <TBS_OD_MinValue>0</TBS_OD_MinValue>
                 <TBS_OD_MaxValue>0</TBS_OD_MaxValue>
@@ -963,9 +963,9 @@
                 <ELEV_Enabled>false</ELEV_Enabled>
                 <ETX_Enabled>true</ETX_Enabled>
                 <FTX_Enabled>false</FTX_Enabled>
-                <HD_Enabled>true</HD_Enabled>
+                <HD_Enabled>false</HD_Enabled>
                 <ODD_Enabled>true</ODD_Enabled>
-                <SLZ_Enabled>true</SLZ_Enabled>
+                <SLZ_Enabled>false</SLZ_Enabled>
                 <TBS_Enabled>false</TBS_Enabled>
                 <DTX_ObsMin>0</DTX_ObsMin>
                 <ELEV_ObsMin>0</ELEV_ObsMin>
@@ -985,8 +985,8 @@
                 <ELEV_ATM_Stop>0</ELEV_ATM_Stop>
                 <ETX_ATM_Custom_Enable>true</ETX_ATM_Custom_Enable>
                 <ETX_ATM_Custom>YM_ETX</ETX_ATM_Custom>
-                <ETX_ATM_Target>15</ETX_ATM_Target>
-                <ETX_ATM_Stop>15</ETX_ATM_Stop>
+                <ETX_ATM_Target>13</ETX_ATM_Target>
+                <ETX_ATM_Stop>13</ETX_ATM_Stop>
                 <FTX_ATM_Custom_Enable>true</FTX_ATM_Custom_Enable>
                 <FTX_ATM_Custom>YM_FTX</FTX_ATM_Custom>
                 <FTX_ATM_Target>22</FTX_ATM_Target>
@@ -997,8 +997,8 @@
                 <HD_ATM_Stop>20</HD_ATM_Stop>
                 <ODD_ATM_Custom_Enable>true</ODD_ATM_Custom_Enable>
                 <ODD_ATM_Custom>YM_ODD</ODD_ATM_Custom>
-                <ODD_ATM_Target>15</ODD_ATM_Target>
-                <ODD_ATM_Stop>15</ODD_ATM_Stop>
+                <ODD_ATM_Target>16</ODD_ATM_Target>
+                <ODD_ATM_Stop>16</ODD_ATM_Stop>
                 <SLZ_ATM_Custom_Enable>true</SLZ_ATM_Custom_Enable>
                 <SLZ_ATM_Custom>YM_SLZ</SLZ_ATM_Custom>
                 <SLZ_ATM_Target>9</SLZ_ATM_Target>
@@ -1039,16 +1039,16 @@
                 <ETX_DR_MaxValue>0.61</ETX_DR_MaxValue>
                 <FTX_DR_ValueEnable>true</FTX_DR_ValueEnable>
                 <FTX_DR_MinValue>0.07</FTX_DR_MinValue>
-                <FTX_DR_MaxValue>1.04</FTX_DR_MaxValue>
+                <FTX_DR_MaxValue>1</FTX_DR_MaxValue>
                 <HD_DR_ValueEnable>true</HD_DR_ValueEnable>
-                <HD_DR_MinValue>0.01</HD_DR_MinValue>
+                <HD_DR_MinValue>0</HD_DR_MinValue>
                 <HD_DR_MaxValue>1.15</HD_DR_MaxValue>
                 <ODD_DR_ValueEnable>true</ODD_DR_ValueEnable>
-                <ODD_DR_MinValue>0.6</ODD_DR_MinValue>
+                <ODD_DR_MinValue>0.28</ODD_DR_MinValue>
                 <ODD_DR_MaxValue>1.36</ODD_DR_MaxValue>
                 <SLZ_DR_ValueEnable>true</SLZ_DR_ValueEnable>
-                <SLZ_DR_MinValue>0</SLZ_DR_MinValue>
-                <SLZ_DR_MaxValue>1.17</SLZ_DR_MaxValue>
+                <SLZ_DR_MinValue>0.61</SLZ_DR_MinValue>
+                <SLZ_DR_MaxValue>1.2</SLZ_DR_MaxValue>
                 <TBS_DR_ValueEnable>true</TBS_DR_ValueEnable>
                 <TBS_DR_MinValue>0</TBS_DR_MinValue>
                 <TBS_DR_MaxValue>0</TBS_DR_MaxValue>
@@ -1098,7 +1098,7 @@
                 <FTX_BSAW>20</FTX_BSAW>
                 <HDB_SAW>0</HDB_SAW>
                 <ODD_BSAW>19</ODD_BSAW>
-                <SLZ_BSAW>15</SLZ_BSAW>
+                <SLZ_BSAW>0</SLZ_BSAW>
                 <TBS_BSAW>0</TBS_BSAW>
                 <DTX_RequireLevel>false</DTX_RequireLevel>
                 <ELEV_RequireLevel>false</ELEV_RequireLevel>
@@ -1122,7 +1122,7 @@
                 <FTX_OPR>Disabled</FTX_OPR>
                 <HD_OPR>Disabled</HD_OPR>
                 <ODD_OPR>Disabled</ODD_OPR>
-                <SLZ_OPR>Avoid</SLZ_OPR>
+                <SLZ_OPR>Disabled</SLZ_OPR>
                 <TBS_OPR>Disabled</TBS_OPR>
                 <DTX_Absorption>Disabled</DTX_Absorption>
                 <ELEV_Absorption>Disabled</ELEV_Absorption>
@@ -1147,7 +1147,7 @@
                 <ELEV_LiquidMinValue>0</ELEV_LiquidMinValue>
                 <ELEV_LiquidMaxValue>0</ELEV_LiquidMaxValue>
                 <ETX_LiquidEnable>true</ETX_LiquidEnable>
-                <ETX_LiquidMinValue>3.62</ETX_LiquidMinValue>
+                <ETX_LiquidMinValue>3.25</ETX_LiquidMinValue>
                 <ETX_LiquidMaxValue>49.44</ETX_LiquidMaxValue>
                 <FTX_LiquidEnable>true</FTX_LiquidEnable>
                 <FTX_LiquidMinValue>2.25</FTX_LiquidMinValue>
@@ -1156,11 +1156,11 @@
                 <HD_LiquidMinValue>2.25</HD_LiquidMinValue>
                 <HD_LiquidMaxValue>39.63</HD_LiquidMaxValue>
                 <ODD_LiquidEnable>true</ODD_LiquidEnable>
-                <ODD_LiquidMinValue>7.63</ODD_LiquidMinValue>
-                <ODD_LiquidMaxValue>15.93</ODD_LiquidMaxValue>
+                <ODD_LiquidMinValue>8.75</ODD_LiquidMinValue>
+                <ODD_LiquidMaxValue>10.55</ODD_LiquidMaxValue>
                 <SLZ_LiquidEnable>true</SLZ_LiquidEnable>
-                <SLZ_LiquidMinValue>2.93</SLZ_LiquidMinValue>
-                <SLZ_LiquidMaxValue>19.36</SLZ_LiquidMaxValue>
+                <SLZ_LiquidMinValue>7.97</SLZ_LiquidMinValue>
+                <SLZ_LiquidMaxValue>53.1</SLZ_LiquidMaxValue>
                 <TBS_LiquidEnable>true</TBS_LiquidEnable>
                 <TBS_LiquidMinValue>0</TBS_LiquidMinValue>
                 <TBS_LiquidMaxValue>0</TBS_LiquidMaxValue>
@@ -1173,19 +1173,19 @@
                 <ELEV_VolScoreMax>0</ELEV_VolScoreMax>
                 <ETX_VolScoreEnable>true</ETX_VolScoreEnable>
                 <ETX_VolScoreMin>9</ETX_VolScoreMin>
-                <ETX_VolScoreMax>2440</ETX_VolScoreMax>
+                <ETX_VolScoreMax>712</ETX_VolScoreMax>
                 <FTX_VolScoreEnable>true</FTX_VolScoreEnable>
                 <FTX_VolScoreMin>13</FTX_VolScoreMin>
-                <FTX_VolScoreMax>622</FTX_VolScoreMax>
+                <FTX_VolScoreMax>354</FTX_VolScoreMax>
                 <HD_VolScoreEnable>true</HD_VolScoreEnable>
                 <HD_VolScoreMin>13</HD_VolScoreMin>
-                <HD_VolScoreMax>119</HD_VolScoreMax>
+                <HD_VolScoreMax>34</HD_VolScoreMax>
                 <ODD_VolScoreEnable>true</ODD_VolScoreEnable>
-                <ODD_VolScoreMin>27</ODD_VolScoreMin>
-                <ODD_VolScoreMax>1194</ODD_VolScoreMax>
+                <ODD_VolScoreMin>10</ODD_VolScoreMin>
+                <ODD_VolScoreMax>162</ODD_VolScoreMax>
                 <SLZ_VolScoreEnable>true</SLZ_VolScoreEnable>
                 <SLZ_VolScoreMin>7</SLZ_VolScoreMin>
-                <SLZ_VolScoreMax>211</SLZ_VolScoreMax>
+                <SLZ_VolScoreMax>932</SLZ_VolScoreMax>
                 <TBS_VolScoreEnable>true</TBS_VolScoreEnable>
                 <TBS_VolScoreMin>0</TBS_VolScoreMin>
                 <TBS_VolScoreMax>0</TBS_VolScoreMax>
@@ -1292,7 +1292,7 @@
                   <AutoScaleMarginLower>40</AutoScaleMarginLower>
                   <AutoScaleMarginUpper>40</AutoScaleMarginUpper>
                   <YAxisScalingType>Linear</YAxisScalingType>
-                  <FixedScaleMaxSerialize>34574</FixedScaleMaxSerialize>
+                  <FixedScaleMaxSerialize>34579</FixedScaleMaxSerialize>
                   <FixedScaleMinSerialize>34524</FixedScaleMinSerialize>
                 </ChartScaleProperties>
               </Right>
@@ -1539,7 +1539,7 @@
                 <DrawOnPricePanel>true</DrawOnPricePanel>
                 <PaintPriceMarkers>true</PaintPriceMarkers>
                 <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-                <IndicatorId>22</IndicatorId>
+                <IndicatorId>16</IndicatorId>
                 <InstrumentDeserialized>GC 08-21 Nymex</InstrumentDeserialized>
                 <MaxSerialized>0</MaxSerialized>
                 <MinSerialized>0</MinSerialized>
@@ -1591,7 +1591,7 @@
                 <DrawOnPricePanel>true</DrawOnPricePanel>
                 <PaintPriceMarkers>true</PaintPriceMarkers>
                 <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-                <IndicatorId>16</IndicatorId>
+                <IndicatorId>19</IndicatorId>
                 <InstrumentDeserialized>GC 08-21 Nymex</InstrumentDeserialized>
                 <MaxSerialized>0</MaxSerialized>
                 <MinSerialized>0</MinSerialized>
@@ -1644,7 +1644,7 @@
                 <DrawOnPricePanel>true</DrawOnPricePanel>
                 <PaintPriceMarkers>false</PaintPriceMarkers>
                 <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-                <IndicatorId>19</IndicatorId>
+                <IndicatorId>22</IndicatorId>
                 <InstrumentDeserialized>GC 08-21 Nymex</InstrumentDeserialized>
                 <MaxSerialized>0</MaxSerialized>
                 <MinSerialized>0</MinSerialized>
@@ -1749,23 +1749,23 @@
                 <DTX_OD_MinValue>19</DTX_OD_MinValue>
                 <DTX_OD_MaxValue>1081</DTX_OD_MaxValue>
                 <ELEV_OD_Enabled>true</ELEV_OD_Enabled>
-                <ELEV_OD_MinValue>0</ELEV_OD_MinValue>
-                <ELEV_OD_MaxValue>0</ELEV_OD_MaxValue>
+                <ELEV_OD_MinValue>10</ELEV_OD_MinValue>
+                <ELEV_OD_MaxValue>79</ELEV_OD_MaxValue>
                 <ETX_OD_Enabled>true</ETX_OD_Enabled>
                 <ETX_OD_MinValue>11</ETX_OD_MinValue>
                 <ETX_OD_MaxValue>3436</ETX_OD_MaxValue>
                 <FTX_OD_Enabled>true</FTX_OD_Enabled>
-                <FTX_OD_MinValue>9</FTX_OD_MinValue>
-                <FTX_OD_MaxValue>383</FTX_OD_MaxValue>
+                <FTX_OD_MinValue>6</FTX_OD_MinValue>
+                <FTX_OD_MaxValue>54</FTX_OD_MaxValue>
                 <HD_OD_Enabled>true</HD_OD_Enabled>
-                <HD_OD_MinValue>13</HD_OD_MinValue>
-                <HD_OD_MaxValue>865</HD_OD_MaxValue>
+                <HD_OD_MinValue>17</HD_OD_MinValue>
+                <HD_OD_MaxValue>888</HD_OD_MaxValue>
                 <ODD_OD_Enabled>true</ODD_OD_Enabled>
-                <ODD_OD_MinValue>32</ODD_OD_MinValue>
-                <ODD_OD_MaxValue>989</ODD_OD_MaxValue>
+                <ODD_OD_MinValue>137</ODD_OD_MinValue>
+                <ODD_OD_MaxValue>365</ODD_OD_MaxValue>
                 <SLZ_OD_Enabled>true</SLZ_OD_Enabled>
-                <SLZ_OD_MinValue>147</SLZ_OD_MinValue>
-                <SLZ_OD_MaxValue>1719</SLZ_OD_MaxValue>
+                <SLZ_OD_MinValue>59</SLZ_OD_MinValue>
+                <SLZ_OD_MaxValue>272</SLZ_OD_MaxValue>
                 <TBS_OD_Enabled>true</TBS_OD_Enabled>
                 <TBS_OD_MinValue>24</TBS_OD_MinValue>
                 <TBS_OD_MaxValue>277</TBS_OD_MaxValue>
@@ -1792,7 +1792,7 @@
                 <ETX_Enabled>true</ETX_Enabled>
                 <FTX_Enabled>false</FTX_Enabled>
                 <HD_Enabled>true</HD_Enabled>
-                <ODD_Enabled>false</ODD_Enabled>
+                <ODD_Enabled>true</ODD_Enabled>
                 <SLZ_Enabled>false</SLZ_Enabled>
                 <TBS_Enabled>false</TBS_Enabled>
                 <DTX_ObsMin>0</DTX_ObsMin>
@@ -1821,12 +1821,12 @@
                 <FTX_ATM_Stop>20</FTX_ATM_Stop>
                 <HD_ATM_Custom_Enable>true</HD_ATM_Custom_Enable>
                 <HD_ATM_Custom>GC_HD</HD_ATM_Custom>
-                <HD_ATM_Target>6</HD_ATM_Target>
-                <HD_ATM_Stop>6</HD_ATM_Stop>
+                <HD_ATM_Target>7</HD_ATM_Target>
+                <HD_ATM_Stop>7</HD_ATM_Stop>
                 <ODD_ATM_Custom_Enable>true</ODD_ATM_Custom_Enable>
                 <ODD_ATM_Custom>GC_ODD</ODD_ATM_Custom>
-                <ODD_ATM_Target>13</ODD_ATM_Target>
-                <ODD_ATM_Stop>13</ODD_ATM_Stop>
+                <ODD_ATM_Target>15</ODD_ATM_Target>
+                <ODD_ATM_Stop>15</ODD_ATM_Stop>
                 <SLZ_ATM_Custom_Enable>true</SLZ_ATM_Custom_Enable>
                 <SLZ_ATM_Custom>GC_SLZ</SLZ_ATM_Custom>
                 <SLZ_ATM_Target>0</SLZ_ATM_Target>
@@ -1860,26 +1860,26 @@
                 <DTX_DR_MinValue>0.01</DTX_DR_MinValue>
                 <DTX_DR_MaxValue>1.15</DTX_DR_MaxValue>
                 <ELEV_DR_ValueEnable>true</ELEV_DR_ValueEnable>
-                <ELEV_DR_MinValue>0</ELEV_DR_MinValue>
-                <ELEV_DR_MaxValue>0</ELEV_DR_MaxValue>
+                <ELEV_DR_MinValue>0.04</ELEV_DR_MinValue>
+                <ELEV_DR_MaxValue>1.12</ELEV_DR_MaxValue>
                 <ETX_DR_ValueEnable>true</ETX_DR_ValueEnable>
                 <ETX_DR_MinValue>0.16</ETX_DR_MinValue>
                 <ETX_DR_MaxValue>1.33</ETX_DR_MaxValue>
                 <FTX_DR_ValueEnable>true</FTX_DR_ValueEnable>
-                <FTX_DR_MinValue>0.68</FTX_DR_MinValue>
-                <FTX_DR_MaxValue>1.03</FTX_DR_MaxValue>
+                <FTX_DR_MinValue>0.01</FTX_DR_MinValue>
+                <FTX_DR_MaxValue>0.96</FTX_DR_MaxValue>
                 <HD_DR_ValueEnable>true</HD_DR_ValueEnable>
                 <HD_DR_MinValue>0.06</HD_DR_MinValue>
-                <HD_DR_MaxValue>0.37</HD_DR_MaxValue>
+                <HD_DR_MaxValue>0.61</HD_DR_MaxValue>
                 <ODD_DR_ValueEnable>true</ODD_DR_ValueEnable>
-                <ODD_DR_MinValue>0.53</ODD_DR_MinValue>
-                <ODD_DR_MaxValue>1.52</ODD_DR_MaxValue>
+                <ODD_DR_MinValue>1.1</ODD_DR_MinValue>
+                <ODD_DR_MaxValue>1.37</ODD_DR_MaxValue>
                 <SLZ_DR_ValueEnable>true</SLZ_DR_ValueEnable>
-                <SLZ_DR_MinValue>0.08</SLZ_DR_MinValue>
-                <SLZ_DR_MaxValue>1.48</SLZ_DR_MaxValue>
+                <SLZ_DR_MinValue>0.04</SLZ_DR_MinValue>
+                <SLZ_DR_MaxValue>1.38</SLZ_DR_MaxValue>
                 <TBS_DR_ValueEnable>true</TBS_DR_ValueEnable>
                 <TBS_DR_MinValue>0.16</TBS_DR_MinValue>
-                <TBS_DR_MaxValue>0.68</TBS_DR_MaxValue>
+                <TBS_DR_MaxValue>0.66</TBS_DR_MaxValue>
                 <DTX_Ticks_AmplifyEnable>false</DTX_Ticks_AmplifyEnable>
                 <DTX_Ticks_Amplify>8</DTX_Ticks_Amplify>
                 <ELEV_Ticks_AmplifyEnable>false</ELEV_Ticks_AmplifyEnable>
@@ -1914,18 +1914,18 @@
                 <TBS_Croc_Eyes>Disabled</TBS_Croc_Eyes>
                 <DTX_Broken_OPLevels>Disabled</DTX_Broken_OPLevels>
                 <ELEV_Broken_OPLevels>Disabled</ELEV_Broken_OPLevels>
-                <ETX_Broken_OPLevels>Avoid</ETX_Broken_OPLevels>
+                <ETX_Broken_OPLevels>Disabled</ETX_Broken_OPLevels>
                 <FTX_Broken_OPLevels>Disabled</FTX_Broken_OPLevels>
                 <HD_Broken_OPLevels>Disabled</HD_Broken_OPLevels>
-                <ODD_Broken_OPLevels>Avoid</ODD_Broken_OPLevels>
+                <ODD_Broken_OPLevels>Disabled</ODD_Broken_OPLevels>
                 <SLZ_Broken_OPLevels>Disabled</SLZ_Broken_OPLevels>
                 <TBS_Broken_OPLevels>Disabled</TBS_Broken_OPLevels>
-                <DTX_BSAW>15</DTX_BSAW>
+                <DTX_BSAW>12</DTX_BSAW>
                 <ELEV_BSAW>0</ELEV_BSAW>
-                <ETX_BSAW>15</ETX_BSAW>
-                <FTX_BSAW>15</FTX_BSAW>
+                <ETX_BSAW>12</ETX_BSAW>
+                <FTX_BSAW>7</FTX_BSAW>
                 <HDB_SAW>0</HDB_SAW>
-                <ODD_BSAW>15</ODD_BSAW>
+                <ODD_BSAW>12</ODD_BSAW>
                 <SLZ_BSAW>0</SLZ_BSAW>
                 <TBS_BSAW>0</TBS_BSAW>
                 <DTX_RequireLevel>false</DTX_RequireLevel>
@@ -1972,50 +1972,50 @@
                 <DTX_LiquidMinValue>15.05</DTX_LiquidMinValue>
                 <DTX_LiquidMaxValue>206.79</DTX_LiquidMaxValue>
                 <ELEV_LiquidEnable>true</ELEV_LiquidEnable>
-                <ELEV_LiquidMinValue>0</ELEV_LiquidMinValue>
-                <ELEV_LiquidMaxValue>0</ELEV_LiquidMaxValue>
+                <ELEV_LiquidMinValue>5.69</ELEV_LiquidMinValue>
+                <ELEV_LiquidMaxValue>48.67</ELEV_LiquidMaxValue>
                 <ETX_LiquidEnable>true</ETX_LiquidEnable>
                 <ETX_LiquidMinValue>27.28</ETX_LiquidMinValue>
                 <ETX_LiquidMaxValue>43.85</ETX_LiquidMaxValue>
                 <FTX_LiquidEnable>true</FTX_LiquidEnable>
-                <FTX_LiquidMinValue>4.68</FTX_LiquidMinValue>
-                <FTX_LiquidMaxValue>25.72</FTX_LiquidMaxValue>
+                <FTX_LiquidMinValue>4.66</FTX_LiquidMinValue>
+                <FTX_LiquidMaxValue>19.83</FTX_LiquidMaxValue>
                 <HD_LiquidEnable>true</HD_LiquidEnable>
-                <HD_LiquidMinValue>7.02</HD_LiquidMinValue>
-                <HD_LiquidMaxValue>20.28</HD_LiquidMaxValue>
+                <HD_LiquidMinValue>12.67</HD_LiquidMinValue>
+                <HD_LiquidMaxValue>16.01</HD_LiquidMaxValue>
                 <ODD_LiquidEnable>true</ODD_LiquidEnable>
-                <ODD_LiquidMinValue>19.06</ODD_LiquidMinValue>
-                <ODD_LiquidMaxValue>429.3</ODD_LiquidMaxValue>
+                <ODD_LiquidMinValue>2.49</ODD_LiquidMinValue>
+                <ODD_LiquidMaxValue>44.79</ODD_LiquidMaxValue>
                 <SLZ_LiquidEnable>true</SLZ_LiquidEnable>
                 <SLZ_LiquidMinValue>3.02</SLZ_LiquidMinValue>
-                <SLZ_LiquidMaxValue>19.41</SLZ_LiquidMaxValue>
+                <SLZ_LiquidMaxValue>20.49</SLZ_LiquidMaxValue>
                 <TBS_LiquidEnable>true</TBS_LiquidEnable>
                 <TBS_LiquidMinValue>15.58</TBS_LiquidMinValue>
                 <TBS_LiquidMaxValue>19.71</TBS_LiquidMaxValue>
                 <MLiquidityBars>3</MLiquidityBars>
                 <DTX_VolScoreEnable>true</DTX_VolScoreEnable>
-                <DTX_VolScoreMin>10</DTX_VolScoreMin>
+                <DTX_VolScoreMin>8</DTX_VolScoreMin>
                 <DTX_VolScoreMax>5694</DTX_VolScoreMax>
                 <ELEV_VolScoreEnable>true</ELEV_VolScoreEnable>
-                <ELEV_VolScoreMin>0</ELEV_VolScoreMin>
-                <ELEV_VolScoreMax>0</ELEV_VolScoreMax>
+                <ELEV_VolScoreMin>10</ELEV_VolScoreMin>
+                <ELEV_VolScoreMax>728</ELEV_VolScoreMax>
                 <ETX_VolScoreEnable>true</ETX_VolScoreEnable>
-                <ETX_VolScoreMin>6</ETX_VolScoreMin>
+                <ETX_VolScoreMin>11</ETX_VolScoreMin>
                 <ETX_VolScoreMax>75</ETX_VolScoreMax>
                 <FTX_VolScoreEnable>true</FTX_VolScoreEnable>
-                <FTX_VolScoreMin>15</FTX_VolScoreMin>
-                <FTX_VolScoreMax>1358</FTX_VolScoreMax>
+                <FTX_VolScoreMin>6</FTX_VolScoreMin>
+                <FTX_VolScoreMax>1715</FTX_VolScoreMax>
                 <HD_VolScoreEnable>true</HD_VolScoreEnable>
                 <HD_VolScoreMin>6</HD_VolScoreMin>
-                <HD_VolScoreMax>61</HD_VolScoreMax>
+                <HD_VolScoreMax>193</HD_VolScoreMax>
                 <ODD_VolScoreEnable>true</ODD_VolScoreEnable>
                 <ODD_VolScoreMin>6</ODD_VolScoreMin>
-                <ODD_VolScoreMax>192</ODD_VolScoreMax>
+                <ODD_VolScoreMax>1953</ODD_VolScoreMax>
                 <SLZ_VolScoreEnable>true</SLZ_VolScoreEnable>
                 <SLZ_VolScoreMin>7</SLZ_VolScoreMin>
-                <SLZ_VolScoreMax>350</SLZ_VolScoreMax>
+                <SLZ_VolScoreMax>40</SLZ_VolScoreMax>
                 <TBS_VolScoreEnable>true</TBS_VolScoreEnable>
-                <TBS_VolScoreMin>25</TBS_VolScoreMin>
+                <TBS_VolScoreMin>16</TBS_VolScoreMin>
                 <TBS_VolScoreMax>1970</TBS_VolScoreMax>
                 <DTX_CoilChop>false</DTX_CoilChop>
                 <ELEV_CoilChop>false</ELEV_CoilChop>
@@ -2120,7 +2120,7 @@
                   <AutoScaleMarginLower>40</AutoScaleMarginLower>
                   <AutoScaleMarginUpper>40</AutoScaleMarginUpper>
                   <YAxisScalingType>Linear</YAxisScalingType>
-                  <FixedScaleMaxSerialize>1814.4</FixedScaleMaxSerialize>
+                  <FixedScaleMaxSerialize>1812.8</FixedScaleMaxSerialize>
                   <FixedScaleMinSerialize>1809.5</FixedScaleMinSerialize>
                 </ChartScaleProperties>
               </Right>
@@ -2367,7 +2367,7 @@
                 <DrawOnPricePanel>true</DrawOnPricePanel>
                 <PaintPriceMarkers>true</PaintPriceMarkers>
                 <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-                <IndicatorId>34</IndicatorId>
+                <IndicatorId>28</IndicatorId>
                 <InstrumentDeserialized>CL 09-21 Nymex</InstrumentDeserialized>
                 <MaxSerialized>0</MaxSerialized>
                 <MinSerialized>0</MinSerialized>
@@ -2419,7 +2419,7 @@
                 <DrawOnPricePanel>true</DrawOnPricePanel>
                 <PaintPriceMarkers>true</PaintPriceMarkers>
                 <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-                <IndicatorId>28</IndicatorId>
+                <IndicatorId>31</IndicatorId>
                 <InstrumentDeserialized>CL 09-21 Nymex</InstrumentDeserialized>
                 <MaxSerialized>0</MaxSerialized>
                 <MinSerialized>0</MinSerialized>
@@ -2472,7 +2472,7 @@
                 <DrawOnPricePanel>true</DrawOnPricePanel>
                 <PaintPriceMarkers>false</PaintPriceMarkers>
                 <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-                <IndicatorId>31</IndicatorId>
+                <IndicatorId>34</IndicatorId>
                 <InstrumentDeserialized>CL 09-21 Nymex</InstrumentDeserialized>
                 <MaxSerialized>0</MaxSerialized>
                 <MinSerialized>0</MinSerialized>
@@ -2547,7 +2547,7 @@
                 <DrawOnPricePanel>false</DrawOnPricePanel>
                 <PaintPriceMarkers>false</PaintPriceMarkers>
                 <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-                <IndicatorId>40</IndicatorId>
+                <IndicatorId>37</IndicatorId>
                 <InstrumentDeserialized>CL 09-21 Nymex</InstrumentDeserialized>
                 <MaxSerialized>0</MaxSerialized>
                 <MinSerialized>0</MinSerialized>
@@ -2575,28 +2575,28 @@
                 <EntryTickOffset>1</EntryTickOffset>
                 <DTX_OD_Enabled>true</DTX_OD_Enabled>
                 <DTX_OD_MinValue>28</DTX_OD_MinValue>
-                <DTX_OD_MaxValue>154</DTX_OD_MaxValue>
+                <DTX_OD_MaxValue>120</DTX_OD_MaxValue>
                 <ELEV_OD_Enabled>true</ELEV_OD_Enabled>
                 <ELEV_OD_MinValue>0</ELEV_OD_MinValue>
                 <ELEV_OD_MaxValue>0</ELEV_OD_MaxValue>
                 <ETX_OD_Enabled>true</ETX_OD_Enabled>
-                <ETX_OD_MinValue>14</ETX_OD_MinValue>
+                <ETX_OD_MinValue>18</ETX_OD_MinValue>
                 <ETX_OD_MaxValue>845</ETX_OD_MaxValue>
                 <FTX_OD_Enabled>true</FTX_OD_Enabled>
                 <FTX_OD_MinValue>16</FTX_OD_MinValue>
-                <FTX_OD_MaxValue>629</FTX_OD_MaxValue>
+                <FTX_OD_MaxValue>444</FTX_OD_MaxValue>
                 <HD_OD_Enabled>true</HD_OD_Enabled>
                 <HD_OD_MinValue>16</HD_OD_MinValue>
-                <HD_OD_MaxValue>798</HD_OD_MaxValue>
+                <HD_OD_MaxValue>340</HD_OD_MaxValue>
                 <ODD_OD_Enabled>true</ODD_OD_Enabled>
-                <ODD_OD_MinValue>11</ODD_OD_MinValue>
-                <ODD_OD_MaxValue>1045</ODD_OD_MaxValue>
+                <ODD_OD_MinValue>55</ODD_OD_MinValue>
+                <ODD_OD_MaxValue>1178</ODD_OD_MaxValue>
                 <SLZ_OD_Enabled>true</SLZ_OD_Enabled>
                 <SLZ_OD_MinValue>14</SLZ_OD_MinValue>
                 <SLZ_OD_MaxValue>394</SLZ_OD_MaxValue>
                 <TBS_OD_Enabled>true</TBS_OD_Enabled>
-                <TBS_OD_MinValue>0</TBS_OD_MinValue>
-                <TBS_OD_MaxValue>0</TBS_OD_MaxValue>
+                <TBS_OD_MinValue>27</TBS_OD_MinValue>
+                <TBS_OD_MaxValue>591</TBS_OD_MaxValue>
                 <PositivePNLTarget>200</PositivePNLTarget>
                 <NegativePNLStop>-300</NegativePNLStop>
                 <WhiteZoneHours>18,19,20,21,22,23,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16</WhiteZoneHours>
@@ -2617,7 +2617,7 @@
                 <DarkZone5End>2021-05-24T01:30:00</DarkZone5End>
                 <DTX_Enabled>false</DTX_Enabled>
                 <ELEV_Enabled>false</ELEV_Enabled>
-                <ETX_Enabled>true</ETX_Enabled>
+                <ETX_Enabled>false</ETX_Enabled>
                 <FTX_Enabled>false</FTX_Enabled>
                 <HD_Enabled>true</HD_Enabled>
                 <ODD_Enabled>false</ODD_Enabled>
@@ -2649,8 +2649,8 @@
                 <FTX_ATM_Stop>8</FTX_ATM_Stop>
                 <HD_ATM_Custom_Enable>true</HD_ATM_Custom_Enable>
                 <HD_ATM_Custom>CL_HD</HD_ATM_Custom>
-                <HD_ATM_Target>13</HD_ATM_Target>
-                <HD_ATM_Stop>12</HD_ATM_Stop>
+                <HD_ATM_Target>19</HD_ATM_Target>
+                <HD_ATM_Stop>17</HD_ATM_Stop>
                 <ODD_ATM_Custom_Enable>true</ODD_ATM_Custom_Enable>
                 <ODD_ATM_Custom>CL_ODD</ODD_ATM_Custom>
                 <ODD_ATM_Target>9</ODD_ATM_Target>
@@ -2686,7 +2686,7 @@
                 <TBS_DR_Coherent>false</TBS_DR_Coherent>
                 <DTX_DR_ValueEnable>true</DTX_DR_ValueEnable>
                 <DTX_DR_MinValue>0.04</DTX_DR_MinValue>
-                <DTX_DR_MaxValue>1.33</DTX_DR_MaxValue>
+                <DTX_DR_MaxValue>0.8</DTX_DR_MaxValue>
                 <ELEV_DR_ValueEnable>true</ELEV_DR_ValueEnable>
                 <ELEV_DR_MinValue>0</ELEV_DR_MinValue>
                 <ELEV_DR_MaxValue>0</ELEV_DR_MaxValue>
@@ -2694,20 +2694,20 @@
                 <ETX_DR_MinValue>0.07</ETX_DR_MinValue>
                 <ETX_DR_MaxValue>1.45</ETX_DR_MaxValue>
                 <FTX_DR_ValueEnable>true</FTX_DR_ValueEnable>
-                <FTX_DR_MinValue>0.05</FTX_DR_MinValue>
-                <FTX_DR_MaxValue>1.05</FTX_DR_MaxValue>
+                <FTX_DR_MinValue>0.01</FTX_DR_MinValue>
+                <FTX_DR_MaxValue>1.08</FTX_DR_MaxValue>
                 <HD_DR_ValueEnable>true</HD_DR_ValueEnable>
-                <HD_DR_MinValue>0.13</HD_DR_MinValue>
+                <HD_DR_MinValue>0.26</HD_DR_MinValue>
                 <HD_DR_MaxValue>0.65</HD_DR_MaxValue>
                 <ODD_DR_ValueEnable>true</ODD_DR_ValueEnable>
-                <ODD_DR_MinValue>0.04</ODD_DR_MinValue>
-                <ODD_DR_MaxValue>1.41</ODD_DR_MaxValue>
+                <ODD_DR_MinValue>1.08</ODD_DR_MinValue>
+                <ODD_DR_MaxValue>1.23</ODD_DR_MaxValue>
                 <SLZ_DR_ValueEnable>true</SLZ_DR_ValueEnable>
                 <SLZ_DR_MinValue>0</SLZ_DR_MinValue>
                 <SLZ_DR_MaxValue>0.5</SLZ_DR_MaxValue>
                 <TBS_DR_ValueEnable>true</TBS_DR_ValueEnable>
-                <TBS_DR_MinValue>0</TBS_DR_MinValue>
-                <TBS_DR_MaxValue>0</TBS_DR_MaxValue>
+                <TBS_DR_MinValue>0.18</TBS_DR_MinValue>
+                <TBS_DR_MaxValue>0.67</TBS_DR_MaxValue>
                 <DTX_Ticks_AmplifyEnable>false</DTX_Ticks_AmplifyEnable>
                 <DTX_Ticks_Amplify>8</DTX_Ticks_Amplify>
                 <ELEV_Ticks_AmplifyEnable>false</ELEV_Ticks_AmplifyEnable>
@@ -2753,7 +2753,7 @@
                 <ETX_BSAW>16</ETX_BSAW>
                 <FTX_BSAW>16</FTX_BSAW>
                 <HDB_SAW>0</HDB_SAW>
-                <ODD_BSAW>15</ODD_BSAW>
+                <ODD_BSAW>16</ODD_BSAW>
                 <SLZ_BSAW>0</SLZ_BSAW>
                 <TBS_BSAW>0</TBS_BSAW>
                 <DTX_RequireLevel>false</DTX_RequireLevel>
@@ -2798,28 +2798,28 @@
                 <TBS_Direction>Both</TBS_Direction>
                 <DTX_LiquidEnable>true</DTX_LiquidEnable>
                 <DTX_LiquidMinValue>16.73</DTX_LiquidMinValue>
-                <DTX_LiquidMaxValue>165.94</DTX_LiquidMaxValue>
+                <DTX_LiquidMaxValue>115.02</DTX_LiquidMaxValue>
                 <ELEV_LiquidEnable>true</ELEV_LiquidEnable>
                 <ELEV_LiquidMinValue>0</ELEV_LiquidMinValue>
                 <ELEV_LiquidMaxValue>0</ELEV_LiquidMaxValue>
                 <ETX_LiquidEnable>true</ETX_LiquidEnable>
-                <ETX_LiquidMinValue>20.06</ETX_LiquidMinValue>
+                <ETX_LiquidMinValue>17.3</ETX_LiquidMinValue>
                 <ETX_LiquidMaxValue>33.82</ETX_LiquidMaxValue>
                 <FTX_LiquidEnable>true</FTX_LiquidEnable>
-                <FTX_LiquidMinValue>21.92</FTX_LiquidMinValue>
-                <FTX_LiquidMaxValue>110.73</FTX_LiquidMaxValue>
+                <FTX_LiquidMinValue>32.85</FTX_LiquidMinValue>
+                <FTX_LiquidMaxValue>256.35</FTX_LiquidMaxValue>
                 <HD_LiquidEnable>true</HD_LiquidEnable>
                 <HD_LiquidMinValue>10.96</HD_LiquidMinValue>
-                <HD_LiquidMaxValue>118.56</HD_LiquidMaxValue>
+                <HD_LiquidMaxValue>97.54</HD_LiquidMaxValue>
                 <ODD_LiquidEnable>true</ODD_LiquidEnable>
-                <ODD_LiquidMinValue>13.42</ODD_LiquidMinValue>
-                <ODD_LiquidMaxValue>23.13</ODD_LiquidMaxValue>
+                <ODD_LiquidMinValue>11.02</ODD_LiquidMinValue>
+                <ODD_LiquidMaxValue>175.92</ODD_LiquidMaxValue>
                 <SLZ_LiquidEnable>true</SLZ_LiquidEnable>
                 <SLZ_LiquidMinValue>14.76</SLZ_LiquidMinValue>
                 <SLZ_LiquidMaxValue>68.32</SLZ_LiquidMaxValue>
                 <TBS_LiquidEnable>true</TBS_LiquidEnable>
-                <TBS_LiquidMinValue>0</TBS_LiquidMinValue>
-                <TBS_LiquidMaxValue>0</TBS_LiquidMaxValue>
+                <TBS_LiquidMinValue>32.9</TBS_LiquidMinValue>
+                <TBS_LiquidMaxValue>137.7</TBS_LiquidMaxValue>
                 <MLiquidityBars>3</MLiquidityBars>
                 <DTX_VolScoreEnable>true</DTX_VolScoreEnable>
                 <DTX_VolScoreMin>22</DTX_VolScoreMin>
@@ -2828,23 +2828,23 @@
                 <ELEV_VolScoreMin>0</ELEV_VolScoreMin>
                 <ELEV_VolScoreMax>0</ELEV_VolScoreMax>
                 <ETX_VolScoreEnable>true</ETX_VolScoreEnable>
-                <ETX_VolScoreMin>21</ETX_VolScoreMin>
+                <ETX_VolScoreMin>18</ETX_VolScoreMin>
                 <ETX_VolScoreMax>1130</ETX_VolScoreMax>
                 <FTX_VolScoreEnable>true</FTX_VolScoreEnable>
                 <FTX_VolScoreMin>13</FTX_VolScoreMin>
-                <FTX_VolScoreMax>221</FTX_VolScoreMax>
+                <FTX_VolScoreMax>94</FTX_VolScoreMax>
                 <HD_VolScoreEnable>true</HD_VolScoreEnable>
-                <HD_VolScoreMin>23</HD_VolScoreMin>
+                <HD_VolScoreMin>21</HD_VolScoreMin>
                 <HD_VolScoreMax>552</HD_VolScoreMax>
                 <ODD_VolScoreEnable>true</ODD_VolScoreEnable>
-                <ODD_VolScoreMin>12</ODD_VolScoreMin>
-                <ODD_VolScoreMax>2143</ODD_VolScoreMax>
+                <ODD_VolScoreMin>10</ODD_VolScoreMin>
+                <ODD_VolScoreMax>916</ODD_VolScoreMax>
                 <SLZ_VolScoreEnable>true</SLZ_VolScoreEnable>
                 <SLZ_VolScoreMin>25</SLZ_VolScoreMin>
                 <SLZ_VolScoreMax>1195</SLZ_VolScoreMax>
                 <TBS_VolScoreEnable>true</TBS_VolScoreEnable>
-                <TBS_VolScoreMin>0</TBS_VolScoreMin>
-                <TBS_VolScoreMax>0</TBS_VolScoreMax>
+                <TBS_VolScoreMin>21</TBS_VolScoreMin>
+                <TBS_VolScoreMax>541</TBS_VolScoreMax>
                 <DTX_CoilChop>false</DTX_CoilChop>
                 <ELEV_CoilChop>false</ELEV_CoilChop>
                 <ETX_CoilChop>false</ETX_CoilChop>
@@ -2948,8 +2948,8 @@
                   <AutoScaleMarginLower>40</AutoScaleMarginLower>
                   <AutoScaleMarginUpper>40</AutoScaleMarginUpper>
                   <YAxisScalingType>Linear</YAxisScalingType>
-                  <FixedScaleMaxSerialize>72</FixedScaleMaxSerialize>
-                  <FixedScaleMinSerialize>71.07</FixedScaleMinSerialize>
+                  <FixedScaleMaxSerialize>71.32</FixedScaleMaxSerialize>
+                  <FixedScaleMinSerialize>70.68</FixedScaleMinSerialize>
                 </ChartScaleProperties>
               </Right>
               <Left>
@@ -3195,7 +3195,7 @@
                 <DrawOnPricePanel>true</DrawOnPricePanel>
                 <PaintPriceMarkers>true</PaintPriceMarkers>
                 <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-                <IndicatorId>49</IndicatorId>
+                <IndicatorId>40</IndicatorId>
                 <InstrumentDeserialized>RTY 09-21 Globex</InstrumentDeserialized>
                 <MaxSerialized>0</MaxSerialized>
                 <MinSerialized>0</MinSerialized>
@@ -3375,7 +3375,7 @@
                 <DrawOnPricePanel>false</DrawOnPricePanel>
                 <PaintPriceMarkers>false</PaintPriceMarkers>
                 <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-                <IndicatorId>52</IndicatorId>
+                <IndicatorId>49</IndicatorId>
                 <InstrumentDeserialized>RTY 09-21 Globex</InstrumentDeserialized>
                 <MaxSerialized>0</MaxSerialized>
                 <MinSerialized>0</MinSerialized>
@@ -3402,14 +3402,14 @@
                 <MLScoreMin>28</MLScoreMin>
                 <EntryTickOffset>1</EntryTickOffset>
                 <DTX_OD_Enabled>true</DTX_OD_Enabled>
-                <DTX_OD_MinValue>0</DTX_OD_MinValue>
-                <DTX_OD_MaxValue>0</DTX_OD_MaxValue>
+                <DTX_OD_MinValue>31</DTX_OD_MinValue>
+                <DTX_OD_MaxValue>183</DTX_OD_MaxValue>
                 <ELEV_OD_Enabled>true</ELEV_OD_Enabled>
                 <ELEV_OD_MinValue>0</ELEV_OD_MinValue>
                 <ELEV_OD_MaxValue>0</ELEV_OD_MaxValue>
                 <ETX_OD_Enabled>true</ETX_OD_Enabled>
-                <ETX_OD_MinValue>17</ETX_OD_MinValue>
-                <ETX_OD_MaxValue>1208</ETX_OD_MaxValue>
+                <ETX_OD_MinValue>13</ETX_OD_MinValue>
+                <ETX_OD_MaxValue>1237</ETX_OD_MaxValue>
                 <FTX_OD_Enabled>true</FTX_OD_Enabled>
                 <FTX_OD_MinValue>11</FTX_OD_MinValue>
                 <FTX_OD_MaxValue>85</FTX_OD_MaxValue>
@@ -3420,7 +3420,7 @@
                 <ODD_OD_MinValue>3</ODD_OD_MinValue>
                 <ODD_OD_MaxValue>4391</ODD_OD_MaxValue>
                 <SLZ_OD_Enabled>true</SLZ_OD_Enabled>
-                <SLZ_OD_MinValue>11</SLZ_OD_MinValue>
+                <SLZ_OD_MinValue>48</SLZ_OD_MinValue>
                 <SLZ_OD_MaxValue>1776</SLZ_OD_MaxValue>
                 <TBS_OD_Enabled>true</TBS_OD_Enabled>
                 <TBS_OD_MinValue>0</TBS_OD_MinValue>
@@ -3445,7 +3445,7 @@
                 <DarkZone5End>2021-05-24T01:30:00</DarkZone5End>
                 <DTX_Enabled>false</DTX_Enabled>
                 <ELEV_Enabled>false</ELEV_Enabled>
-                <ETX_Enabled>true</ETX_Enabled>
+                <ETX_Enabled>false</ETX_Enabled>
                 <FTX_Enabled>true</FTX_Enabled>
                 <HD_Enabled>true</HD_Enabled>
                 <ODD_Enabled>false</ODD_Enabled>
@@ -3473,8 +3473,8 @@
                 <ETX_ATM_Stop>17</ETX_ATM_Stop>
                 <FTX_ATM_Custom_Enable>true</FTX_ATM_Custom_Enable>
                 <FTX_ATM_Custom>RTY_FTX</FTX_ATM_Custom>
-                <FTX_ATM_Target>21</FTX_ATM_Target>
-                <FTX_ATM_Stop>20</FTX_ATM_Stop>
+                <FTX_ATM_Target>12</FTX_ATM_Target>
+                <FTX_ATM_Stop>12</FTX_ATM_Stop>
                 <HD_ATM_Custom_Enable>true</HD_ATM_Custom_Enable>
                 <HD_ATM_Custom>RTY_HD</HD_ATM_Custom>
                 <HD_ATM_Target>8</HD_ATM_Target>
@@ -3513,17 +3513,17 @@
                 <SLZ_DR_Coherent>false</SLZ_DR_Coherent>
                 <TBS_DR_Coherent>false</TBS_DR_Coherent>
                 <DTX_DR_ValueEnable>true</DTX_DR_ValueEnable>
-                <DTX_DR_MinValue>0</DTX_DR_MinValue>
-                <DTX_DR_MaxValue>0</DTX_DR_MaxValue>
+                <DTX_DR_MinValue>0.02</DTX_DR_MinValue>
+                <DTX_DR_MaxValue>1</DTX_DR_MaxValue>
                 <ELEV_DR_ValueEnable>true</ELEV_DR_ValueEnable>
                 <ELEV_DR_MinValue>0</ELEV_DR_MinValue>
                 <ELEV_DR_MaxValue>0</ELEV_DR_MaxValue>
                 <ETX_DR_ValueEnable>true</ETX_DR_ValueEnable>
-                <ETX_DR_MinValue>0.27</ETX_DR_MinValue>
-                <ETX_DR_MaxValue>1.05</ETX_DR_MaxValue>
+                <ETX_DR_MinValue>0.04</ETX_DR_MinValue>
+                <ETX_DR_MaxValue>1.28</ETX_DR_MaxValue>
                 <FTX_DR_ValueEnable>true</FTX_DR_ValueEnable>
-                <FTX_DR_MinValue>0.02</FTX_DR_MinValue>
-                <FTX_DR_MaxValue>0.99</FTX_DR_MaxValue>
+                <FTX_DR_MinValue>0.05</FTX_DR_MinValue>
+                <FTX_DR_MaxValue>1.02</FTX_DR_MaxValue>
                 <HD_DR_ValueEnable>true</HD_DR_ValueEnable>
                 <HD_DR_MinValue>0.01</HD_DR_MinValue>
                 <HD_DR_MaxValue>0.99</HD_DR_MaxValue>
@@ -3531,8 +3531,8 @@
                 <ODD_DR_MinValue>0.86</ODD_DR_MinValue>
                 <ODD_DR_MaxValue>1.29</ODD_DR_MaxValue>
                 <SLZ_DR_ValueEnable>true</SLZ_DR_ValueEnable>
-                <SLZ_DR_MinValue>0.11</SLZ_DR_MinValue>
-                <SLZ_DR_MaxValue>1.45</SLZ_DR_MaxValue>
+                <SLZ_DR_MinValue>0.12</SLZ_DR_MinValue>
+                <SLZ_DR_MaxValue>1.34</SLZ_DR_MaxValue>
                 <TBS_DR_ValueEnable>true</TBS_DR_ValueEnable>
                 <TBS_DR_MinValue>0</TBS_DR_MinValue>
                 <TBS_DR_MaxValue>0</TBS_DR_MaxValue>
@@ -3579,7 +3579,7 @@
                 <DTX_BSAW>0</DTX_BSAW>
                 <ELEV_BSAW>0</ELEV_BSAW>
                 <ETX_BSAW>20</ETX_BSAW>
-                <FTX_BSAW>11</FTX_BSAW>
+                <FTX_BSAW>20</FTX_BSAW>
                 <HDB_SAW>0</HDB_SAW>
                 <ODD_BSAW>19</ODD_BSAW>
                 <SLZ_BSAW>18</SLZ_BSAW>
@@ -3625,23 +3625,23 @@
                 <SLZ_Direction>Both</SLZ_Direction>
                 <TBS_Direction>Both</TBS_Direction>
                 <DTX_LiquidEnable>true</DTX_LiquidEnable>
-                <DTX_LiquidMinValue>0</DTX_LiquidMinValue>
-                <DTX_LiquidMaxValue>0</DTX_LiquidMaxValue>
+                <DTX_LiquidMinValue>2.3</DTX_LiquidMinValue>
+                <DTX_LiquidMaxValue>29</DTX_LiquidMaxValue>
                 <ELEV_LiquidEnable>true</ELEV_LiquidEnable>
                 <ELEV_LiquidMinValue>0</ELEV_LiquidMinValue>
                 <ELEV_LiquidMaxValue>0</ELEV_LiquidMaxValue>
                 <ETX_LiquidEnable>true</ETX_LiquidEnable>
-                <ETX_LiquidMinValue>4.66</ETX_LiquidMinValue>
+                <ETX_LiquidMinValue>3.45</ETX_LiquidMinValue>
                 <ETX_LiquidMaxValue>37.38</ETX_LiquidMaxValue>
                 <FTX_LiquidEnable>true</FTX_LiquidEnable>
-                <FTX_LiquidMinValue>3.15</FTX_LiquidMinValue>
-                <FTX_LiquidMaxValue>9.62</FTX_LiquidMaxValue>
+                <FTX_LiquidMinValue>0.88</FTX_LiquidMinValue>
+                <FTX_LiquidMaxValue>7.52</FTX_LiquidMaxValue>
                 <HD_LiquidEnable>true</HD_LiquidEnable>
                 <HD_LiquidMinValue>0.88</HD_LiquidMinValue>
                 <HD_LiquidMaxValue>25.75</HD_LiquidMaxValue>
                 <ODD_LiquidEnable>true</ODD_LiquidEnable>
                 <ODD_LiquidMinValue>1.38</ODD_LiquidMinValue>
-                <ODD_LiquidMaxValue>16.07</ODD_LiquidMaxValue>
+                <ODD_LiquidMaxValue>15.76</ODD_LiquidMaxValue>
                 <SLZ_LiquidEnable>true</SLZ_LiquidEnable>
                 <SLZ_LiquidMinValue>1.12</SLZ_LiquidMinValue>
                 <SLZ_LiquidMaxValue>20.82</SLZ_LiquidMaxValue>
@@ -3650,25 +3650,25 @@
                 <TBS_LiquidMaxValue>0</TBS_LiquidMaxValue>
                 <MLiquidityBars>3</MLiquidityBars>
                 <DTX_VolScoreEnable>true</DTX_VolScoreEnable>
-                <DTX_VolScoreMin>0</DTX_VolScoreMin>
-                <DTX_VolScoreMax>0</DTX_VolScoreMax>
+                <DTX_VolScoreMin>14</DTX_VolScoreMin>
+                <DTX_VolScoreMax>378</DTX_VolScoreMax>
                 <ELEV_VolScoreEnable>true</ELEV_VolScoreEnable>
                 <ELEV_VolScoreMin>0</ELEV_VolScoreMin>
                 <ELEV_VolScoreMax>0</ELEV_VolScoreMax>
                 <ETX_VolScoreEnable>true</ETX_VolScoreEnable>
-                <ETX_VolScoreMin>7</ETX_VolScoreMin>
-                <ETX_VolScoreMax>346</ETX_VolScoreMax>
+                <ETX_VolScoreMin>38</ETX_VolScoreMin>
+                <ETX_VolScoreMax>309</ETX_VolScoreMax>
                 <FTX_VolScoreEnable>true</FTX_VolScoreEnable>
-                <FTX_VolScoreMin>15</FTX_VolScoreMin>
+                <FTX_VolScoreMin>12</FTX_VolScoreMin>
                 <FTX_VolScoreMax>410</FTX_VolScoreMax>
                 <HD_VolScoreEnable>true</HD_VolScoreEnable>
                 <HD_VolScoreMin>16</HD_VolScoreMin>
-                <HD_VolScoreMax>237</HD_VolScoreMax>
+                <HD_VolScoreMax>152</HD_VolScoreMax>
                 <ODD_VolScoreEnable>true</ODD_VolScoreEnable>
                 <ODD_VolScoreMin>10</ODD_VolScoreMin>
                 <ODD_VolScoreMax>20</ODD_VolScoreMax>
                 <SLZ_VolScoreEnable>true</SLZ_VolScoreEnable>
-                <SLZ_VolScoreMin>12</SLZ_VolScoreMin>
+                <SLZ_VolScoreMin>15</SLZ_VolScoreMin>
                 <SLZ_VolScoreMax>64</SLZ_VolScoreMax>
                 <TBS_VolScoreEnable>true</TBS_VolScoreEnable>
                 <TBS_VolScoreMin>0</TBS_VolScoreMin>
@@ -3776,8 +3776,8 @@
                   <AutoScaleMarginLower>40</AutoScaleMarginLower>
                   <AutoScaleMarginUpper>40</AutoScaleMarginUpper>
                   <YAxisScalingType>Linear</YAxisScalingType>
-                  <FixedScaleMaxSerialize>2160.9</FixedScaleMaxSerialize>
-                  <FixedScaleMinSerialize>2154.8</FixedScaleMinSerialize>
+                  <FixedScaleMaxSerialize>2161.2</FixedScaleMaxSerialize>
+                  <FixedScaleMinSerialize>2154.9</FixedScaleMinSerialize>
                 </ChartScaleProperties>
               </Right>
               <Left>
@@ -4023,7 +4023,7 @@
                 <DrawOnPricePanel>true</DrawOnPricePanel>
                 <PaintPriceMarkers>true</PaintPriceMarkers>
                 <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-                <IndicatorId>64</IndicatorId>
+                <IndicatorId>52</IndicatorId>
                 <InstrumentDeserialized>NQ 09-21 Globex</InstrumentDeserialized>
                 <MaxSerialized>0</MaxSerialized>
                 <MinSerialized>0</MinSerialized>
@@ -4269,7 +4269,7 @@
                 <DrawOnPricePanel>true</DrawOnPricePanel>
                 <PaintPriceMarkers>false</PaintPriceMarkers>
                 <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-                <IndicatorId>67</IndicatorId>
+                <IndicatorId>64</IndicatorId>
                 <InstrumentDeserialized>NQ 09-21 Globex</InstrumentDeserialized>
                 <MaxSerialized>0</MaxSerialized>
                 <MinSerialized>0</MinSerialized>
@@ -4321,7 +4321,7 @@
                 <DrawOnPricePanel>false</DrawOnPricePanel>
                 <PaintPriceMarkers>true</PaintPriceMarkers>
                 <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-                <IndicatorId>70</IndicatorId>
+                <IndicatorId>67</IndicatorId>
                 <InstrumentDeserialized>NQ 09-21 Globex</InstrumentDeserialized>
                 <MaxSerialized>0</MaxSerialized>
                 <MinSerialized>0</MinSerialized>
@@ -4396,7 +4396,7 @@
                 <DrawOnPricePanel>false</DrawOnPricePanel>
                 <PaintPriceMarkers>false</PaintPriceMarkers>
                 <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-                <IndicatorId>73</IndicatorId>
+                <IndicatorId>70</IndicatorId>
                 <InstrumentDeserialized>NQ 09-21 Globex</InstrumentDeserialized>
                 <MaxSerialized>0</MaxSerialized>
                 <MinSerialized>0</MinSerialized>
@@ -4430,16 +4430,16 @@
                 <ELEV_OD_MaxValue>200</ELEV_OD_MaxValue>
                 <ETX_OD_Enabled>true</ETX_OD_Enabled>
                 <ETX_OD_MinValue>44</ETX_OD_MinValue>
-                <ETX_OD_MaxValue>85</ETX_OD_MaxValue>
+                <ETX_OD_MaxValue>76</ETX_OD_MaxValue>
                 <FTX_OD_Enabled>true</FTX_OD_Enabled>
                 <FTX_OD_MinValue>70</FTX_OD_MinValue>
                 <FTX_OD_MaxValue>74</FTX_OD_MaxValue>
                 <HD_OD_Enabled>true</HD_OD_Enabled>
-                <HD_OD_MinValue>11</HD_OD_MinValue>
-                <HD_OD_MaxValue>792</HD_OD_MaxValue>
+                <HD_OD_MinValue>64</HD_OD_MinValue>
+                <HD_OD_MaxValue>74</HD_OD_MaxValue>
                 <ODD_OD_Enabled>true</ODD_OD_Enabled>
-                <ODD_OD_MinValue>42</ODD_OD_MinValue>
-                <ODD_OD_MaxValue>978</ODD_OD_MaxValue>
+                <ODD_OD_MinValue>22</ODD_OD_MinValue>
+                <ODD_OD_MaxValue>325</ODD_OD_MaxValue>
                 <SLZ_OD_Enabled>true</SLZ_OD_Enabled>
                 <SLZ_OD_MinValue>58</SLZ_OD_MinValue>
                 <SLZ_OD_MaxValue>985</SLZ_OD_MaxValue>
@@ -4468,16 +4468,16 @@
                 <ELEV_Enabled>false</ELEV_Enabled>
                 <ETX_Enabled>false</ETX_Enabled>
                 <FTX_Enabled>true</FTX_Enabled>
-                <HD_Enabled>false</HD_Enabled>
+                <HD_Enabled>true</HD_Enabled>
                 <ODD_Enabled>true</ODD_Enabled>
                 <SLZ_Enabled>true</SLZ_Enabled>
                 <TBS_Enabled>false</TBS_Enabled>
                 <DTX_ObsMin>18</DTX_ObsMin>
                 <ELEV_ObsMin>0</ELEV_ObsMin>
-                <ETX_ObsMin>1</ETX_ObsMin>
-                <FTX_ObsMin>13</FTX_ObsMin>
-                <HD_ObsMin>0</HD_ObsMin>
-                <ODD_ObsMin>19</ODD_ObsMin>
+                <ETX_ObsMin>2</ETX_ObsMin>
+                <FTX_ObsMin>9</FTX_ObsMin>
+                <HD_ObsMin>9</HD_ObsMin>
+                <ODD_ObsMin>18</ODD_ObsMin>
                 <SLZ_ObsMin>10</SLZ_ObsMin>
                 <TBS_ObsMin>0</TBS_ObsMin>
                 <DTX_ATM_Custom_Enable>true</DTX_ATM_Custom_Enable>
@@ -4494,16 +4494,16 @@
                 <ETX_ATM_Stop>9</ETX_ATM_Stop>
                 <FTX_ATM_Custom_Enable>true</FTX_ATM_Custom_Enable>
                 <FTX_ATM_Custom>NQ_FTX</FTX_ATM_Custom>
-                <FTX_ATM_Target>13</FTX_ATM_Target>
-                <FTX_ATM_Stop>13</FTX_ATM_Stop>
+                <FTX_ATM_Target>9</FTX_ATM_Target>
+                <FTX_ATM_Stop>8</FTX_ATM_Stop>
                 <HD_ATM_Custom_Enable>true</HD_ATM_Custom_Enable>
                 <HD_ATM_Custom>NQ_HD</HD_ATM_Custom>
-                <HD_ATM_Target>13</HD_ATM_Target>
-                <HD_ATM_Stop>13</HD_ATM_Stop>
+                <HD_ATM_Target>9</HD_ATM_Target>
+                <HD_ATM_Stop>9</HD_ATM_Stop>
                 <ODD_ATM_Custom_Enable>true</ODD_ATM_Custom_Enable>
                 <ODD_ATM_Custom>NQ_ODD</ODD_ATM_Custom>
-                <ODD_ATM_Target>19</ODD_ATM_Target>
-                <ODD_ATM_Stop>19</ODD_ATM_Stop>
+                <ODD_ATM_Target>18</ODD_ATM_Target>
+                <ODD_ATM_Stop>18</ODD_ATM_Stop>
                 <SLZ_ATM_Custom_Enable>true</SLZ_ATM_Custom_Enable>
                 <SLZ_ATM_Custom>NQ_SLZ</SLZ_ATM_Custom>
                 <SLZ_ATM_Target>10</SLZ_ATM_Target>
@@ -4537,20 +4537,20 @@
                 <DTX_DR_MinValue>0.29</DTX_DR_MinValue>
                 <DTX_DR_MaxValue>0.69</DTX_DR_MaxValue>
                 <ELEV_DR_ValueEnable>true</ELEV_DR_ValueEnable>
-                <ELEV_DR_MinValue>0.08</ELEV_DR_MinValue>
+                <ELEV_DR_MinValue>0.05</ELEV_DR_MinValue>
                 <ELEV_DR_MaxValue>0.74</ELEV_DR_MaxValue>
                 <ETX_DR_ValueEnable>true</ETX_DR_ValueEnable>
                 <ETX_DR_MinValue>0.01</ETX_DR_MinValue>
-                <ETX_DR_MaxValue>1.3</ETX_DR_MaxValue>
+                <ETX_DR_MaxValue>1.25</ETX_DR_MaxValue>
                 <FTX_DR_ValueEnable>true</FTX_DR_ValueEnable>
                 <FTX_DR_MinValue>0.04</FTX_DR_MinValue>
                 <FTX_DR_MaxValue>1.02</FTX_DR_MaxValue>
                 <HD_DR_ValueEnable>true</HD_DR_ValueEnable>
-                <HD_DR_MinValue>0.2</HD_DR_MinValue>
-                <HD_DR_MaxValue>0.76</HD_DR_MaxValue>
+                <HD_DR_MinValue>0.03</HD_DR_MinValue>
+                <HD_DR_MaxValue>0.53</HD_DR_MaxValue>
                 <ODD_DR_ValueEnable>true</ODD_DR_ValueEnable>
-                <ODD_DR_MinValue>0.78</ODD_DR_MinValue>
-                <ODD_DR_MaxValue>1.55</ODD_DR_MaxValue>
+                <ODD_DR_MinValue>1.03</ODD_DR_MinValue>
+                <ODD_DR_MaxValue>1.09</ODD_DR_MaxValue>
                 <SLZ_DR_ValueEnable>true</SLZ_DR_ValueEnable>
                 <SLZ_DR_MinValue>0.38</SLZ_DR_MinValue>
                 <SLZ_DR_MaxValue>1.32</SLZ_DR_MaxValue>
@@ -4594,15 +4594,15 @@
                 <ETX_Broken_OPLevels>Disabled</ETX_Broken_OPLevels>
                 <FTX_Broken_OPLevels>Disabled</FTX_Broken_OPLevels>
                 <HD_Broken_OPLevels>Disabled</HD_Broken_OPLevels>
-                <ODD_Broken_OPLevels>Avoid</ODD_Broken_OPLevels>
+                <ODD_Broken_OPLevels>Disabled</ODD_Broken_OPLevels>
                 <SLZ_Broken_OPLevels>Disabled</SLZ_Broken_OPLevels>
                 <TBS_Broken_OPLevels>Disabled</TBS_Broken_OPLevels>
-                <DTX_BSAW>19</DTX_BSAW>
+                <DTX_BSAW>20</DTX_BSAW>
                 <ELEV_BSAW>0</ELEV_BSAW>
                 <ETX_BSAW>20</ETX_BSAW>
-                <FTX_BSAW>19</FTX_BSAW>
+                <FTX_BSAW>18</FTX_BSAW>
                 <HDB_SAW>0</HDB_SAW>
-                <ODD_BSAW>20</ODD_BSAW>
+                <ODD_BSAW>14</ODD_BSAW>
                 <SLZ_BSAW>11</SLZ_BSAW>
                 <TBS_BSAW>0</TBS_BSAW>
                 <DTX_RequireLevel>false</DTX_RequireLevel>
@@ -4653,16 +4653,16 @@
                 <ELEV_LiquidMaxValue>12.27</ELEV_LiquidMaxValue>
                 <ETX_LiquidEnable>true</ETX_LiquidEnable>
                 <ETX_LiquidMinValue>1.3</ETX_LiquidMinValue>
-                <ETX_LiquidMaxValue>19.76</ETX_LiquidMaxValue>
+                <ETX_LiquidMaxValue>26.76</ETX_LiquidMaxValue>
                 <FTX_LiquidEnable>true</FTX_LiquidEnable>
                 <FTX_LiquidMinValue>2.93</FTX_LiquidMinValue>
                 <FTX_LiquidMaxValue>23.91</FTX_LiquidMaxValue>
                 <HD_LiquidEnable>true</HD_LiquidEnable>
-                <HD_LiquidMinValue>1.5</HD_LiquidMinValue>
-                <HD_LiquidMaxValue>13.83</HD_LiquidMaxValue>
+                <HD_LiquidMinValue>1.53</HD_LiquidMinValue>
+                <HD_LiquidMaxValue>26.76</HD_LiquidMaxValue>
                 <ODD_LiquidEnable>true</ODD_LiquidEnable>
-                <ODD_LiquidMinValue>2.3</ODD_LiquidMinValue>
-                <ODD_LiquidMaxValue>22.83</ODD_LiquidMaxValue>
+                <ODD_LiquidMinValue>0.65</ODD_LiquidMinValue>
+                <ODD_LiquidMaxValue>12.53</ODD_LiquidMaxValue>
                 <SLZ_LiquidEnable>true</SLZ_LiquidEnable>
                 <SLZ_LiquidMinValue>8.15</SLZ_LiquidMinValue>
                 <SLZ_LiquidMaxValue>11.27</SLZ_LiquidMaxValue>
@@ -4678,16 +4678,16 @@
                 <ELEV_VolScoreMax>154</ELEV_VolScoreMax>
                 <ETX_VolScoreEnable>true</ETX_VolScoreEnable>
                 <ETX_VolScoreMin>19</ETX_VolScoreMin>
-                <ETX_VolScoreMax>288</ETX_VolScoreMax>
+                <ETX_VolScoreMax>556</ETX_VolScoreMax>
                 <FTX_VolScoreEnable>true</FTX_VolScoreEnable>
                 <FTX_VolScoreMin>8</FTX_VolScoreMin>
                 <FTX_VolScoreMax>125</FTX_VolScoreMax>
                 <HD_VolScoreEnable>true</HD_VolScoreEnable>
-                <HD_VolScoreMin>19</HD_VolScoreMin>
-                <HD_VolScoreMax>20</HD_VolScoreMax>
+                <HD_VolScoreMin>10</HD_VolScoreMin>
+                <HD_VolScoreMax>816</HD_VolScoreMax>
                 <ODD_VolScoreEnable>true</ODD_VolScoreEnable>
-                <ODD_VolScoreMin>253</ODD_VolScoreMin>
-                <ODD_VolScoreMax>466</ODD_VolScoreMax>
+                <ODD_VolScoreMin>9</ODD_VolScoreMin>
+                <ODD_VolScoreMax>104</ODD_VolScoreMax>
                 <SLZ_VolScoreEnable>true</SLZ_VolScoreEnable>
                 <SLZ_VolScoreMin>7</SLZ_VolScoreMin>
                 <SLZ_VolScoreMax>2348</SLZ_VolScoreMax>
@@ -4797,8 +4797,8 @@
                   <AutoScaleMarginLower>40</AutoScaleMarginLower>
                   <AutoScaleMarginUpper>40</AutoScaleMarginUpper>
                   <YAxisScalingType>Linear</YAxisScalingType>
-                  <FixedScaleMaxSerialize>14676</FixedScaleMaxSerialize>
-                  <FixedScaleMinSerialize>14659</FixedScaleMinSerialize>
+                  <FixedScaleMaxSerialize>14682.5</FixedScaleMaxSerialize>
+                  <FixedScaleMinSerialize>14667.25</FixedScaleMinSerialize>
                 </ChartScaleProperties>
               </Right>
               <Left>
@@ -4960,7 +4960,7 @@
                 <DrawOnPricePanel>true</DrawOnPricePanel>
                 <PaintPriceMarkers>true</PaintPriceMarkers>
                 <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-                <IndicatorId>76</IndicatorId>
+                <IndicatorId>73</IndicatorId>
                 <InstrumentDeserialized>NQ 09-21 Globex</InstrumentDeserialized>
                 <MaxSerialized>0</MaxSerialized>
                 <MinSerialized>0</MinSerialized>
@@ -5025,7 +5025,7 @@
                 <DrawOnPricePanel>true</DrawOnPricePanel>
                 <PaintPriceMarkers>true</PaintPriceMarkers>
                 <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-                <IndicatorId>79</IndicatorId>
+                <IndicatorId>76</IndicatorId>
                 <InstrumentDeserialized>NQ 09-21 Globex</InstrumentDeserialized>
                 <MaxSerialized>0</MaxSerialized>
                 <MinSerialized>0</MinSerialized>
@@ -5105,8 +5105,8 @@
                   <AutoScaleMarginLower>6</AutoScaleMarginLower>
                   <AutoScaleMarginUpper>6</AutoScaleMarginUpper>
                   <YAxisScalingType>Linear</YAxisScalingType>
-                  <FixedScaleMaxSerialize>14721.75</FixedScaleMaxSerialize>
-                  <FixedScaleMinSerialize>14696.25</FixedScaleMinSerialize>
+                  <FixedScaleMaxSerialize>14786.75</FixedScaleMaxSerialize>
+                  <FixedScaleMinSerialize>14656</FixedScaleMinSerialize>
                 </ChartScaleProperties>
               </Right>
               <Left>
@@ -5268,7 +5268,7 @@
                 <DrawOnPricePanel>true</DrawOnPricePanel>
                 <PaintPriceMarkers>true</PaintPriceMarkers>
                 <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-                <IndicatorId>82</IndicatorId>
+                <IndicatorId>79</IndicatorId>
                 <InstrumentDeserialized>NQ 09-21 Globex</InstrumentDeserialized>
                 <MaxSerialized>0</MaxSerialized>
                 <MinSerialized>0</MinSerialized>
@@ -5333,7 +5333,7 @@
                 <DrawOnPricePanel>true</DrawOnPricePanel>
                 <PaintPriceMarkers>true</PaintPriceMarkers>
                 <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-                <IndicatorId>85</IndicatorId>
+                <IndicatorId>82</IndicatorId>
                 <InstrumentDeserialized>NQ 09-21 Globex</InstrumentDeserialized>
                 <MaxSerialized>0</MaxSerialized>
                 <MinSerialized>0</MinSerialized>
@@ -5413,8 +5413,8 @@
                   <AutoScaleMarginLower>6</AutoScaleMarginLower>
                   <AutoScaleMarginUpper>6</AutoScaleMarginUpper>
                   <YAxisScalingType>Linear</YAxisScalingType>
-                  <FixedScaleMaxSerialize>14729</FixedScaleMaxSerialize>
-                  <FixedScaleMinSerialize>14471</FixedScaleMinSerialize>
+                  <FixedScaleMaxSerialize>14962.75</FixedScaleMaxSerialize>
+                  <FixedScaleMinSerialize>14656</FixedScaleMinSerialize>
                 </ChartScaleProperties>
               </Right>
               <Left>
@@ -5576,7 +5576,7 @@
                 <DrawOnPricePanel>true</DrawOnPricePanel>
                 <PaintPriceMarkers>true</PaintPriceMarkers>
                 <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-                <IndicatorId>88</IndicatorId>
+                <IndicatorId>85</IndicatorId>
                 <InstrumentDeserialized>NQ 09-21 Globex</InstrumentDeserialized>
                 <MaxSerialized>0</MaxSerialized>
                 <MinSerialized>0</MinSerialized>
@@ -5641,7 +5641,7 @@
                 <DrawOnPricePanel>true</DrawOnPricePanel>
                 <PaintPriceMarkers>true</PaintPriceMarkers>
                 <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-                <IndicatorId>91</IndicatorId>
+                <IndicatorId>88</IndicatorId>
                 <InstrumentDeserialized>NQ 09-21 Globex</InstrumentDeserialized>
                 <MaxSerialized>0</MaxSerialized>
                 <MinSerialized>0</MinSerialized>
@@ -5721,8 +5721,8 @@
                   <AutoScaleMarginLower>6</AutoScaleMarginLower>
                   <AutoScaleMarginUpper>6</AutoScaleMarginUpper>
                   <YAxisScalingType>Linear</YAxisScalingType>
-                  <FixedScaleMaxSerialize>14729</FixedScaleMaxSerialize>
-                  <FixedScaleMinSerialize>14313.25</FixedScaleMinSerialize>
+                  <FixedScaleMaxSerialize>14996</FixedScaleMaxSerialize>
+                  <FixedScaleMinSerialize>14640.75</FixedScaleMinSerialize>
                 </ChartScaleProperties>
               </Right>
               <Left>
@@ -5880,7 +5880,7 @@
                 <DrawOnPricePanel>true</DrawOnPricePanel>
                 <PaintPriceMarkers>true</PaintPriceMarkers>
                 <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-                <IndicatorId>94</IndicatorId>
+                <IndicatorId>91</IndicatorId>
                 <InstrumentDeserialized>NQ 09-21 Globex</InstrumentDeserialized>
                 <MaxSerialized>0</MaxSerialized>
                 <MinSerialized>0</MinSerialized>
@@ -5983,7 +5983,7 @@
                 <DrawOnPricePanel>false</DrawOnPricePanel>
                 <PaintPriceMarkers>true</PaintPriceMarkers>
                 <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-                <IndicatorId>97</IndicatorId>
+                <IndicatorId>94</IndicatorId>
                 <InstrumentDeserialized>NQ 09-21 Globex</InstrumentDeserialized>
                 <MaxSerialized>0</MaxSerialized>
                 <MinSerialized>0</MinSerialized>
@@ -6060,7 +6060,7 @@
                 <DrawOnPricePanel>true</DrawOnPricePanel>
                 <PaintPriceMarkers>false</PaintPriceMarkers>
                 <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-                <IndicatorId>100</IndicatorId>
+                <IndicatorId>98</IndicatorId>
                 <InstrumentDeserialized>NQ 09-21 Globex</InstrumentDeserialized>
                 <MaxSerialized>0</MaxSerialized>
                 <MinSerialized>0</MinSerialized>
@@ -6125,14 +6125,14 @@
                 <DrawOnPricePanel>true</DrawOnPricePanel>
                 <PaintPriceMarkers>false</PaintPriceMarkers>
                 <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-                <IndicatorId>103</IndicatorId>
+                <IndicatorId>132</IndicatorId>
                 <InstrumentDeserialized>NQ 09-21 Globex</InstrumentDeserialized>
                 <MaxSerialized>0</MaxSerialized>
                 <MinSerialized>0</MinSerialized>
                 <ZOrder>10010</ZOrder>
                 <SettingsSerialized>eyJSZXF1aXJlQ2xvc2VCcmVha291dCI6ZmFsc2UsIk1vdmVTYW1lTG93SGlnaCI6ZmFsc2UsIlNwYW4iOjQsIlN0cmVuZ3RoIjo0fQ==</SettingsSerialized>
                 <UserSettingsSerialized>eyJBbGVydHMiOnsidmlzdWFsIjpmYWxzZSwiYXVkaWJsZSI6ZmFsc2UsIndpbmRvd0ZsYXNoIjpmYWxzZX0sIkFsZXJ0c0ZpbHRlciI6ZmFsc2UsIkZvbnRDaGFydExhYmVsIjp7ImZvbnRGYW1pbHkiOiJNaWNyb3NvZnQgU2FucyBTZXJpZiIsInNpemUiOjE0LjAsImJvbGQiOmZhbHNlLCJpdGFsaWMiOmZhbHNlfSwiQm9sZCI6dHJ1ZSwiU2hvd1BlcmNlbnRhZ2UiOnRydWUsIkNvbG9yRG91YmxlIjoiI0ZGRkZENzAwIiwiQ29sb3JISExMIjoiI0ZGRkZGRkZGIiwiQ29sb3JITExIIjoiI0ZGRDNEM0QzIiwiTGFiZWxPZmZzZXQiOjE3fQ==</UserSettingsSerialized>
-                <iOD>308</iOD>
+                <iOD>85</iOD>
               </ApexOscillationDetector>
               <Input>
                 <PriceType>Close</PriceType>
@@ -6178,7 +6178,7 @@
                 <DrawOnPricePanel>true</DrawOnPricePanel>
                 <PaintPriceMarkers>false</PaintPriceMarkers>
                 <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-                <IndicatorId>106</IndicatorId>
+                <IndicatorId>135</IndicatorId>
                 <InstrumentDeserialized>NQ 09-21 Globex</InstrumentDeserialized>
                 <MaxSerialized>0</MaxSerialized>
                 <MinSerialized>0</MinSerialized>
@@ -6267,7 +6267,7 @@
                 <DrawOnPricePanel>false</DrawOnPricePanel>
                 <PaintPriceMarkers>true</PaintPriceMarkers>
                 <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-                <IndicatorId>109</IndicatorId>
+                <IndicatorId>138</IndicatorId>
                 <InstrumentDeserialized>NQ 09-21 Globex</InstrumentDeserialized>
                 <MaxSerialized>0</MaxSerialized>
                 <MinSerialized>0</MinSerialized>
@@ -6332,7 +6332,7 @@
                 <DrawOnPricePanel>true</DrawOnPricePanel>
                 <PaintPriceMarkers>true</PaintPriceMarkers>
                 <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-                <IndicatorId>112</IndicatorId>
+                <IndicatorId>141</IndicatorId>
                 <InstrumentDeserialized>NQ 09-21 Globex</InstrumentDeserialized>
                 <MaxSerialized>0</MaxSerialized>
                 <MinSerialized>0</MinSerialized>
@@ -6715,7 +6715,7 @@
                 <DrawOnPricePanel>true</DrawOnPricePanel>
                 <PaintPriceMarkers>true</PaintPriceMarkers>
                 <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-                <IndicatorId>153</IndicatorId>
+                <IndicatorId>146</IndicatorId>
                 <InstrumentDeserialized>ES 09-21 Globex</InstrumentDeserialized>
                 <MaxSerialized>0</MaxSerialized>
                 <MinSerialized>0</MinSerialized>
@@ -6767,7 +6767,7 @@
                 <DrawOnPricePanel>true</DrawOnPricePanel>
                 <PaintPriceMarkers>true</PaintPriceMarkers>
                 <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-                <IndicatorId>147</IndicatorId>
+                <IndicatorId>150</IndicatorId>
                 <InstrumentDeserialized>ES 09-21 Globex</InstrumentDeserialized>
                 <MaxSerialized>0</MaxSerialized>
                 <MinSerialized>0</MinSerialized>
@@ -6820,7 +6820,7 @@
                 <DrawOnPricePanel>true</DrawOnPricePanel>
                 <PaintPriceMarkers>false</PaintPriceMarkers>
                 <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-                <IndicatorId>150</IndicatorId>
+                <IndicatorId>153</IndicatorId>
                 <InstrumentDeserialized>ES 09-21 Globex</InstrumentDeserialized>
                 <MaxSerialized>0</MaxSerialized>
                 <MinSerialized>0</MinSerialized>
@@ -6974,23 +6974,23 @@
                 <MLScoreMin>28</MLScoreMin>
                 <EntryTickOffset>1</EntryTickOffset>
                 <DTX_OD_Enabled>true</DTX_OD_Enabled>
-                <DTX_OD_MinValue>20</DTX_OD_MinValue>
-                <DTX_OD_MaxValue>278</DTX_OD_MaxValue>
+                <DTX_OD_MinValue>24</DTX_OD_MinValue>
+                <DTX_OD_MaxValue>6381</DTX_OD_MaxValue>
                 <ELEV_OD_Enabled>true</ELEV_OD_Enabled>
                 <ELEV_OD_MinValue>0</ELEV_OD_MinValue>
                 <ELEV_OD_MaxValue>0</ELEV_OD_MaxValue>
                 <ETX_OD_Enabled>true</ETX_OD_Enabled>
                 <ETX_OD_MinValue>45</ETX_OD_MinValue>
-                <ETX_OD_MaxValue>455</ETX_OD_MaxValue>
+                <ETX_OD_MaxValue>462</ETX_OD_MaxValue>
                 <FTX_OD_Enabled>true</FTX_OD_Enabled>
                 <FTX_OD_MinValue>4</FTX_OD_MinValue>
                 <FTX_OD_MaxValue>256</FTX_OD_MaxValue>
                 <HD_OD_Enabled>true</HD_OD_Enabled>
                 <HD_OD_MinValue>11</HD_OD_MinValue>
-                <HD_OD_MaxValue>458</HD_OD_MaxValue>
+                <HD_OD_MaxValue>698</HD_OD_MaxValue>
                 <ODD_OD_Enabled>true</ODD_OD_Enabled>
-                <ODD_OD_MinValue>4</ODD_OD_MinValue>
-                <ODD_OD_MaxValue>655</ODD_OD_MaxValue>
+                <ODD_OD_MinValue>19</ODD_OD_MinValue>
+                <ODD_OD_MaxValue>369</ODD_OD_MaxValue>
                 <SLZ_OD_Enabled>true</SLZ_OD_Enabled>
                 <SLZ_OD_MinValue>0</SLZ_OD_MinValue>
                 <SLZ_OD_MaxValue>0</SLZ_OD_MaxValue>
@@ -7017,7 +7017,7 @@
                 <DarkZone5End>2021-05-24T13:30:00</DarkZone5End>
                 <DTX_Enabled>true</DTX_Enabled>
                 <ELEV_Enabled>false</ELEV_Enabled>
-                <ETX_Enabled>true</ETX_Enabled>
+                <ETX_Enabled>false</ETX_Enabled>
                 <FTX_Enabled>true</FTX_Enabled>
                 <HD_Enabled>true</HD_Enabled>
                 <ODD_Enabled>false</ODD_Enabled>
@@ -7034,7 +7034,7 @@
                 <DTX_ATM_Custom_Enable>true</DTX_ATM_Custom_Enable>
                 <DTX_ATM_Custom>ES_DTX</DTX_ATM_Custom>
                 <DTX_ATM_Target>21</DTX_ATM_Target>
-                <DTX_ATM_Stop>21</DTX_ATM_Stop>
+                <DTX_ATM_Stop>20</DTX_ATM_Stop>
                 <ELEV_ATM_Custom_Enable>true</ELEV_ATM_Custom_Enable>
                 <ELEV_ATM_Custom>ES_ELEV</ELEV_ATM_Custom>
                 <ELEV_ATM_Target>0</ELEV_ATM_Target>
@@ -7049,8 +7049,8 @@
                 <FTX_ATM_Stop>20</FTX_ATM_Stop>
                 <HD_ATM_Custom_Enable>true</HD_ATM_Custom_Enable>
                 <HD_ATM_Custom>ES_HD</HD_ATM_Custom>
-                <HD_ATM_Target>15</HD_ATM_Target>
-                <HD_ATM_Stop>15</HD_ATM_Stop>
+                <HD_ATM_Target>14</HD_ATM_Target>
+                <HD_ATM_Stop>14</HD_ATM_Stop>
                 <ODD_ATM_Custom_Enable>true</ODD_ATM_Custom_Enable>
                 <ODD_ATM_Custom>ES_ODD</ODD_ATM_Custom>
                 <ODD_ATM_Target>8</ODD_ATM_Target>
@@ -7091,23 +7091,23 @@
                 <ELEV_DR_MinValue>0</ELEV_DR_MinValue>
                 <ELEV_DR_MaxValue>0</ELEV_DR_MaxValue>
                 <ETX_DR_ValueEnable>true</ETX_DR_ValueEnable>
-                <ETX_DR_MinValue>0.29</ETX_DR_MinValue>
-                <ETX_DR_MaxValue>1.34</ETX_DR_MaxValue>
+                <ETX_DR_MinValue>0.12</ETX_DR_MinValue>
+                <ETX_DR_MaxValue>1.41</ETX_DR_MaxValue>
                 <FTX_DR_ValueEnable>true</FTX_DR_ValueEnable>
                 <FTX_DR_MinValue>0.04</FTX_DR_MinValue>
                 <FTX_DR_MaxValue>1.04</FTX_DR_MaxValue>
                 <HD_DR_ValueEnable>true</HD_DR_ValueEnable>
                 <HD_DR_MinValue>0.06</HD_DR_MinValue>
-                <HD_DR_MaxValue>1.09</HD_DR_MaxValue>
+                <HD_DR_MaxValue>1.21</HD_DR_MaxValue>
                 <ODD_DR_ValueEnable>true</ODD_DR_ValueEnable>
-                <ODD_DR_MinValue>0.75</ODD_DR_MinValue>
-                <ODD_DR_MaxValue>1.43</ODD_DR_MaxValue>
+                <ODD_DR_MinValue>0.9</ODD_DR_MinValue>
+                <ODD_DR_MaxValue>1.3</ODD_DR_MaxValue>
                 <SLZ_DR_ValueEnable>true</SLZ_DR_ValueEnable>
                 <SLZ_DR_MinValue>0</SLZ_DR_MinValue>
                 <SLZ_DR_MaxValue>0</SLZ_DR_MaxValue>
                 <TBS_DR_ValueEnable>true</TBS_DR_ValueEnable>
-                <TBS_DR_MinValue>0.32</TBS_DR_MinValue>
-                <TBS_DR_MaxValue>0.7</TBS_DR_MaxValue>
+                <TBS_DR_MinValue>0.36</TBS_DR_MinValue>
+                <TBS_DR_MaxValue>0.64</TBS_DR_MaxValue>
                 <DTX_Ticks_AmplifyEnable>false</DTX_Ticks_AmplifyEnable>
                 <DTX_Ticks_Amplify>8</DTX_Ticks_Amplify>
                 <ELEV_Ticks_AmplifyEnable>false</ELEV_Ticks_AmplifyEnable>
@@ -7206,24 +7206,24 @@
                 <ETX_LiquidMinValue>57.64</ETX_LiquidMinValue>
                 <ETX_LiquidMaxValue>1395.76</ETX_LiquidMaxValue>
                 <FTX_LiquidEnable>true</FTX_LiquidEnable>
-                <FTX_LiquidMinValue>105.82</FTX_LiquidMinValue>
+                <FTX_LiquidMinValue>106.38</FTX_LiquidMinValue>
                 <FTX_LiquidMaxValue>169.97</FTX_LiquidMaxValue>
                 <HD_LiquidEnable>true</HD_LiquidEnable>
-                <HD_LiquidMinValue>22.56</HD_LiquidMinValue>
-                <HD_LiquidMaxValue>236.79</HD_LiquidMaxValue>
+                <HD_LiquidMinValue>86.39</HD_LiquidMinValue>
+                <HD_LiquidMaxValue>234.47</HD_LiquidMaxValue>
                 <ODD_LiquidEnable>true</ODD_LiquidEnable>
-                <ODD_LiquidMinValue>45.04</ODD_LiquidMinValue>
-                <ODD_LiquidMaxValue>248.56</ODD_LiquidMaxValue>
+                <ODD_LiquidMinValue>46.08</ODD_LiquidMinValue>
+                <ODD_LiquidMaxValue>1070.28</ODD_LiquidMaxValue>
                 <SLZ_LiquidEnable>true</SLZ_LiquidEnable>
                 <SLZ_LiquidMinValue>0</SLZ_LiquidMinValue>
                 <SLZ_LiquidMaxValue>0</SLZ_LiquidMaxValue>
                 <TBS_LiquidEnable>true</TBS_LiquidEnable>
-                <TBS_LiquidMinValue>88.18</TBS_LiquidMinValue>
-                <TBS_LiquidMaxValue>683.38</TBS_LiquidMaxValue>
+                <TBS_LiquidMinValue>234.47</TBS_LiquidMinValue>
+                <TBS_LiquidMaxValue>687.58</TBS_LiquidMaxValue>
                 <MLiquidityBars>3</MLiquidityBars>
                 <DTX_VolScoreEnable>true</DTX_VolScoreEnable>
                 <DTX_VolScoreMin>16</DTX_VolScoreMin>
-                <DTX_VolScoreMax>439</DTX_VolScoreMax>
+                <DTX_VolScoreMax>141</DTX_VolScoreMax>
                 <ELEV_VolScoreEnable>true</ELEV_VolScoreEnable>
                 <ELEV_VolScoreMin>0</ELEV_VolScoreMin>
                 <ELEV_VolScoreMax>0</ELEV_VolScoreMax>
@@ -7234,17 +7234,17 @@
                 <FTX_VolScoreMin>9</FTX_VolScoreMin>
                 <FTX_VolScoreMax>4481</FTX_VolScoreMax>
                 <HD_VolScoreEnable>true</HD_VolScoreEnable>
-                <HD_VolScoreMin>16</HD_VolScoreMin>
-                <HD_VolScoreMax>61</HD_VolScoreMax>
+                <HD_VolScoreMin>5</HD_VolScoreMin>
+                <HD_VolScoreMax>59</HD_VolScoreMax>
                 <ODD_VolScoreEnable>true</ODD_VolScoreEnable>
-                <ODD_VolScoreMin>9</ODD_VolScoreMin>
-                <ODD_VolScoreMax>308</ODD_VolScoreMax>
+                <ODD_VolScoreMin>8</ODD_VolScoreMin>
+                <ODD_VolScoreMax>2585</ODD_VolScoreMax>
                 <SLZ_VolScoreEnable>true</SLZ_VolScoreEnable>
                 <SLZ_VolScoreMin>0</SLZ_VolScoreMin>
                 <SLZ_VolScoreMax>0</SLZ_VolScoreMax>
                 <TBS_VolScoreEnable>true</TBS_VolScoreEnable>
-                <TBS_VolScoreMin>30</TBS_VolScoreMin>
-                <TBS_VolScoreMax>150</TBS_VolScoreMax>
+                <TBS_VolScoreMin>19</TBS_VolScoreMin>
+                <TBS_VolScoreMax>141</TBS_VolScoreMax>
                 <DTX_CoilChop>false</DTX_CoilChop>
                 <ELEV_CoilChop>false</ELEV_CoilChop>
                 <ETX_CoilChop>false</ETX_CoilChop>
