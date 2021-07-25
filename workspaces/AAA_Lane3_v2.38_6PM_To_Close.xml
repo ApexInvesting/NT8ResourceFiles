@@ -915,7 +915,7 @@
                 <EnableFlattenAll>true</EnableFlattenAll>
                 <EnableFlattenAllPNL>true</EnableFlattenAllPNL>
                 <EnableML>true</EnableML>
-                <MLScoreMin>28</MLScoreMin>
+                <MLScoreMin>51</MLScoreMin>
                 <EntryTickOffset>1</EntryTickOffset>
                 <DTX_OD_Enabled>true</DTX_OD_Enabled>
                 <DTX_OD_MinValue>189</DTX_OD_MinValue>
@@ -1743,7 +1743,7 @@
                 <EnableFlattenAll>true</EnableFlattenAll>
                 <EnableFlattenAllPNL>true</EnableFlattenAllPNL>
                 <EnableML>true</EnableML>
-                <MLScoreMin>28</MLScoreMin>
+                <MLScoreMin>51</MLScoreMin>
                 <EntryTickOffset>1</EntryTickOffset>
                 <DTX_OD_Enabled>true</DTX_OD_Enabled>
                 <DTX_OD_MinValue>19</DTX_OD_MinValue>
@@ -2571,7 +2571,7 @@
                 <EnableFlattenAll>true</EnableFlattenAll>
                 <EnableFlattenAllPNL>true</EnableFlattenAllPNL>
                 <EnableML>true</EnableML>
-                <MLScoreMin>28</MLScoreMin>
+                <MLScoreMin>51</MLScoreMin>
                 <EntryTickOffset>1</EntryTickOffset>
                 <DTX_OD_Enabled>true</DTX_OD_Enabled>
                 <DTX_OD_MinValue>28</DTX_OD_MinValue>
@@ -3399,7 +3399,7 @@
                 <EnableFlattenAll>true</EnableFlattenAll>
                 <EnableFlattenAllPNL>true</EnableFlattenAllPNL>
                 <EnableML>true</EnableML>
-                <MLScoreMin>28</MLScoreMin>
+                <MLScoreMin>51</MLScoreMin>
                 <EntryTickOffset>1</EntryTickOffset>
                 <DTX_OD_Enabled>true</DTX_OD_Enabled>
                 <DTX_OD_MinValue>31</DTX_OD_MinValue>
@@ -4420,7 +4420,7 @@
                 <EnableFlattenAll>true</EnableFlattenAll>
                 <EnableFlattenAllPNL>true</EnableFlattenAllPNL>
                 <EnableML>true</EnableML>
-                <MLScoreMin>28</MLScoreMin>
+                <MLScoreMin>51</MLScoreMin>
                 <EntryTickOffset>1</EntryTickOffset>
                 <DTX_OD_Enabled>true</DTX_OD_Enabled>
                 <DTX_OD_MinValue>6</DTX_OD_MinValue>
@@ -6971,7 +6971,7 @@
                 <EnableFlattenAll>true</EnableFlattenAll>
                 <EnableFlattenAllPNL>true</EnableFlattenAllPNL>
                 <EnableML>true</EnableML>
-                <MLScoreMin>28</MLScoreMin>
+                <MLScoreMin>51</MLScoreMin>
                 <EntryTickOffset>1</EntryTickOffset>
                 <DTX_OD_Enabled>true</DTX_OD_Enabled>
                 <DTX_OD_MinValue>24</DTX_OD_MinValue>
