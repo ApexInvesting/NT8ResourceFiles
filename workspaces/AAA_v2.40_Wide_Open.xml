@@ -6,7 +6,7 @@
       <WindowState>Maximized</WindowState>
       <Location>-259;163</Location>
       <Size>1348;581</Size>
-      <ZOrder>3</ZOrder>
+      <ZOrder>5</ZOrder>
       <Topmost>False</Topmost>
       <TraderWidth>301</TraderWidth>
       <TabControl>
@@ -112,11 +112,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>true</DisplayInDataBox>
-                <From>2021-07-20T00:00:00</From>
+                <From>2021-07-29T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-07-23T00:00:00</To>
+                <To>2021-08-01T00:00:00</To>
                 <Calculate>OnEachTick</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>false</IsAutoScale>
@@ -134,7 +134,7 @@
                 <DrawOnPricePanel>true</DrawOnPricePanel>
                 <PaintPriceMarkers>true</PaintPriceMarkers>
                 <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-                <IndicatorId>70</IndicatorId>
+                <IndicatorId>247</IndicatorId>
                 <InstrumentDeserialized>NQ 09-21 Globex</InstrumentDeserialized>
                 <MaxSerialized>0</MaxSerialized>
                 <MinSerialized>0</MinSerialized>
@@ -165,11 +165,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>false</DisplayInDataBox>
-                <From>2021-07-20T00:00:00</From>
+                <From>2021-07-29T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-07-23T00:00:00</To>
+                <To>2021-08-01T00:00:00</To>
                 <Calculate>OnPriceChange</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>false</IsAutoScale>
@@ -187,7 +187,7 @@
                 <DrawOnPricePanel>true</DrawOnPricePanel>
                 <PaintPriceMarkers>false</PaintPriceMarkers>
                 <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-                <IndicatorId>73</IndicatorId>
+                <IndicatorId>250</IndicatorId>
                 <InstrumentDeserialized>NQ 09-21 Globex</InstrumentDeserialized>
                 <MaxSerialized>0</MaxSerialized>
                 <MinSerialized>0</MinSerialized>
@@ -217,11 +217,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>true</DisplayInDataBox>
-                <From>2021-07-20T00:00:00</From>
+                <From>2021-07-29T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-07-23T00:00:00</To>
+                <To>2021-08-01T00:00:00</To>
                 <Calculate>OnPriceChange</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>false</IsAutoScale>
@@ -276,7 +276,7 @@
                 <DrawOnPricePanel>false</DrawOnPricePanel>
                 <PaintPriceMarkers>true</PaintPriceMarkers>
                 <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-                <IndicatorId>76</IndicatorId>
+                <IndicatorId>253</IndicatorId>
                 <InstrumentDeserialized>NQ 09-21 Globex</InstrumentDeserialized>
                 <MaxSerialized>0</MaxSerialized>
                 <MinSerialized>0</MinSerialized>
@@ -306,11 +306,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>false</DisplayInDataBox>
-                <From>2021-07-20T00:00:00</From>
+                <From>2021-07-29T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-07-23T00:00:00</To>
+                <To>2021-08-01T00:00:00</To>
                 <Calculate>OnPriceChange</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>true</IsAutoScale>
@@ -341,7 +341,7 @@
                 <DrawOnPricePanel>true</DrawOnPricePanel>
                 <PaintPriceMarkers>true</PaintPriceMarkers>
                 <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-                <IndicatorId>79</IndicatorId>
+                <IndicatorId>256</IndicatorId>
                 <InstrumentDeserialized>NQ 09-21 Globex</InstrumentDeserialized>
                 <MaxSerialized>0</MaxSerialized>
                 <MinSerialized>0</MinSerialized>
@@ -371,11 +371,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>false</DisplayInDataBox>
-                <From>2021-07-20T00:00:00</From>
+                <From>2021-07-29T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-07-23T00:00:00</To>
+                <To>2021-08-01T00:00:00</To>
                 <Calculate>OnBarClose</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>false</IsAutoScale>
@@ -393,7 +393,7 @@
                 <DrawOnPricePanel>true</DrawOnPricePanel>
                 <PaintPriceMarkers>false</PaintPriceMarkers>
                 <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-                <IndicatorId>82</IndicatorId>
+                <IndicatorId>259</IndicatorId>
                 <InstrumentDeserialized>NQ 09-21 Globex</InstrumentDeserialized>
                 <MaxSerialized>0</MaxSerialized>
                 <MinSerialized>0</MinSerialized>
@@ -423,11 +423,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>true</DisplayInDataBox>
-                <From>2021-07-20T00:00:00</From>
+                <From>2021-07-29T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-07-23T00:00:00</To>
+                <To>2021-08-01T00:00:00</To>
                 <Calculate>OnBarClose</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>true</IsAutoScale>
@@ -445,7 +445,7 @@
                 <DrawOnPricePanel>false</DrawOnPricePanel>
                 <PaintPriceMarkers>true</PaintPriceMarkers>
                 <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-                <IndicatorId>85</IndicatorId>
+                <IndicatorId>262</IndicatorId>
                 <InstrumentDeserialized>NQ 09-21 Globex</InstrumentDeserialized>
                 <MaxSerialized>0</MaxSerialized>
                 <MinSerialized>0</MinSerialized>
@@ -475,11 +475,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>false</DisplayInDataBox>
-                <From>2021-07-20T00:00:00</From>
+                <From>2021-07-29T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Overlay</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-07-23T00:00:00</To>
+                <To>2021-08-01T00:00:00</To>
                 <Calculate>OnEachTick</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>false</IsAutoScale>
@@ -520,7 +520,7 @@
                 <DrawOnPricePanel>false</DrawOnPricePanel>
                 <PaintPriceMarkers>false</PaintPriceMarkers>
                 <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-                <IndicatorId>88</IndicatorId>
+                <IndicatorId>265</IndicatorId>
                 <InstrumentDeserialized>NQ 09-21 Globex</InstrumentDeserialized>
                 <MaxSerialized>0</MaxSerialized>
                 <MinSerialized>0</MinSerialized>
@@ -921,8 +921,8 @@
                   <AutoScaleMarginLower>40</AutoScaleMarginLower>
                   <AutoScaleMarginUpper>40</AutoScaleMarginUpper>
                   <YAxisScalingType>Linear</YAxisScalingType>
-                  <FixedScaleMaxSerialize>14676</FixedScaleMaxSerialize>
-                  <FixedScaleMinSerialize>14659</FixedScaleMinSerialize>
+                  <FixedScaleMaxSerialize>15094.75</FixedScaleMaxSerialize>
+                  <FixedScaleMinSerialize>15078.5</FixedScaleMinSerialize>
                 </ChartScaleProperties>
               </Right>
               <Left>
@@ -1062,11 +1062,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>true</DisplayInDataBox>
-                <From>2021-06-23T00:00:00</From>
+                <From>2021-07-02T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-07-23T00:00:00</To>
+                <To>2021-08-01T00:00:00</To>
                 <Calculate>OnBarClose</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>false</IsAutoScale>
@@ -1084,7 +1084,7 @@
                 <DrawOnPricePanel>true</DrawOnPricePanel>
                 <PaintPriceMarkers>true</PaintPriceMarkers>
                 <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-                <IndicatorId>91</IndicatorId>
+                <IndicatorId>268</IndicatorId>
                 <InstrumentDeserialized>NQ 09-21 Globex</InstrumentDeserialized>
                 <MaxSerialized>0</MaxSerialized>
                 <MinSerialized>0</MinSerialized>
@@ -1114,11 +1114,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>false</DisplayInDataBox>
-                <From>2021-06-23T00:00:00</From>
+                <From>2021-07-02T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-07-23T00:00:00</To>
+                <To>2021-08-01T00:00:00</To>
                 <Calculate>OnPriceChange</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>true</IsAutoScale>
@@ -1149,7 +1149,7 @@
                 <DrawOnPricePanel>true</DrawOnPricePanel>
                 <PaintPriceMarkers>true</PaintPriceMarkers>
                 <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-                <IndicatorId>94</IndicatorId>
+                <IndicatorId>271</IndicatorId>
                 <InstrumentDeserialized>NQ 09-21 Globex</InstrumentDeserialized>
                 <MaxSerialized>0</MaxSerialized>
                 <MinSerialized>0</MinSerialized>
@@ -1370,11 +1370,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>true</DisplayInDataBox>
-                <From>2021-04-24T00:00:00</From>
+                <From>2021-05-03T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-07-23T00:00:00</To>
+                <To>2021-08-01T00:00:00</To>
                 <Calculate>OnEachTick</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>false</IsAutoScale>
@@ -1392,7 +1392,7 @@
                 <DrawOnPricePanel>true</DrawOnPricePanel>
                 <PaintPriceMarkers>true</PaintPriceMarkers>
                 <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-                <IndicatorId>97</IndicatorId>
+                <IndicatorId>274</IndicatorId>
                 <InstrumentDeserialized>NQ 09-21 Globex</InstrumentDeserialized>
                 <MaxSerialized>0</MaxSerialized>
                 <MinSerialized>0</MinSerialized>
@@ -1422,11 +1422,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>false</DisplayInDataBox>
-                <From>2021-04-24T00:00:00</From>
+                <From>2021-05-03T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-07-23T00:00:00</To>
+                <To>2021-08-01T00:00:00</To>
                 <Calculate>OnPriceChange</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>true</IsAutoScale>
@@ -1457,7 +1457,7 @@
                 <DrawOnPricePanel>true</DrawOnPricePanel>
                 <PaintPriceMarkers>true</PaintPriceMarkers>
                 <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-                <IndicatorId>100</IndicatorId>
+                <IndicatorId>277</IndicatorId>
                 <InstrumentDeserialized>NQ 09-21 Globex</InstrumentDeserialized>
                 <MaxSerialized>0</MaxSerialized>
                 <MinSerialized>0</MinSerialized>
@@ -1678,11 +1678,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>true</DisplayInDataBox>
-                <From>2021-04-24T00:00:00</From>
+                <From>2021-05-03T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-07-23T00:00:00</To>
+                <To>2021-08-01T00:00:00</To>
                 <Calculate>OnEachTick</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>false</IsAutoScale>
@@ -1700,7 +1700,7 @@
                 <DrawOnPricePanel>true</DrawOnPricePanel>
                 <PaintPriceMarkers>true</PaintPriceMarkers>
                 <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-                <IndicatorId>103</IndicatorId>
+                <IndicatorId>280</IndicatorId>
                 <InstrumentDeserialized>NQ 09-21 Globex</InstrumentDeserialized>
                 <MaxSerialized>0</MaxSerialized>
                 <MinSerialized>0</MinSerialized>
@@ -1730,11 +1730,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>false</DisplayInDataBox>
-                <From>2021-04-24T00:00:00</From>
+                <From>2021-05-03T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-07-23T00:00:00</To>
+                <To>2021-08-01T00:00:00</To>
                 <Calculate>OnPriceChange</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>true</IsAutoScale>
@@ -1765,7 +1765,7 @@
                 <DrawOnPricePanel>true</DrawOnPricePanel>
                 <PaintPriceMarkers>true</PaintPriceMarkers>
                 <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-                <IndicatorId>106</IndicatorId>
+                <IndicatorId>283</IndicatorId>
                 <InstrumentDeserialized>NQ 09-21 Globex</InstrumentDeserialized>
                 <MaxSerialized>0</MaxSerialized>
                 <MinSerialized>0</MinSerialized>
@@ -1982,11 +1982,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>true</DisplayInDataBox>
-                <From>2021-07-20T00:00:00</From>
+                <From>2021-07-29T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-07-23T00:00:00</To>
+                <To>2021-08-01T00:00:00</To>
                 <Calculate>OnEachTick</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>false</IsAutoScale>
@@ -2004,7 +2004,7 @@
                 <DrawOnPricePanel>true</DrawOnPricePanel>
                 <PaintPriceMarkers>true</PaintPriceMarkers>
                 <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-                <IndicatorId>109</IndicatorId>
+                <IndicatorId>286</IndicatorId>
                 <InstrumentDeserialized>NQ 09-21 Globex</InstrumentDeserialized>
                 <MaxSerialized>0</MaxSerialized>
                 <MinSerialized>0</MinSerialized>
@@ -2035,11 +2035,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>true</DisplayInDataBox>
-                <From>2021-07-20T00:00:00</From>
+                <From>2021-07-29T00:00:00</From>
                 <Panel>1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-07-23T00:00:00</To>
+                <To>2021-08-01T00:00:00</To>
                 <Calculate>OnEachTick</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>true</IsAutoScale>
@@ -2107,7 +2107,7 @@
                 <DrawOnPricePanel>false</DrawOnPricePanel>
                 <PaintPriceMarkers>true</PaintPriceMarkers>
                 <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-                <IndicatorId>112</IndicatorId>
+                <IndicatorId>289</IndicatorId>
                 <InstrumentDeserialized>NQ 09-21 Globex</InstrumentDeserialized>
                 <MaxSerialized>0</MaxSerialized>
                 <MinSerialized>0</MinSerialized>
@@ -2137,11 +2137,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>false</DisplayInDataBox>
-                <From>2021-07-20T00:00:00</From>
+                <From>2021-07-29T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-07-23T00:00:00</To>
+                <To>2021-08-01T00:00:00</To>
                 <Calculate>OnPriceChange</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>false</IsAutoScale>
@@ -2184,7 +2184,7 @@
                 <DrawOnPricePanel>true</DrawOnPricePanel>
                 <PaintPriceMarkers>false</PaintPriceMarkers>
                 <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-                <IndicatorId>115</IndicatorId>
+                <IndicatorId>292</IndicatorId>
                 <InstrumentDeserialized>NQ 09-21 Globex</InstrumentDeserialized>
                 <MaxSerialized>0</MaxSerialized>
                 <MinSerialized>0</MinSerialized>
@@ -2214,11 +2214,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>true</DisplayInDataBox>
-                <From>2021-07-20T00:00:00</From>
+                <From>2021-07-29T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-07-23T00:00:00</To>
+                <To>2021-08-01T00:00:00</To>
                 <Calculate>OnEachTick</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>false</IsAutoScale>
@@ -2249,14 +2249,14 @@
                 <DrawOnPricePanel>true</DrawOnPricePanel>
                 <PaintPriceMarkers>false</PaintPriceMarkers>
                 <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-                <IndicatorId>150</IndicatorId>
+                <IndicatorId>295</IndicatorId>
                 <InstrumentDeserialized>NQ 09-21 Globex</InstrumentDeserialized>
                 <MaxSerialized>0</MaxSerialized>
                 <MinSerialized>0</MinSerialized>
                 <ZOrder>10010</ZOrder>
                 <SettingsSerialized>eyJSZXF1aXJlQ2xvc2VCcmVha291dCI6ZmFsc2UsIk1vdmVTYW1lTG93SGlnaCI6ZmFsc2UsIlNwYW4iOjQsIlN0cmVuZ3RoIjo0fQ==</SettingsSerialized>
                 <UserSettingsSerialized>eyJBbGVydHMiOnsidmlzdWFsIjpmYWxzZSwiYXVkaWJsZSI6ZmFsc2UsIndpbmRvd0ZsYXNoIjpmYWxzZX0sIkFsZXJ0c0ZpbHRlciI6ZmFsc2UsIkZvbnRDaGFydExhYmVsIjp7ImZvbnRGYW1pbHkiOiJNaWNyb3NvZnQgU2FucyBTZXJpZiIsInNpemUiOjE0LjAsImJvbGQiOmZhbHNlLCJpdGFsaWMiOmZhbHNlfSwiQm9sZCI6dHJ1ZSwiU2hvd1BlcmNlbnRhZ2UiOnRydWUsIkNvbG9yRG91YmxlIjoiI0ZGRkZENzAwIiwiQ29sb3JISExMIjoiI0ZGRkZGRkZGIiwiQ29sb3JITExIIjoiI0ZGRDNEM0QzIiwiTGFiZWxPZmZzZXQiOjE3fQ==</UserSettingsSerialized>
-                <iOD>308</iOD>
+                <iOD>98</iOD>
               </ApexOscillationDetector>
               <Input>
                 <PriceType>Close</PriceType>
@@ -2280,11 +2280,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>false</DisplayInDataBox>
-                <From>2021-07-20T00:00:00</From>
+                <From>2021-07-29T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-07-23T00:00:00</To>
+                <To>2021-08-01T00:00:00</To>
                 <Calculate>OnPriceChange</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>false</IsAutoScale>
@@ -2302,7 +2302,7 @@
                 <DrawOnPricePanel>true</DrawOnPricePanel>
                 <PaintPriceMarkers>false</PaintPriceMarkers>
                 <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-                <IndicatorId>153</IndicatorId>
+                <IndicatorId>298</IndicatorId>
                 <InstrumentDeserialized>NQ 09-21 Globex</InstrumentDeserialized>
                 <MaxSerialized>0</MaxSerialized>
                 <MinSerialized>0</MinSerialized>
@@ -2332,11 +2332,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>true</DisplayInDataBox>
-                <From>2021-07-20T00:00:00</From>
+                <From>2021-07-29T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-07-23T00:00:00</To>
+                <To>2021-08-01T00:00:00</To>
                 <Calculate>OnPriceChange</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>false</IsAutoScale>
@@ -2391,7 +2391,7 @@
                 <DrawOnPricePanel>false</DrawOnPricePanel>
                 <PaintPriceMarkers>true</PaintPriceMarkers>
                 <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-                <IndicatorId>156</IndicatorId>
+                <IndicatorId>301</IndicatorId>
                 <InstrumentDeserialized>NQ 09-21 Globex</InstrumentDeserialized>
                 <MaxSerialized>0</MaxSerialized>
                 <MinSerialized>0</MinSerialized>
@@ -2421,11 +2421,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>false</DisplayInDataBox>
-                <From>2021-07-20T00:00:00</From>
+                <From>2021-07-29T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-07-23T00:00:00</To>
+                <To>2021-08-01T00:00:00</To>
                 <Calculate>OnPriceChange</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>true</IsAutoScale>
@@ -2456,7 +2456,7 @@
                 <DrawOnPricePanel>true</DrawOnPricePanel>
                 <PaintPriceMarkers>true</PaintPriceMarkers>
                 <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-                <IndicatorId>160</IndicatorId>
+                <IndicatorId>304</IndicatorId>
                 <InstrumentDeserialized>NQ 09-21 Globex</InstrumentDeserialized>
                 <MaxSerialized>0</MaxSerialized>
                 <MinSerialized>0</MinSerialized>
@@ -2968,8 +2968,8 @@
           <SelectedGraph>CumulativeNetProfit</SelectedGraph>
           <SelectedDisplayType>Trades</SelectedDisplayType>
           <FilterToggled>True</FilterToggled>
-          <FilterHeight>114</FilterHeight>
-          <ContentHeight>609</ContentHeight>
+          <FilterHeight>66</FilterHeight>
+          <ContentHeight>657</ContentHeight>
           <AnalysisGridHeight>0</AnalysisGridHeight>
           <AnalysisGraphHeight>0</AnalysisGraphHeight>
           <SummaryGrid>
@@ -3210,7 +3210,7 @@
       <WindowState>Maximized</WindowState>
       <Location>156;156</Location>
       <Size>1440;767</Size>
-      <ZOrder>6</ZOrder>
+      <ZOrder>2</ZOrder>
       <Topmost>False</Topmost>
       <TraderWidth>302</TraderWidth>
       <TabControl>
@@ -3316,11 +3316,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>true</DisplayInDataBox>
-                <From>2021-07-20T00:00:00</From>
+                <From>2021-07-29T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-07-23T00:00:00</To>
+                <To>2021-08-01T00:00:00</To>
                 <Calculate>OnEachTick</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>false</IsAutoScale>
@@ -3338,7 +3338,7 @@
                 <DrawOnPricePanel>true</DrawOnPricePanel>
                 <PaintPriceMarkers>true</PaintPriceMarkers>
                 <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-                <IndicatorId>28</IndicatorId>
+                <IndicatorId>341</IndicatorId>
                 <InstrumentDeserialized>GC 12-21 Nymex</InstrumentDeserialized>
                 <MaxSerialized>0</MaxSerialized>
                 <MinSerialized>0</MinSerialized>
@@ -3369,11 +3369,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>false</DisplayInDataBox>
-                <From>2021-07-20T00:00:00</From>
+                <From>2021-07-29T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-07-23T00:00:00</To>
+                <To>2021-08-01T00:00:00</To>
                 <Calculate>OnPriceChange</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>false</IsAutoScale>
@@ -3391,7 +3391,7 @@
                 <DrawOnPricePanel>true</DrawOnPricePanel>
                 <PaintPriceMarkers>false</PaintPriceMarkers>
                 <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-                <IndicatorId>31</IndicatorId>
+                <IndicatorId>344</IndicatorId>
                 <InstrumentDeserialized>GC 12-21 Nymex</InstrumentDeserialized>
                 <MaxSerialized>0</MaxSerialized>
                 <MinSerialized>0</MinSerialized>
@@ -3421,11 +3421,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>false</DisplayInDataBox>
-                <From>2021-07-20T00:00:00</From>
+                <From>2021-07-29T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-07-23T00:00:00</To>
+                <To>2021-08-01T00:00:00</To>
                 <Calculate>OnPriceChange</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>true</IsAutoScale>
@@ -3456,7 +3456,7 @@
                 <DrawOnPricePanel>true</DrawOnPricePanel>
                 <PaintPriceMarkers>true</PaintPriceMarkers>
                 <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-                <IndicatorId>34</IndicatorId>
+                <IndicatorId>347</IndicatorId>
                 <InstrumentDeserialized>GC 12-21 Nymex</InstrumentDeserialized>
                 <MaxSerialized>0</MaxSerialized>
                 <MinSerialized>0</MinSerialized>
@@ -3486,11 +3486,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>false</DisplayInDataBox>
-                <From>2021-07-20T00:00:00</From>
+                <From>2021-07-29T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Overlay</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-07-23T00:00:00</To>
+                <To>2021-08-01T00:00:00</To>
                 <Calculate>OnEachTick</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>false</IsAutoScale>
@@ -3531,7 +3531,7 @@
                 <DrawOnPricePanel>false</DrawOnPricePanel>
                 <PaintPriceMarkers>false</PaintPriceMarkers>
                 <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-                <IndicatorId>37</IndicatorId>
+                <IndicatorId>350</IndicatorId>
                 <InstrumentDeserialized>GC 12-21 Nymex</InstrumentDeserialized>
                 <MaxSerialized>0</MaxSerialized>
                 <MinSerialized>0</MinSerialized>
@@ -3932,8 +3932,8 @@
                   <AutoScaleMarginLower>40</AutoScaleMarginLower>
                   <AutoScaleMarginUpper>40</AutoScaleMarginUpper>
                   <YAxisScalingType>Linear</YAxisScalingType>
-                  <FixedScaleMaxSerialize>1814.4</FixedScaleMaxSerialize>
-                  <FixedScaleMinSerialize>1809.5</FixedScaleMinSerialize>
+                  <FixedScaleMaxSerialize>1812.1</FixedScaleMaxSerialize>
+                  <FixedScaleMinSerialize>1804</FixedScaleMinSerialize>
                 </ChartScaleProperties>
               </Right>
               <Left>
@@ -4038,7 +4038,7 @@
       <WindowState>Maximized</WindowState>
       <Location>144;101</Location>
       <Size>1348;581</Size>
-      <ZOrder>1</ZOrder>
+      <ZOrder>7</ZOrder>
       <Topmost>False</Topmost>
       <TraderWidth>301</TraderWidth>
       <TabControl>
@@ -4144,11 +4144,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>true</DisplayInDataBox>
-                <From>2021-07-20T00:00:00</From>
+                <From>2021-07-29T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-07-23T00:00:00</To>
+                <To>2021-08-01T00:00:00</To>
                 <Calculate>OnEachTick</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>false</IsAutoScale>
@@ -4166,7 +4166,7 @@
                 <DrawOnPricePanel>true</DrawOnPricePanel>
                 <PaintPriceMarkers>true</PaintPriceMarkers>
                 <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-                <IndicatorId>40</IndicatorId>
+                <IndicatorId>200</IndicatorId>
                 <InstrumentDeserialized>YM 09-21 Globex</InstrumentDeserialized>
                 <MaxSerialized>0</MaxSerialized>
                 <MinSerialized>0</MinSerialized>
@@ -4197,11 +4197,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>false</DisplayInDataBox>
-                <From>2021-07-20T00:00:00</From>
+                <From>2021-07-29T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-07-23T00:00:00</To>
+                <To>2021-08-01T00:00:00</To>
                 <Calculate>OnPriceChange</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>false</IsAutoScale>
@@ -4219,7 +4219,7 @@
                 <DrawOnPricePanel>true</DrawOnPricePanel>
                 <PaintPriceMarkers>false</PaintPriceMarkers>
                 <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-                <IndicatorId>43</IndicatorId>
+                <IndicatorId>203</IndicatorId>
                 <InstrumentDeserialized>YM 09-21 Globex</InstrumentDeserialized>
                 <MaxSerialized>0</MaxSerialized>
                 <MinSerialized>0</MinSerialized>
@@ -4249,11 +4249,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>false</DisplayInDataBox>
-                <From>2021-07-20T00:00:00</From>
+                <From>2021-07-29T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-07-23T00:00:00</To>
+                <To>2021-08-01T00:00:00</To>
                 <Calculate>OnPriceChange</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>true</IsAutoScale>
@@ -4284,7 +4284,7 @@
                 <DrawOnPricePanel>true</DrawOnPricePanel>
                 <PaintPriceMarkers>true</PaintPriceMarkers>
                 <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-                <IndicatorId>46</IndicatorId>
+                <IndicatorId>206</IndicatorId>
                 <InstrumentDeserialized>YM 09-21 Globex</InstrumentDeserialized>
                 <MaxSerialized>0</MaxSerialized>
                 <MinSerialized>0</MinSerialized>
@@ -4314,11 +4314,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>false</DisplayInDataBox>
-                <From>2021-07-20T00:00:00</From>
+                <From>2021-07-29T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-07-23T00:00:00</To>
+                <To>2021-08-01T00:00:00</To>
                 <Calculate>OnBarClose</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>false</IsAutoScale>
@@ -4336,7 +4336,7 @@
                 <DrawOnPricePanel>true</DrawOnPricePanel>
                 <PaintPriceMarkers>false</PaintPriceMarkers>
                 <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-                <IndicatorId>49</IndicatorId>
+                <IndicatorId>209</IndicatorId>
                 <InstrumentDeserialized>YM 09-21 Globex</InstrumentDeserialized>
                 <MaxSerialized>0</MaxSerialized>
                 <MinSerialized>0</MinSerialized>
@@ -4366,11 +4366,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>false</DisplayInDataBox>
-                <From>2021-07-20T00:00:00</From>
+                <From>2021-07-29T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Overlay</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-07-23T00:00:00</To>
+                <To>2021-08-01T00:00:00</To>
                 <Calculate>OnEachTick</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>false</IsAutoScale>
@@ -4411,7 +4411,7 @@
                 <DrawOnPricePanel>false</DrawOnPricePanel>
                 <PaintPriceMarkers>false</PaintPriceMarkers>
                 <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-                <IndicatorId>52</IndicatorId>
+                <IndicatorId>212</IndicatorId>
                 <InstrumentDeserialized>YM 09-21 Globex</InstrumentDeserialized>
                 <MaxSerialized>0</MaxSerialized>
                 <MinSerialized>0</MinSerialized>
@@ -4812,8 +4812,8 @@
                   <AutoScaleMarginLower>40</AutoScaleMarginLower>
                   <AutoScaleMarginUpper>40</AutoScaleMarginUpper>
                   <YAxisScalingType>Linear</YAxisScalingType>
-                  <FixedScaleMaxSerialize>34574</FixedScaleMaxSerialize>
-                  <FixedScaleMinSerialize>34524</FixedScaleMinSerialize>
+                  <FixedScaleMaxSerialize>34854</FixedScaleMaxSerialize>
+                  <FixedScaleMinSerialize>34781</FixedScaleMinSerialize>
                 </ChartScaleProperties>
               </Right>
               <Left>
@@ -4918,7 +4918,7 @@
       <WindowState>Maximized</WindowState>
       <Location>78;78</Location>
       <Size>1440;767</Size>
-      <ZOrder>7</ZOrder>
+      <ZOrder>1</ZOrder>
       <Topmost>False</Topmost>
       <TraderWidth>301</TraderWidth>
       <TabControl>
@@ -5024,11 +5024,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>true</DisplayInDataBox>
-                <From>2021-07-20T00:00:00</From>
+                <From>2021-07-29T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-07-23T00:00:00</To>
+                <To>2021-08-01T00:00:00</To>
                 <Calculate>OnEachTick</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>false</IsAutoScale>
@@ -5046,7 +5046,7 @@
                 <DrawOnPricePanel>true</DrawOnPricePanel>
                 <PaintPriceMarkers>true</PaintPriceMarkers>
                 <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-                <IndicatorId>16</IndicatorId>
+                <IndicatorId>362</IndicatorId>
                 <InstrumentDeserialized>RTY 09-21 Globex</InstrumentDeserialized>
                 <MaxSerialized>0</MaxSerialized>
                 <MinSerialized>0</MinSerialized>
@@ -5077,11 +5077,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>false</DisplayInDataBox>
-                <From>2021-07-20T00:00:00</From>
+                <From>2021-07-29T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-07-23T00:00:00</To>
+                <To>2021-08-01T00:00:00</To>
                 <Calculate>OnPriceChange</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>false</IsAutoScale>
@@ -5099,7 +5099,7 @@
                 <DrawOnPricePanel>true</DrawOnPricePanel>
                 <PaintPriceMarkers>false</PaintPriceMarkers>
                 <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-                <IndicatorId>19</IndicatorId>
+                <IndicatorId>366</IndicatorId>
                 <InstrumentDeserialized>RTY 09-21 Globex</InstrumentDeserialized>
                 <MaxSerialized>0</MaxSerialized>
                 <MinSerialized>0</MinSerialized>
@@ -5129,11 +5129,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>false</DisplayInDataBox>
-                <From>2021-07-20T00:00:00</From>
+                <From>2021-07-29T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-07-23T00:00:00</To>
+                <To>2021-08-01T00:00:00</To>
                 <Calculate>OnPriceChange</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>true</IsAutoScale>
@@ -5164,7 +5164,7 @@
                 <DrawOnPricePanel>true</DrawOnPricePanel>
                 <PaintPriceMarkers>true</PaintPriceMarkers>
                 <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-                <IndicatorId>22</IndicatorId>
+                <IndicatorId>369</IndicatorId>
                 <InstrumentDeserialized>RTY 09-21 Globex</InstrumentDeserialized>
                 <MaxSerialized>0</MaxSerialized>
                 <MinSerialized>0</MinSerialized>
@@ -5194,11 +5194,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>false</DisplayInDataBox>
-                <From>2021-07-20T00:00:00</From>
+                <From>2021-07-29T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Overlay</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-07-23T00:00:00</To>
+                <To>2021-08-01T00:00:00</To>
                 <Calculate>OnEachTick</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>false</IsAutoScale>
@@ -5239,7 +5239,7 @@
                 <DrawOnPricePanel>false</DrawOnPricePanel>
                 <PaintPriceMarkers>false</PaintPriceMarkers>
                 <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-                <IndicatorId>25</IndicatorId>
+                <IndicatorId>372</IndicatorId>
                 <InstrumentDeserialized>RTY 09-21 Globex</InstrumentDeserialized>
                 <MaxSerialized>0</MaxSerialized>
                 <MinSerialized>0</MinSerialized>
@@ -5640,8 +5640,8 @@
                   <AutoScaleMarginLower>40</AutoScaleMarginLower>
                   <AutoScaleMarginUpper>40</AutoScaleMarginUpper>
                   <YAxisScalingType>Linear</YAxisScalingType>
-                  <FixedScaleMaxSerialize>2160.9</FixedScaleMaxSerialize>
-                  <FixedScaleMinSerialize>2154.8</FixedScaleMinSerialize>
+                  <FixedScaleMaxSerialize>2193.3</FixedScaleMaxSerialize>
+                  <FixedScaleMinSerialize>2187</FixedScaleMinSerialize>
                 </ChartScaleProperties>
               </Right>
               <Left>
@@ -5746,7 +5746,7 @@
       <WindowState>Maximized</WindowState>
       <Location>-113;155</Location>
       <Size>1267;780</Size>
-      <ZOrder>5</ZOrder>
+      <ZOrder>3</ZOrder>
       <Topmost>False</Topmost>
       <TraderWidth>301</TraderWidth>
       <TabControl>
@@ -5852,11 +5852,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>true</DisplayInDataBox>
-                <From>2021-07-20T00:00:00</From>
+                <From>2021-07-29T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-07-23T00:00:00</To>
+                <To>2021-08-01T00:00:00</To>
                 <Calculate>OnEachTick</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>false</IsAutoScale>
@@ -5874,7 +5874,7 @@
                 <DrawOnPricePanel>true</DrawOnPricePanel>
                 <PaintPriceMarkers>true</PaintPriceMarkers>
                 <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-                <IndicatorId>1</IndicatorId>
+                <IndicatorId>315</IndicatorId>
                 <InstrumentDeserialized>CL 09-21 Nymex</InstrumentDeserialized>
                 <MaxSerialized>0</MaxSerialized>
                 <MinSerialized>0</MinSerialized>
@@ -5905,11 +5905,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>false</DisplayInDataBox>
-                <From>2021-07-20T00:00:00</From>
+                <From>2021-07-29T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-07-23T00:00:00</To>
+                <To>2021-08-01T00:00:00</To>
                 <Calculate>OnPriceChange</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>false</IsAutoScale>
@@ -5927,7 +5927,7 @@
                 <DrawOnPricePanel>true</DrawOnPricePanel>
                 <PaintPriceMarkers>false</PaintPriceMarkers>
                 <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-                <IndicatorId>4</IndicatorId>
+                <IndicatorId>318</IndicatorId>
                 <InstrumentDeserialized>CL 09-21 Nymex</InstrumentDeserialized>
                 <MaxSerialized>0</MaxSerialized>
                 <MinSerialized>0</MinSerialized>
@@ -5957,11 +5957,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>false</DisplayInDataBox>
-                <From>2021-07-20T00:00:00</From>
+                <From>2021-07-29T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-07-23T00:00:00</To>
+                <To>2021-08-01T00:00:00</To>
                 <Calculate>OnPriceChange</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>true</IsAutoScale>
@@ -5992,7 +5992,7 @@
                 <DrawOnPricePanel>true</DrawOnPricePanel>
                 <PaintPriceMarkers>true</PaintPriceMarkers>
                 <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-                <IndicatorId>7</IndicatorId>
+                <IndicatorId>321</IndicatorId>
                 <InstrumentDeserialized>CL 09-21 Nymex</InstrumentDeserialized>
                 <MaxSerialized>0</MaxSerialized>
                 <MinSerialized>0</MinSerialized>
@@ -6022,11 +6022,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>false</DisplayInDataBox>
-                <From>2021-07-20T00:00:00</From>
+                <From>2021-07-29T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Overlay</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-07-23T00:00:00</To>
+                <To>2021-08-01T00:00:00</To>
                 <Calculate>OnEachTick</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>false</IsAutoScale>
@@ -6067,7 +6067,7 @@
                 <DrawOnPricePanel>false</DrawOnPricePanel>
                 <PaintPriceMarkers>false</PaintPriceMarkers>
                 <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-                <IndicatorId>13</IndicatorId>
+                <IndicatorId>324</IndicatorId>
                 <InstrumentDeserialized>CL 09-21 Nymex</InstrumentDeserialized>
                 <MaxSerialized>0</MaxSerialized>
                 <MinSerialized>0</MinSerialized>
@@ -6468,8 +6468,8 @@
                   <AutoScaleMarginLower>40</AutoScaleMarginLower>
                   <AutoScaleMarginUpper>40</AutoScaleMarginUpper>
                   <YAxisScalingType>Linear</YAxisScalingType>
-                  <FixedScaleMaxSerialize>72</FixedScaleMaxSerialize>
-                  <FixedScaleMinSerialize>71.07</FixedScaleMinSerialize>
+                  <FixedScaleMaxSerialize>72.43</FixedScaleMaxSerialize>
+                  <FixedScaleMinSerialize>71.58</FixedScaleMinSerialize>
                 </ChartScaleProperties>
               </Right>
               <Left>
@@ -6574,7 +6574,7 @@
       <WindowState>Maximized</WindowState>
       <Location>141;235</Location>
       <Size>1348;581</Size>
-      <ZOrder>2</ZOrder>
+      <ZOrder>6</ZOrder>
       <Topmost>False</Topmost>
       <TraderWidth>301</TraderWidth>
       <TabControl>
@@ -6680,11 +6680,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>true</DisplayInDataBox>
-                <From>2021-07-20T00:00:00</From>
+                <From>2021-07-29T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-07-23T00:00:00</To>
+                <To>2021-08-01T00:00:00</To>
                 <Calculate>OnEachTick</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>false</IsAutoScale>
@@ -6702,7 +6702,7 @@
                 <DrawOnPricePanel>true</DrawOnPricePanel>
                 <PaintPriceMarkers>true</PaintPriceMarkers>
                 <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-                <IndicatorId>55</IndicatorId>
+                <IndicatorId>223</IndicatorId>
                 <InstrumentDeserialized>ES 09-21 Globex</InstrumentDeserialized>
                 <MaxSerialized>0</MaxSerialized>
                 <MinSerialized>0</MinSerialized>
@@ -6733,11 +6733,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>false</DisplayInDataBox>
-                <From>2021-07-20T00:00:00</From>
+                <From>2021-07-29T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-07-23T00:00:00</To>
+                <To>2021-08-01T00:00:00</To>
                 <Calculate>OnPriceChange</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>false</IsAutoScale>
@@ -6755,7 +6755,7 @@
                 <DrawOnPricePanel>true</DrawOnPricePanel>
                 <PaintPriceMarkers>false</PaintPriceMarkers>
                 <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-                <IndicatorId>58</IndicatorId>
+                <IndicatorId>226</IndicatorId>
                 <InstrumentDeserialized>ES 09-21 Globex</InstrumentDeserialized>
                 <MaxSerialized>0</MaxSerialized>
                 <MinSerialized>0</MinSerialized>
@@ -6785,11 +6785,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>false</DisplayInDataBox>
-                <From>2021-07-20T00:00:00</From>
+                <From>2021-07-29T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-07-23T00:00:00</To>
+                <To>2021-08-01T00:00:00</To>
                 <Calculate>OnPriceChange</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>true</IsAutoScale>
@@ -6820,7 +6820,7 @@
                 <DrawOnPricePanel>true</DrawOnPricePanel>
                 <PaintPriceMarkers>true</PaintPriceMarkers>
                 <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-                <IndicatorId>61</IndicatorId>
+                <IndicatorId>229</IndicatorId>
                 <InstrumentDeserialized>ES 09-21 Globex</InstrumentDeserialized>
                 <MaxSerialized>0</MaxSerialized>
                 <MinSerialized>0</MinSerialized>
@@ -6850,11 +6850,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>false</DisplayInDataBox>
-                <From>2021-07-20T00:00:00</From>
+                <From>2021-07-29T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-07-23T00:00:00</To>
+                <To>2021-08-01T00:00:00</To>
                 <Calculate>OnBarClose</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>false</IsAutoScale>
@@ -6872,7 +6872,7 @@
                 <DrawOnPricePanel>true</DrawOnPricePanel>
                 <PaintPriceMarkers>false</PaintPriceMarkers>
                 <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-                <IndicatorId>64</IndicatorId>
+                <IndicatorId>232</IndicatorId>
                 <InstrumentDeserialized>ES 09-21 Globex</InstrumentDeserialized>
                 <MaxSerialized>0</MaxSerialized>
                 <MinSerialized>0</MinSerialized>
@@ -6902,11 +6902,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>false</DisplayInDataBox>
-                <From>2021-07-20T00:00:00</From>
+                <From>2021-07-29T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Overlay</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-07-23T00:00:00</To>
+                <To>2021-08-01T00:00:00</To>
                 <Calculate>OnEachTick</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>false</IsAutoScale>
@@ -6947,7 +6947,7 @@
                 <DrawOnPricePanel>false</DrawOnPricePanel>
                 <PaintPriceMarkers>false</PaintPriceMarkers>
                 <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-                <IndicatorId>67</IndicatorId>
+                <IndicatorId>235</IndicatorId>
                 <InstrumentDeserialized>ES 09-21 Globex</InstrumentDeserialized>
                 <MaxSerialized>0</MaxSerialized>
                 <MinSerialized>0</MinSerialized>
@@ -7348,8 +7348,8 @@
                   <AutoScaleMarginLower>40</AutoScaleMarginLower>
                   <AutoScaleMarginUpper>40</AutoScaleMarginUpper>
                   <YAxisScalingType>Linear</YAxisScalingType>
-                  <FixedScaleMaxSerialize>4328.75</FixedScaleMaxSerialize>
-                  <FixedScaleMinSerialize>4314.25</FixedScaleMinSerialize>
+                  <FixedScaleMaxSerialize>4408.25</FixedScaleMaxSerialize>
+                  <FixedScaleMinSerialize>4387.5</FixedScaleMinSerialize>
                 </ChartScaleProperties>
               </Right>
               <Left>
