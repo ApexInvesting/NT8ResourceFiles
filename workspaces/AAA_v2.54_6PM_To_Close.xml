@@ -941,8 +941,8 @@
                 <TBS_OD_Enabled>true</TBS_OD_Enabled>
                 <TBS_OD_MinValue>28</TBS_OD_MinValue>
                 <TBS_OD_MaxValue>185</TBS_OD_MaxValue>
-                <PositivePNLTarget>200</PositivePNLTarget>
-                <NegativePNLStop>-240</NegativePNLStop>
+                <PositivePNLTarget>1000</PositivePNLTarget>
+                <NegativePNLStop>-1000</NegativePNLStop>
                 <WhiteZoneHours>18,19,20,21,22,23,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16</WhiteZoneHours>
                 <DarkZone1>true</DarkZone1>
                 <DarkZone1Start>2021-04-27T09:25:00</DarkZone1Start>
@@ -1769,8 +1769,8 @@
                 <TBS_OD_Enabled>true</TBS_OD_Enabled>
                 <TBS_OD_MinValue>34</TBS_OD_MinValue>
                 <TBS_OD_MaxValue>680</TBS_OD_MaxValue>
-                <PositivePNLTarget>200</PositivePNLTarget>
-                <NegativePNLStop>-240</NegativePNLStop>
+                <PositivePNLTarget>1000</PositivePNLTarget>
+                <NegativePNLStop>-1000</NegativePNLStop>
                 <WhiteZoneHours>18,19,20,21,22,23,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16</WhiteZoneHours>
                 <DarkZone1>true</DarkZone1>
                 <DarkZone1Start>2021-04-29T09:25:00</DarkZone1Start>
@@ -2259,7 +2259,7 @@
                 <AutoScale>true</AutoScale>
                 <CenterPriceOnScale>false</CenterPriceOnScale>
                 <DisplayInDataBox>true</DisplayInDataBox>
-                <Label>CL 09-21</Label>
+                <Label>CL 10-21</Label>
                 <MaxSerialized>0</MaxSerialized>
                 <MinSerialized>0</MinSerialized>
                 <Panel>0</Panel>
@@ -2282,7 +2282,7 @@
                 <ShortExecutionBrushSerialize>DEFAULT</ShortExecutionBrushSerialize>
                 <BarsSeriesId>53ac57419129441da8de6eb591112327</BarsSeriesId>
                 <Id>d4a77abd907c46a5bfc34ec4e85c9d53</Id>
-                <Instrument>CL 09-21</Instrument>
+                <Instrument>CL 10-21</Instrument>
                 <IsLinked>true</IsLinked>
                 <IsPrimarySeries>true</IsPrimarySeries>
                 <ZOrder>7</ZOrder>
@@ -2314,7 +2314,7 @@
           </DataSeries>
           <Strategies />
           <Indicators>
-            <Indicator BarsIndex="0" Instrument="CL 09-21 Nymex" Name="NinjaTrader.NinjaScript.Indicators.ApexCurrentPrice" Panel="-1">
+            <Indicator BarsIndex="0" Instrument="CL 10-21 Nymex" Name="NinjaTrader.NinjaScript.Indicators.ApexCurrentPrice" Panel="-1">
               <ApexCurrentPrice xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
                 <IsVisible>true</IsVisible>
                 <AreLinesConfigurable>true</AreLinesConfigurable>
@@ -2368,7 +2368,7 @@
                 <PaintPriceMarkers>true</PaintPriceMarkers>
                 <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
                 <IndicatorId>40</IndicatorId>
-                <InstrumentDeserialized>CL 09-21 Nymex</InstrumentDeserialized>
+                <InstrumentDeserialized>CL 10-21 Nymex</InstrumentDeserialized>
                 <MaxSerialized>0</MaxSerialized>
                 <MinSerialized>0</MinSerialized>
                 <ZOrder>10013</ZOrder>
@@ -2379,7 +2379,7 @@
                 <PriceType>Close</PriceType>
               </Input>
             </Indicator>
-            <Indicator BarsIndex="0" Instrument="CL 09-21 Nymex" Name="NinjaTrader.NinjaScript.Indicators.ApexOrderPrints" Panel="-1">
+            <Indicator BarsIndex="0" Instrument="CL 10-21 Nymex" Name="NinjaTrader.NinjaScript.Indicators.ApexOrderPrints" Panel="-1">
               <ApexOrderPrints xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
                 <IsVisible>true</IsVisible>
                 <AreLinesConfigurable>true</AreLinesConfigurable>
@@ -2420,7 +2420,7 @@
                 <PaintPriceMarkers>true</PaintPriceMarkers>
                 <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
                 <IndicatorId>43</IndicatorId>
-                <InstrumentDeserialized>CL 09-21 Nymex</InstrumentDeserialized>
+                <InstrumentDeserialized>CL 10-21 Nymex</InstrumentDeserialized>
                 <MaxSerialized>0</MaxSerialized>
                 <MinSerialized>0</MinSerialized>
                 <ZOrder>6</ZOrder>
@@ -2432,7 +2432,7 @@
                 <PriceType>Close</PriceType>
               </Input>
             </Indicator>
-            <Indicator BarsIndex="0" Instrument="CL 09-21 Nymex" Name="NinjaTrader.NinjaScript.Indicators.ApexDeviationLevels" Panel="-1">
+            <Indicator BarsIndex="0" Instrument="CL 10-21 Nymex" Name="NinjaTrader.NinjaScript.Indicators.ApexDeviationLevels" Panel="-1">
               <ApexDeviationLevels xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
                 <IsVisible>true</IsVisible>
                 <AreLinesConfigurable>true</AreLinesConfigurable>
@@ -2473,7 +2473,7 @@
                 <PaintPriceMarkers>false</PaintPriceMarkers>
                 <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
                 <IndicatorId>46</IndicatorId>
-                <InstrumentDeserialized>CL 09-21 Nymex</InstrumentDeserialized>
+                <InstrumentDeserialized>CL 10-21 Nymex</InstrumentDeserialized>
                 <MaxSerialized>0</MaxSerialized>
                 <MinSerialized>0</MinSerialized>
                 <ZOrder>10011</ZOrder>
@@ -2484,7 +2484,7 @@
                 <PriceType>Close</PriceType>
               </Input>
             </Indicator>
-            <Indicator BarsIndex="0" Instrument="CL 09-21 Nymex" Name="NinjaTrader.NinjaScript.Indicators.AutoAlgo" Panel="-1">
+            <Indicator BarsIndex="0" Instrument="CL 10-21 Nymex" Name="NinjaTrader.NinjaScript.Indicators.AutoAlgo" Panel="-1">
               <AutoAlgo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
                 <IsVisible>true</IsVisible>
                 <AreLinesConfigurable>true</AreLinesConfigurable>
@@ -2548,7 +2548,7 @@
                 <PaintPriceMarkers>false</PaintPriceMarkers>
                 <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
                 <IndicatorId>49</IndicatorId>
-                <InstrumentDeserialized>CL 09-21 Nymex</InstrumentDeserialized>
+                <InstrumentDeserialized>CL 10-21 Nymex</InstrumentDeserialized>
                 <MaxSerialized>0</MaxSerialized>
                 <MinSerialized>0</MinSerialized>
                 <ZOrder>10014</ZOrder>
@@ -2597,8 +2597,8 @@
                 <TBS_OD_Enabled>true</TBS_OD_Enabled>
                 <TBS_OD_MinValue>27</TBS_OD_MinValue>
                 <TBS_OD_MaxValue>187</TBS_OD_MaxValue>
-                <PositivePNLTarget>200</PositivePNLTarget>
-                <NegativePNLStop>-240</NegativePNLStop>
+                <PositivePNLTarget>1000</PositivePNLTarget>
+                <NegativePNLStop>-1000</NegativePNLStop>
                 <WhiteZoneHours>18,19,20,21,22,23,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16</WhiteZoneHours>
                 <DarkZone1>true</DarkZone1>
                 <DarkZone1Start>2021-04-23T09:25:00</DarkZone1Start>
@@ -2992,7 +2992,7 @@
       <ChartTrader>
         <Account>Playback101</Account>
         <ATM>1_7_17</ATM>
-        <Instrument>CL 09-21</Instrument>
+        <Instrument>CL 10-21</Instrument>
         <Quantity>1</Quantity>
         <TIF>Gtc</TIF>
         <Properties>
@@ -3425,8 +3425,8 @@
                 <TBS_OD_Enabled>true</TBS_OD_Enabled>
                 <TBS_OD_MinValue>38</TBS_OD_MinValue>
                 <TBS_OD_MaxValue>643</TBS_OD_MaxValue>
-                <PositivePNLTarget>200</PositivePNLTarget>
-                <NegativePNLStop>-240</NegativePNLStop>
+                <PositivePNLTarget>1000</PositivePNLTarget>
+                <NegativePNLStop>-1000</NegativePNLStop>
                 <WhiteZoneHours>18,19,20,21,22,23,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16</WhiteZoneHours>
                 <DarkZone1>true</DarkZone1>
                 <DarkZone1Start>2021-04-27T09:25:00</DarkZone1Start>
@@ -4446,8 +4446,8 @@
                 <TBS_OD_Enabled>true</TBS_OD_Enabled>
                 <TBS_OD_MinValue>114</TBS_OD_MinValue>
                 <TBS_OD_MaxValue>415</TBS_OD_MaxValue>
-                <PositivePNLTarget>200</PositivePNLTarget>
-                <NegativePNLStop>-240</NegativePNLStop>
+                <PositivePNLTarget>1000</PositivePNLTarget>
+                <NegativePNLStop>-1000</NegativePNLStop>
                 <WhiteZoneHours>18,19,20,21,22,23,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16</WhiteZoneHours>
                 <DarkZone1>true</DarkZone1>
                 <DarkZone1Start>2021-04-27T09:25:00</DarkZone1Start>
@@ -6997,8 +6997,8 @@
                 <TBS_OD_Enabled>true</TBS_OD_Enabled>
                 <TBS_OD_MinValue>42</TBS_OD_MinValue>
                 <TBS_OD_MaxValue>289</TBS_OD_MaxValue>
-                <PositivePNLTarget>200</PositivePNLTarget>
-                <NegativePNLStop>-240</NegativePNLStop>
+                <PositivePNLTarget>1000</PositivePNLTarget>
+                <NegativePNLStop>-1000</NegativePNLStop>
                 <WhiteZoneHours>18,19,20,21,22,23,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16</WhiteZoneHours>
                 <DarkZone1>true</DarkZone1>
                 <DarkZone1Start>2021-04-27T09:25:00</DarkZone1Start>
