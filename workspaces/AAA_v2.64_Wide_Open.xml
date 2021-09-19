@@ -39,7 +39,7 @@
                 <AutoScale>true</AutoScale>
                 <CenterPriceOnScale>false</CenterPriceOnScale>
                 <DisplayInDataBox>true</DisplayInDataBox>
-                <Label>NQ 09-21</Label>
+                <Label>NQ 12-21</Label>
                 <MaxSerialized>0</MaxSerialized>
                 <MinSerialized>0</MinSerialized>
                 <Panel>0</Panel>
@@ -50,7 +50,7 @@
                 <ShowGlobalDrawObjects>true</ShowGlobalDrawObjects>
                 <ScaleJustification>Right</ScaleJustification>
                 <TradingHoursVisibility>AllSessions</TradingHoursVisibility>
-                <TradingHoursBreakPenSerialize>&lt;Pen Thickness="1" Brush="#FF008000" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
+                <TradingHoursBreakPenSerialize>&lt;Pen Brush="#FF008000" Thickness="1" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
   &lt;Pen.DashStyle&gt;
     &lt;DashStyle /&gt;
   &lt;/Pen.DashStyle&gt;
@@ -62,7 +62,7 @@
                 <ShortExecutionBrushSerialize>DEFAULT</ShortExecutionBrushSerialize>
                 <BarsSeriesId>12f3023e426642328104b299666a801a</BarsSeriesId>
                 <Id>6159801e492f4f7db0ef4a697b2d00ae</Id>
-                <Instrument>NQ 09-21</Instrument>
+                <Instrument>NQ 12-21</Instrument>
                 <IsLinked>true</IsLinked>
                 <IsPrimarySeries>true</IsPrimarySeries>
                 <ZOrder>7</ZOrder>
@@ -76,12 +76,12 @@
                       <ChartStyleTypeSerialize>1</ChartStyleTypeSerialize>
                       <DownBrushSerialize>&lt;SolidColorBrush xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;#FFFFE4C4&lt;/SolidColorBrush&gt;</DownBrushSerialize>
                       <UpBrushSerialize>&lt;SolidColorBrush xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;#00FFFFFF&lt;/SolidColorBrush&gt;</UpBrushSerialize>
-                      <StrokeSerialize>&lt;Pen Thickness="1" Brush="#FFFFE4C4" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
+                      <StrokeSerialize>&lt;Pen Brush="#FFFFE4C4" Thickness="1" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
   &lt;Pen.DashStyle&gt;
     &lt;DashStyle /&gt;
   &lt;/Pen.DashStyle&gt;
 &lt;/Pen&gt;</StrokeSerialize>
-                      <Stroke2Serialize>&lt;Pen Thickness="2" Brush="#FFFFE4C4" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
+                      <Stroke2Serialize>&lt;Pen Brush="#FFFFE4C4" Thickness="2" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
   &lt;Pen.DashStyle&gt;
     &lt;DashStyle /&gt;
   &lt;/Pen.DashStyle&gt;
@@ -94,7 +94,7 @@
           </DataSeries>
           <Strategies />
           <Indicators>
-            <Indicator BarsIndex="0" Instrument="NQ 09-21 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexOrderPrints" Panel="-1">
+            <Indicator BarsIndex="0" Instrument="NQ 12-21 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexOrderPrints" Panel="-1">
               <ApexOrderPrints xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
                 <IsVisible>true</IsVisible>
                 <AreLinesConfigurable>true</AreLinesConfigurable>
@@ -112,11 +112,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>true</DisplayInDataBox>
-                <From>2021-07-29T00:00:00</From>
+                <From>2021-09-15T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-08-01T00:00:00</To>
+                <To>2021-09-18T00:00:00</To>
                 <Calculate>OnEachTick</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>false</IsAutoScale>
@@ -134,7 +134,7 @@
                 <DrawOnPricePanel>true</DrawOnPricePanel>
                 <PaintPriceMarkers>true</PaintPriceMarkers>
                 <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-                <IndicatorId>247</IndicatorId>
+                <IndicatorId>37</IndicatorId>
                 <InstrumentDeserialized>NQ 09-21 Globex</InstrumentDeserialized>
                 <MaxSerialized>0</MaxSerialized>
                 <MinSerialized>0</MinSerialized>
@@ -147,7 +147,7 @@
                 <PriceType>Close</PriceType>
               </Input>
             </Indicator>
-            <Indicator BarsIndex="0" Instrument="NQ 09-21 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexDeviationLevels" Panel="-1">
+            <Indicator BarsIndex="0" Instrument="NQ 12-21 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexDeviationLevels" Panel="-1">
               <ApexDeviationLevels xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
                 <IsVisible>true</IsVisible>
                 <AreLinesConfigurable>true</AreLinesConfigurable>
@@ -165,11 +165,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>false</DisplayInDataBox>
-                <From>2021-07-29T00:00:00</From>
+                <From>2021-09-15T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-08-01T00:00:00</To>
+                <To>2021-09-18T00:00:00</To>
                 <Calculate>OnPriceChange</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>false</IsAutoScale>
@@ -187,7 +187,7 @@
                 <DrawOnPricePanel>true</DrawOnPricePanel>
                 <PaintPriceMarkers>false</PaintPriceMarkers>
                 <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-                <IndicatorId>250</IndicatorId>
+                <IndicatorId>40</IndicatorId>
                 <InstrumentDeserialized>NQ 09-21 Globex</InstrumentDeserialized>
                 <MaxSerialized>0</MaxSerialized>
                 <MinSerialized>0</MinSerialized>
@@ -199,7 +199,7 @@
                 <PriceType>Close</PriceType>
               </Input>
             </Indicator>
-            <Indicator BarsIndex="0" Instrument="NQ 09-21 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexICE" Panel="-1">
+            <Indicator BarsIndex="0" Instrument="NQ 12-21 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexICE" Panel="-1">
               <ApexICE xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
                 <IsVisible>true</IsVisible>
                 <AreLinesConfigurable>true</AreLinesConfigurable>
@@ -217,11 +217,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>true</DisplayInDataBox>
-                <From>2021-07-29T00:00:00</From>
+                <From>2021-09-15T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-08-01T00:00:00</To>
+                <To>2021-09-18T00:00:00</To>
                 <Calculate>OnPriceChange</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>false</IsAutoScale>
@@ -276,7 +276,7 @@
                 <DrawOnPricePanel>false</DrawOnPricePanel>
                 <PaintPriceMarkers>true</PaintPriceMarkers>
                 <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-                <IndicatorId>253</IndicatorId>
+                <IndicatorId>43</IndicatorId>
                 <InstrumentDeserialized>NQ 09-21 Globex</InstrumentDeserialized>
                 <MaxSerialized>0</MaxSerialized>
                 <MinSerialized>0</MinSerialized>
@@ -288,7 +288,7 @@
                 <PriceType>Close</PriceType>
               </Input>
             </Indicator>
-            <Indicator BarsIndex="0" Instrument="NQ 09-21 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexCurrentPrice" Panel="-1">
+            <Indicator BarsIndex="0" Instrument="NQ 12-21 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexCurrentPrice" Panel="-1">
               <ApexCurrentPrice xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
                 <IsVisible>true</IsVisible>
                 <AreLinesConfigurable>true</AreLinesConfigurable>
@@ -306,11 +306,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>false</DisplayInDataBox>
-                <From>2021-07-29T00:00:00</From>
+                <From>2021-09-15T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-08-01T00:00:00</To>
+                <To>2021-09-18T00:00:00</To>
                 <Calculate>OnPriceChange</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>true</IsAutoScale>
@@ -341,7 +341,7 @@
                 <DrawOnPricePanel>true</DrawOnPricePanel>
                 <PaintPriceMarkers>true</PaintPriceMarkers>
                 <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-                <IndicatorId>256</IndicatorId>
+                <IndicatorId>46</IndicatorId>
                 <InstrumentDeserialized>NQ 09-21 Globex</InstrumentDeserialized>
                 <MaxSerialized>0</MaxSerialized>
                 <MinSerialized>0</MinSerialized>
@@ -353,7 +353,7 @@
                 <PriceType>Close</PriceType>
               </Input>
             </Indicator>
-            <Indicator BarsIndex="0" Instrument="NQ 09-21 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexWalls" Panel="-1">
+            <Indicator BarsIndex="0" Instrument="NQ 12-21 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexWalls" Panel="-1">
               <ApexWalls xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
                 <IsVisible>true</IsVisible>
                 <AreLinesConfigurable>true</AreLinesConfigurable>
@@ -371,11 +371,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>false</DisplayInDataBox>
-                <From>2021-07-29T00:00:00</From>
+                <From>2021-09-15T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-08-01T00:00:00</To>
+                <To>2021-09-18T00:00:00</To>
                 <Calculate>OnBarClose</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>false</IsAutoScale>
@@ -393,7 +393,7 @@
                 <DrawOnPricePanel>true</DrawOnPricePanel>
                 <PaintPriceMarkers>false</PaintPriceMarkers>
                 <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-                <IndicatorId>259</IndicatorId>
+                <IndicatorId>49</IndicatorId>
                 <InstrumentDeserialized>NQ 09-21 Globex</InstrumentDeserialized>
                 <MaxSerialized>0</MaxSerialized>
                 <MinSerialized>0</MinSerialized>
@@ -405,7 +405,7 @@
                 <PriceType>Close</PriceType>
               </Input>
             </Indicator>
-            <Indicator BarsIndex="0" Instrument="NQ 09-21 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexOrderPrintsCopier" Panel="-1">
+            <Indicator BarsIndex="0" Instrument="NQ 12-21 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexOrderPrintsCopier" Panel="-1">
               <ApexOrderPrintsCopier xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
                 <IsVisible>true</IsVisible>
                 <AreLinesConfigurable>true</AreLinesConfigurable>
@@ -423,11 +423,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>true</DisplayInDataBox>
-                <From>2021-07-29T00:00:00</From>
+                <From>2021-09-15T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-08-01T00:00:00</To>
+                <To>2021-09-18T00:00:00</To>
                 <Calculate>OnBarClose</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>true</IsAutoScale>
@@ -445,7 +445,7 @@
                 <DrawOnPricePanel>false</DrawOnPricePanel>
                 <PaintPriceMarkers>true</PaintPriceMarkers>
                 <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-                <IndicatorId>262</IndicatorId>
+                <IndicatorId>52</IndicatorId>
                 <InstrumentDeserialized>NQ 09-21 Globex</InstrumentDeserialized>
                 <MaxSerialized>0</MaxSerialized>
                 <MinSerialized>0</MinSerialized>
@@ -457,7 +457,7 @@
                 <PriceType>Close</PriceType>
               </Input>
             </Indicator>
-            <Indicator BarsIndex="0" Instrument="NQ 09-21 Globex" Name="NinjaTrader.NinjaScript.Indicators.AutoAlgo" Panel="-1">
+            <Indicator BarsIndex="0" Instrument="NQ 12-21 Globex" Name="NinjaTrader.NinjaScript.Indicators.AutoAlgo" Panel="-1">
               <AutoAlgo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
                 <IsVisible>true</IsVisible>
                 <AreLinesConfigurable>true</AreLinesConfigurable>
@@ -475,11 +475,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>false</DisplayInDataBox>
-                <From>2021-07-29T00:00:00</From>
+                <From>2021-09-15T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Overlay</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-08-01T00:00:00</To>
+                <To>2021-09-18T00:00:00</To>
                 <Calculate>OnEachTick</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>false</IsAutoScale>
@@ -520,7 +520,7 @@
                 <DrawOnPricePanel>false</DrawOnPricePanel>
                 <PaintPriceMarkers>false</PaintPriceMarkers>
                 <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-                <IndicatorId>265</IndicatorId>
+                <IndicatorId>55</IndicatorId>
                 <InstrumentDeserialized>NQ 09-21 Globex</InstrumentDeserialized>
                 <MaxSerialized>0</MaxSerialized>
                 <MinSerialized>0</MinSerialized>
@@ -534,9 +534,6 @@
                 <CommissionFee>3.98</CommissionFee>
                 <ConsecutiveLossEnabled>false</ConsecutiveLossEnabled>
                 <ConsecutiveLosses>4</ConsecutiveLosses>
-                <EnableMartingale>false</EnableMartingale>
-                <MartingaleSize>4</MartingaleSize>
-                <MartingaleLost>0</MartingaleLost>
                 <FastMarkets>true</FastMarkets>
                 <FastMarketBars>35</FastMarketBars>
                 <FastMarketSecs>60</FastMarketSecs>
@@ -546,6 +543,15 @@
                 <EnableML>false</EnableML>
                 <MLScoreMin>55</MLScoreMin>
                 <EntryTickOffset>1</EntryTickOffset>
+                <ReportSim>true</ReportSim>
+                <Username>Kralord</Username>
+                <EnableMartingale>false</EnableMartingale>
+                <MartingaleSize>4</MartingaleSize>
+                <MartingaleLost>0</MartingaleLost>
+                <Enable1324Baccarat>false</Enable1324Baccarat>
+                <Size1324Baccarat>1</Size1324Baccarat>
+                <EnableParoli>false</EnableParoli>
+                <SizeParoli>1</SizeParoli>
                 <DTX_OD_Enabled>false</DTX_OD_Enabled>
                 <DTX_OD_MinValue>0</DTX_OD_MinValue>
                 <DTX_OD_MaxValue>0</DTX_OD_MaxValue>
@@ -869,12 +875,12 @@
               <InactivePriceMarkersBrushSerialize>&lt;SolidColorBrush xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;#FFA9A9A9&lt;/SolidColorBrush&gt;</InactivePriceMarkersBrushSerialize>
               <AreHGridLinesVisible>false</AreHGridLinesVisible>
               <AreVGridLinesVisible>false</AreVGridLinesVisible>
-              <AxisPenSerialize>&lt;Pen Thickness="1" Brush="#FFB0C4DE" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
+              <AxisPenSerialize>&lt;Pen Brush="#FFB0C4DE" Thickness="1" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
   &lt;Pen.DashStyle&gt;
     &lt;DashStyle /&gt;
   &lt;/Pen.DashStyle&gt;
 &lt;/Pen&gt;</AxisPenSerialize>
-              <CrosshairPen>&lt;Pen Thickness="1" Brush="#FFFFFFFF" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
+              <CrosshairPen>&lt;Pen Brush="#FFFFFFFF" Thickness="1" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
   &lt;Pen.DashStyle&gt;
     &lt;DashStyle /&gt;
   &lt;/Pen.DashStyle&gt;
@@ -898,7 +904,7 @@
     &lt;DashStyle /&gt;
   &lt;/Pen.DashStyle&gt;
 &lt;/Pen&gt;</GridLineVPenSerialize>
-              <PanelSplitterPenSerialize>&lt;Pen Thickness="2" Brush="#FFB0C4DE" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
+              <PanelSplitterPenSerialize>&lt;Pen Brush="#FFB0C4DE" Thickness="2" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
   &lt;Pen.DashStyle&gt;
     &lt;DashStyle /&gt;
   &lt;/Pen.DashStyle&gt;
@@ -921,8 +927,8 @@
                   <AutoScaleMarginLower>40</AutoScaleMarginLower>
                   <AutoScaleMarginUpper>40</AutoScaleMarginUpper>
                   <YAxisScalingType>Linear</YAxisScalingType>
-                  <FixedScaleMaxSerialize>15094.75</FixedScaleMaxSerialize>
-                  <FixedScaleMinSerialize>15078.5</FixedScaleMinSerialize>
+                  <FixedScaleMaxSerialize>15309</FixedScaleMaxSerialize>
+                  <FixedScaleMinSerialize>15280.25</FixedScaleMinSerialize>
                 </ChartScaleProperties>
               </Right>
               <Left>
@@ -989,7 +995,7 @@
                 <AutoScale>true</AutoScale>
                 <CenterPriceOnScale>false</CenterPriceOnScale>
                 <DisplayInDataBox>true</DisplayInDataBox>
-                <Label>NQ 09-21</Label>
+                <Label>NQ 12-21</Label>
                 <MaxSerialized>0</MaxSerialized>
                 <MinSerialized>0</MinSerialized>
                 <Panel>0</Panel>
@@ -1000,7 +1006,7 @@
                 <ShowGlobalDrawObjects>true</ShowGlobalDrawObjects>
                 <ScaleJustification>Right</ScaleJustification>
                 <TradingHoursVisibility>AllSessions</TradingHoursVisibility>
-                <TradingHoursBreakPenSerialize>&lt;Pen Thickness="1" Brush="#FFF5F5F5" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
+                <TradingHoursBreakPenSerialize>&lt;Pen Brush="#FFF5F5F5" Thickness="1" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
   &lt;Pen.DashStyle&gt;
     &lt;DashStyle /&gt;
   &lt;/Pen.DashStyle&gt;
@@ -1012,7 +1018,7 @@
                 <ShortExecutionBrushSerialize>DEFAULT</ShortExecutionBrushSerialize>
                 <BarsSeriesId>800881555f434d3b9a31bed52fb60260</BarsSeriesId>
                 <Id>41180fa1c2554ca78a24d5590755ca70</Id>
-                <Instrument>NQ 09-21</Instrument>
+                <Instrument>NQ 12-21</Instrument>
                 <IsLinked>true</IsLinked>
                 <IsPrimarySeries>true</IsPrimarySeries>
                 <ZOrder>1</ZOrder>
@@ -1026,12 +1032,12 @@
                       <ChartStyleTypeSerialize>1</ChartStyleTypeSerialize>
                       <DownBrushSerialize>DEFAULT</DownBrushSerialize>
                       <UpBrushSerialize>DEFAULT</UpBrushSerialize>
-                      <StrokeSerialize>&lt;Pen Thickness="2" Brush="#FF000080" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
+                      <StrokeSerialize>&lt;Pen Brush="#FF000080" Thickness="2" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
   &lt;Pen.DashStyle&gt;
     &lt;DashStyle /&gt;
   &lt;/Pen.DashStyle&gt;
 &lt;/Pen&gt;</StrokeSerialize>
-                      <Stroke2Serialize>&lt;Pen Thickness="3" Brush="#FF000080" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
+                      <Stroke2Serialize>&lt;Pen Brush="#FF000080" Thickness="3" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
   &lt;Pen.DashStyle&gt;
     &lt;DashStyle /&gt;
   &lt;/Pen.DashStyle&gt;
@@ -1044,7 +1050,7 @@
           </DataSeries>
           <Strategies />
           <Indicators>
-            <Indicator BarsIndex="0" Instrument="NQ 09-21 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexDynamicMagnetLevels" Panel="-1">
+            <Indicator BarsIndex="0" Instrument="NQ 12-21 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexDynamicMagnetLevels" Panel="-1">
               <ApexDynamicMagnetLevels xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
                 <IsVisible>true</IsVisible>
                 <AreLinesConfigurable>true</AreLinesConfigurable>
@@ -1062,11 +1068,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>true</DisplayInDataBox>
-                <From>2021-07-02T00:00:00</From>
+                <From>2021-08-19T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-08-01T00:00:00</To>
+                <To>2021-09-18T00:00:00</To>
                 <Calculate>OnBarClose</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>false</IsAutoScale>
@@ -1084,7 +1090,7 @@
                 <DrawOnPricePanel>true</DrawOnPricePanel>
                 <PaintPriceMarkers>true</PaintPriceMarkers>
                 <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-                <IndicatorId>268</IndicatorId>
+                <IndicatorId>58</IndicatorId>
                 <InstrumentDeserialized>NQ 09-21 Globex</InstrumentDeserialized>
                 <MaxSerialized>0</MaxSerialized>
                 <MinSerialized>0</MinSerialized>
@@ -1096,7 +1102,7 @@
                 <PriceType>Close</PriceType>
               </Input>
             </Indicator>
-            <Indicator BarsIndex="0" Instrument="NQ 09-21 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexCurrentPrice" Panel="-1">
+            <Indicator BarsIndex="0" Instrument="NQ 12-21 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexCurrentPrice" Panel="-1">
               <ApexCurrentPrice xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
                 <IsVisible>true</IsVisible>
                 <AreLinesConfigurable>true</AreLinesConfigurable>
@@ -1114,11 +1120,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>false</DisplayInDataBox>
-                <From>2021-07-02T00:00:00</From>
+                <From>2021-08-19T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-08-01T00:00:00</To>
+                <To>2021-09-18T00:00:00</To>
                 <Calculate>OnPriceChange</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>true</IsAutoScale>
@@ -1149,7 +1155,7 @@
                 <DrawOnPricePanel>true</DrawOnPricePanel>
                 <PaintPriceMarkers>true</PaintPriceMarkers>
                 <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-                <IndicatorId>271</IndicatorId>
+                <IndicatorId>61</IndicatorId>
                 <InstrumentDeserialized>NQ 09-21 Globex</InstrumentDeserialized>
                 <MaxSerialized>0</MaxSerialized>
                 <MinSerialized>0</MinSerialized>
@@ -1191,12 +1197,12 @@
               <InactivePriceMarkersBrushSerialize>&lt;SolidColorBrush xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;#FFA9A9A9&lt;/SolidColorBrush&gt;</InactivePriceMarkersBrushSerialize>
               <AreHGridLinesVisible>false</AreHGridLinesVisible>
               <AreVGridLinesVisible>false</AreVGridLinesVisible>
-              <AxisPenSerialize>&lt;Pen Thickness="1" Brush="#FF696969" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
+              <AxisPenSerialize>&lt;Pen Brush="#FF696969" Thickness="1" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
   &lt;Pen.DashStyle&gt;
     &lt;DashStyle /&gt;
   &lt;/Pen.DashStyle&gt;
 &lt;/Pen&gt;</AxisPenSerialize>
-              <CrosshairPen>&lt;Pen Thickness="1" Brush="#FF000080" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
+              <CrosshairPen>&lt;Pen Brush="#FF000080" Thickness="1" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
   &lt;Pen.DashStyle&gt;
     &lt;DashStyle /&gt;
   &lt;/Pen.DashStyle&gt;
@@ -1206,7 +1212,7 @@
               <CrosshairDrawCursorOnly>false</CrosshairDrawCursorOnly>
               <GridLineHPenSerialize>DEFAULT</GridLineHPenSerialize>
               <GridLineVPenSerialize>DEFAULT</GridLineVPenSerialize>
-              <PanelSplitterPenSerialize>&lt;Pen Thickness="2" Brush="#FF696969" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
+              <PanelSplitterPenSerialize>&lt;Pen Brush="#FF696969" Thickness="2" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
   &lt;Pen.DashStyle&gt;
     &lt;DashStyle /&gt;
   &lt;/Pen.DashStyle&gt;
@@ -1229,8 +1235,8 @@
                   <AutoScaleMarginLower>6</AutoScaleMarginLower>
                   <AutoScaleMarginUpper>6</AutoScaleMarginUpper>
                   <YAxisScalingType>Linear</YAxisScalingType>
-                  <FixedScaleMaxSerialize>13988.75</FixedScaleMaxSerialize>
-                  <FixedScaleMinSerialize>13924</FixedScaleMinSerialize>
+                  <FixedScaleMaxSerialize>15599.75</FixedScaleMaxSerialize>
+                  <FixedScaleMinSerialize>15425.75</FixedScaleMinSerialize>
                 </ChartScaleProperties>
               </Right>
               <Left>
@@ -1297,7 +1303,7 @@
                 <AutoScale>true</AutoScale>
                 <CenterPriceOnScale>false</CenterPriceOnScale>
                 <DisplayInDataBox>true</DisplayInDataBox>
-                <Label>NQ 09-21</Label>
+                <Label>NQ 12-21</Label>
                 <MaxSerialized>0</MaxSerialized>
                 <MinSerialized>0</MinSerialized>
                 <Panel>0</Panel>
@@ -1308,7 +1314,7 @@
                 <ShowGlobalDrawObjects>true</ShowGlobalDrawObjects>
                 <ScaleJustification>Right</ScaleJustification>
                 <TradingHoursVisibility>AllSessions</TradingHoursVisibility>
-                <TradingHoursBreakPenSerialize>&lt;Pen Thickness="1" Brush="#FFF5F5F5" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
+                <TradingHoursBreakPenSerialize>&lt;Pen Brush="#FFF5F5F5" Thickness="1" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
   &lt;Pen.DashStyle&gt;
     &lt;DashStyle /&gt;
   &lt;/Pen.DashStyle&gt;
@@ -1320,7 +1326,7 @@
                 <ShortExecutionBrushSerialize>DEFAULT</ShortExecutionBrushSerialize>
                 <BarsSeriesId>800881555f434d3b9a31bed52fb60260</BarsSeriesId>
                 <Id>7a83718ba93544b0ab4aca9754e53072</Id>
-                <Instrument>NQ 09-21</Instrument>
+                <Instrument>NQ 12-21</Instrument>
                 <IsLinked>true</IsLinked>
                 <IsPrimarySeries>true</IsPrimarySeries>
                 <ZOrder>1</ZOrder>
@@ -1334,12 +1340,12 @@
                       <ChartStyleTypeSerialize>1</ChartStyleTypeSerialize>
                       <DownBrushSerialize>DEFAULT</DownBrushSerialize>
                       <UpBrushSerialize>DEFAULT</UpBrushSerialize>
-                      <StrokeSerialize>&lt;Pen Thickness="2" Brush="#FF000080" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
+                      <StrokeSerialize>&lt;Pen Brush="#FF000080" Thickness="2" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
   &lt;Pen.DashStyle&gt;
     &lt;DashStyle /&gt;
   &lt;/Pen.DashStyle&gt;
 &lt;/Pen&gt;</StrokeSerialize>
-                      <Stroke2Serialize>&lt;Pen Thickness="3" Brush="#FF000080" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
+                      <Stroke2Serialize>&lt;Pen Brush="#FF000080" Thickness="3" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
   &lt;Pen.DashStyle&gt;
     &lt;DashStyle /&gt;
   &lt;/Pen.DashStyle&gt;
@@ -1352,7 +1358,7 @@
           </DataSeries>
           <Strategies />
           <Indicators>
-            <Indicator BarsIndex="0" Instrument="NQ 09-21 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexFluxPivotLevel" Panel="-1">
+            <Indicator BarsIndex="0" Instrument="NQ 12-21 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexFluxPivotLevel" Panel="-1">
               <ApexFluxPivotLevel xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
                 <IsVisible>true</IsVisible>
                 <AreLinesConfigurable>true</AreLinesConfigurable>
@@ -1370,11 +1376,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>true</DisplayInDataBox>
-                <From>2021-05-03T00:00:00</From>
+                <From>2021-06-20T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-08-01T00:00:00</To>
+                <To>2021-09-18T00:00:00</To>
                 <Calculate>OnEachTick</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>false</IsAutoScale>
@@ -1392,7 +1398,7 @@
                 <DrawOnPricePanel>true</DrawOnPricePanel>
                 <PaintPriceMarkers>true</PaintPriceMarkers>
                 <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-                <IndicatorId>274</IndicatorId>
+                <IndicatorId>64</IndicatorId>
                 <InstrumentDeserialized>NQ 09-21 Globex</InstrumentDeserialized>
                 <MaxSerialized>0</MaxSerialized>
                 <MinSerialized>0</MinSerialized>
@@ -1404,7 +1410,7 @@
                 <PriceType>Close</PriceType>
               </Input>
             </Indicator>
-            <Indicator BarsIndex="0" Instrument="NQ 09-21 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexCurrentPrice" Panel="-1">
+            <Indicator BarsIndex="0" Instrument="NQ 12-21 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexCurrentPrice" Panel="-1">
               <ApexCurrentPrice xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
                 <IsVisible>true</IsVisible>
                 <AreLinesConfigurable>true</AreLinesConfigurable>
@@ -1422,11 +1428,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>false</DisplayInDataBox>
-                <From>2021-05-03T00:00:00</From>
+                <From>2021-06-20T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-08-01T00:00:00</To>
+                <To>2021-09-18T00:00:00</To>
                 <Calculate>OnPriceChange</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>true</IsAutoScale>
@@ -1457,7 +1463,7 @@
                 <DrawOnPricePanel>true</DrawOnPricePanel>
                 <PaintPriceMarkers>true</PaintPriceMarkers>
                 <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-                <IndicatorId>277</IndicatorId>
+                <IndicatorId>67</IndicatorId>
                 <InstrumentDeserialized>NQ 09-21 Globex</InstrumentDeserialized>
                 <MaxSerialized>0</MaxSerialized>
                 <MinSerialized>0</MinSerialized>
@@ -1499,12 +1505,12 @@
               <InactivePriceMarkersBrushSerialize>&lt;SolidColorBrush xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;#FF696969&lt;/SolidColorBrush&gt;</InactivePriceMarkersBrushSerialize>
               <AreHGridLinesVisible>false</AreHGridLinesVisible>
               <AreVGridLinesVisible>false</AreVGridLinesVisible>
-              <AxisPenSerialize>&lt;Pen Thickness="1" Brush="#FF696969" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
+              <AxisPenSerialize>&lt;Pen Brush="#FF696969" Thickness="1" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
   &lt;Pen.DashStyle&gt;
     &lt;DashStyle /&gt;
   &lt;/Pen.DashStyle&gt;
 &lt;/Pen&gt;</AxisPenSerialize>
-              <CrosshairPen>&lt;Pen Thickness="1" Brush="#FF000080" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
+              <CrosshairPen>&lt;Pen Brush="#FF000080" Thickness="1" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
   &lt;Pen.DashStyle&gt;
     &lt;DashStyle /&gt;
   &lt;/Pen.DashStyle&gt;
@@ -1514,7 +1520,7 @@
               <CrosshairDrawCursorOnly>false</CrosshairDrawCursorOnly>
               <GridLineHPenSerialize>DEFAULT</GridLineHPenSerialize>
               <GridLineVPenSerialize>DEFAULT</GridLineVPenSerialize>
-              <PanelSplitterPenSerialize>&lt;Pen Thickness="2" Brush="#FF000000" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
+              <PanelSplitterPenSerialize>&lt;Pen Brush="#FF000000" Thickness="2" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
   &lt;Pen.DashStyle&gt;
     &lt;DashStyle /&gt;
   &lt;/Pen.DashStyle&gt;
@@ -1537,8 +1543,8 @@
                   <AutoScaleMarginLower>6</AutoScaleMarginLower>
                   <AutoScaleMarginUpper>6</AutoScaleMarginUpper>
                   <YAxisScalingType>Linear</YAxisScalingType>
-                  <FixedScaleMaxSerialize>13990.25</FixedScaleMaxSerialize>
-                  <FixedScaleMinSerialize>13716.25</FixedScaleMinSerialize>
+                  <FixedScaleMaxSerialize>15667.25</FixedScaleMaxSerialize>
+                  <FixedScaleMinSerialize>15425.75</FixedScaleMinSerialize>
                 </ChartScaleProperties>
               </Right>
               <Left>
@@ -1605,7 +1611,7 @@
                 <AutoScale>true</AutoScale>
                 <CenterPriceOnScale>false</CenterPriceOnScale>
                 <DisplayInDataBox>true</DisplayInDataBox>
-                <Label>NQ 09-21</Label>
+                <Label>NQ 12-21</Label>
                 <MaxSerialized>0</MaxSerialized>
                 <MinSerialized>0</MinSerialized>
                 <Panel>0</Panel>
@@ -1616,7 +1622,7 @@
                 <ShowGlobalDrawObjects>true</ShowGlobalDrawObjects>
                 <ScaleJustification>Right</ScaleJustification>
                 <TradingHoursVisibility>AllSessions</TradingHoursVisibility>
-                <TradingHoursBreakPenSerialize>&lt;Pen Thickness="1" Brush="#FFF5F5F5" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
+                <TradingHoursBreakPenSerialize>&lt;Pen Brush="#FFF5F5F5" Thickness="1" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
   &lt;Pen.DashStyle&gt;
     &lt;DashStyle /&gt;
   &lt;/Pen.DashStyle&gt;
@@ -1628,7 +1634,7 @@
                 <ShortExecutionBrushSerialize>DEFAULT</ShortExecutionBrushSerialize>
                 <BarsSeriesId>800881555f434d3b9a31bed52fb60260</BarsSeriesId>
                 <Id>5b3c14cb73f3411cad50789f6977f810</Id>
-                <Instrument>NQ 09-21</Instrument>
+                <Instrument>NQ 12-21</Instrument>
                 <IsLinked>true</IsLinked>
                 <IsPrimarySeries>true</IsPrimarySeries>
                 <ZOrder>1</ZOrder>
@@ -1642,12 +1648,12 @@
                       <ChartStyleTypeSerialize>1</ChartStyleTypeSerialize>
                       <DownBrushSerialize>DEFAULT</DownBrushSerialize>
                       <UpBrushSerialize>DEFAULT</UpBrushSerialize>
-                      <StrokeSerialize>&lt;Pen Thickness="2" Brush="#FF000080" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
+                      <StrokeSerialize>&lt;Pen Brush="#FF000080" Thickness="2" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
   &lt;Pen.DashStyle&gt;
     &lt;DashStyle /&gt;
   &lt;/Pen.DashStyle&gt;
 &lt;/Pen&gt;</StrokeSerialize>
-                      <Stroke2Serialize>&lt;Pen Thickness="3" Brush="#FF000080" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
+                      <Stroke2Serialize>&lt;Pen Brush="#FF000080" Thickness="3" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
   &lt;Pen.DashStyle&gt;
     &lt;DashStyle /&gt;
   &lt;/Pen.DashStyle&gt;
@@ -1660,7 +1666,7 @@
           </DataSeries>
           <Strategies />
           <Indicators>
-            <Indicator BarsIndex="0" Instrument="NQ 09-21 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexFluxPivotLevel" Panel="-1">
+            <Indicator BarsIndex="0" Instrument="NQ 12-21 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexFluxPivotLevel" Panel="-1">
               <ApexFluxPivotLevel xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
                 <IsVisible>true</IsVisible>
                 <AreLinesConfigurable>true</AreLinesConfigurable>
@@ -1678,11 +1684,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>true</DisplayInDataBox>
-                <From>2021-05-03T00:00:00</From>
+                <From>2021-06-20T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-08-01T00:00:00</To>
+                <To>2021-09-18T00:00:00</To>
                 <Calculate>OnEachTick</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>false</IsAutoScale>
@@ -1700,7 +1706,7 @@
                 <DrawOnPricePanel>true</DrawOnPricePanel>
                 <PaintPriceMarkers>true</PaintPriceMarkers>
                 <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-                <IndicatorId>280</IndicatorId>
+                <IndicatorId>70</IndicatorId>
                 <InstrumentDeserialized>NQ 09-21 Globex</InstrumentDeserialized>
                 <MaxSerialized>0</MaxSerialized>
                 <MinSerialized>0</MinSerialized>
@@ -1712,7 +1718,7 @@
                 <PriceType>Close</PriceType>
               </Input>
             </Indicator>
-            <Indicator BarsIndex="0" Instrument="NQ 09-21 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexCurrentPrice" Panel="-1">
+            <Indicator BarsIndex="0" Instrument="NQ 12-21 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexCurrentPrice" Panel="-1">
               <ApexCurrentPrice xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
                 <IsVisible>true</IsVisible>
                 <AreLinesConfigurable>true</AreLinesConfigurable>
@@ -1730,11 +1736,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>false</DisplayInDataBox>
-                <From>2021-05-03T00:00:00</From>
+                <From>2021-06-20T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-08-01T00:00:00</To>
+                <To>2021-09-18T00:00:00</To>
                 <Calculate>OnPriceChange</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>true</IsAutoScale>
@@ -1765,7 +1771,7 @@
                 <DrawOnPricePanel>true</DrawOnPricePanel>
                 <PaintPriceMarkers>true</PaintPriceMarkers>
                 <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-                <IndicatorId>283</IndicatorId>
+                <IndicatorId>73</IndicatorId>
                 <InstrumentDeserialized>NQ 09-21 Globex</InstrumentDeserialized>
                 <MaxSerialized>0</MaxSerialized>
                 <MinSerialized>0</MinSerialized>
@@ -1807,12 +1813,12 @@
               <InactivePriceMarkersBrushSerialize>&lt;SolidColorBrush xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;#FF696969&lt;/SolidColorBrush&gt;</InactivePriceMarkersBrushSerialize>
               <AreHGridLinesVisible>false</AreHGridLinesVisible>
               <AreVGridLinesVisible>false</AreVGridLinesVisible>
-              <AxisPenSerialize>&lt;Pen Thickness="1" Brush="#FF696969" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
+              <AxisPenSerialize>&lt;Pen Brush="#FF696969" Thickness="1" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
   &lt;Pen.DashStyle&gt;
     &lt;DashStyle /&gt;
   &lt;/Pen.DashStyle&gt;
 &lt;/Pen&gt;</AxisPenSerialize>
-              <CrosshairPen>&lt;Pen Thickness="1" Brush="#FF000080" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
+              <CrosshairPen>&lt;Pen Brush="#FF000080" Thickness="1" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
   &lt;Pen.DashStyle&gt;
     &lt;DashStyle /&gt;
   &lt;/Pen.DashStyle&gt;
@@ -1822,7 +1828,7 @@
               <CrosshairDrawCursorOnly>false</CrosshairDrawCursorOnly>
               <GridLineHPenSerialize>DEFAULT</GridLineHPenSerialize>
               <GridLineVPenSerialize>DEFAULT</GridLineVPenSerialize>
-              <PanelSplitterPenSerialize>&lt;Pen Thickness="2" Brush="#FF000000" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
+              <PanelSplitterPenSerialize>&lt;Pen Brush="#FF000000" Thickness="2" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
   &lt;Pen.DashStyle&gt;
     &lt;DashStyle /&gt;
   &lt;/Pen.DashStyle&gt;
@@ -1845,8 +1851,8 @@
                   <AutoScaleMarginLower>6</AutoScaleMarginLower>
                   <AutoScaleMarginUpper>6</AutoScaleMarginUpper>
                   <YAxisScalingType>Linear</YAxisScalingType>
-                  <FixedScaleMaxSerialize>13990.25</FixedScaleMaxSerialize>
-                  <FixedScaleMinSerialize>13456.75</FixedScaleMinSerialize>
+                  <FixedScaleMaxSerialize>15697.5</FixedScaleMaxSerialize>
+                  <FixedScaleMinSerialize>15425.75</FixedScaleMinSerialize>
                 </ChartScaleProperties>
               </Right>
               <Left>
@@ -1913,7 +1919,7 @@
                 <AutoScale>true</AutoScale>
                 <CenterPriceOnScale>false</CenterPriceOnScale>
                 <DisplayInDataBox>true</DisplayInDataBox>
-                <Label>NQ 09-21</Label>
+                <Label>NQ 12-21</Label>
                 <MaxSerialized>0</MaxSerialized>
                 <MinSerialized>0</MinSerialized>
                 <Panel>0</Panel>
@@ -1924,7 +1930,7 @@
                 <ShowGlobalDrawObjects>true</ShowGlobalDrawObjects>
                 <ScaleJustification>Right</ScaleJustification>
                 <TradingHoursVisibility>AllSessions</TradingHoursVisibility>
-                <TradingHoursBreakPenSerialize>&lt;Pen Thickness="1" Brush="#FF696969" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
+                <TradingHoursBreakPenSerialize>&lt;Pen Brush="#FF696969" Thickness="1" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
   &lt;Pen.DashStyle&gt;
     &lt;DashStyle /&gt;
   &lt;/Pen.DashStyle&gt;
@@ -1936,7 +1942,7 @@
                 <ShortExecutionBrushSerialize>DEFAULT</ShortExecutionBrushSerialize>
                 <BarsSeriesId>55d23aef68a242bc863947a740f0291e</BarsSeriesId>
                 <Id>3a6292afdd2b433b945aebb256862e57</Id>
-                <Instrument>NQ 09-21</Instrument>
+                <Instrument>NQ 12-21</Instrument>
                 <IsLinked>true</IsLinked>
                 <IsPrimarySeries>true</IsPrimarySeries>
                 <ZOrder>1</ZOrder>
@@ -1951,7 +1957,7 @@
                       <DownBrushSerialize>&lt;SolidColorBrush xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;#FF000080&lt;/SolidColorBrush&gt;</DownBrushSerialize>
                       <UpBrushSerialize>&lt;SolidColorBrush xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;#FF4169E1&lt;/SolidColorBrush&gt;</UpBrushSerialize>
                       <StrokeSerialize>DEFAULT</StrokeSerialize>
-                      <Stroke2Serialize>&lt;Pen Thickness="2" Brush="#FF000000" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
+                      <Stroke2Serialize>&lt;Pen Brush="#FF000000" Thickness="2" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
   &lt;Pen.DashStyle&gt;
     &lt;DashStyle /&gt;
   &lt;/Pen.DashStyle&gt;
@@ -1964,7 +1970,7 @@
           </DataSeries>
           <Strategies />
           <Indicators>
-            <Indicator BarsIndex="0" Instrument="NQ 09-21 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexOrderPrints" Panel="-1">
+            <Indicator BarsIndex="0" Instrument="NQ 12-21 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexOrderPrints" Panel="-1">
               <ApexOrderPrints xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
                 <IsVisible>true</IsVisible>
                 <AreLinesConfigurable>true</AreLinesConfigurable>
@@ -1982,11 +1988,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>true</DisplayInDataBox>
-                <From>2021-07-29T00:00:00</From>
+                <From>2021-09-15T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-08-01T00:00:00</To>
+                <To>2021-09-18T00:00:00</To>
                 <Calculate>OnEachTick</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>false</IsAutoScale>
@@ -2004,7 +2010,7 @@
                 <DrawOnPricePanel>true</DrawOnPricePanel>
                 <PaintPriceMarkers>true</PaintPriceMarkers>
                 <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-                <IndicatorId>286</IndicatorId>
+                <IndicatorId>76</IndicatorId>
                 <InstrumentDeserialized>NQ 09-21 Globex</InstrumentDeserialized>
                 <MaxSerialized>0</MaxSerialized>
                 <MinSerialized>0</MinSerialized>
@@ -2017,7 +2023,7 @@
                 <PriceType>Close</PriceType>
               </Input>
             </Indicator>
-            <Indicator BarsIndex="0" Instrument="NQ 09-21 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexDeviationReversal" Panel="1">
+            <Indicator BarsIndex="0" Instrument="NQ 12-21 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexDeviationReversal" Panel="1">
               <ApexDeviationReversal xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
                 <IsVisible>true</IsVisible>
                 <AreLinesConfigurable>true</AreLinesConfigurable>
@@ -2035,11 +2041,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>true</DisplayInDataBox>
-                <From>2021-07-29T00:00:00</From>
+                <From>2021-09-15T00:00:00</From>
                 <Panel>1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-08-01T00:00:00</To>
+                <To>2021-09-18T00:00:00</To>
                 <Calculate>OnEachTick</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>true</IsAutoScale>
@@ -2107,7 +2113,7 @@
                 <DrawOnPricePanel>false</DrawOnPricePanel>
                 <PaintPriceMarkers>true</PaintPriceMarkers>
                 <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-                <IndicatorId>289</IndicatorId>
+                <IndicatorId>79</IndicatorId>
                 <InstrumentDeserialized>NQ 09-21 Globex</InstrumentDeserialized>
                 <MaxSerialized>0</MaxSerialized>
                 <MinSerialized>0</MinSerialized>
@@ -2119,7 +2125,7 @@
                 <PriceType>Close</PriceType>
               </Input>
             </Indicator>
-            <Indicator BarsIndex="0" Instrument="NQ 09-21 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexBarRange" Panel="-1">
+            <Indicator BarsIndex="0" Instrument="NQ 12-21 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexBarRange" Panel="-1">
               <ApexBarRange xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
                 <IsVisible>true</IsVisible>
                 <AreLinesConfigurable>true</AreLinesConfigurable>
@@ -2137,11 +2143,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>false</DisplayInDataBox>
-                <From>2021-07-29T00:00:00</From>
+                <From>2021-09-15T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-08-01T00:00:00</To>
+                <To>2021-09-18T00:00:00</To>
                 <Calculate>OnPriceChange</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>false</IsAutoScale>
@@ -2184,7 +2190,7 @@
                 <DrawOnPricePanel>true</DrawOnPricePanel>
                 <PaintPriceMarkers>false</PaintPriceMarkers>
                 <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-                <IndicatorId>292</IndicatorId>
+                <IndicatorId>82</IndicatorId>
                 <InstrumentDeserialized>NQ 09-21 Globex</InstrumentDeserialized>
                 <MaxSerialized>0</MaxSerialized>
                 <MinSerialized>0</MinSerialized>
@@ -2196,7 +2202,7 @@
                 <PriceType>Close</PriceType>
               </Input>
             </Indicator>
-            <Indicator BarsIndex="0" Instrument="NQ 09-21 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexOscillationDetector" Panel="-1">
+            <Indicator BarsIndex="0" Instrument="NQ 12-21 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexOscillationDetector" Panel="-1">
               <ApexOscillationDetector xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
                 <IsVisible>true</IsVisible>
                 <AreLinesConfigurable>true</AreLinesConfigurable>
@@ -2214,11 +2220,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>true</DisplayInDataBox>
-                <From>2021-07-29T00:00:00</From>
+                <From>2021-09-15T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-08-01T00:00:00</To>
+                <To>2021-09-18T00:00:00</To>
                 <Calculate>OnEachTick</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>false</IsAutoScale>
@@ -2249,20 +2255,20 @@
                 <DrawOnPricePanel>true</DrawOnPricePanel>
                 <PaintPriceMarkers>false</PaintPriceMarkers>
                 <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-                <IndicatorId>295</IndicatorId>
+                <IndicatorId>109</IndicatorId>
                 <InstrumentDeserialized>NQ 09-21 Globex</InstrumentDeserialized>
                 <MaxSerialized>0</MaxSerialized>
                 <MinSerialized>0</MinSerialized>
                 <ZOrder>10010</ZOrder>
                 <SettingsSerialized>eyJSZXF1aXJlQ2xvc2VCcmVha291dCI6ZmFsc2UsIk1vdmVTYW1lTG93SGlnaCI6ZmFsc2UsIlNwYW4iOjQsIlN0cmVuZ3RoIjo0fQ==</SettingsSerialized>
                 <UserSettingsSerialized>eyJBbGVydHMiOnsidmlzdWFsIjpmYWxzZSwiYXVkaWJsZSI6ZmFsc2UsIndpbmRvd0ZsYXNoIjpmYWxzZX0sIkFsZXJ0c0ZpbHRlciI6ZmFsc2UsIkZvbnRDaGFydExhYmVsIjp7ImZvbnRGYW1pbHkiOiJNaWNyb3NvZnQgU2FucyBTZXJpZiIsInNpemUiOjE0LjAsImJvbGQiOmZhbHNlLCJpdGFsaWMiOmZhbHNlfSwiQm9sZCI6dHJ1ZSwiU2hvd1BlcmNlbnRhZ2UiOnRydWUsIkNvbG9yRG91YmxlIjoiI0ZGRkZENzAwIiwiQ29sb3JISExMIjoiI0ZGRkZGRkZGIiwiQ29sb3JITExIIjoiI0ZGRDNEM0QzIiwiTGFiZWxPZmZzZXQiOjE3fQ==</UserSettingsSerialized>
-                <iOD>98</iOD>
+                <iOD>369</iOD>
               </ApexOscillationDetector>
               <Input>
                 <PriceType>Close</PriceType>
               </Input>
             </Indicator>
-            <Indicator BarsIndex="0" Instrument="NQ 09-21 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexDeviationLevels" Panel="-1">
+            <Indicator BarsIndex="0" Instrument="NQ 12-21 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexDeviationLevels" Panel="-1">
               <ApexDeviationLevels xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
                 <IsVisible>true</IsVisible>
                 <AreLinesConfigurable>true</AreLinesConfigurable>
@@ -2280,11 +2286,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>false</DisplayInDataBox>
-                <From>2021-07-29T00:00:00</From>
+                <From>2021-09-15T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-08-01T00:00:00</To>
+                <To>2021-09-18T00:00:00</To>
                 <Calculate>OnPriceChange</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>false</IsAutoScale>
@@ -2302,7 +2308,7 @@
                 <DrawOnPricePanel>true</DrawOnPricePanel>
                 <PaintPriceMarkers>false</PaintPriceMarkers>
                 <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-                <IndicatorId>298</IndicatorId>
+                <IndicatorId>112</IndicatorId>
                 <InstrumentDeserialized>NQ 09-21 Globex</InstrumentDeserialized>
                 <MaxSerialized>0</MaxSerialized>
                 <MinSerialized>0</MinSerialized>
@@ -2314,7 +2320,7 @@
                 <PriceType>Close</PriceType>
               </Input>
             </Indicator>
-            <Indicator BarsIndex="0" Instrument="NQ 09-21 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexICE" Panel="-1">
+            <Indicator BarsIndex="0" Instrument="NQ 12-21 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexICE" Panel="-1">
               <ApexICE xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
                 <IsVisible>true</IsVisible>
                 <AreLinesConfigurable>true</AreLinesConfigurable>
@@ -2332,11 +2338,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>true</DisplayInDataBox>
-                <From>2021-07-29T00:00:00</From>
+                <From>2021-09-15T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-08-01T00:00:00</To>
+                <To>2021-09-18T00:00:00</To>
                 <Calculate>OnPriceChange</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>false</IsAutoScale>
@@ -2391,7 +2397,7 @@
                 <DrawOnPricePanel>false</DrawOnPricePanel>
                 <PaintPriceMarkers>true</PaintPriceMarkers>
                 <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-                <IndicatorId>301</IndicatorId>
+                <IndicatorId>115</IndicatorId>
                 <InstrumentDeserialized>NQ 09-21 Globex</InstrumentDeserialized>
                 <MaxSerialized>0</MaxSerialized>
                 <MinSerialized>0</MinSerialized>
@@ -2403,7 +2409,7 @@
                 <PriceType>Close</PriceType>
               </Input>
             </Indicator>
-            <Indicator BarsIndex="0" Instrument="NQ 09-21 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexCurrentPrice" Panel="-1">
+            <Indicator BarsIndex="0" Instrument="NQ 12-21 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexCurrentPrice" Panel="-1">
               <ApexCurrentPrice xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
                 <IsVisible>true</IsVisible>
                 <AreLinesConfigurable>true</AreLinesConfigurable>
@@ -2421,11 +2427,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>false</DisplayInDataBox>
-                <From>2021-07-29T00:00:00</From>
+                <From>2021-09-15T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-08-01T00:00:00</To>
+                <To>2021-09-18T00:00:00</To>
                 <Calculate>OnPriceChange</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>true</IsAutoScale>
@@ -2456,7 +2462,7 @@
                 <DrawOnPricePanel>true</DrawOnPricePanel>
                 <PaintPriceMarkers>true</PaintPriceMarkers>
                 <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-                <IndicatorId>304</IndicatorId>
+                <IndicatorId>118</IndicatorId>
                 <InstrumentDeserialized>NQ 09-21 Globex</InstrumentDeserialized>
                 <MaxSerialized>0</MaxSerialized>
                 <MinSerialized>0</MinSerialized>
@@ -2519,7 +2525,7 @@
     &lt;DashStyle /&gt;
   &lt;/Pen.DashStyle&gt;
 &lt;/Pen&gt;</GridLineVPenSerialize>
-              <PanelSplitterPenSerialize>&lt;Pen Thickness="2" Brush="#FF000000" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
+              <PanelSplitterPenSerialize>&lt;Pen Brush="#FF000000" Thickness="2" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
   &lt;Pen.DashStyle&gt;
     &lt;DashStyle /&gt;
   &lt;/Pen.DashStyle&gt;
@@ -2636,7 +2642,7 @@
       <ChartTrader>
         <Account>Playback101</Account>
         <ATM>1_9_21</ATM>
-        <Instrument>NQ 09-21</Instrument>
+        <Instrument>NQ 12-21</Instrument>
         <Quantity>1</Quantity>
         <TIF>Gtc</TIF>
         <Properties>
@@ -2654,37 +2660,37 @@
             <ActionButtonsBackgroundSerialize>DEFAULT</ActionButtonsBackgroundSerialize>
             <BuyButtonsBackgroundSerialize>DEFAULT</BuyButtonsBackgroundSerialize>
             <SellButtonsBackgroundSerialize>DEFAULT</SellButtonsBackgroundSerialize>
-            <LimitSerialize>&lt;Pen Thickness="2" Brush="#FF00FFFF" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
+            <LimitSerialize>&lt;Pen Brush="#FF00FFFF" Thickness="2" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
   &lt;Pen.DashStyle&gt;
     &lt;DashStyle /&gt;
   &lt;/Pen.DashStyle&gt;
 &lt;/Pen&gt;</LimitSerialize>
-            <MitSerialize>&lt;Pen Thickness="2" Brush="#FF00FF7F" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
+            <MitSerialize>&lt;Pen Brush="#FF00FF7F" Thickness="2" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
   &lt;Pen.DashStyle&gt;
     &lt;DashStyle /&gt;
   &lt;/Pen.DashStyle&gt;
 &lt;/Pen&gt;</MitSerialize>
-            <PositionEntryPriceSerialize>&lt;Pen Thickness="2" Brush="#FFDEB887" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
+            <PositionEntryPriceSerialize>&lt;Pen Brush="#FFDEB887" Thickness="2" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
   &lt;Pen.DashStyle&gt;
     &lt;DashStyle /&gt;
   &lt;/Pen.DashStyle&gt;
 &lt;/Pen&gt;</PositionEntryPriceSerialize>
-            <ProfitTargetSerialize>&lt;Pen Thickness="2" Brush="#FF00FF00" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
+            <ProfitTargetSerialize>&lt;Pen Brush="#FF00FF00" Thickness="2" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
   &lt;Pen.DashStyle&gt;
     &lt;DashStyle /&gt;
   &lt;/Pen.DashStyle&gt;
 &lt;/Pen&gt;</ProfitTargetSerialize>
-            <StopLimitSerialize>&lt;Pen Thickness="2" Brush="#FFEE82EE" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
+            <StopLimitSerialize>&lt;Pen Brush="#FFEE82EE" Thickness="2" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
   &lt;Pen.DashStyle&gt;
     &lt;DashStyle /&gt;
   &lt;/Pen.DashStyle&gt;
 &lt;/Pen&gt;</StopLimitSerialize>
-            <StopLossSerialize>&lt;Pen Thickness="2" Brush="#FFFF0000" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
+            <StopLossSerialize>&lt;Pen Brush="#FFFF0000" Thickness="2" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
   &lt;Pen.DashStyle&gt;
     &lt;DashStyle /&gt;
   &lt;/Pen.DashStyle&gt;
 &lt;/Pen&gt;</StopLossSerialize>
-            <StopMarketSerialize>&lt;Pen Thickness="2" Brush="#FFFFC0CB" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
+            <StopMarketSerialize>&lt;Pen Brush="#FFFFC0CB" Thickness="2" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
   &lt;Pen.DashStyle&gt;
     &lt;DashStyle /&gt;
   &lt;/Pen.DashStyle&gt;
@@ -3254,7 +3260,7 @@
                 <ShowGlobalDrawObjects>true</ShowGlobalDrawObjects>
                 <ScaleJustification>Right</ScaleJustification>
                 <TradingHoursVisibility>AllSessions</TradingHoursVisibility>
-                <TradingHoursBreakPenSerialize>&lt;Pen Thickness="1" Brush="#FF008000" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
+                <TradingHoursBreakPenSerialize>&lt;Pen Brush="#FF008000" Thickness="1" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
   &lt;Pen.DashStyle&gt;
     &lt;DashStyle /&gt;
   &lt;/Pen.DashStyle&gt;
@@ -3280,12 +3286,12 @@
                       <ChartStyleTypeSerialize>1</ChartStyleTypeSerialize>
                       <DownBrushSerialize>&lt;SolidColorBrush xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;#FFFFE4C4&lt;/SolidColorBrush&gt;</DownBrushSerialize>
                       <UpBrushSerialize>&lt;SolidColorBrush xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;#00FFFFFF&lt;/SolidColorBrush&gt;</UpBrushSerialize>
-                      <StrokeSerialize>&lt;Pen Thickness="1" Brush="#FFFFE4C4" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
+                      <StrokeSerialize>&lt;Pen Brush="#FFFFE4C4" Thickness="1" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
   &lt;Pen.DashStyle&gt;
     &lt;DashStyle /&gt;
   &lt;/Pen.DashStyle&gt;
 &lt;/Pen&gt;</StrokeSerialize>
-                      <Stroke2Serialize>&lt;Pen Thickness="2" Brush="#FFFFE4C4" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
+                      <Stroke2Serialize>&lt;Pen Brush="#FFFFE4C4" Thickness="2" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
   &lt;Pen.DashStyle&gt;
     &lt;DashStyle /&gt;
   &lt;/Pen.DashStyle&gt;
@@ -3316,11 +3322,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>true</DisplayInDataBox>
-                <From>2021-07-29T00:00:00</From>
+                <From>2021-09-15T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-08-01T00:00:00</To>
+                <To>2021-09-18T00:00:00</To>
                 <Calculate>OnEachTick</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>false</IsAutoScale>
@@ -3338,7 +3344,7 @@
                 <DrawOnPricePanel>true</DrawOnPricePanel>
                 <PaintPriceMarkers>true</PaintPriceMarkers>
                 <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-                <IndicatorId>341</IndicatorId>
+                <IndicatorId>13</IndicatorId>
                 <InstrumentDeserialized>GC 12-21 Nymex</InstrumentDeserialized>
                 <MaxSerialized>0</MaxSerialized>
                 <MinSerialized>0</MinSerialized>
@@ -3369,11 +3375,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>false</DisplayInDataBox>
-                <From>2021-07-29T00:00:00</From>
+                <From>2021-09-15T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-08-01T00:00:00</To>
+                <To>2021-09-18T00:00:00</To>
                 <Calculate>OnPriceChange</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>false</IsAutoScale>
@@ -3391,7 +3397,7 @@
                 <DrawOnPricePanel>true</DrawOnPricePanel>
                 <PaintPriceMarkers>false</PaintPriceMarkers>
                 <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-                <IndicatorId>344</IndicatorId>
+                <IndicatorId>16</IndicatorId>
                 <InstrumentDeserialized>GC 12-21 Nymex</InstrumentDeserialized>
                 <MaxSerialized>0</MaxSerialized>
                 <MinSerialized>0</MinSerialized>
@@ -3421,11 +3427,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>false</DisplayInDataBox>
-                <From>2021-07-29T00:00:00</From>
+                <From>2021-09-15T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-08-01T00:00:00</To>
+                <To>2021-09-18T00:00:00</To>
                 <Calculate>OnPriceChange</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>true</IsAutoScale>
@@ -3456,7 +3462,7 @@
                 <DrawOnPricePanel>true</DrawOnPricePanel>
                 <PaintPriceMarkers>true</PaintPriceMarkers>
                 <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-                <IndicatorId>347</IndicatorId>
+                <IndicatorId>19</IndicatorId>
                 <InstrumentDeserialized>GC 12-21 Nymex</InstrumentDeserialized>
                 <MaxSerialized>0</MaxSerialized>
                 <MinSerialized>0</MinSerialized>
@@ -3486,11 +3492,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>false</DisplayInDataBox>
-                <From>2021-07-29T00:00:00</From>
+                <From>2021-09-15T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Overlay</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-08-01T00:00:00</To>
+                <To>2021-09-18T00:00:00</To>
                 <Calculate>OnEachTick</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>false</IsAutoScale>
@@ -3531,7 +3537,7 @@
                 <DrawOnPricePanel>false</DrawOnPricePanel>
                 <PaintPriceMarkers>false</PaintPriceMarkers>
                 <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-                <IndicatorId>350</IndicatorId>
+                <IndicatorId>22</IndicatorId>
                 <InstrumentDeserialized>GC 12-21 Nymex</InstrumentDeserialized>
                 <MaxSerialized>0</MaxSerialized>
                 <MinSerialized>0</MinSerialized>
@@ -3545,9 +3551,6 @@
                 <CommissionFee>3.98</CommissionFee>
                 <ConsecutiveLossEnabled>false</ConsecutiveLossEnabled>
                 <ConsecutiveLosses>4</ConsecutiveLosses>
-                <EnableMartingale>false</EnableMartingale>
-                <MartingaleSize>4</MartingaleSize>
-                <MartingaleLost>0</MartingaleLost>
                 <FastMarkets>true</FastMarkets>
                 <FastMarketBars>35</FastMarketBars>
                 <FastMarketSecs>60</FastMarketSecs>
@@ -3557,6 +3560,15 @@
                 <EnableML>false</EnableML>
                 <MLScoreMin>55</MLScoreMin>
                 <EntryTickOffset>1</EntryTickOffset>
+                <ReportSim>true</ReportSim>
+                <Username>Kralord</Username>
+                <EnableMartingale>false</EnableMartingale>
+                <MartingaleSize>4</MartingaleSize>
+                <MartingaleLost>0</MartingaleLost>
+                <Enable1324Baccarat>false</Enable1324Baccarat>
+                <Size1324Baccarat>1</Size1324Baccarat>
+                <EnableParoli>false</EnableParoli>
+                <SizeParoli>1</SizeParoli>
                 <DTX_OD_Enabled>false</DTX_OD_Enabled>
                 <DTX_OD_MinValue>0</DTX_OD_MinValue>
                 <DTX_OD_MaxValue>0</DTX_OD_MaxValue>
@@ -3880,12 +3892,12 @@
               <InactivePriceMarkersBrushSerialize>&lt;SolidColorBrush xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;#FFA9A9A9&lt;/SolidColorBrush&gt;</InactivePriceMarkersBrushSerialize>
               <AreHGridLinesVisible>false</AreHGridLinesVisible>
               <AreVGridLinesVisible>false</AreVGridLinesVisible>
-              <AxisPenSerialize>&lt;Pen Thickness="1" Brush="#FFB0C4DE" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
+              <AxisPenSerialize>&lt;Pen Brush="#FFB0C4DE" Thickness="1" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
   &lt;Pen.DashStyle&gt;
     &lt;DashStyle /&gt;
   &lt;/Pen.DashStyle&gt;
 &lt;/Pen&gt;</AxisPenSerialize>
-              <CrosshairPen>&lt;Pen Thickness="1" Brush="#FFFFFFFF" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
+              <CrosshairPen>&lt;Pen Brush="#FFFFFFFF" Thickness="1" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
   &lt;Pen.DashStyle&gt;
     &lt;DashStyle /&gt;
   &lt;/Pen.DashStyle&gt;
@@ -3909,7 +3921,7 @@
     &lt;DashStyle /&gt;
   &lt;/Pen.DashStyle&gt;
 &lt;/Pen&gt;</GridLineVPenSerialize>
-              <PanelSplitterPenSerialize>&lt;Pen Thickness="2" Brush="#FFB0C4DE" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
+              <PanelSplitterPenSerialize>&lt;Pen Brush="#FFB0C4DE" Thickness="2" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
   &lt;Pen.DashStyle&gt;
     &lt;DashStyle /&gt;
   &lt;/Pen.DashStyle&gt;
@@ -3932,8 +3944,8 @@
                   <AutoScaleMarginLower>40</AutoScaleMarginLower>
                   <AutoScaleMarginUpper>40</AutoScaleMarginUpper>
                   <YAxisScalingType>Linear</YAxisScalingType>
-                  <FixedScaleMaxSerialize>1812.1</FixedScaleMaxSerialize>
-                  <FixedScaleMinSerialize>1804</FixedScaleMinSerialize>
+                  <FixedScaleMaxSerialize>1754.6</FixedScaleMaxSerialize>
+                  <FixedScaleMinSerialize>1750.2</FixedScaleMinSerialize>
                 </ChartScaleProperties>
               </Right>
               <Left>
@@ -3994,37 +4006,37 @@
             <ActionButtonsBackgroundSerialize>DEFAULT</ActionButtonsBackgroundSerialize>
             <BuyButtonsBackgroundSerialize>DEFAULT</BuyButtonsBackgroundSerialize>
             <SellButtonsBackgroundSerialize>DEFAULT</SellButtonsBackgroundSerialize>
-            <LimitSerialize>&lt;Pen Thickness="2" Brush="#FF00FFFF" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
+            <LimitSerialize>&lt;Pen Brush="#FF00FFFF" Thickness="2" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
   &lt;Pen.DashStyle&gt;
     &lt;DashStyle /&gt;
   &lt;/Pen.DashStyle&gt;
 &lt;/Pen&gt;</LimitSerialize>
-            <MitSerialize>&lt;Pen Thickness="2" Brush="#FF00FF7F" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
+            <MitSerialize>&lt;Pen Brush="#FF00FF7F" Thickness="2" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
   &lt;Pen.DashStyle&gt;
     &lt;DashStyle /&gt;
   &lt;/Pen.DashStyle&gt;
 &lt;/Pen&gt;</MitSerialize>
-            <PositionEntryPriceSerialize>&lt;Pen Thickness="2" Brush="#FFDEB887" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
+            <PositionEntryPriceSerialize>&lt;Pen Brush="#FFDEB887" Thickness="2" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
   &lt;Pen.DashStyle&gt;
     &lt;DashStyle /&gt;
   &lt;/Pen.DashStyle&gt;
 &lt;/Pen&gt;</PositionEntryPriceSerialize>
-            <ProfitTargetSerialize>&lt;Pen Thickness="2" Brush="#FF00FF00" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
+            <ProfitTargetSerialize>&lt;Pen Brush="#FF00FF00" Thickness="2" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
   &lt;Pen.DashStyle&gt;
     &lt;DashStyle /&gt;
   &lt;/Pen.DashStyle&gt;
 &lt;/Pen&gt;</ProfitTargetSerialize>
-            <StopLimitSerialize>&lt;Pen Thickness="2" Brush="#FFEE82EE" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
+            <StopLimitSerialize>&lt;Pen Brush="#FFEE82EE" Thickness="2" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
   &lt;Pen.DashStyle&gt;
     &lt;DashStyle /&gt;
   &lt;/Pen.DashStyle&gt;
 &lt;/Pen&gt;</StopLimitSerialize>
-            <StopLossSerialize>&lt;Pen Thickness="2" Brush="#FFFF0000" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
+            <StopLossSerialize>&lt;Pen Brush="#FFFF0000" Thickness="2" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
   &lt;Pen.DashStyle&gt;
     &lt;DashStyle /&gt;
   &lt;/Pen.DashStyle&gt;
 &lt;/Pen&gt;</StopLossSerialize>
-            <StopMarketSerialize>&lt;Pen Thickness="2" Brush="#FFFFC0CB" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
+            <StopMarketSerialize>&lt;Pen Brush="#FFFFC0CB" Thickness="2" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
   &lt;Pen.DashStyle&gt;
     &lt;DashStyle /&gt;
   &lt;/Pen.DashStyle&gt;
@@ -4071,7 +4083,7 @@
                 <AutoScale>true</AutoScale>
                 <CenterPriceOnScale>false</CenterPriceOnScale>
                 <DisplayInDataBox>true</DisplayInDataBox>
-                <Label>YM 09-21</Label>
+                <Label>YM 12-21</Label>
                 <MaxSerialized>0</MaxSerialized>
                 <MinSerialized>0</MinSerialized>
                 <Panel>0</Panel>
@@ -4082,7 +4094,7 @@
                 <ShowGlobalDrawObjects>true</ShowGlobalDrawObjects>
                 <ScaleJustification>Right</ScaleJustification>
                 <TradingHoursVisibility>AllSessions</TradingHoursVisibility>
-                <TradingHoursBreakPenSerialize>&lt;Pen Thickness="1" Brush="#FF008000" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
+                <TradingHoursBreakPenSerialize>&lt;Pen Brush="#FF008000" Thickness="1" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
   &lt;Pen.DashStyle&gt;
     &lt;DashStyle /&gt;
   &lt;/Pen.DashStyle&gt;
@@ -4094,7 +4106,7 @@
                 <ShortExecutionBrushSerialize>DEFAULT</ShortExecutionBrushSerialize>
                 <BarsSeriesId>da32dea82396424f862b970b99226a2d</BarsSeriesId>
                 <Id>db258d621b074f36bd20449435353b55</Id>
-                <Instrument>YM 09-21</Instrument>
+                <Instrument>YM 12-21</Instrument>
                 <IsLinked>true</IsLinked>
                 <IsPrimarySeries>true</IsPrimarySeries>
                 <ZOrder>7</ZOrder>
@@ -4108,12 +4120,12 @@
                       <ChartStyleTypeSerialize>1</ChartStyleTypeSerialize>
                       <DownBrushSerialize>&lt;SolidColorBrush xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;#FFFFE4C4&lt;/SolidColorBrush&gt;</DownBrushSerialize>
                       <UpBrushSerialize>&lt;SolidColorBrush xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;#00FFFFFF&lt;/SolidColorBrush&gt;</UpBrushSerialize>
-                      <StrokeSerialize>&lt;Pen Thickness="1" Brush="#FFFFE4C4" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
+                      <StrokeSerialize>&lt;Pen Brush="#FFFFE4C4" Thickness="1" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
   &lt;Pen.DashStyle&gt;
     &lt;DashStyle /&gt;
   &lt;/Pen.DashStyle&gt;
 &lt;/Pen&gt;</StrokeSerialize>
-                      <Stroke2Serialize>&lt;Pen Thickness="2" Brush="#FFFFE4C4" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
+                      <Stroke2Serialize>&lt;Pen Brush="#FFFFE4C4" Thickness="2" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
   &lt;Pen.DashStyle&gt;
     &lt;DashStyle /&gt;
   &lt;/Pen.DashStyle&gt;
@@ -4126,7 +4138,7 @@
           </DataSeries>
           <Strategies />
           <Indicators>
-            <Indicator BarsIndex="0" Instrument="YM 09-21 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexOrderPrints" Panel="-1">
+            <Indicator BarsIndex="0" Instrument="YM 12-21 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexOrderPrints" Panel="-1">
               <ApexOrderPrints xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
                 <IsVisible>true</IsVisible>
                 <AreLinesConfigurable>true</AreLinesConfigurable>
@@ -4144,11 +4156,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>true</DisplayInDataBox>
-                <From>2021-07-29T00:00:00</From>
+                <From>2021-09-15T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-08-01T00:00:00</To>
+                <To>2021-09-18T00:00:00</To>
                 <Calculate>OnEachTick</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>false</IsAutoScale>
@@ -4166,7 +4178,7 @@
                 <DrawOnPricePanel>true</DrawOnPricePanel>
                 <PaintPriceMarkers>true</PaintPriceMarkers>
                 <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-                <IndicatorId>200</IndicatorId>
+                <IndicatorId>139</IndicatorId>
                 <InstrumentDeserialized>YM 09-21 Globex</InstrumentDeserialized>
                 <MaxSerialized>0</MaxSerialized>
                 <MinSerialized>0</MinSerialized>
@@ -4179,7 +4191,7 @@
                 <PriceType>Close</PriceType>
               </Input>
             </Indicator>
-            <Indicator BarsIndex="0" Instrument="YM 09-21 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexDeviationLevels" Panel="-1">
+            <Indicator BarsIndex="0" Instrument="YM 12-21 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexDeviationLevels" Panel="-1">
               <ApexDeviationLevels xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
                 <IsVisible>true</IsVisible>
                 <AreLinesConfigurable>true</AreLinesConfigurable>
@@ -4197,11 +4209,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>false</DisplayInDataBox>
-                <From>2021-07-29T00:00:00</From>
+                <From>2021-09-15T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-08-01T00:00:00</To>
+                <To>2021-09-18T00:00:00</To>
                 <Calculate>OnPriceChange</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>false</IsAutoScale>
@@ -4219,7 +4231,7 @@
                 <DrawOnPricePanel>true</DrawOnPricePanel>
                 <PaintPriceMarkers>false</PaintPriceMarkers>
                 <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-                <IndicatorId>203</IndicatorId>
+                <IndicatorId>142</IndicatorId>
                 <InstrumentDeserialized>YM 09-21 Globex</InstrumentDeserialized>
                 <MaxSerialized>0</MaxSerialized>
                 <MinSerialized>0</MinSerialized>
@@ -4231,7 +4243,7 @@
                 <PriceType>Close</PriceType>
               </Input>
             </Indicator>
-            <Indicator BarsIndex="0" Instrument="YM 09-21 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexCurrentPrice" Panel="-1">
+            <Indicator BarsIndex="0" Instrument="YM 12-21 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexCurrentPrice" Panel="-1">
               <ApexCurrentPrice xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
                 <IsVisible>true</IsVisible>
                 <AreLinesConfigurable>true</AreLinesConfigurable>
@@ -4249,11 +4261,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>false</DisplayInDataBox>
-                <From>2021-07-29T00:00:00</From>
+                <From>2021-09-15T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-08-01T00:00:00</To>
+                <To>2021-09-18T00:00:00</To>
                 <Calculate>OnPriceChange</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>true</IsAutoScale>
@@ -4284,7 +4296,7 @@
                 <DrawOnPricePanel>true</DrawOnPricePanel>
                 <PaintPriceMarkers>true</PaintPriceMarkers>
                 <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-                <IndicatorId>206</IndicatorId>
+                <IndicatorId>145</IndicatorId>
                 <InstrumentDeserialized>YM 09-21 Globex</InstrumentDeserialized>
                 <MaxSerialized>0</MaxSerialized>
                 <MinSerialized>0</MinSerialized>
@@ -4296,7 +4308,7 @@
                 <PriceType>Close</PriceType>
               </Input>
             </Indicator>
-            <Indicator BarsIndex="0" Instrument="YM 09-21 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexWalls" Panel="-1">
+            <Indicator BarsIndex="0" Instrument="YM 12-21 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexWalls" Panel="-1">
               <ApexWalls xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
                 <IsVisible>true</IsVisible>
                 <AreLinesConfigurable>true</AreLinesConfigurable>
@@ -4314,11 +4326,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>false</DisplayInDataBox>
-                <From>2021-07-29T00:00:00</From>
+                <From>2021-09-15T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-08-01T00:00:00</To>
+                <To>2021-09-18T00:00:00</To>
                 <Calculate>OnBarClose</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>false</IsAutoScale>
@@ -4336,7 +4348,7 @@
                 <DrawOnPricePanel>true</DrawOnPricePanel>
                 <PaintPriceMarkers>false</PaintPriceMarkers>
                 <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-                <IndicatorId>209</IndicatorId>
+                <IndicatorId>148</IndicatorId>
                 <InstrumentDeserialized>YM 09-21 Globex</InstrumentDeserialized>
                 <MaxSerialized>0</MaxSerialized>
                 <MinSerialized>0</MinSerialized>
@@ -4348,7 +4360,7 @@
                 <PriceType>Close</PriceType>
               </Input>
             </Indicator>
-            <Indicator BarsIndex="0" Instrument="YM 09-21 Globex" Name="NinjaTrader.NinjaScript.Indicators.AutoAlgo" Panel="-1">
+            <Indicator BarsIndex="0" Instrument="YM 12-21 Globex" Name="NinjaTrader.NinjaScript.Indicators.AutoAlgo" Panel="-1">
               <AutoAlgo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
                 <IsVisible>true</IsVisible>
                 <AreLinesConfigurable>true</AreLinesConfigurable>
@@ -4366,11 +4378,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>false</DisplayInDataBox>
-                <From>2021-07-29T00:00:00</From>
+                <From>2021-09-15T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Overlay</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-08-01T00:00:00</To>
+                <To>2021-09-18T00:00:00</To>
                 <Calculate>OnEachTick</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>false</IsAutoScale>
@@ -4411,7 +4423,7 @@
                 <DrawOnPricePanel>false</DrawOnPricePanel>
                 <PaintPriceMarkers>false</PaintPriceMarkers>
                 <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-                <IndicatorId>212</IndicatorId>
+                <IndicatorId>151</IndicatorId>
                 <InstrumentDeserialized>YM 09-21 Globex</InstrumentDeserialized>
                 <MaxSerialized>0</MaxSerialized>
                 <MinSerialized>0</MinSerialized>
@@ -4425,9 +4437,6 @@
                 <CommissionFee>3.98</CommissionFee>
                 <ConsecutiveLossEnabled>false</ConsecutiveLossEnabled>
                 <ConsecutiveLosses>4</ConsecutiveLosses>
-                <EnableMartingale>false</EnableMartingale>
-                <MartingaleSize>4</MartingaleSize>
-                <MartingaleLost>0</MartingaleLost>
                 <FastMarkets>true</FastMarkets>
                 <FastMarketBars>35</FastMarketBars>
                 <FastMarketSecs>60</FastMarketSecs>
@@ -4437,6 +4446,15 @@
                 <EnableML>false</EnableML>
                 <MLScoreMin>55</MLScoreMin>
                 <EntryTickOffset>1</EntryTickOffset>
+                <ReportSim>true</ReportSim>
+                <Username>Kralord</Username>
+                <EnableMartingale>false</EnableMartingale>
+                <MartingaleSize>4</MartingaleSize>
+                <MartingaleLost>0</MartingaleLost>
+                <Enable1324Baccarat>false</Enable1324Baccarat>
+                <Size1324Baccarat>1</Size1324Baccarat>
+                <EnableParoli>false</EnableParoli>
+                <SizeParoli>1</SizeParoli>
                 <DTX_OD_Enabled>false</DTX_OD_Enabled>
                 <DTX_OD_MinValue>0</DTX_OD_MinValue>
                 <DTX_OD_MaxValue>0</DTX_OD_MaxValue>
@@ -4760,12 +4778,12 @@
               <InactivePriceMarkersBrushSerialize>&lt;SolidColorBrush xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;#FFA9A9A9&lt;/SolidColorBrush&gt;</InactivePriceMarkersBrushSerialize>
               <AreHGridLinesVisible>false</AreHGridLinesVisible>
               <AreVGridLinesVisible>false</AreVGridLinesVisible>
-              <AxisPenSerialize>&lt;Pen Thickness="1" Brush="#FFB0C4DE" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
+              <AxisPenSerialize>&lt;Pen Brush="#FFB0C4DE" Thickness="1" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
   &lt;Pen.DashStyle&gt;
     &lt;DashStyle /&gt;
   &lt;/Pen.DashStyle&gt;
 &lt;/Pen&gt;</AxisPenSerialize>
-              <CrosshairPen>&lt;Pen Thickness="1" Brush="#FFFFFFFF" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
+              <CrosshairPen>&lt;Pen Brush="#FFFFFFFF" Thickness="1" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
   &lt;Pen.DashStyle&gt;
     &lt;DashStyle /&gt;
   &lt;/Pen.DashStyle&gt;
@@ -4789,7 +4807,7 @@
     &lt;DashStyle /&gt;
   &lt;/Pen.DashStyle&gt;
 &lt;/Pen&gt;</GridLineVPenSerialize>
-              <PanelSplitterPenSerialize>&lt;Pen Thickness="2" Brush="#FFB0C4DE" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
+              <PanelSplitterPenSerialize>&lt;Pen Brush="#FFB0C4DE" Thickness="2" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
   &lt;Pen.DashStyle&gt;
     &lt;DashStyle /&gt;
   &lt;/Pen.DashStyle&gt;
@@ -4812,8 +4830,8 @@
                   <AutoScaleMarginLower>40</AutoScaleMarginLower>
                   <AutoScaleMarginUpper>40</AutoScaleMarginUpper>
                   <YAxisScalingType>Linear</YAxisScalingType>
-                  <FixedScaleMaxSerialize>34854</FixedScaleMaxSerialize>
-                  <FixedScaleMinSerialize>34781</FixedScaleMinSerialize>
+                  <FixedScaleMaxSerialize>34478</FixedScaleMaxSerialize>
+                  <FixedScaleMinSerialize>34354</FixedScaleMinSerialize>
                 </ChartScaleProperties>
               </Right>
               <Left>
@@ -4856,7 +4874,7 @@
       <ChartTrader>
         <Account>Playback101</Account>
         <ATM>1_9_21</ATM>
-        <Instrument>YM 09-21</Instrument>
+        <Instrument>YM 12-21</Instrument>
         <Quantity>1</Quantity>
         <TIF>Gtc</TIF>
         <Properties>
@@ -4874,37 +4892,37 @@
             <ActionButtonsBackgroundSerialize>DEFAULT</ActionButtonsBackgroundSerialize>
             <BuyButtonsBackgroundSerialize>DEFAULT</BuyButtonsBackgroundSerialize>
             <SellButtonsBackgroundSerialize>DEFAULT</SellButtonsBackgroundSerialize>
-            <LimitSerialize>&lt;Pen Thickness="2" Brush="#FF00FFFF" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
+            <LimitSerialize>&lt;Pen Brush="#FF00FFFF" Thickness="2" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
   &lt;Pen.DashStyle&gt;
     &lt;DashStyle /&gt;
   &lt;/Pen.DashStyle&gt;
 &lt;/Pen&gt;</LimitSerialize>
-            <MitSerialize>&lt;Pen Thickness="2" Brush="#FF00FF7F" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
+            <MitSerialize>&lt;Pen Brush="#FF00FF7F" Thickness="2" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
   &lt;Pen.DashStyle&gt;
     &lt;DashStyle /&gt;
   &lt;/Pen.DashStyle&gt;
 &lt;/Pen&gt;</MitSerialize>
-            <PositionEntryPriceSerialize>&lt;Pen Thickness="2" Brush="#FFDEB887" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
+            <PositionEntryPriceSerialize>&lt;Pen Brush="#FFDEB887" Thickness="2" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
   &lt;Pen.DashStyle&gt;
     &lt;DashStyle /&gt;
   &lt;/Pen.DashStyle&gt;
 &lt;/Pen&gt;</PositionEntryPriceSerialize>
-            <ProfitTargetSerialize>&lt;Pen Thickness="2" Brush="#FF00FF00" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
+            <ProfitTargetSerialize>&lt;Pen Brush="#FF00FF00" Thickness="2" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
   &lt;Pen.DashStyle&gt;
     &lt;DashStyle /&gt;
   &lt;/Pen.DashStyle&gt;
 &lt;/Pen&gt;</ProfitTargetSerialize>
-            <StopLimitSerialize>&lt;Pen Thickness="2" Brush="#FFEE82EE" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
+            <StopLimitSerialize>&lt;Pen Brush="#FFEE82EE" Thickness="2" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
   &lt;Pen.DashStyle&gt;
     &lt;DashStyle /&gt;
   &lt;/Pen.DashStyle&gt;
 &lt;/Pen&gt;</StopLimitSerialize>
-            <StopLossSerialize>&lt;Pen Thickness="2" Brush="#FFFF0000" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
+            <StopLossSerialize>&lt;Pen Brush="#FFFF0000" Thickness="2" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
   &lt;Pen.DashStyle&gt;
     &lt;DashStyle /&gt;
   &lt;/Pen.DashStyle&gt;
 &lt;/Pen&gt;</StopLossSerialize>
-            <StopMarketSerialize>&lt;Pen Thickness="2" Brush="#FFFFC0CB" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
+            <StopMarketSerialize>&lt;Pen Brush="#FFFFC0CB" Thickness="2" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
   &lt;Pen.DashStyle&gt;
     &lt;DashStyle /&gt;
   &lt;/Pen.DashStyle&gt;
@@ -4951,7 +4969,7 @@
                 <AutoScale>true</AutoScale>
                 <CenterPriceOnScale>false</CenterPriceOnScale>
                 <DisplayInDataBox>true</DisplayInDataBox>
-                <Label>RTY 09-21</Label>
+                <Label>RTY 12-21</Label>
                 <MaxSerialized>0</MaxSerialized>
                 <MinSerialized>0</MinSerialized>
                 <Panel>0</Panel>
@@ -4962,7 +4980,7 @@
                 <ShowGlobalDrawObjects>true</ShowGlobalDrawObjects>
                 <ScaleJustification>Right</ScaleJustification>
                 <TradingHoursVisibility>AllSessions</TradingHoursVisibility>
-                <TradingHoursBreakPenSerialize>&lt;Pen Thickness="1" Brush="#FF008000" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
+                <TradingHoursBreakPenSerialize>&lt;Pen Brush="#FF008000" Thickness="1" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
   &lt;Pen.DashStyle&gt;
     &lt;DashStyle /&gt;
   &lt;/Pen.DashStyle&gt;
@@ -4974,7 +4992,7 @@
                 <ShortExecutionBrushSerialize>DEFAULT</ShortExecutionBrushSerialize>
                 <BarsSeriesId>e641d937dac5400da10e2ca7a7fbb85b</BarsSeriesId>
                 <Id>e641d937dac5400da10e2ca7a7fbb85b</Id>
-                <Instrument>RTY 09-21</Instrument>
+                <Instrument>RTY 12-21</Instrument>
                 <IsLinked>true</IsLinked>
                 <IsPrimarySeries>true</IsPrimarySeries>
                 <ZOrder>1</ZOrder>
@@ -4988,12 +5006,12 @@
                       <ChartStyleTypeSerialize>1</ChartStyleTypeSerialize>
                       <DownBrushSerialize>&lt;SolidColorBrush xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;#FFFFE4C4&lt;/SolidColorBrush&gt;</DownBrushSerialize>
                       <UpBrushSerialize>&lt;SolidColorBrush xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;#00FFFFFF&lt;/SolidColorBrush&gt;</UpBrushSerialize>
-                      <StrokeSerialize>&lt;Pen Thickness="1" Brush="#FFFFE4C4" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
+                      <StrokeSerialize>&lt;Pen Brush="#FFFFE4C4" Thickness="1" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
   &lt;Pen.DashStyle&gt;
     &lt;DashStyle /&gt;
   &lt;/Pen.DashStyle&gt;
 &lt;/Pen&gt;</StrokeSerialize>
-                      <Stroke2Serialize>&lt;Pen Thickness="2" Brush="#FFFFE4C4" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
+                      <Stroke2Serialize>&lt;Pen Brush="#FFFFE4C4" Thickness="2" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
   &lt;Pen.DashStyle&gt;
     &lt;DashStyle /&gt;
   &lt;/Pen.DashStyle&gt;
@@ -5006,7 +5024,7 @@
           </DataSeries>
           <Strategies />
           <Indicators>
-            <Indicator BarsIndex="0" Instrument="RTY 09-21 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexOrderPrints" Panel="-1">
+            <Indicator BarsIndex="0" Instrument="RTY 12-21 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexOrderPrints" Panel="-1">
               <ApexOrderPrints xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
                 <IsVisible>true</IsVisible>
                 <AreLinesConfigurable>true</AreLinesConfigurable>
@@ -5024,11 +5042,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>true</DisplayInDataBox>
-                <From>2021-07-29T00:00:00</From>
+                <From>2021-09-15T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-08-01T00:00:00</To>
+                <To>2021-09-18T00:00:00</To>
                 <Calculate>OnEachTick</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>false</IsAutoScale>
@@ -5046,7 +5064,7 @@
                 <DrawOnPricePanel>true</DrawOnPricePanel>
                 <PaintPriceMarkers>true</PaintPriceMarkers>
                 <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-                <IndicatorId>362</IndicatorId>
+                <IndicatorId>1</IndicatorId>
                 <InstrumentDeserialized>RTY 09-21 Globex</InstrumentDeserialized>
                 <MaxSerialized>0</MaxSerialized>
                 <MinSerialized>0</MinSerialized>
@@ -5059,7 +5077,7 @@
                 <PriceType>Close</PriceType>
               </Input>
             </Indicator>
-            <Indicator BarsIndex="0" Instrument="RTY 09-21 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexDeviationLevels" Panel="-1">
+            <Indicator BarsIndex="0" Instrument="RTY 12-21 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexDeviationLevels" Panel="-1">
               <ApexDeviationLevels xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
                 <IsVisible>true</IsVisible>
                 <AreLinesConfigurable>true</AreLinesConfigurable>
@@ -5077,11 +5095,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>false</DisplayInDataBox>
-                <From>2021-07-29T00:00:00</From>
+                <From>2021-09-15T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-08-01T00:00:00</To>
+                <To>2021-09-18T00:00:00</To>
                 <Calculate>OnPriceChange</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>false</IsAutoScale>
@@ -5099,7 +5117,7 @@
                 <DrawOnPricePanel>true</DrawOnPricePanel>
                 <PaintPriceMarkers>false</PaintPriceMarkers>
                 <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-                <IndicatorId>366</IndicatorId>
+                <IndicatorId>4</IndicatorId>
                 <InstrumentDeserialized>RTY 09-21 Globex</InstrumentDeserialized>
                 <MaxSerialized>0</MaxSerialized>
                 <MinSerialized>0</MinSerialized>
@@ -5111,7 +5129,7 @@
                 <PriceType>Close</PriceType>
               </Input>
             </Indicator>
-            <Indicator BarsIndex="0" Instrument="RTY 09-21 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexCurrentPrice" Panel="-1">
+            <Indicator BarsIndex="0" Instrument="RTY 12-21 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexCurrentPrice" Panel="-1">
               <ApexCurrentPrice xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
                 <IsVisible>true</IsVisible>
                 <AreLinesConfigurable>true</AreLinesConfigurable>
@@ -5129,11 +5147,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>false</DisplayInDataBox>
-                <From>2021-07-29T00:00:00</From>
+                <From>2021-09-15T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-08-01T00:00:00</To>
+                <To>2021-09-18T00:00:00</To>
                 <Calculate>OnPriceChange</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>true</IsAutoScale>
@@ -5164,7 +5182,7 @@
                 <DrawOnPricePanel>true</DrawOnPricePanel>
                 <PaintPriceMarkers>true</PaintPriceMarkers>
                 <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-                <IndicatorId>369</IndicatorId>
+                <IndicatorId>7</IndicatorId>
                 <InstrumentDeserialized>RTY 09-21 Globex</InstrumentDeserialized>
                 <MaxSerialized>0</MaxSerialized>
                 <MinSerialized>0</MinSerialized>
@@ -5176,7 +5194,7 @@
                 <PriceType>Close</PriceType>
               </Input>
             </Indicator>
-            <Indicator BarsIndex="0" Instrument="RTY 09-21 Globex" Name="NinjaTrader.NinjaScript.Indicators.AutoAlgo" Panel="-1">
+            <Indicator BarsIndex="0" Instrument="RTY 12-21 Globex" Name="NinjaTrader.NinjaScript.Indicators.AutoAlgo" Panel="-1">
               <AutoAlgo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
                 <IsVisible>true</IsVisible>
                 <AreLinesConfigurable>true</AreLinesConfigurable>
@@ -5194,11 +5212,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>false</DisplayInDataBox>
-                <From>2021-07-29T00:00:00</From>
+                <From>2021-09-15T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Overlay</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-08-01T00:00:00</To>
+                <To>2021-09-18T00:00:00</To>
                 <Calculate>OnEachTick</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>false</IsAutoScale>
@@ -5239,7 +5257,7 @@
                 <DrawOnPricePanel>false</DrawOnPricePanel>
                 <PaintPriceMarkers>false</PaintPriceMarkers>
                 <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-                <IndicatorId>372</IndicatorId>
+                <IndicatorId>10</IndicatorId>
                 <InstrumentDeserialized>RTY 09-21 Globex</InstrumentDeserialized>
                 <MaxSerialized>0</MaxSerialized>
                 <MinSerialized>0</MinSerialized>
@@ -5253,9 +5271,6 @@
                 <CommissionFee>3.98</CommissionFee>
                 <ConsecutiveLossEnabled>false</ConsecutiveLossEnabled>
                 <ConsecutiveLosses>4</ConsecutiveLosses>
-                <EnableMartingale>false</EnableMartingale>
-                <MartingaleSize>4</MartingaleSize>
-                <MartingaleLost>0</MartingaleLost>
                 <FastMarkets>true</FastMarkets>
                 <FastMarketBars>35</FastMarketBars>
                 <FastMarketSecs>60</FastMarketSecs>
@@ -5265,6 +5280,15 @@
                 <EnableML>false</EnableML>
                 <MLScoreMin>55</MLScoreMin>
                 <EntryTickOffset>1</EntryTickOffset>
+                <ReportSim>true</ReportSim>
+                <Username>Kralord</Username>
+                <EnableMartingale>false</EnableMartingale>
+                <MartingaleSize>4</MartingaleSize>
+                <MartingaleLost>0</MartingaleLost>
+                <Enable1324Baccarat>false</Enable1324Baccarat>
+                <Size1324Baccarat>1</Size1324Baccarat>
+                <EnableParoli>false</EnableParoli>
+                <SizeParoli>1</SizeParoli>
                 <DTX_OD_Enabled>false</DTX_OD_Enabled>
                 <DTX_OD_MinValue>0</DTX_OD_MinValue>
                 <DTX_OD_MaxValue>0</DTX_OD_MaxValue>
@@ -5588,12 +5612,12 @@
               <InactivePriceMarkersBrushSerialize>&lt;SolidColorBrush xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;#FFA9A9A9&lt;/SolidColorBrush&gt;</InactivePriceMarkersBrushSerialize>
               <AreHGridLinesVisible>false</AreHGridLinesVisible>
               <AreVGridLinesVisible>false</AreVGridLinesVisible>
-              <AxisPenSerialize>&lt;Pen Thickness="1" Brush="#FFB0C4DE" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
+              <AxisPenSerialize>&lt;Pen Brush="#FFB0C4DE" Thickness="1" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
   &lt;Pen.DashStyle&gt;
     &lt;DashStyle /&gt;
   &lt;/Pen.DashStyle&gt;
 &lt;/Pen&gt;</AxisPenSerialize>
-              <CrosshairPen>&lt;Pen Thickness="1" Brush="#FFFFFFFF" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
+              <CrosshairPen>&lt;Pen Brush="#FFFFFFFF" Thickness="1" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
   &lt;Pen.DashStyle&gt;
     &lt;DashStyle /&gt;
   &lt;/Pen.DashStyle&gt;
@@ -5617,7 +5641,7 @@
     &lt;DashStyle /&gt;
   &lt;/Pen.DashStyle&gt;
 &lt;/Pen&gt;</GridLineVPenSerialize>
-              <PanelSplitterPenSerialize>&lt;Pen Thickness="2" Brush="#FFB0C4DE" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
+              <PanelSplitterPenSerialize>&lt;Pen Brush="#FFB0C4DE" Thickness="2" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
   &lt;Pen.DashStyle&gt;
     &lt;DashStyle /&gt;
   &lt;/Pen.DashStyle&gt;
@@ -5640,8 +5664,8 @@
                   <AutoScaleMarginLower>40</AutoScaleMarginLower>
                   <AutoScaleMarginUpper>40</AutoScaleMarginUpper>
                   <YAxisScalingType>Linear</YAxisScalingType>
-                  <FixedScaleMaxSerialize>2193.3</FixedScaleMaxSerialize>
-                  <FixedScaleMinSerialize>2187</FixedScaleMinSerialize>
+                  <FixedScaleMaxSerialize>2229.3</FixedScaleMaxSerialize>
+                  <FixedScaleMinSerialize>2222</FixedScaleMinSerialize>
                 </ChartScaleProperties>
               </Right>
               <Left>
@@ -5684,7 +5708,7 @@
       <ChartTrader>
         <Account>Playback101</Account>
         <ATM>1_9_21</ATM>
-        <Instrument>RTY 09-21</Instrument>
+        <Instrument>RTY 12-21</Instrument>
         <Quantity>1</Quantity>
         <TIF>Gtc</TIF>
         <Properties>
@@ -5702,37 +5726,37 @@
             <ActionButtonsBackgroundSerialize>DEFAULT</ActionButtonsBackgroundSerialize>
             <BuyButtonsBackgroundSerialize>DEFAULT</BuyButtonsBackgroundSerialize>
             <SellButtonsBackgroundSerialize>DEFAULT</SellButtonsBackgroundSerialize>
-            <LimitSerialize>&lt;Pen Thickness="2" Brush="#FF00FFFF" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
+            <LimitSerialize>&lt;Pen Brush="#FF00FFFF" Thickness="2" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
   &lt;Pen.DashStyle&gt;
     &lt;DashStyle /&gt;
   &lt;/Pen.DashStyle&gt;
 &lt;/Pen&gt;</LimitSerialize>
-            <MitSerialize>&lt;Pen Thickness="2" Brush="#FF00FF7F" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
+            <MitSerialize>&lt;Pen Brush="#FF00FF7F" Thickness="2" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
   &lt;Pen.DashStyle&gt;
     &lt;DashStyle /&gt;
   &lt;/Pen.DashStyle&gt;
 &lt;/Pen&gt;</MitSerialize>
-            <PositionEntryPriceSerialize>&lt;Pen Thickness="2" Brush="#FFDEB887" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
+            <PositionEntryPriceSerialize>&lt;Pen Brush="#FFDEB887" Thickness="2" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
   &lt;Pen.DashStyle&gt;
     &lt;DashStyle /&gt;
   &lt;/Pen.DashStyle&gt;
 &lt;/Pen&gt;</PositionEntryPriceSerialize>
-            <ProfitTargetSerialize>&lt;Pen Thickness="2" Brush="#FF00FF00" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
+            <ProfitTargetSerialize>&lt;Pen Brush="#FF00FF00" Thickness="2" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
   &lt;Pen.DashStyle&gt;
     &lt;DashStyle /&gt;
   &lt;/Pen.DashStyle&gt;
 &lt;/Pen&gt;</ProfitTargetSerialize>
-            <StopLimitSerialize>&lt;Pen Thickness="2" Brush="#FFEE82EE" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
+            <StopLimitSerialize>&lt;Pen Brush="#FFEE82EE" Thickness="2" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
   &lt;Pen.DashStyle&gt;
     &lt;DashStyle /&gt;
   &lt;/Pen.DashStyle&gt;
 &lt;/Pen&gt;</StopLimitSerialize>
-            <StopLossSerialize>&lt;Pen Thickness="2" Brush="#FFFF0000" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
+            <StopLossSerialize>&lt;Pen Brush="#FFFF0000" Thickness="2" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
   &lt;Pen.DashStyle&gt;
     &lt;DashStyle /&gt;
   &lt;/Pen.DashStyle&gt;
 &lt;/Pen&gt;</StopLossSerialize>
-            <StopMarketSerialize>&lt;Pen Thickness="2" Brush="#FFFFC0CB" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
+            <StopMarketSerialize>&lt;Pen Brush="#FFFFC0CB" Thickness="2" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
   &lt;Pen.DashStyle&gt;
     &lt;DashStyle /&gt;
   &lt;/Pen.DashStyle&gt;
@@ -5779,7 +5803,7 @@
                 <AutoScale>true</AutoScale>
                 <CenterPriceOnScale>false</CenterPriceOnScale>
                 <DisplayInDataBox>true</DisplayInDataBox>
-                <Label>CL 10-21</Label>
+                <Label>CL 11-21</Label>
                 <MaxSerialized>0</MaxSerialized>
                 <MinSerialized>0</MinSerialized>
                 <Panel>0</Panel>
@@ -5790,7 +5814,7 @@
                 <ShowGlobalDrawObjects>true</ShowGlobalDrawObjects>
                 <ScaleJustification>Right</ScaleJustification>
                 <TradingHoursVisibility>AllSessions</TradingHoursVisibility>
-                <TradingHoursBreakPenSerialize>&lt;Pen Thickness="1" Brush="#FF008000" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
+                <TradingHoursBreakPenSerialize>&lt;Pen Brush="#FF008000" Thickness="1" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
   &lt;Pen.DashStyle&gt;
     &lt;DashStyle /&gt;
   &lt;/Pen.DashStyle&gt;
@@ -5802,7 +5826,7 @@
                 <ShortExecutionBrushSerialize>DEFAULT</ShortExecutionBrushSerialize>
                 <BarsSeriesId>53ac57419129441da8de6eb591112327</BarsSeriesId>
                 <Id>d4a77abd907c46a5bfc34ec4e85c9d53</Id>
-                <Instrument>CL 10-21</Instrument>
+                <Instrument>CL 11-21</Instrument>
                 <IsLinked>true</IsLinked>
                 <IsPrimarySeries>true</IsPrimarySeries>
                 <ZOrder>7</ZOrder>
@@ -5816,12 +5840,12 @@
                       <ChartStyleTypeSerialize>1</ChartStyleTypeSerialize>
                       <DownBrushSerialize>&lt;SolidColorBrush xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;#FFFFE4C4&lt;/SolidColorBrush&gt;</DownBrushSerialize>
                       <UpBrushSerialize>&lt;SolidColorBrush xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;#00FFFFFF&lt;/SolidColorBrush&gt;</UpBrushSerialize>
-                      <StrokeSerialize>&lt;Pen Thickness="1" Brush="#FFFFE4C4" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
+                      <StrokeSerialize>&lt;Pen Brush="#FFFFE4C4" Thickness="1" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
   &lt;Pen.DashStyle&gt;
     &lt;DashStyle /&gt;
   &lt;/Pen.DashStyle&gt;
 &lt;/Pen&gt;</StrokeSerialize>
-                      <Stroke2Serialize>&lt;Pen Thickness="2" Brush="#FFFFE4C4" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
+                      <Stroke2Serialize>&lt;Pen Brush="#FFFFE4C4" Thickness="2" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
   &lt;Pen.DashStyle&gt;
     &lt;DashStyle /&gt;
   &lt;/Pen.DashStyle&gt;
@@ -5834,7 +5858,7 @@
           </DataSeries>
           <Strategies />
           <Indicators>
-            <Indicator BarsIndex="0" Instrument="CL 10-21 Nymex" Name="NinjaTrader.NinjaScript.Indicators.ApexOrderPrints" Panel="-1">
+            <Indicator BarsIndex="0" Instrument="CL 11-21 Nymex" Name="NinjaTrader.NinjaScript.Indicators.ApexOrderPrints" Panel="-1">
               <ApexOrderPrints xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
                 <IsVisible>true</IsVisible>
                 <AreLinesConfigurable>true</AreLinesConfigurable>
@@ -5852,11 +5876,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>true</DisplayInDataBox>
-                <From>2021-07-29T00:00:00</From>
+                <From>2021-09-15T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-08-01T00:00:00</To>
+                <To>2021-09-18T00:00:00</To>
                 <Calculate>OnEachTick</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>false</IsAutoScale>
@@ -5874,7 +5898,7 @@
                 <DrawOnPricePanel>true</DrawOnPricePanel>
                 <PaintPriceMarkers>true</PaintPriceMarkers>
                 <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-                <IndicatorId>315</IndicatorId>
+                <IndicatorId>25</IndicatorId>
                 <InstrumentDeserialized>CL 10-21 Nymex</InstrumentDeserialized>
                 <MaxSerialized>0</MaxSerialized>
                 <MinSerialized>0</MinSerialized>
@@ -5887,7 +5911,7 @@
                 <PriceType>Close</PriceType>
               </Input>
             </Indicator>
-            <Indicator BarsIndex="0" Instrument="CL 10-21 Nymex" Name="NinjaTrader.NinjaScript.Indicators.ApexDeviationLevels" Panel="-1">
+            <Indicator BarsIndex="0" Instrument="CL 11-21 Nymex" Name="NinjaTrader.NinjaScript.Indicators.ApexDeviationLevels" Panel="-1">
               <ApexDeviationLevels xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
                 <IsVisible>true</IsVisible>
                 <AreLinesConfigurable>true</AreLinesConfigurable>
@@ -5905,11 +5929,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>false</DisplayInDataBox>
-                <From>2021-07-29T00:00:00</From>
+                <From>2021-09-15T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-08-01T00:00:00</To>
+                <To>2021-09-18T00:00:00</To>
                 <Calculate>OnPriceChange</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>false</IsAutoScale>
@@ -5927,7 +5951,7 @@
                 <DrawOnPricePanel>true</DrawOnPricePanel>
                 <PaintPriceMarkers>false</PaintPriceMarkers>
                 <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-                <IndicatorId>318</IndicatorId>
+                <IndicatorId>28</IndicatorId>
                 <InstrumentDeserialized>CL 10-21 Nymex</InstrumentDeserialized>
                 <MaxSerialized>0</MaxSerialized>
                 <MinSerialized>0</MinSerialized>
@@ -5939,7 +5963,7 @@
                 <PriceType>Close</PriceType>
               </Input>
             </Indicator>
-            <Indicator BarsIndex="0" Instrument="CL 10-21 Nymex" Name="NinjaTrader.NinjaScript.Indicators.ApexCurrentPrice" Panel="-1">
+            <Indicator BarsIndex="0" Instrument="CL 11-21 Nymex" Name="NinjaTrader.NinjaScript.Indicators.ApexCurrentPrice" Panel="-1">
               <ApexCurrentPrice xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
                 <IsVisible>true</IsVisible>
                 <AreLinesConfigurable>true</AreLinesConfigurable>
@@ -5957,11 +5981,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>false</DisplayInDataBox>
-                <From>2021-07-29T00:00:00</From>
+                <From>2021-09-15T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-08-01T00:00:00</To>
+                <To>2021-09-18T00:00:00</To>
                 <Calculate>OnPriceChange</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>true</IsAutoScale>
@@ -5992,7 +6016,7 @@
                 <DrawOnPricePanel>true</DrawOnPricePanel>
                 <PaintPriceMarkers>true</PaintPriceMarkers>
                 <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-                <IndicatorId>321</IndicatorId>
+                <IndicatorId>31</IndicatorId>
                 <InstrumentDeserialized>CL 10-21 Nymex</InstrumentDeserialized>
                 <MaxSerialized>0</MaxSerialized>
                 <MinSerialized>0</MinSerialized>
@@ -6004,7 +6028,7 @@
                 <PriceType>Close</PriceType>
               </Input>
             </Indicator>
-            <Indicator BarsIndex="0" Instrument="CL 10-21 Nymex" Name="NinjaTrader.NinjaScript.Indicators.AutoAlgo" Panel="-1">
+            <Indicator BarsIndex="0" Instrument="CL 11-21 Nymex" Name="NinjaTrader.NinjaScript.Indicators.AutoAlgo" Panel="-1">
               <AutoAlgo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
                 <IsVisible>true</IsVisible>
                 <AreLinesConfigurable>true</AreLinesConfigurable>
@@ -6022,11 +6046,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>false</DisplayInDataBox>
-                <From>2021-07-29T00:00:00</From>
+                <From>2021-09-15T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Overlay</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-08-01T00:00:00</To>
+                <To>2021-09-18T00:00:00</To>
                 <Calculate>OnEachTick</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>false</IsAutoScale>
@@ -6067,7 +6091,7 @@
                 <DrawOnPricePanel>false</DrawOnPricePanel>
                 <PaintPriceMarkers>false</PaintPriceMarkers>
                 <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-                <IndicatorId>324</IndicatorId>
+                <IndicatorId>34</IndicatorId>
                 <InstrumentDeserialized>CL 10-21 Nymex</InstrumentDeserialized>
                 <MaxSerialized>0</MaxSerialized>
                 <MinSerialized>0</MinSerialized>
@@ -6081,9 +6105,6 @@
                 <CommissionFee>3.98</CommissionFee>
                 <ConsecutiveLossEnabled>false</ConsecutiveLossEnabled>
                 <ConsecutiveLosses>4</ConsecutiveLosses>
-                <EnableMartingale>false</EnableMartingale>
-                <MartingaleSize>4</MartingaleSize>
-                <MartingaleLost>0</MartingaleLost>
                 <FastMarkets>true</FastMarkets>
                 <FastMarketBars>35</FastMarketBars>
                 <FastMarketSecs>60</FastMarketSecs>
@@ -6093,6 +6114,15 @@
                 <EnableML>false</EnableML>
                 <MLScoreMin>55</MLScoreMin>
                 <EntryTickOffset>1</EntryTickOffset>
+                <ReportSim>true</ReportSim>
+                <Username>Kralord</Username>
+                <EnableMartingale>false</EnableMartingale>
+                <MartingaleSize>4</MartingaleSize>
+                <MartingaleLost>0</MartingaleLost>
+                <Enable1324Baccarat>false</Enable1324Baccarat>
+                <Size1324Baccarat>1</Size1324Baccarat>
+                <EnableParoli>false</EnableParoli>
+                <SizeParoli>1</SizeParoli>
                 <DTX_OD_Enabled>false</DTX_OD_Enabled>
                 <DTX_OD_MinValue>0</DTX_OD_MinValue>
                 <DTX_OD_MaxValue>0</DTX_OD_MaxValue>
@@ -6416,12 +6446,12 @@
               <InactivePriceMarkersBrushSerialize>&lt;SolidColorBrush xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;#FFA9A9A9&lt;/SolidColorBrush&gt;</InactivePriceMarkersBrushSerialize>
               <AreHGridLinesVisible>false</AreHGridLinesVisible>
               <AreVGridLinesVisible>false</AreVGridLinesVisible>
-              <AxisPenSerialize>&lt;Pen Thickness="1" Brush="#FFB0C4DE" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
+              <AxisPenSerialize>&lt;Pen Brush="#FFB0C4DE" Thickness="1" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
   &lt;Pen.DashStyle&gt;
     &lt;DashStyle /&gt;
   &lt;/Pen.DashStyle&gt;
 &lt;/Pen&gt;</AxisPenSerialize>
-              <CrosshairPen>&lt;Pen Thickness="1" Brush="#FFFFFFFF" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
+              <CrosshairPen>&lt;Pen Brush="#FFFFFFFF" Thickness="1" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
   &lt;Pen.DashStyle&gt;
     &lt;DashStyle /&gt;
   &lt;/Pen.DashStyle&gt;
@@ -6445,7 +6475,7 @@
     &lt;DashStyle /&gt;
   &lt;/Pen.DashStyle&gt;
 &lt;/Pen&gt;</GridLineVPenSerialize>
-              <PanelSplitterPenSerialize>&lt;Pen Thickness="2" Brush="#FFB0C4DE" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
+              <PanelSplitterPenSerialize>&lt;Pen Brush="#FFB0C4DE" Thickness="2" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
   &lt;Pen.DashStyle&gt;
     &lt;DashStyle /&gt;
   &lt;/Pen.DashStyle&gt;
@@ -6468,8 +6498,8 @@
                   <AutoScaleMarginLower>40</AutoScaleMarginLower>
                   <AutoScaleMarginUpper>40</AutoScaleMarginUpper>
                   <YAxisScalingType>Linear</YAxisScalingType>
-                  <FixedScaleMaxSerialize>72.43</FixedScaleMaxSerialize>
-                  <FixedScaleMinSerialize>71.58</FixedScaleMinSerialize>
+                  <FixedScaleMaxSerialize>71.99</FixedScaleMaxSerialize>
+                  <FixedScaleMinSerialize>71.29</FixedScaleMinSerialize>
                 </ChartScaleProperties>
               </Right>
               <Left>
@@ -6512,7 +6542,7 @@
       <ChartTrader>
         <Account>Playback101</Account>
         <ATM>1_7_17</ATM>
-        <Instrument>CL 10-21</Instrument>
+        <Instrument>CL 11-21</Instrument>
         <Quantity>1</Quantity>
         <TIF>Gtc</TIF>
         <Properties>
@@ -6530,37 +6560,37 @@
             <ActionButtonsBackgroundSerialize>DEFAULT</ActionButtonsBackgroundSerialize>
             <BuyButtonsBackgroundSerialize>DEFAULT</BuyButtonsBackgroundSerialize>
             <SellButtonsBackgroundSerialize>DEFAULT</SellButtonsBackgroundSerialize>
-            <LimitSerialize>&lt;Pen Thickness="2" Brush="#FF00FFFF" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
+            <LimitSerialize>&lt;Pen Brush="#FF00FFFF" Thickness="2" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
   &lt;Pen.DashStyle&gt;
     &lt;DashStyle /&gt;
   &lt;/Pen.DashStyle&gt;
 &lt;/Pen&gt;</LimitSerialize>
-            <MitSerialize>&lt;Pen Thickness="2" Brush="#FF00FF7F" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
+            <MitSerialize>&lt;Pen Brush="#FF00FF7F" Thickness="2" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
   &lt;Pen.DashStyle&gt;
     &lt;DashStyle /&gt;
   &lt;/Pen.DashStyle&gt;
 &lt;/Pen&gt;</MitSerialize>
-            <PositionEntryPriceSerialize>&lt;Pen Thickness="2" Brush="#FFDEB887" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
+            <PositionEntryPriceSerialize>&lt;Pen Brush="#FFDEB887" Thickness="2" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
   &lt;Pen.DashStyle&gt;
     &lt;DashStyle /&gt;
   &lt;/Pen.DashStyle&gt;
 &lt;/Pen&gt;</PositionEntryPriceSerialize>
-            <ProfitTargetSerialize>&lt;Pen Thickness="2" Brush="#FF00FF00" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
+            <ProfitTargetSerialize>&lt;Pen Brush="#FF00FF00" Thickness="2" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
   &lt;Pen.DashStyle&gt;
     &lt;DashStyle /&gt;
   &lt;/Pen.DashStyle&gt;
 &lt;/Pen&gt;</ProfitTargetSerialize>
-            <StopLimitSerialize>&lt;Pen Thickness="2" Brush="#FFEE82EE" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
+            <StopLimitSerialize>&lt;Pen Brush="#FFEE82EE" Thickness="2" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
   &lt;Pen.DashStyle&gt;
     &lt;DashStyle /&gt;
   &lt;/Pen.DashStyle&gt;
 &lt;/Pen&gt;</StopLimitSerialize>
-            <StopLossSerialize>&lt;Pen Thickness="2" Brush="#FFFF0000" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
+            <StopLossSerialize>&lt;Pen Brush="#FFFF0000" Thickness="2" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
   &lt;Pen.DashStyle&gt;
     &lt;DashStyle /&gt;
   &lt;/Pen.DashStyle&gt;
 &lt;/Pen&gt;</StopLossSerialize>
-            <StopMarketSerialize>&lt;Pen Thickness="2" Brush="#FFFFC0CB" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
+            <StopMarketSerialize>&lt;Pen Brush="#FFFFC0CB" Thickness="2" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
   &lt;Pen.DashStyle&gt;
     &lt;DashStyle /&gt;
   &lt;/Pen.DashStyle&gt;
@@ -6607,7 +6637,7 @@
                 <AutoScale>true</AutoScale>
                 <CenterPriceOnScale>false</CenterPriceOnScale>
                 <DisplayInDataBox>true</DisplayInDataBox>
-                <Label>ES 09-21</Label>
+                <Label>ES 12-21</Label>
                 <MaxSerialized>0</MaxSerialized>
                 <MinSerialized>0</MinSerialized>
                 <Panel>0</Panel>
@@ -6618,7 +6648,7 @@
                 <ShowGlobalDrawObjects>true</ShowGlobalDrawObjects>
                 <ScaleJustification>Right</ScaleJustification>
                 <TradingHoursVisibility>AllSessions</TradingHoursVisibility>
-                <TradingHoursBreakPenSerialize>&lt;Pen Thickness="1" Brush="#FF008000" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
+                <TradingHoursBreakPenSerialize>&lt;Pen Brush="#FF008000" Thickness="1" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
   &lt;Pen.DashStyle&gt;
     &lt;DashStyle /&gt;
   &lt;/Pen.DashStyle&gt;
@@ -6630,7 +6660,7 @@
                 <ShortExecutionBrushSerialize>DEFAULT</ShortExecutionBrushSerialize>
                 <BarsSeriesId>bb212fa3ba584fd4a7d27bb2b751bbdc</BarsSeriesId>
                 <Id>e0457aa81c7042279b52ea1a44eed63b</Id>
-                <Instrument>ES 09-21</Instrument>
+                <Instrument>ES 12-21</Instrument>
                 <IsLinked>true</IsLinked>
                 <IsPrimarySeries>true</IsPrimarySeries>
                 <ZOrder>7</ZOrder>
@@ -6644,12 +6674,12 @@
                       <ChartStyleTypeSerialize>1</ChartStyleTypeSerialize>
                       <DownBrushSerialize>&lt;SolidColorBrush xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;#FFFFE4C4&lt;/SolidColorBrush&gt;</DownBrushSerialize>
                       <UpBrushSerialize>&lt;SolidColorBrush xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;#00FFFFFF&lt;/SolidColorBrush&gt;</UpBrushSerialize>
-                      <StrokeSerialize>&lt;Pen Thickness="1" Brush="#FFFFE4C4" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
+                      <StrokeSerialize>&lt;Pen Brush="#FFFFE4C4" Thickness="1" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
   &lt;Pen.DashStyle&gt;
     &lt;DashStyle /&gt;
   &lt;/Pen.DashStyle&gt;
 &lt;/Pen&gt;</StrokeSerialize>
-                      <Stroke2Serialize>&lt;Pen Thickness="2" Brush="#FFFFE4C4" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
+                      <Stroke2Serialize>&lt;Pen Brush="#FFFFE4C4" Thickness="2" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
   &lt;Pen.DashStyle&gt;
     &lt;DashStyle /&gt;
   &lt;/Pen.DashStyle&gt;
@@ -6662,7 +6692,7 @@
           </DataSeries>
           <Strategies />
           <Indicators>
-            <Indicator BarsIndex="0" Instrument="ES 09-21 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexOrderPrints" Panel="-1">
+            <Indicator BarsIndex="0" Instrument="ES 12-21 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexOrderPrints" Panel="-1">
               <ApexOrderPrints xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
                 <IsVisible>true</IsVisible>
                 <AreLinesConfigurable>true</AreLinesConfigurable>
@@ -6680,11 +6710,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>true</DisplayInDataBox>
-                <From>2021-07-29T00:00:00</From>
+                <From>2021-09-15T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-08-01T00:00:00</To>
+                <To>2021-09-18T00:00:00</To>
                 <Calculate>OnEachTick</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>false</IsAutoScale>
@@ -6702,7 +6732,7 @@
                 <DrawOnPricePanel>true</DrawOnPricePanel>
                 <PaintPriceMarkers>true</PaintPriceMarkers>
                 <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-                <IndicatorId>223</IndicatorId>
+                <IndicatorId>123</IndicatorId>
                 <InstrumentDeserialized>ES 09-21 Globex</InstrumentDeserialized>
                 <MaxSerialized>0</MaxSerialized>
                 <MinSerialized>0</MinSerialized>
@@ -6715,7 +6745,7 @@
                 <PriceType>Close</PriceType>
               </Input>
             </Indicator>
-            <Indicator BarsIndex="0" Instrument="ES 09-21 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexDeviationLevels" Panel="-1">
+            <Indicator BarsIndex="0" Instrument="ES 12-21 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexDeviationLevels" Panel="-1">
               <ApexDeviationLevels xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
                 <IsVisible>true</IsVisible>
                 <AreLinesConfigurable>true</AreLinesConfigurable>
@@ -6733,11 +6763,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>false</DisplayInDataBox>
-                <From>2021-07-29T00:00:00</From>
+                <From>2021-09-15T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-08-01T00:00:00</To>
+                <To>2021-09-18T00:00:00</To>
                 <Calculate>OnPriceChange</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>false</IsAutoScale>
@@ -6755,7 +6785,7 @@
                 <DrawOnPricePanel>true</DrawOnPricePanel>
                 <PaintPriceMarkers>false</PaintPriceMarkers>
                 <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-                <IndicatorId>226</IndicatorId>
+                <IndicatorId>126</IndicatorId>
                 <InstrumentDeserialized>ES 09-21 Globex</InstrumentDeserialized>
                 <MaxSerialized>0</MaxSerialized>
                 <MinSerialized>0</MinSerialized>
@@ -6767,7 +6797,7 @@
                 <PriceType>Close</PriceType>
               </Input>
             </Indicator>
-            <Indicator BarsIndex="0" Instrument="ES 09-21 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexCurrentPrice" Panel="-1">
+            <Indicator BarsIndex="0" Instrument="ES 12-21 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexCurrentPrice" Panel="-1">
               <ApexCurrentPrice xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
                 <IsVisible>true</IsVisible>
                 <AreLinesConfigurable>true</AreLinesConfigurable>
@@ -6785,11 +6815,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>false</DisplayInDataBox>
-                <From>2021-07-29T00:00:00</From>
+                <From>2021-09-15T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-08-01T00:00:00</To>
+                <To>2021-09-18T00:00:00</To>
                 <Calculate>OnPriceChange</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>true</IsAutoScale>
@@ -6820,7 +6850,7 @@
                 <DrawOnPricePanel>true</DrawOnPricePanel>
                 <PaintPriceMarkers>true</PaintPriceMarkers>
                 <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-                <IndicatorId>229</IndicatorId>
+                <IndicatorId>129</IndicatorId>
                 <InstrumentDeserialized>ES 09-21 Globex</InstrumentDeserialized>
                 <MaxSerialized>0</MaxSerialized>
                 <MinSerialized>0</MinSerialized>
@@ -6832,7 +6862,7 @@
                 <PriceType>Close</PriceType>
               </Input>
             </Indicator>
-            <Indicator BarsIndex="0" Instrument="ES 09-21 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexWalls" Panel="-1">
+            <Indicator BarsIndex="0" Instrument="ES 12-21 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexWalls" Panel="-1">
               <ApexWalls xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
                 <IsVisible>true</IsVisible>
                 <AreLinesConfigurable>true</AreLinesConfigurable>
@@ -6850,11 +6880,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>false</DisplayInDataBox>
-                <From>2021-07-29T00:00:00</From>
+                <From>2021-09-15T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Right</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-08-01T00:00:00</To>
+                <To>2021-09-18T00:00:00</To>
                 <Calculate>OnBarClose</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>false</IsAutoScale>
@@ -6872,7 +6902,7 @@
                 <DrawOnPricePanel>true</DrawOnPricePanel>
                 <PaintPriceMarkers>false</PaintPriceMarkers>
                 <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-                <IndicatorId>232</IndicatorId>
+                <IndicatorId>132</IndicatorId>
                 <InstrumentDeserialized>ES 09-21 Globex</InstrumentDeserialized>
                 <MaxSerialized>0</MaxSerialized>
                 <MinSerialized>0</MinSerialized>
@@ -6884,7 +6914,7 @@
                 <PriceType>Close</PriceType>
               </Input>
             </Indicator>
-            <Indicator BarsIndex="0" Instrument="ES 09-21 Globex" Name="NinjaTrader.NinjaScript.Indicators.AutoAlgo" Panel="-1">
+            <Indicator BarsIndex="0" Instrument="ES 12-21 Globex" Name="NinjaTrader.NinjaScript.Indicators.AutoAlgo" Panel="-1">
               <AutoAlgo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
                 <IsVisible>true</IsVisible>
                 <AreLinesConfigurable>true</AreLinesConfigurable>
@@ -6902,11 +6932,11 @@
                 </BarsPeriodSerializable>
                 <BarsToLoad>0</BarsToLoad>
                 <DisplayInDataBox>false</DisplayInDataBox>
-                <From>2021-07-29T00:00:00</From>
+                <From>2021-09-15T00:00:00</From>
                 <Panel>-1</Panel>
                 <ScaleJustification>Overlay</ScaleJustification>
                 <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-                <To>2021-08-01T00:00:00</To>
+                <To>2021-09-18T00:00:00</To>
                 <Calculate>OnEachTick</Calculate>
                 <Displacement>0</Displacement>
                 <IsAutoScale>false</IsAutoScale>
@@ -6947,7 +6977,7 @@
                 <DrawOnPricePanel>false</DrawOnPricePanel>
                 <PaintPriceMarkers>false</PaintPriceMarkers>
                 <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-                <IndicatorId>235</IndicatorId>
+                <IndicatorId>135</IndicatorId>
                 <InstrumentDeserialized>ES 09-21 Globex</InstrumentDeserialized>
                 <MaxSerialized>0</MaxSerialized>
                 <MinSerialized>0</MinSerialized>
@@ -6961,9 +6991,6 @@
                 <CommissionFee>3.98</CommissionFee>
                 <ConsecutiveLossEnabled>false</ConsecutiveLossEnabled>
                 <ConsecutiveLosses>4</ConsecutiveLosses>
-                <EnableMartingale>false</EnableMartingale>
-                <MartingaleSize>4</MartingaleSize>
-                <MartingaleLost>0</MartingaleLost>
                 <FastMarkets>true</FastMarkets>
                 <FastMarketBars>35</FastMarketBars>
                 <FastMarketSecs>60</FastMarketSecs>
@@ -6973,6 +7000,15 @@
                 <EnableML>false</EnableML>
                 <MLScoreMin>55</MLScoreMin>
                 <EntryTickOffset>1</EntryTickOffset>
+                <ReportSim>true</ReportSim>
+                <Username>Kralord</Username>
+                <EnableMartingale>false</EnableMartingale>
+                <MartingaleSize>4</MartingaleSize>
+                <MartingaleLost>0</MartingaleLost>
+                <Enable1324Baccarat>false</Enable1324Baccarat>
+                <Size1324Baccarat>1</Size1324Baccarat>
+                <EnableParoli>false</EnableParoli>
+                <SizeParoli>1</SizeParoli>
                 <DTX_OD_Enabled>false</DTX_OD_Enabled>
                 <DTX_OD_MinValue>0</DTX_OD_MinValue>
                 <DTX_OD_MaxValue>0</DTX_OD_MaxValue>
@@ -7296,12 +7332,12 @@
               <InactivePriceMarkersBrushSerialize>&lt;SolidColorBrush xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;#FFA9A9A9&lt;/SolidColorBrush&gt;</InactivePriceMarkersBrushSerialize>
               <AreHGridLinesVisible>false</AreHGridLinesVisible>
               <AreVGridLinesVisible>false</AreVGridLinesVisible>
-              <AxisPenSerialize>&lt;Pen Thickness="1" Brush="#FFB0C4DE" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
+              <AxisPenSerialize>&lt;Pen Brush="#FFB0C4DE" Thickness="1" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
   &lt;Pen.DashStyle&gt;
     &lt;DashStyle /&gt;
   &lt;/Pen.DashStyle&gt;
 &lt;/Pen&gt;</AxisPenSerialize>
-              <CrosshairPen>&lt;Pen Thickness="1" Brush="#FFFFFFFF" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
+              <CrosshairPen>&lt;Pen Brush="#FFFFFFFF" Thickness="1" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
   &lt;Pen.DashStyle&gt;
     &lt;DashStyle /&gt;
   &lt;/Pen.DashStyle&gt;
@@ -7325,7 +7361,7 @@
     &lt;DashStyle /&gt;
   &lt;/Pen.DashStyle&gt;
 &lt;/Pen&gt;</GridLineVPenSerialize>
-              <PanelSplitterPenSerialize>&lt;Pen Thickness="2" Brush="#FFB0C4DE" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
+              <PanelSplitterPenSerialize>&lt;Pen Brush="#FFB0C4DE" Thickness="2" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
   &lt;Pen.DashStyle&gt;
     &lt;DashStyle /&gt;
   &lt;/Pen.DashStyle&gt;
@@ -7348,8 +7384,8 @@
                   <AutoScaleMarginLower>40</AutoScaleMarginLower>
                   <AutoScaleMarginUpper>40</AutoScaleMarginUpper>
                   <YAxisScalingType>Linear</YAxisScalingType>
-                  <FixedScaleMaxSerialize>4408.25</FixedScaleMaxSerialize>
-                  <FixedScaleMinSerialize>4387.5</FixedScaleMinSerialize>
+                  <FixedScaleMaxSerialize>4427.5</FixedScaleMaxSerialize>
+                  <FixedScaleMinSerialize>4406.5</FixedScaleMinSerialize>
                 </ChartScaleProperties>
               </Right>
               <Left>
@@ -7392,7 +7428,7 @@
       <ChartTrader>
         <Account>Playback101</Account>
         <ATM>1_7_17</ATM>
-        <Instrument>ES 09-21</Instrument>
+        <Instrument>ES 12-21</Instrument>
         <Quantity>1</Quantity>
         <TIF>Gtc</TIF>
         <Properties>
@@ -7410,37 +7446,37 @@
             <ActionButtonsBackgroundSerialize>DEFAULT</ActionButtonsBackgroundSerialize>
             <BuyButtonsBackgroundSerialize>DEFAULT</BuyButtonsBackgroundSerialize>
             <SellButtonsBackgroundSerialize>DEFAULT</SellButtonsBackgroundSerialize>
-            <LimitSerialize>&lt;Pen Thickness="2" Brush="#FF00FFFF" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
+            <LimitSerialize>&lt;Pen Brush="#FF00FFFF" Thickness="2" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
   &lt;Pen.DashStyle&gt;
     &lt;DashStyle /&gt;
   &lt;/Pen.DashStyle&gt;
 &lt;/Pen&gt;</LimitSerialize>
-            <MitSerialize>&lt;Pen Thickness="2" Brush="#FF00FF7F" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
+            <MitSerialize>&lt;Pen Brush="#FF00FF7F" Thickness="2" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
   &lt;Pen.DashStyle&gt;
     &lt;DashStyle /&gt;
   &lt;/Pen.DashStyle&gt;
 &lt;/Pen&gt;</MitSerialize>
-            <PositionEntryPriceSerialize>&lt;Pen Thickness="2" Brush="#FFDEB887" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
+            <PositionEntryPriceSerialize>&lt;Pen Brush="#FFDEB887" Thickness="2" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
   &lt;Pen.DashStyle&gt;
     &lt;DashStyle /&gt;
   &lt;/Pen.DashStyle&gt;
 &lt;/Pen&gt;</PositionEntryPriceSerialize>
-            <ProfitTargetSerialize>&lt;Pen Thickness="2" Brush="#FF00FF00" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
+            <ProfitTargetSerialize>&lt;Pen Brush="#FF00FF00" Thickness="2" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
   &lt;Pen.DashStyle&gt;
     &lt;DashStyle /&gt;
   &lt;/Pen.DashStyle&gt;
 &lt;/Pen&gt;</ProfitTargetSerialize>
-            <StopLimitSerialize>&lt;Pen Thickness="2" Brush="#FFEE82EE" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
+            <StopLimitSerialize>&lt;Pen Brush="#FFEE82EE" Thickness="2" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
   &lt;Pen.DashStyle&gt;
     &lt;DashStyle /&gt;
   &lt;/Pen.DashStyle&gt;
 &lt;/Pen&gt;</StopLimitSerialize>
-            <StopLossSerialize>&lt;Pen Thickness="2" Brush="#FFFF0000" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
+            <StopLossSerialize>&lt;Pen Brush="#FFFF0000" Thickness="2" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
   &lt;Pen.DashStyle&gt;
     &lt;DashStyle /&gt;
   &lt;/Pen.DashStyle&gt;
 &lt;/Pen&gt;</StopLossSerialize>
-            <StopMarketSerialize>&lt;Pen Thickness="2" Brush="#FFFFC0CB" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
+            <StopMarketSerialize>&lt;Pen Brush="#FFFFC0CB" Thickness="2" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
   &lt;Pen.DashStyle&gt;
     &lt;DashStyle /&gt;
   &lt;/Pen.DashStyle&gt;
