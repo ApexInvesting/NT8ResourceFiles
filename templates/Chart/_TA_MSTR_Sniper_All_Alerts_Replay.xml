@@ -17,7 +17,7 @@
             <PointAndFigurePriceType>Close</PointAndFigurePriceType>
             <ReversalType>Tick</ReversalType>
             <Value>10</Value>
-            <Value2>100</Value2>
+            <Value2>50</Value2>
           </BarsPeriod>
           <RangeType>Days</RangeType>
           <BarsBack>50</BarsBack>
@@ -50,8 +50,8 @@
           <PositionPenLoserSerialize>DEFAULT</PositionPenLoserSerialize>
           <PositionPenWinnerSerialize>DEFAULT</PositionPenWinnerSerialize>
           <ShortExecutionBrushSerialize>DEFAULT</ShortExecutionBrushSerialize>
-          <BarsSeriesId>797b5d8fd7f440d7a26cbd8daa13de1d</BarsSeriesId>
-          <Id>079e7244317145c8bf44a2a76cf4683d</Id>
+          <BarsSeriesId>f06d9dbc10aa4b54be7d7ab618af1a93</BarsSeriesId>
+          <Id>377377d374e04ccab2d7032f96ced0cd</Id>
           <Instrument>YM 09-23</Instrument>
           <IsLinked>true</IsLinked>
           <IsPrimarySeries>true</IsPrimarySeries>
@@ -97,15 +97,15 @@
             <PointAndFigurePriceType>Close</PointAndFigurePriceType>
             <ReversalType>Tick</ReversalType>
             <Value>10</Value>
-            <Value2>100</Value2>
+            <Value2>50</Value2>
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2023-07-12T00:00:00</From>
+          <From>2023-07-23T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2023-07-15T00:00:00</To>
+          <To>2023-07-26T00:00:00</To>
           <Calculate>OnEachTick</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>false</IsAutoScale>
@@ -123,7 +123,7 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>true</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>1429</IndicatorId>
+          <IndicatorId>1</IndicatorId>
           <InstrumentDeserialized>YM 09-23 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -150,15 +150,15 @@
             <PointAndFigurePriceType>Close</PointAndFigurePriceType>
             <ReversalType>Tick</ReversalType>
             <Value>10</Value>
-            <Value2>100</Value2>
+            <Value2>50</Value2>
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2023-07-12T00:00:00</From>
+          <From>2023-07-23T00:00:00</From>
           <Panel>2</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2023-07-15T00:00:00</To>
+          <To>2023-07-26T00:00:00</To>
           <Calculate>OnBarClose</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -189,7 +189,7 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>1433</IndicatorId>
+          <IndicatorId>5</IndicatorId>
           <InstrumentDeserialized>YM 09-23 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -221,15 +221,15 @@
                 <PointAndFigurePriceType>Close</PointAndFigurePriceType>
                 <ReversalType>Tick</ReversalType>
                 <Value>10</Value>
-                <Value2>100</Value2>
+                <Value2>50</Value2>
               </BarsPeriodSerializable>
               <BarsToLoad>0</BarsToLoad>
               <DisplayInDataBox>true</DisplayInDataBox>
-              <From>2023-07-12T00:00:00</From>
+              <From>2023-07-23T00:00:00</From>
               <Panel>0</Panel>
               <ScaleJustification>Right</ScaleJustification>
               <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-              <To>2023-07-15T00:00:00</To>
+              <To>2023-07-26T00:00:00</To>
               <Calculate>OnBarClose</Calculate>
               <Displacement>0</Displacement>
               <IsAutoScale>true</IsAutoScale>
@@ -294,15 +294,15 @@
             <PointAndFigurePriceType>Close</PointAndFigurePriceType>
             <ReversalType>Tick</ReversalType>
             <Value>10</Value>
-            <Value2>100</Value2>
+            <Value2>50</Value2>
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2023-07-12T00:00:00</From>
+          <From>2023-07-23T00:00:00</From>
           <Panel>2</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2023-07-15T00:00:00</To>
+          <To>2023-07-26T00:00:00</To>
           <Calculate>OnBarClose</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -333,7 +333,7 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>1437</IndicatorId>
+          <IndicatorId>9</IndicatorId>
           <InstrumentDeserialized>YM 09-23 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -365,15 +365,15 @@
                 <PointAndFigurePriceType>Close</PointAndFigurePriceType>
                 <ReversalType>Tick</ReversalType>
                 <Value>10</Value>
-                <Value2>100</Value2>
+                <Value2>50</Value2>
               </BarsPeriodSerializable>
               <BarsToLoad>0</BarsToLoad>
               <DisplayInDataBox>true</DisplayInDataBox>
-              <From>2023-07-12T00:00:00</From>
+              <From>2023-07-23T00:00:00</From>
               <Panel>0</Panel>
               <ScaleJustification>Right</ScaleJustification>
               <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-              <To>2023-07-15T00:00:00</To>
+              <To>2023-07-26T00:00:00</To>
               <Calculate>OnBarClose</Calculate>
               <Displacement>0</Displacement>
               <IsAutoScale>true</IsAutoScale>
@@ -438,15 +438,15 @@
             <PointAndFigurePriceType>Close</PointAndFigurePriceType>
             <ReversalType>Tick</ReversalType>
             <Value>10</Value>
-            <Value2>100</Value2>
+            <Value2>50</Value2>
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2023-07-12T00:00:00</From>
+          <From>2023-07-23T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2023-07-15T00:00:00</To>
+          <To>2023-07-26T00:00:00</To>
           <Calculate>OnBarClose</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -464,7 +464,7 @@
           <DrawOnPricePanel>false</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>1441</IndicatorId>
+          <IndicatorId>13</IndicatorId>
           <InstrumentDeserialized>YM 09-23 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -491,15 +491,15 @@
                 <PointAndFigurePriceType>Close</PointAndFigurePriceType>
                 <ReversalType>Tick</ReversalType>
                 <Value>10</Value>
-                <Value2>100</Value2>
+                <Value2>50</Value2>
               </BarsPeriodSerializable>
               <BarsToLoad>0</BarsToLoad>
               <DisplayInDataBox>true</DisplayInDataBox>
-              <From>2023-07-12T00:00:00</From>
+              <From>2023-07-23T00:00:00</From>
               <Panel>0</Panel>
               <ScaleJustification>Right</ScaleJustification>
               <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-              <To>2023-07-15T00:00:00</To>
+              <To>2023-07-26T00:00:00</To>
               <Calculate>OnBarClose</Calculate>
               <Displacement>0</Displacement>
               <IsAutoScale>true</IsAutoScale>
@@ -564,15 +564,15 @@
             <PointAndFigurePriceType>Close</PointAndFigurePriceType>
             <ReversalType>Tick</ReversalType>
             <Value>10</Value>
-            <Value2>100</Value2>
+            <Value2>50</Value2>
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>false</DisplayInDataBox>
-          <From>2023-07-12T00:00:00</From>
+          <From>2023-07-23T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2023-07-15T00:00:00</To>
+          <To>2023-07-26T00:00:00</To>
           <Calculate>OnEachTick</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -603,7 +603,7 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>1444</IndicatorId>
+          <IndicatorId>16</IndicatorId>
           <InstrumentDeserialized>YM 09-23 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -745,15 +745,15 @@
             <PointAndFigurePriceType>Close</PointAndFigurePriceType>
             <ReversalType>Tick</ReversalType>
             <Value>10</Value>
-            <Value2>100</Value2>
+            <Value2>50</Value2>
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2023-07-12T00:00:00</From>
+          <From>2023-07-23T00:00:00</From>
           <Panel>2</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2023-07-15T00:00:00</To>
+          <To>2023-07-26T00:00:00</To>
           <Calculate>OnBarClose</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -784,7 +784,7 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>1448</IndicatorId>
+          <IndicatorId>20</IndicatorId>
           <InstrumentDeserialized>YM 09-23 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -816,15 +816,15 @@
                 <PointAndFigurePriceType>Close</PointAndFigurePriceType>
                 <ReversalType>Tick</ReversalType>
                 <Value>10</Value>
-                <Value2>100</Value2>
+                <Value2>50</Value2>
               </BarsPeriodSerializable>
               <BarsToLoad>0</BarsToLoad>
               <DisplayInDataBox>true</DisplayInDataBox>
-              <From>2023-07-12T00:00:00</From>
+              <From>2023-07-23T00:00:00</From>
               <Panel>0</Panel>
               <ScaleJustification>Right</ScaleJustification>
               <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-              <To>2023-07-15T00:00:00</To>
+              <To>2023-07-26T00:00:00</To>
               <Calculate>OnBarClose</Calculate>
               <Displacement>0</Displacement>
               <IsAutoScale>true</IsAutoScale>
@@ -889,15 +889,15 @@
             <PointAndFigurePriceType>Close</PointAndFigurePriceType>
             <ReversalType>Tick</ReversalType>
             <Value>10</Value>
-            <Value2>100</Value2>
+            <Value2>50</Value2>
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2023-07-12T00:00:00</From>
+          <From>2023-07-23T00:00:00</From>
           <Panel>2</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2023-07-15T00:00:00</To>
+          <To>2023-07-26T00:00:00</To>
           <Calculate>OnBarClose</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -928,7 +928,7 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>1452</IndicatorId>
+          <IndicatorId>24</IndicatorId>
           <InstrumentDeserialized>YM 09-23 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -960,15 +960,15 @@
                 <PointAndFigurePriceType>Close</PointAndFigurePriceType>
                 <ReversalType>Tick</ReversalType>
                 <Value>10</Value>
-                <Value2>100</Value2>
+                <Value2>50</Value2>
               </BarsPeriodSerializable>
               <BarsToLoad>0</BarsToLoad>
               <DisplayInDataBox>true</DisplayInDataBox>
-              <From>2023-07-12T00:00:00</From>
+              <From>2023-07-23T00:00:00</From>
               <Panel>0</Panel>
               <ScaleJustification>Right</ScaleJustification>
               <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-              <To>2023-07-15T00:00:00</To>
+              <To>2023-07-26T00:00:00</To>
               <Calculate>OnBarClose</Calculate>
               <Displacement>0</Displacement>
               <IsAutoScale>true</IsAutoScale>
@@ -1033,15 +1033,15 @@
             <PointAndFigurePriceType>Close</PointAndFigurePriceType>
             <ReversalType>Tick</ReversalType>
             <Value>10</Value>
-            <Value2>100</Value2>
+            <Value2>50</Value2>
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2023-07-12T00:00:00</From>
+          <From>2023-07-23T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2023-07-15T00:00:00</To>
+          <To>2023-07-26T00:00:00</To>
           <Calculate>OnBarClose</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -1059,7 +1059,7 @@
           <DrawOnPricePanel>false</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>1456</IndicatorId>
+          <IndicatorId>28</IndicatorId>
           <InstrumentDeserialized>YM 09-23 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -1086,15 +1086,15 @@
                 <PointAndFigurePriceType>Close</PointAndFigurePriceType>
                 <ReversalType>Tick</ReversalType>
                 <Value>10</Value>
-                <Value2>100</Value2>
+                <Value2>50</Value2>
               </BarsPeriodSerializable>
               <BarsToLoad>0</BarsToLoad>
               <DisplayInDataBox>true</DisplayInDataBox>
-              <From>2023-07-12T00:00:00</From>
+              <From>2023-07-23T00:00:00</From>
               <Panel>0</Panel>
               <ScaleJustification>Right</ScaleJustification>
               <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-              <To>2023-07-15T00:00:00</To>
+              <To>2023-07-26T00:00:00</To>
               <Calculate>OnBarClose</Calculate>
               <Displacement>0</Displacement>
               <IsAutoScale>true</IsAutoScale>
@@ -1159,15 +1159,15 @@
             <PointAndFigurePriceType>Close</PointAndFigurePriceType>
             <ReversalType>Tick</ReversalType>
             <Value>10</Value>
-            <Value2>100</Value2>
+            <Value2>50</Value2>
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>false</DisplayInDataBox>
-          <From>2023-07-12T00:00:00</From>
+          <From>2023-07-23T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2023-07-15T00:00:00</To>
+          <To>2023-07-26T00:00:00</To>
           <Calculate>OnEachTick</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -1198,7 +1198,7 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>1459</IndicatorId>
+          <IndicatorId>31</IndicatorId>
           <InstrumentDeserialized>YM 09-23 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -1340,15 +1340,15 @@
             <PointAndFigurePriceType>Close</PointAndFigurePriceType>
             <ReversalType>Tick</ReversalType>
             <Value>10</Value>
-            <Value2>100</Value2>
+            <Value2>50</Value2>
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2023-07-12T00:00:00</From>
+          <From>2023-07-23T00:00:00</From>
           <Panel>2</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2023-07-15T00:00:00</To>
+          <To>2023-07-26T00:00:00</To>
           <Calculate>OnBarClose</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -1379,7 +1379,7 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>1463</IndicatorId>
+          <IndicatorId>35</IndicatorId>
           <InstrumentDeserialized>YM 09-23 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -1411,15 +1411,15 @@
                 <PointAndFigurePriceType>Close</PointAndFigurePriceType>
                 <ReversalType>Tick</ReversalType>
                 <Value>10</Value>
-                <Value2>100</Value2>
+                <Value2>50</Value2>
               </BarsPeriodSerializable>
               <BarsToLoad>0</BarsToLoad>
               <DisplayInDataBox>true</DisplayInDataBox>
-              <From>2023-07-12T00:00:00</From>
+              <From>2023-07-23T00:00:00</From>
               <Panel>0</Panel>
               <ScaleJustification>Right</ScaleJustification>
               <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-              <To>2023-07-15T00:00:00</To>
+              <To>2023-07-26T00:00:00</To>
               <Calculate>OnBarClose</Calculate>
               <Displacement>0</Displacement>
               <IsAutoScale>true</IsAutoScale>
@@ -1484,15 +1484,15 @@
             <PointAndFigurePriceType>Close</PointAndFigurePriceType>
             <ReversalType>Tick</ReversalType>
             <Value>10</Value>
-            <Value2>100</Value2>
+            <Value2>50</Value2>
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2023-07-12T00:00:00</From>
+          <From>2023-07-23T00:00:00</From>
           <Panel>2</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2023-07-15T00:00:00</To>
+          <To>2023-07-26T00:00:00</To>
           <Calculate>OnBarClose</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -1523,7 +1523,7 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>1467</IndicatorId>
+          <IndicatorId>39</IndicatorId>
           <InstrumentDeserialized>YM 09-23 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -1555,15 +1555,15 @@
                 <PointAndFigurePriceType>Close</PointAndFigurePriceType>
                 <ReversalType>Tick</ReversalType>
                 <Value>10</Value>
-                <Value2>100</Value2>
+                <Value2>50</Value2>
               </BarsPeriodSerializable>
               <BarsToLoad>0</BarsToLoad>
               <DisplayInDataBox>true</DisplayInDataBox>
-              <From>2023-07-12T00:00:00</From>
+              <From>2023-07-23T00:00:00</From>
               <Panel>0</Panel>
               <ScaleJustification>Right</ScaleJustification>
               <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-              <To>2023-07-15T00:00:00</To>
+              <To>2023-07-26T00:00:00</To>
               <Calculate>OnBarClose</Calculate>
               <Displacement>0</Displacement>
               <IsAutoScale>true</IsAutoScale>
@@ -1628,15 +1628,15 @@
             <PointAndFigurePriceType>Close</PointAndFigurePriceType>
             <ReversalType>Tick</ReversalType>
             <Value>10</Value>
-            <Value2>100</Value2>
+            <Value2>50</Value2>
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2023-07-12T00:00:00</From>
+          <From>2023-07-23T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2023-07-15T00:00:00</To>
+          <To>2023-07-26T00:00:00</To>
           <Calculate>OnBarClose</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -1654,7 +1654,7 @@
           <DrawOnPricePanel>false</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>1471</IndicatorId>
+          <IndicatorId>43</IndicatorId>
           <InstrumentDeserialized>YM 09-23 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -1681,15 +1681,15 @@
                 <PointAndFigurePriceType>Close</PointAndFigurePriceType>
                 <ReversalType>Tick</ReversalType>
                 <Value>10</Value>
-                <Value2>100</Value2>
+                <Value2>50</Value2>
               </BarsPeriodSerializable>
               <BarsToLoad>0</BarsToLoad>
               <DisplayInDataBox>true</DisplayInDataBox>
-              <From>2023-07-12T00:00:00</From>
+              <From>2023-07-23T00:00:00</From>
               <Panel>0</Panel>
               <ScaleJustification>Right</ScaleJustification>
               <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-              <To>2023-07-15T00:00:00</To>
+              <To>2023-07-26T00:00:00</To>
               <Calculate>OnBarClose</Calculate>
               <Displacement>0</Displacement>
               <IsAutoScale>true</IsAutoScale>
@@ -1754,15 +1754,15 @@
             <PointAndFigurePriceType>Close</PointAndFigurePriceType>
             <ReversalType>Tick</ReversalType>
             <Value>10</Value>
-            <Value2>100</Value2>
+            <Value2>50</Value2>
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>false</DisplayInDataBox>
-          <From>2023-07-12T00:00:00</From>
+          <From>2023-07-23T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2023-07-15T00:00:00</To>
+          <To>2023-07-26T00:00:00</To>
           <Calculate>OnEachTick</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -1793,7 +1793,7 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>1474</IndicatorId>
+          <IndicatorId>46</IndicatorId>
           <InstrumentDeserialized>YM 09-23 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -1935,15 +1935,15 @@
             <PointAndFigurePriceType>Close</PointAndFigurePriceType>
             <ReversalType>Tick</ReversalType>
             <Value>10</Value>
-            <Value2>100</Value2>
+            <Value2>50</Value2>
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2023-07-12T00:00:00</From>
+          <From>2023-07-23T00:00:00</From>
           <Panel>2</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2023-07-15T00:00:00</To>
+          <To>2023-07-26T00:00:00</To>
           <Calculate>OnBarClose</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -1974,7 +1974,7 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>1478</IndicatorId>
+          <IndicatorId>50</IndicatorId>
           <InstrumentDeserialized>YM 09-23 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -2006,15 +2006,15 @@
                 <PointAndFigurePriceType>Close</PointAndFigurePriceType>
                 <ReversalType>Tick</ReversalType>
                 <Value>10</Value>
-                <Value2>100</Value2>
+                <Value2>50</Value2>
               </BarsPeriodSerializable>
               <BarsToLoad>0</BarsToLoad>
               <DisplayInDataBox>true</DisplayInDataBox>
-              <From>2023-07-12T00:00:00</From>
+              <From>2023-07-23T00:00:00</From>
               <Panel>0</Panel>
               <ScaleJustification>Right</ScaleJustification>
               <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-              <To>2023-07-15T00:00:00</To>
+              <To>2023-07-26T00:00:00</To>
               <Calculate>OnBarClose</Calculate>
               <Displacement>0</Displacement>
               <IsAutoScale>true</IsAutoScale>
@@ -2080,15 +2080,15 @@
             <PointAndFigurePriceType>Close</PointAndFigurePriceType>
             <ReversalType>Tick</ReversalType>
             <Value>10</Value>
-            <Value2>100</Value2>
+            <Value2>50</Value2>
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2023-07-12T00:00:00</From>
+          <From>2023-07-23T00:00:00</From>
           <Panel>2</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2023-07-15T00:00:00</To>
+          <To>2023-07-26T00:00:00</To>
           <Calculate>OnBarClose</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -2119,7 +2119,7 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>1482</IndicatorId>
+          <IndicatorId>54</IndicatorId>
           <InstrumentDeserialized>YM 09-23 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -2151,15 +2151,15 @@
                 <PointAndFigurePriceType>Close</PointAndFigurePriceType>
                 <ReversalType>Tick</ReversalType>
                 <Value>10</Value>
-                <Value2>100</Value2>
+                <Value2>50</Value2>
               </BarsPeriodSerializable>
               <BarsToLoad>0</BarsToLoad>
               <DisplayInDataBox>true</DisplayInDataBox>
-              <From>2023-07-12T00:00:00</From>
+              <From>2023-07-23T00:00:00</From>
               <Panel>0</Panel>
               <ScaleJustification>Right</ScaleJustification>
               <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-              <To>2023-07-15T00:00:00</To>
+              <To>2023-07-26T00:00:00</To>
               <Calculate>OnBarClose</Calculate>
               <Displacement>0</Displacement>
               <IsAutoScale>true</IsAutoScale>
@@ -2225,15 +2225,15 @@
             <PointAndFigurePriceType>Close</PointAndFigurePriceType>
             <ReversalType>Tick</ReversalType>
             <Value>10</Value>
-            <Value2>100</Value2>
+            <Value2>50</Value2>
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2023-07-12T00:00:00</From>
+          <From>2023-07-23T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2023-07-15T00:00:00</To>
+          <To>2023-07-26T00:00:00</To>
           <Calculate>OnBarClose</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -2251,7 +2251,7 @@
           <DrawOnPricePanel>false</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>1486</IndicatorId>
+          <IndicatorId>58</IndicatorId>
           <InstrumentDeserialized>YM 09-23 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -2278,15 +2278,15 @@
                 <PointAndFigurePriceType>Close</PointAndFigurePriceType>
                 <ReversalType>Tick</ReversalType>
                 <Value>10</Value>
-                <Value2>100</Value2>
+                <Value2>50</Value2>
               </BarsPeriodSerializable>
               <BarsToLoad>0</BarsToLoad>
               <DisplayInDataBox>true</DisplayInDataBox>
-              <From>2023-07-12T00:00:00</From>
+              <From>2023-07-23T00:00:00</From>
               <Panel>0</Panel>
               <ScaleJustification>Right</ScaleJustification>
               <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-              <To>2023-07-15T00:00:00</To>
+              <To>2023-07-26T00:00:00</To>
               <Calculate>OnBarClose</Calculate>
               <Displacement>0</Displacement>
               <IsAutoScale>true</IsAutoScale>
@@ -2352,15 +2352,15 @@
             <PointAndFigurePriceType>Close</PointAndFigurePriceType>
             <ReversalType>Tick</ReversalType>
             <Value>10</Value>
-            <Value2>100</Value2>
+            <Value2>50</Value2>
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2023-07-12T00:00:00</From>
+          <From>2023-07-23T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2023-07-15T00:00:00</To>
+          <To>2023-07-26T00:00:00</To>
           <Calculate>OnEachTick</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -2391,7 +2391,7 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>1489</IndicatorId>
+          <IndicatorId>61</IndicatorId>
           <InstrumentDeserialized>YM 09-23 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -2533,15 +2533,15 @@
             <PointAndFigurePriceType>Close</PointAndFigurePriceType>
             <ReversalType>Tick</ReversalType>
             <Value>10</Value>
-            <Value2>100</Value2>
+            <Value2>50</Value2>
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2023-07-12T00:00:00</From>
+          <From>2023-07-23T00:00:00</From>
           <Panel>2</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2023-07-15T00:00:00</To>
+          <To>2023-07-26T00:00:00</To>
           <Calculate>OnBarClose</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -2572,7 +2572,7 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>1493</IndicatorId>
+          <IndicatorId>65</IndicatorId>
           <InstrumentDeserialized>YM 09-23 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -2604,15 +2604,15 @@
                 <PointAndFigurePriceType>Close</PointAndFigurePriceType>
                 <ReversalType>Tick</ReversalType>
                 <Value>10</Value>
-                <Value2>100</Value2>
+                <Value2>50</Value2>
               </BarsPeriodSerializable>
               <BarsToLoad>0</BarsToLoad>
               <DisplayInDataBox>true</DisplayInDataBox>
-              <From>2023-07-12T00:00:00</From>
+              <From>2023-07-23T00:00:00</From>
               <Panel>0</Panel>
               <ScaleJustification>Right</ScaleJustification>
               <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-              <To>2023-07-15T00:00:00</To>
+              <To>2023-07-26T00:00:00</To>
               <Calculate>OnBarClose</Calculate>
               <Displacement>0</Displacement>
               <IsAutoScale>true</IsAutoScale>
@@ -2678,15 +2678,15 @@
             <PointAndFigurePriceType>Close</PointAndFigurePriceType>
             <ReversalType>Tick</ReversalType>
             <Value>10</Value>
-            <Value2>100</Value2>
+            <Value2>50</Value2>
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2023-07-12T00:00:00</From>
+          <From>2023-07-23T00:00:00</From>
           <Panel>2</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2023-07-15T00:00:00</To>
+          <To>2023-07-26T00:00:00</To>
           <Calculate>OnBarClose</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -2717,7 +2717,7 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>1497</IndicatorId>
+          <IndicatorId>69</IndicatorId>
           <InstrumentDeserialized>YM 09-23 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -2749,15 +2749,15 @@
                 <PointAndFigurePriceType>Close</PointAndFigurePriceType>
                 <ReversalType>Tick</ReversalType>
                 <Value>10</Value>
-                <Value2>100</Value2>
+                <Value2>50</Value2>
               </BarsPeriodSerializable>
               <BarsToLoad>0</BarsToLoad>
               <DisplayInDataBox>true</DisplayInDataBox>
-              <From>2023-07-12T00:00:00</From>
+              <From>2023-07-23T00:00:00</From>
               <Panel>0</Panel>
               <ScaleJustification>Right</ScaleJustification>
               <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-              <To>2023-07-15T00:00:00</To>
+              <To>2023-07-26T00:00:00</To>
               <Calculate>OnBarClose</Calculate>
               <Displacement>0</Displacement>
               <IsAutoScale>true</IsAutoScale>
@@ -2823,15 +2823,15 @@
             <PointAndFigurePriceType>Close</PointAndFigurePriceType>
             <ReversalType>Tick</ReversalType>
             <Value>10</Value>
-            <Value2>100</Value2>
+            <Value2>50</Value2>
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2023-07-12T00:00:00</From>
+          <From>2023-07-23T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2023-07-15T00:00:00</To>
+          <To>2023-07-26T00:00:00</To>
           <Calculate>OnBarClose</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -2849,7 +2849,7 @@
           <DrawOnPricePanel>false</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>1501</IndicatorId>
+          <IndicatorId>73</IndicatorId>
           <InstrumentDeserialized>YM 09-23 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -2876,15 +2876,15 @@
                 <PointAndFigurePriceType>Close</PointAndFigurePriceType>
                 <ReversalType>Tick</ReversalType>
                 <Value>10</Value>
-                <Value2>100</Value2>
+                <Value2>50</Value2>
               </BarsPeriodSerializable>
               <BarsToLoad>0</BarsToLoad>
               <DisplayInDataBox>true</DisplayInDataBox>
-              <From>2023-07-12T00:00:00</From>
+              <From>2023-07-23T00:00:00</From>
               <Panel>0</Panel>
               <ScaleJustification>Right</ScaleJustification>
               <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-              <To>2023-07-15T00:00:00</To>
+              <To>2023-07-26T00:00:00</To>
               <Calculate>OnBarClose</Calculate>
               <Displacement>0</Displacement>
               <IsAutoScale>true</IsAutoScale>
@@ -2950,15 +2950,15 @@
             <PointAndFigurePriceType>Close</PointAndFigurePriceType>
             <ReversalType>Tick</ReversalType>
             <Value>10</Value>
-            <Value2>100</Value2>
+            <Value2>50</Value2>
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>false</DisplayInDataBox>
-          <From>2023-07-12T00:00:00</From>
+          <From>2023-07-23T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2023-07-15T00:00:00</To>
+          <To>2023-07-26T00:00:00</To>
           <Calculate>OnEachTick</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -2989,7 +2989,7 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>1504</IndicatorId>
+          <IndicatorId>76</IndicatorId>
           <InstrumentDeserialized>YM 09-23 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -3131,15 +3131,15 @@
             <PointAndFigurePriceType>Close</PointAndFigurePriceType>
             <ReversalType>Tick</ReversalType>
             <Value>10</Value>
-            <Value2>100</Value2>
+            <Value2>50</Value2>
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2023-07-12T00:00:00</From>
+          <From>2023-07-23T00:00:00</From>
           <Panel>2</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2023-07-15T00:00:00</To>
+          <To>2023-07-26T00:00:00</To>
           <Calculate>OnBarClose</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -3170,7 +3170,7 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>1508</IndicatorId>
+          <IndicatorId>80</IndicatorId>
           <InstrumentDeserialized>YM 09-23 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -3202,15 +3202,15 @@
                 <PointAndFigurePriceType>Close</PointAndFigurePriceType>
                 <ReversalType>Tick</ReversalType>
                 <Value>10</Value>
-                <Value2>100</Value2>
+                <Value2>50</Value2>
               </BarsPeriodSerializable>
               <BarsToLoad>0</BarsToLoad>
               <DisplayInDataBox>true</DisplayInDataBox>
-              <From>2023-07-12T00:00:00</From>
+              <From>2023-07-23T00:00:00</From>
               <Panel>0</Panel>
               <ScaleJustification>Right</ScaleJustification>
               <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-              <To>2023-07-15T00:00:00</To>
+              <To>2023-07-26T00:00:00</To>
               <Calculate>OnBarClose</Calculate>
               <Displacement>0</Displacement>
               <IsAutoScale>true</IsAutoScale>
@@ -3276,15 +3276,15 @@
             <PointAndFigurePriceType>Close</PointAndFigurePriceType>
             <ReversalType>Tick</ReversalType>
             <Value>10</Value>
-            <Value2>100</Value2>
+            <Value2>50</Value2>
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2023-07-12T00:00:00</From>
+          <From>2023-07-23T00:00:00</From>
           <Panel>2</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2023-07-15T00:00:00</To>
+          <To>2023-07-26T00:00:00</To>
           <Calculate>OnBarClose</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -3315,7 +3315,7 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>1512</IndicatorId>
+          <IndicatorId>84</IndicatorId>
           <InstrumentDeserialized>YM 09-23 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -3347,15 +3347,15 @@
                 <PointAndFigurePriceType>Close</PointAndFigurePriceType>
                 <ReversalType>Tick</ReversalType>
                 <Value>10</Value>
-                <Value2>100</Value2>
+                <Value2>50</Value2>
               </BarsPeriodSerializable>
               <BarsToLoad>0</BarsToLoad>
               <DisplayInDataBox>true</DisplayInDataBox>
-              <From>2023-07-12T00:00:00</From>
+              <From>2023-07-23T00:00:00</From>
               <Panel>0</Panel>
               <ScaleJustification>Right</ScaleJustification>
               <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-              <To>2023-07-15T00:00:00</To>
+              <To>2023-07-26T00:00:00</To>
               <Calculate>OnBarClose</Calculate>
               <Displacement>0</Displacement>
               <IsAutoScale>true</IsAutoScale>
@@ -3421,15 +3421,15 @@
             <PointAndFigurePriceType>Close</PointAndFigurePriceType>
             <ReversalType>Tick</ReversalType>
             <Value>10</Value>
-            <Value2>100</Value2>
+            <Value2>50</Value2>
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2023-07-12T00:00:00</From>
+          <From>2023-07-23T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2023-07-15T00:00:00</To>
+          <To>2023-07-26T00:00:00</To>
           <Calculate>OnBarClose</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -3447,7 +3447,7 @@
           <DrawOnPricePanel>false</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>1516</IndicatorId>
+          <IndicatorId>88</IndicatorId>
           <InstrumentDeserialized>YM 09-23 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -3474,15 +3474,15 @@
                 <PointAndFigurePriceType>Close</PointAndFigurePriceType>
                 <ReversalType>Tick</ReversalType>
                 <Value>10</Value>
-                <Value2>100</Value2>
+                <Value2>50</Value2>
               </BarsPeriodSerializable>
               <BarsToLoad>0</BarsToLoad>
               <DisplayInDataBox>true</DisplayInDataBox>
-              <From>2023-07-12T00:00:00</From>
+              <From>2023-07-23T00:00:00</From>
               <Panel>0</Panel>
               <ScaleJustification>Right</ScaleJustification>
               <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-              <To>2023-07-15T00:00:00</To>
+              <To>2023-07-26T00:00:00</To>
               <Calculate>OnBarClose</Calculate>
               <Displacement>0</Displacement>
               <IsAutoScale>true</IsAutoScale>
@@ -3548,15 +3548,15 @@
             <PointAndFigurePriceType>Close</PointAndFigurePriceType>
             <ReversalType>Tick</ReversalType>
             <Value>10</Value>
-            <Value2>100</Value2>
+            <Value2>50</Value2>
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>false</DisplayInDataBox>
-          <From>2023-07-12T00:00:00</From>
+          <From>2023-07-23T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2023-07-15T00:00:00</To>
+          <To>2023-07-26T00:00:00</To>
           <Calculate>OnEachTick</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -3587,7 +3587,7 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>1519</IndicatorId>
+          <IndicatorId>91</IndicatorId>
           <InstrumentDeserialized>YM 09-23 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -3734,15 +3734,15 @@
             <PointAndFigurePriceType>Close</PointAndFigurePriceType>
             <ReversalType>Tick</ReversalType>
             <Value>10</Value>
-            <Value2>100</Value2>
+            <Value2>50</Value2>
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2023-07-12T00:00:00</From>
+          <From>2023-07-23T00:00:00</From>
           <Panel>2</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2023-07-15T00:00:00</To>
+          <To>2023-07-26T00:00:00</To>
           <Calculate>OnBarClose</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -3773,7 +3773,7 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>1523</IndicatorId>
+          <IndicatorId>95</IndicatorId>
           <InstrumentDeserialized>YM 09-23 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -3805,15 +3805,15 @@
                 <PointAndFigurePriceType>Close</PointAndFigurePriceType>
                 <ReversalType>Tick</ReversalType>
                 <Value>10</Value>
-                <Value2>100</Value2>
+                <Value2>50</Value2>
               </BarsPeriodSerializable>
               <BarsToLoad>0</BarsToLoad>
               <DisplayInDataBox>true</DisplayInDataBox>
-              <From>2023-07-12T00:00:00</From>
+              <From>2023-07-23T00:00:00</From>
               <Panel>0</Panel>
               <ScaleJustification>Right</ScaleJustification>
               <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-              <To>2023-07-15T00:00:00</To>
+              <To>2023-07-26T00:00:00</To>
               <Calculate>OnBarClose</Calculate>
               <Displacement>0</Displacement>
               <IsAutoScale>true</IsAutoScale>
@@ -3879,15 +3879,15 @@
             <PointAndFigurePriceType>Close</PointAndFigurePriceType>
             <ReversalType>Tick</ReversalType>
             <Value>10</Value>
-            <Value2>100</Value2>
+            <Value2>50</Value2>
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2023-07-12T00:00:00</From>
+          <From>2023-07-23T00:00:00</From>
           <Panel>2</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2023-07-15T00:00:00</To>
+          <To>2023-07-26T00:00:00</To>
           <Calculate>OnBarClose</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -3918,7 +3918,7 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>1527</IndicatorId>
+          <IndicatorId>99</IndicatorId>
           <InstrumentDeserialized>YM 09-23 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -3950,15 +3950,15 @@
                 <PointAndFigurePriceType>Close</PointAndFigurePriceType>
                 <ReversalType>Tick</ReversalType>
                 <Value>10</Value>
-                <Value2>100</Value2>
+                <Value2>50</Value2>
               </BarsPeriodSerializable>
               <BarsToLoad>0</BarsToLoad>
               <DisplayInDataBox>true</DisplayInDataBox>
-              <From>2023-07-12T00:00:00</From>
+              <From>2023-07-23T00:00:00</From>
               <Panel>0</Panel>
               <ScaleJustification>Right</ScaleJustification>
               <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-              <To>2023-07-15T00:00:00</To>
+              <To>2023-07-26T00:00:00</To>
               <Calculate>OnBarClose</Calculate>
               <Displacement>0</Displacement>
               <IsAutoScale>true</IsAutoScale>
@@ -4024,15 +4024,15 @@
             <PointAndFigurePriceType>Close</PointAndFigurePriceType>
             <ReversalType>Tick</ReversalType>
             <Value>10</Value>
-            <Value2>100</Value2>
+            <Value2>50</Value2>
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2023-07-12T00:00:00</From>
+          <From>2023-07-23T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2023-07-15T00:00:00</To>
+          <To>2023-07-26T00:00:00</To>
           <Calculate>OnBarClose</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -4050,7 +4050,7 @@
           <DrawOnPricePanel>false</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>1531</IndicatorId>
+          <IndicatorId>103</IndicatorId>
           <InstrumentDeserialized>YM 09-23 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -4077,15 +4077,15 @@
                 <PointAndFigurePriceType>Close</PointAndFigurePriceType>
                 <ReversalType>Tick</ReversalType>
                 <Value>10</Value>
-                <Value2>100</Value2>
+                <Value2>50</Value2>
               </BarsPeriodSerializable>
               <BarsToLoad>0</BarsToLoad>
               <DisplayInDataBox>true</DisplayInDataBox>
-              <From>2023-07-12T00:00:00</From>
+              <From>2023-07-23T00:00:00</From>
               <Panel>0</Panel>
               <ScaleJustification>Right</ScaleJustification>
               <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-              <To>2023-07-15T00:00:00</To>
+              <To>2023-07-26T00:00:00</To>
               <Calculate>OnBarClose</Calculate>
               <Displacement>0</Displacement>
               <IsAutoScale>true</IsAutoScale>
@@ -4151,15 +4151,15 @@
             <PointAndFigurePriceType>Close</PointAndFigurePriceType>
             <ReversalType>Tick</ReversalType>
             <Value>10</Value>
-            <Value2>100</Value2>
+            <Value2>50</Value2>
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>false</DisplayInDataBox>
-          <From>2023-07-12T00:00:00</From>
+          <From>2023-07-23T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2023-07-15T00:00:00</To>
+          <To>2023-07-26T00:00:00</To>
           <Calculate>OnEachTick</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -4190,7 +4190,7 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>1534</IndicatorId>
+          <IndicatorId>106</IndicatorId>
           <InstrumentDeserialized>YM 09-23 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -4332,15 +4332,15 @@
             <PointAndFigurePriceType>Close</PointAndFigurePriceType>
             <ReversalType>Tick</ReversalType>
             <Value>10</Value>
-            <Value2>100</Value2>
+            <Value2>50</Value2>
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2023-07-12T00:00:00</From>
+          <From>2023-07-23T00:00:00</From>
           <Panel>1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2023-07-15T00:00:00</To>
+          <To>2023-07-26T00:00:00</To>
           <Calculate>OnEachTick</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>false</IsAutoScale>
@@ -4408,7 +4408,7 @@
           <DrawOnPricePanel>false</DrawOnPricePanel>
           <PaintPriceMarkers>true</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>1537</IndicatorId>
+          <IndicatorId>109</IndicatorId>
           <InstrumentDeserialized>YM 09-23 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -4434,15 +4434,15 @@
             <PointAndFigurePriceType>Close</PointAndFigurePriceType>
             <ReversalType>Tick</ReversalType>
             <Value>10</Value>
-            <Value2>100</Value2>
+            <Value2>50</Value2>
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>false</DisplayInDataBox>
-          <From>2023-07-12T00:00:00</From>
+          <From>2023-07-23T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2023-07-15T00:00:00</To>
+          <To>2023-07-26T00:00:00</To>
           <Calculate>OnBarClose</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -4460,7 +4460,7 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>1540</IndicatorId>
+          <IndicatorId>112</IndicatorId>
           <InstrumentDeserialized>YM 09-23 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -4486,15 +4486,15 @@
             <PointAndFigurePriceType>Close</PointAndFigurePriceType>
             <ReversalType>Tick</ReversalType>
             <Value>10</Value>
-            <Value2>100</Value2>
+            <Value2>50</Value2>
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>false</DisplayInDataBox>
-          <From>2023-07-12T00:00:00</From>
+          <From>2023-07-23T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2023-07-15T00:00:00</To>
+          <To>2023-07-26T00:00:00</To>
           <Calculate>OnBarClose</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -4512,7 +4512,7 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>1543</IndicatorId>
+          <IndicatorId>115</IndicatorId>
           <InstrumentDeserialized>YM 09-23 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -4538,15 +4538,15 @@
             <PointAndFigurePriceType>Close</PointAndFigurePriceType>
             <ReversalType>Tick</ReversalType>
             <Value>10</Value>
-            <Value2>100</Value2>
+            <Value2>50</Value2>
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2023-07-12T00:00:00</From>
+          <From>2023-07-23T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2023-07-15T00:00:00</To>
+          <To>2023-07-26T00:00:00</To>
           <Calculate>OnBarClose</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -4564,7 +4564,7 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>1546</IndicatorId>
+          <IndicatorId>118</IndicatorId>
           <InstrumentDeserialized>YM 09-23 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -4590,15 +4590,15 @@
             <PointAndFigurePriceType>Close</PointAndFigurePriceType>
             <ReversalType>Tick</ReversalType>
             <Value>10</Value>
-            <Value2>100</Value2>
+            <Value2>50</Value2>
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>false</DisplayInDataBox>
-          <From>2023-07-12T00:00:00</From>
+          <From>2023-07-23T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2023-07-15T00:00:00</To>
+          <To>2023-07-26T00:00:00</To>
           <Calculate>OnPriceChange</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>false</IsAutoScale>
@@ -4641,7 +4641,7 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>1549</IndicatorId>
+          <IndicatorId>121</IndicatorId>
           <InstrumentDeserialized>YM 09-23 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -4667,15 +4667,15 @@
             <PointAndFigurePriceType>Close</PointAndFigurePriceType>
             <ReversalType>Tick</ReversalType>
             <Value>10</Value>
-            <Value2>100</Value2>
+            <Value2>50</Value2>
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>false</DisplayInDataBox>
-          <From>2023-07-12T00:00:00</From>
+          <From>2023-07-23T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2023-07-15T00:00:00</To>
+          <To>2023-07-26T00:00:00</To>
           <Calculate>OnPriceChange</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>false</IsAutoScale>
@@ -4718,7 +4718,7 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>1552</IndicatorId>
+          <IndicatorId>124</IndicatorId>
           <InstrumentDeserialized>YM 09-23 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -4744,15 +4744,15 @@
             <PointAndFigurePriceType>Close</PointAndFigurePriceType>
             <ReversalType>Tick</ReversalType>
             <Value>10</Value>
-            <Value2>100</Value2>
+            <Value2>50</Value2>
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>false</DisplayInDataBox>
-          <From>2023-07-12T00:00:00</From>
+          <From>2023-07-23T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2023-07-15T00:00:00</To>
+          <To>2023-07-26T00:00:00</To>
           <Calculate>OnPriceChange</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>false</IsAutoScale>
@@ -4795,7 +4795,7 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>1555</IndicatorId>
+          <IndicatorId>127</IndicatorId>
           <InstrumentDeserialized>YM 09-23 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -4821,15 +4821,15 @@
             <PointAndFigurePriceType>Close</PointAndFigurePriceType>
             <ReversalType>Tick</ReversalType>
             <Value>10</Value>
-            <Value2>100</Value2>
+            <Value2>50</Value2>
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2023-07-12T00:00:00</From>
+          <From>2023-07-23T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2023-07-15T00:00:00</To>
+          <To>2023-07-26T00:00:00</To>
           <Calculate>OnEachTick</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>false</IsAutoScale>
@@ -4860,7 +4860,7 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>1558</IndicatorId>
+          <IndicatorId>130</IndicatorId>
           <InstrumentDeserialized>YM 09-23 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -4886,15 +4886,15 @@
             <PointAndFigurePriceType>Close</PointAndFigurePriceType>
             <ReversalType>Tick</ReversalType>
             <Value>10</Value>
-            <Value2>100</Value2>
+            <Value2>50</Value2>
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>false</DisplayInDataBox>
-          <From>2023-07-12T00:00:00</From>
+          <From>2023-07-23T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2023-07-15T00:00:00</To>
+          <To>2023-07-26T00:00:00</To>
           <Calculate>OnPriceChange</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>false</IsAutoScale>
@@ -4912,7 +4912,7 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>1561</IndicatorId>
+          <IndicatorId>133</IndicatorId>
           <InstrumentDeserialized>YM 09-23 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -4938,15 +4938,15 @@
             <PointAndFigurePriceType>Close</PointAndFigurePriceType>
             <ReversalType>Tick</ReversalType>
             <Value>10</Value>
-            <Value2>100</Value2>
+            <Value2>50</Value2>
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2023-07-12T00:00:00</From>
+          <From>2023-07-23T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2023-07-15T00:00:00</To>
+          <To>2023-07-26T00:00:00</To>
           <Calculate>OnPriceChange</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>false</IsAutoScale>
@@ -5001,7 +5001,7 @@
           <DrawOnPricePanel>false</DrawOnPricePanel>
           <PaintPriceMarkers>true</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>1564</IndicatorId>
+          <IndicatorId>136</IndicatorId>
           <InstrumentDeserialized>YM 09-23 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -5027,15 +5027,15 @@
             <PointAndFigurePriceType>Close</PointAndFigurePriceType>
             <ReversalType>Tick</ReversalType>
             <Value>10</Value>
-            <Value2>100</Value2>
+            <Value2>50</Value2>
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>false</DisplayInDataBox>
-          <From>2023-07-12T00:00:00</From>
+          <From>2023-07-23T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2023-07-15T00:00:00</To>
+          <To>2023-07-26T00:00:00</To>
           <Calculate>OnPriceChange</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -5066,7 +5066,7 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>true</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>1567</IndicatorId>
+          <IndicatorId>139</IndicatorId>
           <InstrumentDeserialized>YM 09-23 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -5092,15 +5092,15 @@
             <PointAndFigurePriceType>Close</PointAndFigurePriceType>
             <ReversalType>Tick</ReversalType>
             <Value>10</Value>
-            <Value2>100</Value2>
+            <Value2>50</Value2>
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2023-07-12T00:00:00</From>
+          <From>2023-07-23T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2023-07-15T00:00:00</To>
+          <To>2023-07-26T00:00:00</To>
           <Calculate>OnBarClose</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>false</IsAutoScale>
@@ -5118,7 +5118,7 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>true</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>1570</IndicatorId>
+          <IndicatorId>142</IndicatorId>
           <InstrumentDeserialized>YM 09-23 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -5144,15 +5144,15 @@
             <PointAndFigurePriceType>Close</PointAndFigurePriceType>
             <ReversalType>Tick</ReversalType>
             <Value>10</Value>
-            <Value2>100</Value2>
+            <Value2>50</Value2>
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2023-07-12T00:00:00</From>
+          <From>2023-07-23T00:00:00</From>
           <Panel>3</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2023-07-15T00:00:00</To>
+          <To>2023-07-26T00:00:00</To>
           <Calculate>OnPriceChange</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -5181,7 +5181,7 @@
               <AutoWidth>false</AutoWidth>
               <Max>1.7976931348623157E+308</Max>
               <Min>-1.7976931348623157E+308</Min>
-              <Name />
+              <Name>S L Z</Name>
               <PlotStyle>Bar</PlotStyle>
             </Plot>
           </Plots>
@@ -5193,13 +5193,13 @@
           <DrawOnPricePanel>false</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>1576</IndicatorId>
+          <IndicatorId>148</IndicatorId>
           <InstrumentDeserialized>YM 09-23 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
           <ZOrder>10004</ZOrder>
           <SettingsSerialized>eyJJc0hpc3RvcmljYWxPbkJhckNsb3NlIjp0cnVlLCJJc1VwQ2xvc2VCYXIiOnRydWUsIklzRG93bkNsb3NlQmFyIjp0cnVlLCJSZXF1aXJlUmV2ZXJzYWxCYXIiOnRydWUsIklnbm9yZVJldmVyc2FsQmFyIjpmYWxzZSwiSXNOb3RTaWduYWxlZCI6ZmFsc2UsIklzTm90U2lnbmFsZWRQbG90Q29udGludWF0aW9uQmFycyI6ZmFsc2UsIlVzZVByaWNlVmFsdWUiOmZhbHNlLCJEZXRlY3RvckNvcGllcklkIjoiIiwiT1BDb3BpZXJJZCI6IiIsIkRldGVjdG9yR3JvdXBzIjoiIiwiQW5kQ29uZGl0aW9uR3JvdXBzIjoiIiwiT3JDb25kaXRpb25Hcm91cHMiOiIiLCJUaWNrT2Zmc2V0IjowLCJVcENsb3NlVmFsdWUiOjEuMCwiVXBDbG9zZUxpdmVWYWx1ZSI6LTEuMCwiRG93bkNsb3NlVmFsdWUiOjEuMCwiRG93bkNsb3NlTGl2ZVZhbHVlIjotMS4wLCJXYWl0VGltZW91dCI6NjAwMDAwfQ==</SettingsSerialized>
-          <UserSettingsSerialized>eyJIaWRlUGxvdHMiOmZhbHNlLCJIaWRlRXh0cmFMaW5lcyI6ZmFsc2UsIkFsZXJ0TmFtZSI6IiIsIlBvdGVudGlhbEFsZXJ0cyI6eyJ2aXN1YWwiOmZhbHNlLCJhdWRpYmxlIjp0cnVlLCJ3aW5kb3dGbGFzaCI6ZmFsc2V9LCJDb25maXJtZWRBbGVydHMiOnsidmlzdWFsIjpmYWxzZSwiYXVkaWJsZSI6dHJ1ZSwid2luZG93Rmxhc2giOmZhbHNlfX0=</UserSettingsSerialized>
+          <UserSettingsSerialized>eyJIaWRlUGxvdHMiOmZhbHNlLCJIaWRlRXh0cmFMaW5lcyI6ZmFsc2UsIkFsZXJ0TmFtZSI6IlMgTCBaIiwiUG90ZW50aWFsQWxlcnRzIjp7InZpc3VhbCI6ZmFsc2UsImF1ZGlibGUiOnRydWUsIndpbmRvd0ZsYXNoIjpmYWxzZX0sIkNvbmZpcm1lZEFsZXJ0cyI6eyJ2aXN1YWwiOmZhbHNlLCJhdWRpYmxlIjp0cnVlLCJ3aW5kb3dGbGFzaCI6ZmFsc2V9fQ==</UserSettingsSerialized>
         </ApexOrderPrintsDetector_StarLVSZOI>
         <Input>
           <PriceType>Close</PriceType>
@@ -5219,15 +5219,15 @@
             <PointAndFigurePriceType>Close</PointAndFigurePriceType>
             <ReversalType>Tick</ReversalType>
             <Value>10</Value>
-            <Value2>100</Value2>
+            <Value2>50</Value2>
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2023-07-12T00:00:00</From>
+          <From>2023-07-23T00:00:00</From>
           <Panel>3</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2023-07-15T00:00:00</To>
+          <To>2023-07-26T00:00:00</To>
           <Calculate>OnPriceChange</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -5256,7 +5256,7 @@
               <AutoWidth>false</AutoWidth>
               <Max>1.7976931348623157E+308</Max>
               <Min>-1.7976931348623157E+308</Min>
-              <Name />
+              <Name>T B S</Name>
               <PlotStyle>Bar</PlotStyle>
             </Plot>
           </Plots>
@@ -5268,13 +5268,13 @@
           <DrawOnPricePanel>false</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>1579</IndicatorId>
+          <IndicatorId>151</IndicatorId>
           <InstrumentDeserialized>YM 09-23 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
           <ZOrder>10007</ZOrder>
           <SettingsSerialized>eyJJc0hpc3RvcmljYWxPbkJhckNsb3NlIjp0cnVlLCJJc1VwQ2xvc2VCYXIiOnRydWUsIklzRG93bkNsb3NlQmFyIjp0cnVlLCJSZXF1aXJlUmV2ZXJzYWxCYXIiOmZhbHNlLCJJZ25vcmVSZXZlcnNhbEJhciI6ZmFsc2UsIklzTm90U2lnbmFsZWQiOmZhbHNlLCJJc05vdFNpZ25hbGVkUGxvdENvbnRpbnVhdGlvbkJhcnMiOmZhbHNlLCJVc2VQcmljZVZhbHVlIjpmYWxzZSwiRGV0ZWN0b3JDb3BpZXJJZCI6IiIsIk9QQ29waWVySWQiOiIiLCJEZXRlY3Rvckdyb3VwcyI6IiIsIkFuZENvbmRpdGlvbkdyb3VwcyI6IiIsIk9yQ29uZGl0aW9uR3JvdXBzIjoiIiwiVGlja09mZnNldCI6MCwiVXBDbG9zZVZhbHVlIjoxLjAsIlVwQ2xvc2VMaXZlVmFsdWUiOi0xLjAsIkRvd25DbG9zZVZhbHVlIjoxLjAsIkRvd25DbG9zZUxpdmVWYWx1ZSI6LTEuMCwiV2FpdFRpbWVvdXQiOjYwMDAwMH0=</SettingsSerialized>
-          <UserSettingsSerialized>eyJIaWRlUGxvdHMiOmZhbHNlLCJIaWRlRXh0cmFMaW5lcyI6ZmFsc2UsIkFsZXJ0TmFtZSI6IiIsIlBvdGVudGlhbEFsZXJ0cyI6eyJ2aXN1YWwiOmZhbHNlLCJhdWRpYmxlIjp0cnVlLCJ3aW5kb3dGbGFzaCI6ZmFsc2V9LCJDb25maXJtZWRBbGVydHMiOnsidmlzdWFsIjpmYWxzZSwiYXVkaWJsZSI6dHJ1ZSwid2luZG93Rmxhc2giOmZhbHNlfX0=</UserSettingsSerialized>
+          <UserSettingsSerialized>eyJIaWRlUGxvdHMiOmZhbHNlLCJIaWRlRXh0cmFMaW5lcyI6ZmFsc2UsIkFsZXJ0TmFtZSI6IlQgQiBTIiwiUG90ZW50aWFsQWxlcnRzIjp7InZpc3VhbCI6ZmFsc2UsImF1ZGlibGUiOnRydWUsIndpbmRvd0ZsYXNoIjpmYWxzZX0sIkNvbmZpcm1lZEFsZXJ0cyI6eyJ2aXN1YWwiOmZhbHNlLCJhdWRpYmxlIjp0cnVlLCJ3aW5kb3dGbGFzaCI6ZmFsc2V9fQ==</UserSettingsSerialized>
         </ApexOrderPrintsDetector_ThirdBarSling>
         <Input>
           <PriceType>Close</PriceType>
@@ -5294,15 +5294,15 @@
             <PointAndFigurePriceType>Close</PointAndFigurePriceType>
             <ReversalType>Tick</ReversalType>
             <Value>10</Value>
-            <Value2>100</Value2>
+            <Value2>50</Value2>
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2023-07-12T00:00:00</From>
+          <From>2023-07-23T00:00:00</From>
           <Panel>3</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2023-07-15T00:00:00</To>
+          <To>2023-07-26T00:00:00</To>
           <Calculate>OnPriceChange</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -5331,7 +5331,7 @@
               <AutoWidth>false</AutoWidth>
               <Max>1.7976931348623157E+308</Max>
               <Min>-1.7976931348623157E+308</Min>
-              <Name />
+              <Name>ELEVATOR</Name>
               <PlotStyle>Bar</PlotStyle>
             </Plot>
           </Plots>
@@ -5343,13 +5343,13 @@
           <DrawOnPricePanel>false</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>1582</IndicatorId>
+          <IndicatorId>154</IndicatorId>
           <InstrumentDeserialized>YM 09-23 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
           <ZOrder>10008</ZOrder>
           <SettingsSerialized>eyJJc0hpc3RvcmljYWxPbkJhckNsb3NlIjp0cnVlLCJJc1VwQ2xvc2VCYXIiOnRydWUsIklzRG93bkNsb3NlQmFyIjp0cnVlLCJSZXF1aXJlUmV2ZXJzYWxCYXIiOnRydWUsIklnbm9yZVJldmVyc2FsQmFyIjpmYWxzZSwiSXNOb3RTaWduYWxlZCI6ZmFsc2UsIklzTm90U2lnbmFsZWRQbG90Q29udGludWF0aW9uQmFycyI6ZmFsc2UsIlVzZVByaWNlVmFsdWUiOmZhbHNlLCJEZXRlY3RvckNvcGllcklkIjoiIiwiT1BDb3BpZXJJZCI6IiIsIkRldGVjdG9yR3JvdXBzIjoiIiwiQW5kQ29uZGl0aW9uR3JvdXBzIjoiIiwiT3JDb25kaXRpb25Hcm91cHMiOiIiLCJUaWNrT2Zmc2V0IjowLCJVcENsb3NlVmFsdWUiOjEuMCwiVXBDbG9zZUxpdmVWYWx1ZSI6LTEuMCwiRG93bkNsb3NlVmFsdWUiOjEuMCwiRG93bkNsb3NlTGl2ZVZhbHVlIjotMS4wLCJXYWl0VGltZW91dCI6NjAwMDAwfQ==</SettingsSerialized>
-          <UserSettingsSerialized>eyJIaWRlUGxvdHMiOmZhbHNlLCJIaWRlRXh0cmFMaW5lcyI6ZmFsc2UsIkFsZXJ0TmFtZSI6IiIsIlBvdGVudGlhbEFsZXJ0cyI6eyJ2aXN1YWwiOmZhbHNlLCJhdWRpYmxlIjp0cnVlLCJ3aW5kb3dGbGFzaCI6ZmFsc2V9LCJDb25maXJtZWRBbGVydHMiOnsidmlzdWFsIjpmYWxzZSwiYXVkaWJsZSI6dHJ1ZSwid2luZG93Rmxhc2giOmZhbHNlfX0=</UserSettingsSerialized>
+          <UserSettingsSerialized>eyJIaWRlUGxvdHMiOmZhbHNlLCJIaWRlRXh0cmFMaW5lcyI6ZmFsc2UsIkFsZXJ0TmFtZSI6IkVMRVZBVE9SIiwiUG90ZW50aWFsQWxlcnRzIjp7InZpc3VhbCI6ZmFsc2UsImF1ZGlibGUiOnRydWUsIndpbmRvd0ZsYXNoIjpmYWxzZX0sIkNvbmZpcm1lZEFsZXJ0cyI6eyJ2aXN1YWwiOmZhbHNlLCJhdWRpYmxlIjp0cnVlLCJ3aW5kb3dGbGFzaCI6ZmFsc2V9fQ==</UserSettingsSerialized>
         </ApexOrderPrintsDetector_Elevator>
         <Input>
           <PriceType>Close</PriceType>
@@ -5369,15 +5369,15 @@
             <PointAndFigurePriceType>Close</PointAndFigurePriceType>
             <ReversalType>Tick</ReversalType>
             <Value>10</Value>
-            <Value2>100</Value2>
+            <Value2>50</Value2>
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2023-07-12T00:00:00</From>
+          <From>2023-07-23T00:00:00</From>
           <Panel>3</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2023-07-15T00:00:00</To>
+          <To>2023-07-26T00:00:00</To>
           <Calculate>OnPriceChange</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -5406,7 +5406,7 @@
               <AutoWidth>false</AutoWidth>
               <Max>1.7976931348623157E+308</Max>
               <Min>-1.7976931348623157E+308</Min>
-              <Name />
+              <Name>E TX</Name>
               <PlotStyle>Bar</PlotStyle>
             </Plot>
           </Plots>
@@ -5418,13 +5418,13 @@
           <DrawOnPricePanel>false</DrawOnPricePanel>
           <PaintPriceMarkers>true</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>1585</IndicatorId>
+          <IndicatorId>157</IndicatorId>
           <InstrumentDeserialized>YM 09-23 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
           <ZOrder>10014</ZOrder>
           <SettingsSerialized>eyJJc0hpc3RvcmljYWxPbkJhckNsb3NlIjp0cnVlLCJJc1VwQ2xvc2VCYXIiOnRydWUsIklzRG93bkNsb3NlQmFyIjp0cnVlLCJSZXF1aXJlUmV2ZXJzYWxCYXIiOnRydWUsIklnbm9yZVJldmVyc2FsQmFyIjpmYWxzZSwiSXNOb3RTaWduYWxlZCI6ZmFsc2UsIklzTm90U2lnbmFsZWRQbG90Q29udGludWF0aW9uQmFycyI6ZmFsc2UsIlVzZVByaWNlVmFsdWUiOmZhbHNlLCJEZXRlY3RvckNvcGllcklkIjoiIiwiT1BDb3BpZXJJZCI6IiIsIkRldGVjdG9yR3JvdXBzIjoiIiwiQW5kQ29uZGl0aW9uR3JvdXBzIjoiIiwiT3JDb25kaXRpb25Hcm91cHMiOiIiLCJUaWNrT2Zmc2V0IjowLCJVcENsb3NlVmFsdWUiOjEuMCwiVXBDbG9zZUxpdmVWYWx1ZSI6LTEuMCwiRG93bkNsb3NlVmFsdWUiOjEuMCwiRG93bkNsb3NlTGl2ZVZhbHVlIjotMS4wLCJXYWl0VGltZW91dCI6NjAwMDAwfQ==</SettingsSerialized>
-          <UserSettingsSerialized>eyJIaWRlUGxvdHMiOmZhbHNlLCJIaWRlRXh0cmFMaW5lcyI6ZmFsc2UsIkFsZXJ0TmFtZSI6IiIsIlBvdGVudGlhbEFsZXJ0cyI6eyJ2aXN1YWwiOmZhbHNlLCJhdWRpYmxlIjp0cnVlLCJ3aW5kb3dGbGFzaCI6ZmFsc2V9LCJDb25maXJtZWRBbGVydHMiOnsidmlzdWFsIjpmYWxzZSwiYXVkaWJsZSI6dHJ1ZSwid2luZG93Rmxhc2giOmZhbHNlfX0=</UserSettingsSerialized>
+          <UserSettingsSerialized>eyJIaWRlUGxvdHMiOmZhbHNlLCJIaWRlRXh0cmFMaW5lcyI6ZmFsc2UsIkFsZXJ0TmFtZSI6IkUgVFgiLCJQb3RlbnRpYWxBbGVydHMiOnsidmlzdWFsIjpmYWxzZSwiYXVkaWJsZSI6dHJ1ZSwid2luZG93Rmxhc2giOmZhbHNlfSwiQ29uZmlybWVkQWxlcnRzIjp7InZpc3VhbCI6ZmFsc2UsImF1ZGlibGUiOnRydWUsIndpbmRvd0ZsYXNoIjpmYWxzZX19</UserSettingsSerialized>
           <DetectorSettingsSerialized>eyJMZXZlbE9mZnNldCI6MiwiRW5hYmxlTWluaU1hZ25ldHMiOnRydWUsIkVuYWJsZVBhd1ByaW50cyI6dHJ1ZSwiRW5hYmxlWk9JcyI6dHJ1ZSwiRW5hYmxlSUJPcyI6dHJ1ZSwiUmVxdWlyZVRYIjp0cnVlLCJSZXF1aXJlTU0iOmZhbHNlLCJSZXF1aXJlUGF3IjpmYWxzZSwiUmVxdWlyZU1Nb3JQYXciOnRydWV9</DetectorSettingsSerialized>
         </ApexOrderPrintsDetector_ETX>
         <Input>
@@ -5445,15 +5445,15 @@
             <PointAndFigurePriceType>Close</PointAndFigurePriceType>
             <ReversalType>Tick</ReversalType>
             <Value>10</Value>
-            <Value2>100</Value2>
+            <Value2>50</Value2>
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2023-07-12T00:00:00</From>
+          <From>2023-07-23T00:00:00</From>
           <Panel>3</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2023-07-15T00:00:00</To>
+          <To>2023-07-26T00:00:00</To>
           <Calculate>OnPriceChange</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -5482,7 +5482,7 @@
               <AutoWidth>false</AutoWidth>
               <Max>1.7976931348623157E+308</Max>
               <Min>-1.7976931348623157E+308</Min>
-              <Name />
+              <Name>TX</Name>
               <PlotStyle>Bar</PlotStyle>
             </Plot>
           </Plots>
@@ -5494,13 +5494,13 @@
           <DrawOnPricePanel>false</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>1588</IndicatorId>
+          <IndicatorId>160</IndicatorId>
           <InstrumentDeserialized>YM 09-23 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
           <ZOrder>10010</ZOrder>
           <SettingsSerialized>eyJJc0hpc3RvcmljYWxPbkJhckNsb3NlIjp0cnVlLCJJc1VwQ2xvc2VCYXIiOnRydWUsIklzRG93bkNsb3NlQmFyIjp0cnVlLCJSZXF1aXJlUmV2ZXJzYWxCYXIiOnRydWUsIklnbm9yZVJldmVyc2FsQmFyIjpmYWxzZSwiSXNOb3RTaWduYWxlZCI6ZmFsc2UsIklzTm90U2lnbmFsZWRQbG90Q29udGludWF0aW9uQmFycyI6ZmFsc2UsIlVzZVByaWNlVmFsdWUiOmZhbHNlLCJEZXRlY3RvckNvcGllcklkIjoiIiwiT1BDb3BpZXJJZCI6IiIsIkRldGVjdG9yR3JvdXBzIjoiIiwiQW5kQ29uZGl0aW9uR3JvdXBzIjoiIiwiT3JDb25kaXRpb25Hcm91cHMiOiIiLCJUaWNrT2Zmc2V0IjowLCJVcENsb3NlVmFsdWUiOjEuMCwiVXBDbG9zZUxpdmVWYWx1ZSI6LTEuMCwiRG93bkNsb3NlVmFsdWUiOjEuMCwiRG93bkNsb3NlTGl2ZVZhbHVlIjotMS4wLCJXYWl0VGltZW91dCI6NjAwMDAwfQ==</SettingsSerialized>
-          <UserSettingsSerialized>eyJIaWRlUGxvdHMiOmZhbHNlLCJIaWRlRXh0cmFMaW5lcyI6ZmFsc2UsIkFsZXJ0TmFtZSI6IiIsIlBvdGVudGlhbEFsZXJ0cyI6eyJ2aXN1YWwiOmZhbHNlLCJhdWRpYmxlIjp0cnVlLCJ3aW5kb3dGbGFzaCI6ZmFsc2V9LCJDb25maXJtZWRBbGVydHMiOnsidmlzdWFsIjpmYWxzZSwiYXVkaWJsZSI6dHJ1ZSwid2luZG93Rmxhc2giOmZhbHNlfX0=</UserSettingsSerialized>
+          <UserSettingsSerialized>eyJIaWRlUGxvdHMiOmZhbHNlLCJIaWRlRXh0cmFMaW5lcyI6ZmFsc2UsIkFsZXJ0TmFtZSI6IlRYIiwiUG90ZW50aWFsQWxlcnRzIjp7InZpc3VhbCI6ZmFsc2UsImF1ZGlibGUiOnRydWUsIndpbmRvd0ZsYXNoIjpmYWxzZX0sIkNvbmZpcm1lZEFsZXJ0cyI6eyJ2aXN1YWwiOmZhbHNlLCJhdWRpYmxlIjp0cnVlLCJ3aW5kb3dGbGFzaCI6ZmFsc2V9fQ==</UserSettingsSerialized>
           <DetectorSettingsSerialized>eyJSZXF1aXJlRFJDb25maXJtYXRpb24iOmZhbHNlLCJFeGNsdWRlQ2hvcCI6ZmFsc2UsIkV4Y2x1ZGVEb3VibGVDbHVzdGVycyI6ZmFsc2UsIkRldmlhdGlvblJldmVyc2FsU3RyZW5ndGgiOjIyLCJEZXZpYXRpb25SZXZlcnNhbE51bUJhcnMiOjJ9</DetectorSettingsSerialized>
         </ApexOrderPrintsDetector_TrappedOrdersWithExauhstionBox>
         <Input>
@@ -5521,15 +5521,15 @@
             <PointAndFigurePriceType>Close</PointAndFigurePriceType>
             <ReversalType>Tick</ReversalType>
             <Value>10</Value>
-            <Value2>100</Value2>
+            <Value2>50</Value2>
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2023-07-12T00:00:00</From>
+          <From>2023-07-23T00:00:00</From>
           <Panel>3</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2023-07-15T00:00:00</To>
+          <To>2023-07-26T00:00:00</To>
           <Calculate>OnPriceChange</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -5558,7 +5558,7 @@
               <AutoWidth>false</AutoWidth>
               <Max>1.7976931348623157E+308</Max>
               <Min>-1.7976931348623157E+308</Min>
-              <Name />
+              <Name>D TX</Name>
               <PlotStyle>Bar</PlotStyle>
             </Plot>
           </Plots>
@@ -5570,13 +5570,13 @@
           <DrawOnPricePanel>false</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>1591</IndicatorId>
+          <IndicatorId>163</IndicatorId>
           <InstrumentDeserialized>YM 09-23 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
           <ZOrder>10009</ZOrder>
           <SettingsSerialized>eyJJc0hpc3RvcmljYWxPbkJhckNsb3NlIjp0cnVlLCJJc1VwQ2xvc2VCYXIiOnRydWUsIklzRG93bkNsb3NlQmFyIjp0cnVlLCJSZXF1aXJlUmV2ZXJzYWxCYXIiOnRydWUsIklnbm9yZVJldmVyc2FsQmFyIjpmYWxzZSwiSXNOb3RTaWduYWxlZCI6ZmFsc2UsIklzTm90U2lnbmFsZWRQbG90Q29udGludWF0aW9uQmFycyI6ZmFsc2UsIlVzZVByaWNlVmFsdWUiOmZhbHNlLCJEZXRlY3RvckNvcGllcklkIjoiIiwiT1BDb3BpZXJJZCI6IiIsIkRldGVjdG9yR3JvdXBzIjoiIiwiQW5kQ29uZGl0aW9uR3JvdXBzIjoiIiwiT3JDb25kaXRpb25Hcm91cHMiOiIiLCJUaWNrT2Zmc2V0IjowLCJVcENsb3NlVmFsdWUiOjEuMCwiVXBDbG9zZUxpdmVWYWx1ZSI6LTEuMCwiRG93bkNsb3NlVmFsdWUiOjEuMCwiRG93bkNsb3NlTGl2ZVZhbHVlIjotMS4wLCJXYWl0VGltZW91dCI6NjAwMDAwfQ==</SettingsSerialized>
-          <UserSettingsSerialized>eyJIaWRlUGxvdHMiOmZhbHNlLCJIaWRlRXh0cmFMaW5lcyI6ZmFsc2UsIkFsZXJ0TmFtZSI6IiIsIlBvdGVudGlhbEFsZXJ0cyI6eyJ2aXN1YWwiOmZhbHNlLCJhdWRpYmxlIjp0cnVlLCJ3aW5kb3dGbGFzaCI6ZmFsc2V9LCJDb25maXJtZWRBbGVydHMiOnsidmlzdWFsIjpmYWxzZSwiYXVkaWJsZSI6dHJ1ZSwid2luZG93Rmxhc2giOmZhbHNlfX0=</UserSettingsSerialized>
+          <UserSettingsSerialized>eyJIaWRlUGxvdHMiOmZhbHNlLCJIaWRlRXh0cmFMaW5lcyI6ZmFsc2UsIkFsZXJ0TmFtZSI6IkQgVFgiLCJQb3RlbnRpYWxBbGVydHMiOnsidmlzdWFsIjpmYWxzZSwiYXVkaWJsZSI6dHJ1ZSwid2luZG93Rmxhc2giOmZhbHNlfSwiQ29uZmlybWVkQWxlcnRzIjp7InZpc3VhbCI6ZmFsc2UsImF1ZGlibGUiOnRydWUsIndpbmRvd0ZsYXNoIjpmYWxzZX19</UserSettingsSerialized>
           <DetectorSettingsSerialized>eyJSZXF1aXJlRFJDb25maXJtYXRpb24iOmZhbHNlLCJFeGNsdWRlQ2hvcCI6ZmFsc2UsIkV4Y2x1ZGVEb3VibGVDbHVzdGVycyI6ZmFsc2UsIkRldmlhdGlvblJldmVyc2FsU3RyZW5ndGgiOjIyLCJEZXZpYXRpb25SZXZlcnNhbE51bUJhcnMiOjJ9</DetectorSettingsSerialized>
         </ApexOrderPrintsDetector_DoubleTX>
         <Input>
@@ -5597,15 +5597,15 @@
             <PointAndFigurePriceType>Close</PointAndFigurePriceType>
             <ReversalType>Tick</ReversalType>
             <Value>10</Value>
-            <Value2>100</Value2>
+            <Value2>50</Value2>
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2023-07-12T00:00:00</From>
+          <From>2023-07-23T00:00:00</From>
           <Panel>3</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2023-07-15T00:00:00</To>
+          <To>2023-07-26T00:00:00</To>
           <Calculate>OnPriceChange</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -5634,7 +5634,7 @@
               <AutoWidth>false</AutoWidth>
               <Max>1.7976931348623157E+308</Max>
               <Min>-1.7976931348623157E+308</Min>
-              <Name />
+              <Name>TX F</Name>
               <PlotStyle>Bar</PlotStyle>
             </Plot>
           </Plots>
@@ -5646,13 +5646,13 @@
           <DrawOnPricePanel>false</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>1594</IndicatorId>
+          <IndicatorId>166</IndicatorId>
           <InstrumentDeserialized>YM 09-23 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
           <ZOrder>10011</ZOrder>
           <SettingsSerialized>eyJJc0hpc3RvcmljYWxPbkJhckNsb3NlIjp0cnVlLCJJc1VwQ2xvc2VCYXIiOnRydWUsIklzRG93bkNsb3NlQmFyIjp0cnVlLCJSZXF1aXJlUmV2ZXJzYWxCYXIiOnRydWUsIklnbm9yZVJldmVyc2FsQmFyIjpmYWxzZSwiSXNOb3RTaWduYWxlZCI6ZmFsc2UsIklzTm90U2lnbmFsZWRQbG90Q29udGludWF0aW9uQmFycyI6ZmFsc2UsIlVzZVByaWNlVmFsdWUiOmZhbHNlLCJEZXRlY3RvckNvcGllcklkIjoiIiwiT1BDb3BpZXJJZCI6IiIsIkRldGVjdG9yR3JvdXBzIjoiIiwiQW5kQ29uZGl0aW9uR3JvdXBzIjoiIiwiT3JDb25kaXRpb25Hcm91cHMiOiIiLCJUaWNrT2Zmc2V0IjowLCJVcENsb3NlVmFsdWUiOjEuMCwiVXBDbG9zZUxpdmVWYWx1ZSI6LTEuMCwiRG93bkNsb3NlVmFsdWUiOjEuMCwiRG93bkNsb3NlTGl2ZVZhbHVlIjotMS4wLCJXYWl0VGltZW91dCI6NjAwMDAwfQ==</SettingsSerialized>
-          <UserSettingsSerialized>eyJIaWRlUGxvdHMiOmZhbHNlLCJIaWRlRXh0cmFMaW5lcyI6ZmFsc2UsIkFsZXJ0TmFtZSI6IiIsIlBvdGVudGlhbEFsZXJ0cyI6eyJ2aXN1YWwiOmZhbHNlLCJhdWRpYmxlIjp0cnVlLCJ3aW5kb3dGbGFzaCI6ZmFsc2V9LCJDb25maXJtZWRBbGVydHMiOnsidmlzdWFsIjpmYWxzZSwiYXVkaWJsZSI6dHJ1ZSwid2luZG93Rmxhc2giOmZhbHNlfX0=</UserSettingsSerialized>
+          <UserSettingsSerialized>eyJIaWRlUGxvdHMiOmZhbHNlLCJIaWRlRXh0cmFMaW5lcyI6ZmFsc2UsIkFsZXJ0TmFtZSI6IlRYIEYiLCJQb3RlbnRpYWxBbGVydHMiOnsidmlzdWFsIjpmYWxzZSwiYXVkaWJsZSI6dHJ1ZSwid2luZG93Rmxhc2giOmZhbHNlfSwiQ29uZmlybWVkQWxlcnRzIjp7InZpc3VhbCI6ZmFsc2UsImF1ZGlibGUiOnRydWUsIndpbmRvd0ZsYXNoIjpmYWxzZX19</UserSettingsSerialized>
           <DetectorSettingsSerialized>eyJSZXF1aXJlRFJDb25maXJtYXRpb24iOnRydWUsIkV4Y2x1ZGVDaG9wIjp0cnVlLCJFeGNsdWRlRG91YmxlQ2x1c3RlcnMiOnRydWUsIkRldmlhdGlvblJldmVyc2FsU3RyZW5ndGgiOjIyLCJEZXZpYXRpb25SZXZlcnNhbE51bUJhcnMiOjJ9</DetectorSettingsSerialized>
         </ApexOrderPrintsDetector_TrappedOrdersWithExauhstionBox>
         <Input>
@@ -5673,15 +5673,15 @@
             <PointAndFigurePriceType>Close</PointAndFigurePriceType>
             <ReversalType>Tick</ReversalType>
             <Value>10</Value>
-            <Value2>100</Value2>
+            <Value2>50</Value2>
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2023-07-12T00:00:00</From>
+          <From>2023-07-23T00:00:00</From>
           <Panel>3</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2023-07-15T00:00:00</To>
+          <To>2023-07-26T00:00:00</To>
           <Calculate>OnPriceChange</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -5722,7 +5722,7 @@
           <DrawOnPricePanel>false</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>1597</IndicatorId>
+          <IndicatorId>169</IndicatorId>
           <InstrumentDeserialized>YM 09-23 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -5748,15 +5748,15 @@
             <PointAndFigurePriceType>Close</PointAndFigurePriceType>
             <ReversalType>Tick</ReversalType>
             <Value>10</Value>
-            <Value2>100</Value2>
+            <Value2>50</Value2>
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2023-07-12T00:00:00</From>
+          <From>2023-07-23T00:00:00</From>
           <Panel>3</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2023-07-15T00:00:00</To>
+          <To>2023-07-26T00:00:00</To>
           <Calculate>OnPriceChange</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -5797,7 +5797,7 @@
           <DrawOnPricePanel>false</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>1600</IndicatorId>
+          <IndicatorId>172</IndicatorId>
           <InstrumentDeserialized>YM 09-23 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
@@ -5891,8 +5891,8 @@
             <AutoScaleMarginLower>40</AutoScaleMarginLower>
             <AutoScaleMarginUpper>40</AutoScaleMarginUpper>
             <YAxisScalingType>Linear</YAxisScalingType>
-            <FixedScaleMaxSerialize>34715</FixedScaleMaxSerialize>
-            <FixedScaleMinSerialize>34654</FixedScaleMinSerialize>
+            <FixedScaleMaxSerialize>35710</FixedScaleMaxSerialize>
+            <FixedScaleMinSerialize>35601</FixedScaleMinSerialize>
           </ChartScaleProperties>
         </Right>
         <Left>
@@ -5941,7 +5941,7 @@
             <AutoScaleMarginLower>6</AutoScaleMarginLower>
             <AutoScaleMarginUpper>6</AutoScaleMarginUpper>
             <YAxisScalingType>Linear</YAxisScalingType>
-            <FixedScaleMaxSerialize>1.2598500558304111</FixedScaleMaxSerialize>
+            <FixedScaleMaxSerialize>1.9468942626844858</FixedScaleMaxSerialize>
             <FixedScaleMinSerialize>0</FixedScaleMinSerialize>
           </ChartScaleProperties>
         </Right>
@@ -5991,7 +5991,7 @@
             <AutoScaleMarginLower>6</AutoScaleMarginLower>
             <AutoScaleMarginUpper>6</AutoScaleMarginUpper>
             <YAxisScalingType>Linear</YAxisScalingType>
-            <FixedScaleMaxSerialize>34699</FixedScaleMaxSerialize>
+            <FixedScaleMaxSerialize>35678</FixedScaleMaxSerialize>
             <FixedScaleMinSerialize>0</FixedScaleMinSerialize>
           </ChartScaleProperties>
         </Right>
