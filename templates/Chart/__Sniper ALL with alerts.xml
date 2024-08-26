@@ -22,14 +22,14 @@
           <RangeType>Days</RangeType>
           <BarsBack>50</BarsBack>
           <DaysBack>1</DaysBack>
-          <From>2024-05-01T00:00:00</From>
+          <From>2024-08-11T00:00:00</From>
           <IsStableSession>true</IsStableSession>
           <To>2099-12-01T00:00:00</To>
           <TradingHoursSerializable>Default 24 x 7</TradingHoursSerializable>
           <AutoScale>true</AutoScale>
           <CenterPriceOnScale>false</CenterPriceOnScale>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <Label>NQ 06-24</Label>
+          <Label>YM 09-24</Label>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
           <Panel>0</Panel>
@@ -50,9 +50,9 @@
           <PositionPenLoserSerialize>DEFAULT</PositionPenLoserSerialize>
           <PositionPenWinnerSerialize>DEFAULT</PositionPenWinnerSerialize>
           <ShortExecutionBrushSerialize>DEFAULT</ShortExecutionBrushSerialize>
-          <BarsSeriesId>d0e87c2bab154c3f9447462ba35cd7c0</BarsSeriesId>
-          <Id>d0e87c2bab154c3f9447462ba35cd7c0</Id>
-          <Instrument>NQ 06-24</Instrument>
+          <BarsSeriesId>12bbfefcc3e9408a97e9b4fe3341fe71</BarsSeriesId>
+          <Id>12bbfefcc3e9408a97e9b4fe3341fe71</Id>
+          <Instrument>YM 09-24</Instrument>
           <IsLinked>true</IsLinked>
           <IsPrimarySeries>true</IsPrimarySeries>
           <ZOrder>1</ZOrder>
@@ -83,7 +83,7 @@
       </BarsProperties>
     </DataSeries>
     <Indicators>
-      <Indicator BarsIndex="0" Instrument="NQ 06-24 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexOrderPrints" Panel="-1" DisplayName="_APEX Order Prints">
+      <Indicator BarsIndex="0" Instrument="YM 09-24 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexOrderPrints" Panel="-1" DisplayName="_APEX Order Prints">
         <ApexOrderPrints xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
           <IsVisible>true</IsVisible>
           <AreLinesConfigurable>true</AreLinesConfigurable>
@@ -101,11 +101,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2024-05-01T00:00:00</From>
+          <From>2024-08-11T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2024-05-02T00:00:00</To>
+          <To>2024-08-12T00:00:00</To>
           <Calculate>OnEachTick</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>false</IsAutoScale>
@@ -123,20 +123,20 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>true</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>6081</IndicatorId>
-          <InstrumentDeserialized>NQ 06-24 Globex</InstrumentDeserialized>
+          <IndicatorId>8095</IndicatorId>
+          <InstrumentDeserialized>YM 09-24 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
           <ZOrder>0</ZOrder>
-          <SettingsSerialized>eyJ1c2VGdXR1cmVzVm9sdW1lRm9yRm9yZXgiOnRydWUsImlzSGlzdG9yaWNhbE9uQmFyQ2xvc2UiOnRydWUsIm9wQ29waWVySWQiOiIiLCJwYXciOnsic3RyZW5ndGgiOjMwLjAsImNhbGN1bGF0ZU9uQmFyQ2xvc2UiOmZhbHNlLCJvbmx5U2hvd09uV2ljayI6dHJ1ZX0sImltYmFsYW5jZSI6eyJzdHJlbmd0aCI6My4wLCJ2b2x1bWVGaWx0ZXIiOjAsIndlYWtWb2x1bWVGaWx0ZXIiOjF9LCJ6b25lT2ZJbnRlcmVzdCI6eyJ6b2lDcmFzaFRpY2tPZmZzZXQiOjEsIm1pblZvbHVtZSI6MCwibWluTGV2ZWxzIjozLCJ6b2lDcmFzaEJhck9mZnNldCI6MX0sImV4aGF1c3Rpb24iOnsic3RyZW5ndGgiOjMuMCwidm9sdW1lRmlsdGVyIjowfSwibmV0Vm9sdW1lQWNjZWxlcmF0aW9uIjp7ImNhbGNPbkJhckNsb3NlIjpmYWxzZSwicGVyaW9kIjo0LCJzdHJlbmd0aCI6Mi4wLCJ2b2x1bWVGaWx0ZXIiOjB9LCJ0b3RhbFZvbHVtZSI6eyJhbGVydFRocmVzaG9sZCI6NzAwMH0sInRvdGFsVm9sdW1lQWNjZWxlcmF0aW9uIjp7InBlcmlvZCI6NCwic3RyZW5ndGgiOjIuMH0sInRyYXBwZWRPcmRlcnMiOnsibWluVm9sdW1lIjoxMCwibWluTGV2ZWxzIjozLCJyZXZlcnNhbE9ubHlBbGVydCI6dHJ1ZX0sImxlYWRpbmdWb2x1bWVzIjp7Im1pblZvbHVtZSI6MTAsIm1pbkxldmVscyI6M30sImJsb2NrT3JkZXJTZXR0aW5ncyI6eyJibG9ja1NpemUiOjUwLCJtYXhEYXlzVG9TaG93UGFzdEJyb2tlbiI6MX0sImJsb2NrVm9sdW1lQWNjZWxlcmF0aW9uIjp7ImNhbGNPbkJhckNsb3NlIjpmYWxzZSwicGVyaW9kIjo3LCJzdHJlbmd0aCI6Mi4wLCJ2b2x1bWVGaWx0ZXIiOjB9LCJtb21lbnR1bSI6eyJzdHJlbmd0aCI6My4wLCJzaXplIjozLCJtaW5pbXVtVG90YWxWb2x1bWVUaHJlc2hvbGQiOjEwLCJsb3dWb2x1bWVTY29yZVRocmVzaG9sZCI6MTN9LCJhYnNvcnB0aW9uIjp7InN0cmVuZ3RoIjozLjAsInNpemUiOjMsIm1pbmltdW1Ub3RhbFZvbHVtZVRocmVzaG9sZCI6MTB9LCJtaW5pTWFnbmV0cyI6eyJtaW5pbXVtVm9sdW1lIjoxLCJ0aHJlc2hvbGQiOjEsIm1heERheXNUb1Nob3dQYXN0QnJva2VuIjoxLCJjYWxjdWxhdGVPbkJhckNsb3NlIjpmYWxzZSwiaWJzTGFyZ2VNaW5pbXVtIjoyNSwiaWJzU21hbGxNaW5pbXVtIjo2LCJpYnNSZXF1aXJlQ2x1c3RlciI6dHJ1ZSwiaG9sZVBhdGNoT2xkTWluQmFycyI6MTAsImhvbGVQYXRjaE5ld01heEJhcnMiOjI1LCJob2xlUGF0Y2hUaWNrT2Zmc2V0IjoyfSwiZGlzcGxheU1pc2MiOnsidm9sdW1lT2Zmc2V0IjowfSwiQ2x1c3RlciI6eyJncmVhdGVyVGhhbk11bHRpcGxpZXIiOjIuMCwicGVyaW9kIjo0LCJtaW5pbXVtVG90YWxWb2x1bWUiOjEwfSwiYnJpY2tXYWxsIjp7Im1pbkVudGl0aWVzUmVxdWlyZWQiOjMsIm1heFByb3hpbWl0eUluVGlja3MiOjMsIm1heFRpbWVCZXR3ZWVuRW50aXRpZXMiOiIwODowMDowMCJ9LCJ2b2x1bWVTY29yZSI6eyJ1cHBlckFsZXJ0VGhyZXNob2xkIjoxMDAwLCJsb3dlckFsZXJ0VGhyZXNob2xkIjoxM30sInRoaXJkQmFyU2xpbmciOnsicmVxdWlyZW1lbnRzIjozfSwic3RhckxWU1pPSSI6eyJ0cmFwcGVkT3JkZXJzQW5kRXhoYXVzdGlvbkJveFJlcXVpcmVkIjpmYWxzZX0sImVsZXZhdG9yIjp7Im1pbmlNYWduZXRQYXdSZXF1aXJlbWVudHMiOjIsImNsdXN0ZXJSZXF1aXJlbWVudHMiOjJ9LCJkb3VibGVUWCI6eyJwZXJpb2QiOjMwLCJzdHJlbmd0aCI6NX0sIm9wcmVqZWN0aW9uIjp7InNldHVwQmFyQ2FsY3VsYXRpb25zIjoxLCJQcmV2aW91c0JhckNhbGN1bGF0aW9ucyI6MSwic2V0dXBCYXJEZXB0aE1pbmludW1Wb2x1bWUiOjAsInNldHVwQmFyTXVsdGlwbGllciI6My4wLCJzZXR1cEJhckRlcHRoIjoyLCJzZXR1cEJhclRocmVzaG9sZCI6MTAsInByZXZpb3VzQmFyTXVsdGlwbGllciI6Mi41LCJwcmV2aW91c0JhckRlcHRoIjoxLCJwcmV2aW91c0JhclRocmVzaG9sZCI6MTAsInBlcmlvZCI6MywicmVxdWlyZVBBVyI6ZmFsc2UsInJlcXVpcmVUcmFwcGVkT3JkZXIiOmZhbHNlLCJyZXF1aXJlRXhoYXVzdGlvbiI6ZmFsc2V9LCJvcGRpdmVyZ2VuY2UiOnsic2V0dXBCYXJNdWx0aXBsaWVyIjoyLjAsInNldHVwQmFyRGVwdGgiOjIsInNldHVwQmFyVGhyZXNob2xkIjoxMCwicHJldmlvdXNCYXJNdWx0aXBsaWVyIjowLjAsInByZXZpb3VzQmFyRGVwdGgiOjAsInBlcmlvZCI6M30sImRpdmVyZ2VudExvd1JldmVyc2FsR28iOnsidHJhcHBlZE9yZGVyc0FuZEV4aGF1c3Rpb25Cb3hSZXF1aXJlZCI6ZmFsc2UsImluY2x1ZGVMb3dEaXZlcmdlbnRSZXZlcnNhbEdvIjpmYWxzZSwiYmFyc0JlZm9yZVNldHVwIjo0fX0=</SettingsSerialized>
-          <UserSettingsSerialized>eyJhbGVydHMiOnsidmlzdWFsIjpmYWxzZSwiYXVkaWJsZSI6dHJ1ZSwid2luZG93Rmxhc2giOmZhbHNlfSwicGF3UHJpbnRzIjp7InNob3ciOnRydWUsInNob3dSZWN0YW5nbGUiOnRydWUsInNob3dMaW5lIjp0cnVlLCJ1cHBlckxpbmUiOnsiYnJ1c2giOiIjRkZGRjhDMDAiLCJ3aWR0aCI6MS4wLCJkYXNoU3R5bGUiOjAsIm9wYWNpdHkiOjEwMH0sImxvd2VyTGluZSI6eyJicnVzaCI6IiNGRkZGOEMwMCIsIndpZHRoIjoxLjAsImRhc2hTdHlsZSI6MCwib3BhY2l0eSI6MTAwfSwiaW5zdGFudEFsZXJ0cyI6ZmFsc2UsImJhckNsb3NlQWxlcnRzIjpmYWxzZSwibWluV2lkdGgiOjE1fSwiaW1iYWxhbmNlIjp7InNob3ciOmZhbHNlLCJhc2tDb2xvciI6IiNGRjY5Njk2OSIsImJpZENvbG9yIjoiI0ZGNjk2OTY5Iiwid2Vha0NvbG9yIjoiI0ZGNjk2OTY5Iiwic2hvd1dlYWtJbWJhbGFuY2VzIjpmYWxzZX0sImJhbGFuY2VkVm9sdW1lIjp7IlNob3ciOmZhbHNlLCJGb250Q29sb3IiOiIjRkYwMDAwMDAifSwiem9uZU9mSW50ZXJlc3QiOnsic2hvdyI6dHJ1ZSwiZG93bkNvbG9yIjoiI0ZGQkE1NUQzIiwidXBDb2xvciI6IiNGRjAwQ0VEMSIsInNob3dCb3giOnRydWUsInNob3daT0lDcmFzaCI6ZmFsc2UsInpPSUNyYXNoQ29sb3IiOnsiYnJ1c2giOiIjRkY4QTJCRTIiLCJ3aWR0aCI6Mi4wLCJkYXNoU3R5bGUiOjAsIm9wYWNpdHkiOjEwMH0sImluc3RhbnRBbGVydHMiOmZhbHNlLCJiYXJDbG9zZUFsZXJ0cyI6ZmFsc2UsIm9wYWNpdHkiOjQwLCJicm9rZW5PcGFjaXR5Ijo0MCwiYm94T3BhY2l0eSI6MTAwLCJib3hNaW5XaWR0aCI6MjV9LCJleGhhdXN0aW9uIjp7InNob3ciOnRydWUsInRvcExpbmVTdHlsZSI6eyJicnVzaCI6IiNGRkIyMjIyMiIsIndpZHRoIjoyLjAsImRhc2hTdHlsZSI6MCwib3BhY2l0eSI6MTAwfSwiYm90dG9tTGluZVN0eWxlIjp7ImJydXNoIjoiI0ZGMzJDRDMyIiwid2lkdGgiOjIuMCwiZGFzaFN0eWxlIjowLCJvcGFjaXR5IjoxMDB9LCJpbnN0YW50QWxlcnRzIjpmYWxzZSwiYmFyQ2xvc2VBbGVydHMiOmZhbHNlfSwibmV3Vm9sdW1lQWNjZWxlcnRpb24iOnsic2hvdyI6ZmFsc2UsImljb25Qb3NpdGl2ZUNvbG9yIjoiI0ZGOEZCQzhGIiwiaWNvbk5lZ2F0aXZlQ29sb3IiOiIjRkZGRjAwMDAiLCJpY29uRGl2ZXJnZW5jZUNvbG9yIjoiI0ZGRkZBNTAwIiwiaWNvbkJhY2tncm91bmRDb2xvciI6IiNGRkZGRkZGRiIsImluc3RhbnRBbGVydHMiOmZhbHNlLCJiYXJDbG9zZUFsZXJ0cyI6ZmFsc2V9LCJ0b3RhbFZvbHVtZUFjY2VsZXJhdGlvbiI6eyJzaG93IjpmYWxzZSwiaWNvbkJhY2tncm91bmRQb3NpdGl2ZUNvbG9yIjoiI0ZGN0I2OEVFIiwiaWNvbkJhY2tncm91bmROZWdhdGl2ZUNvbG9yIjoiI0ZGN0I2OEVFIiwiaWNvbkZvcmVDb2xvciI6IiNGRkZGRkZGRiIsImluc3RhbnRBbGVydHMiOmZhbHNlLCJiYXJDbG9zZUFsZXJ0cyI6ZmFsc2V9LCJ0cmFwcGVkT3JkZXJzIjp7InNob3ciOnRydWUsImhpZ2hsaWdodENvbG9yIjoiI0ZGMUU5MEZGIiwiZm9udENvbG9yIjoiIzAwRkZGRkZGIiwiaW5zdGFudEFsZXJ0cyI6ZmFsc2UsImJhckNsb3NlQWxlcnRzIjpmYWxzZSwid2l0aEV4aGF1c3Rpb25JbnN0YW50QWxlcnRzIjp0cnVlLCJ3aXRoRXhoYXVzdGlvbkJhckNsb3NlQWxlcnRzIjp0cnVlLCJtaW5CbG9ja1dpZHRoIjoyMH0sImJsb2NrT3JkZXJzIjp7InNob3ciOnRydWUsImZvbnRDb2xvciI6IiNGRkZGRkZGRiIsImhpZ2hsaWdodEJsb2NrcyI6dHJ1ZSwic2hvd0Jsb2NrTGluZSI6dHJ1ZSwiZXh0ZW5kUGFzdEJyb2tlbiI6ZmFsc2UsImJpZExpbmVTdHlsZSI6eyJicnVzaCI6IiNGRkZGMDAwMCIsIndpZHRoIjoyLjAsImRhc2hTdHlsZSI6MCwib3BhY2l0eSI6MTAwfSwiYXNrTGluZVN0eWxlIjp7ImJydXNoIjoiI0ZGMDBGRjAwIiwid2lkdGgiOjIuMCwiZGFzaFN0eWxlIjowLCJvcGFjaXR5IjoxMDB9LCJtaW5CbG9ja1dpZHRoIjoxMn0sImJsb2NrTmV0Vm9sdW1lIjp7InNob3dEaXZlcmdlbmNlIjpmYWxzZSwiZGl2ZXJnZW5jZUNvbG9yIjoiI0ZGRkZBNTAwIiwiZGl2ZXJnZW5jZUJvcmRlclN0eWxlIjp7ImJydXNoIjoiI0ZGRkZBNTAwIiwid2lkdGgiOjEuMCwiZGFzaFN0eWxlIjowLCJvcGFjaXR5IjoxMDB9LCJkaXZlcmdlbmNlRm9udENvbG9yIjoiI0ZGRkZGRkZGIiwic2hvd0Jsb2NrTmV0VG90YWwiOmZhbHNlLCJuZXRWb2x1bWVGb250Ijp7ImZvbnRGYW1pbHkiOiJBcmlhbCIsInNpemUiOjEyLjAsImJvbGQiOnRydWUsIml0YWxpYyI6ZmFsc2V9LCJuZXRWb2x1bWVQb3NpdGl2ZUZvbnRDb2xvciI6IiNGRkZGRkZGRiIsIm5ldFZvbHVtZU5lZ2F0aXZlRm9udENvbG9yIjoiI0ZGRkZGRkZGIiwicG9zaXRpdmVCb3JkZXJTdHlsZSI6eyJicnVzaCI6IiNGRjAwODAwMCIsIndpZHRoIjoxLjAsImRhc2hTdHlsZSI6MCwib3BhY2l0eSI6MTAwfSwibmVnYXRpdmVCb3JkZXJTdHlsZSI6eyJicnVzaCI6IiNGRkZGMDAwMCIsIndpZHRoIjoxLjAsImRhc2hTdHlsZSI6MCwib3BhY2l0eSI6MTAwfX0sIm1vbWVudHVtIjp7InNob3dNb21lbnR1bSI6dHJ1ZSwidXBDb2xvciI6IiNGRjdGRkYwMCIsImRvd25Db2xvciI6IiNGRkZGMDAwMCIsImljb25VcENvbG9yIjoiI0ZGMDAwMDAwIiwiaWNvbkRvd25Db2xvciI6IiNGRkZGRkZGRiIsInNob3dEaWFtb25kIjpmYWxzZSwiaW5zdGFudEFsZXJ0cyI6ZmFsc2UsImJhckNsb3NlQWxlcnRzIjpmYWxzZSwid2l0aExvd1ZTSW5zdGFudEFsZXJ0cyI6ZmFsc2UsIndpdGhMb3dWU0JhckNsb3NlQWxlcnRzIjpmYWxzZSwiaWNvblZlcnRpY2FsT2Zmc2V0IjoyLjAsImljb25TaXplIjoyfSwiYWJzb3JwdGlvbiI6eyJTaG93Ijp0cnVlLCJVcENvbG9yIjoiI0ZGNTU2QjJGIiwiRG93bkNvbG9yIjoiI0ZGODAwMDAwIiwiSWNvblVwQ29sb3IiOiIjRkYwMDAwMDAiLCJJY29uRG93bkNvbG9yIjoiI0ZGMDAwMDAwIiwiSW5zdGFudEFsZXJ0cyI6ZmFsc2UsIkJhckNsb3NlQWxlcnRzIjpmYWxzZSwiSWNvblZlcnRpY2FsT2Zmc2V0IjowLjAsIkljb25TaXplIjoyfSwibWluaU1hZ25ldHMiOnsiZXh0ZW5kUGFzdEJyb2tlbiI6ZmFsc2UsImxpdmVCb3JkZXIiOnsiYnJ1c2giOiIjRkZGRjY5QjQiLCJ3aWR0aCI6My4wLCJkYXNoU3R5bGUiOjAsIm9wYWNpdHkiOjEwMH0sImNsb3NlZEJvcmRlciI6eyJicnVzaCI6IiNGRkZBRkFEMiIsIndpZHRoIjozLjAsImRhc2hTdHlsZSI6MCwib3BhY2l0eSI6MTAwfSwiYnJva2VuQm9yZGVyIjp7ImJydXNoIjoiI0ZGRkFGMEU2Iiwid2lkdGgiOjMuMCwiZGFzaFN0eWxlIjowLCJvcGFjaXR5IjoxMDB9LCJzaG93Ijp0cnVlLCJzaG93SUJTIjpmYWxzZSwiaWJzQm9yZGVyIjp7ImJydXNoIjoiI0ZGQjIyMjIyIiwid2lkdGgiOjUuMCwiZGFzaFN0eWxlIjowLCJvcGFjaXR5IjoxMDB9LCJzaG93SG9sZVBhdGNoIjp0cnVlLCJob2xlUGF0Y2hCb3JkZXIiOnsiYnJ1c2giOiIjRkZGRjE0OTMiLCJ3aWR0aCI6My4wLCJkYXNoU3R5bGUiOjAsIm9wYWNpdHkiOjEwMH0sImluc3RhbnRBbGVydHMiOmZhbHNlLCJiYXJDbG9zZUFsZXJ0cyI6ZmFsc2UsIndpdGhQYXdJbnN0YW50QWxlcnRzIjpmYWxzZSwid2l0aFBhd0JhckNsb3NlQWxlcnRzIjpmYWxzZSwid2l0aElCU0luc3RhbnRBbGVydHMiOmZhbHNlLCJ3aXRoSG9sZVBhdGNoSW5zdGFudEFsZXJ0cyI6ZmFsc2UsIndpdGhIb2xlUGF0Y2hCYXJDbG9zZUFsZXJ0cyI6ZmFsc2V9LCJsZWFkaW5nVm9sdW1lIjp7InNob3ciOnRydWUsImNvbG9yIjoiI0ZGREMxNDNDIiwiZm9udENvbG9yIjoiI0ZGREMxNDNDIiwiaW5zdGFudEFsZXJ0cyI6ZmFsc2UsImJhckNsb3NlQWxlcnRzIjpmYWxzZX0sIm5ldFZvbHVtZSI6eyJzaG93IjpmYWxzZSwicG9zaXRpdmVCb3JkZXJTdHlsZSI6eyJicnVzaCI6IiNGRjhGQkM4RiIsIndpZHRoIjoxLjAsImRhc2hTdHlsZSI6MCwib3BhY2l0eSI6MTAwfSwibmVnYXRpdmVCb3JkZXJTdHlsZSI6eyJicnVzaCI6IiNGRkIyMjIyMiIsIndpZHRoIjoxLjAsImRhc2hTdHlsZSI6MCwib3BhY2l0eSI6MTAwfSwicG9zaXRpdmVUZXh0Q29sb3IiOiIjRkZGRkZGRkYiLCJuZWdhdGl2ZVRleHRDb2xvciI6IiNGRkZGRkZGRiIsImZvbnQiOnsiZm9udEZhbWlseSI6IkFyaWFsIiwic2l6ZSI6MTIuMCwiYm9sZCI6dHJ1ZSwiaXRhbGljIjpmYWxzZX0sInNob3dEaXZlcmdlbmNlIjp0cnVlLCJkaXZlcmdlbmNlQm9yZGVyU3R5bGUiOnsiYnJ1c2giOiIjRkZGRkE1MDAiLCJ3aWR0aCI6MS4wLCJkYXNoU3R5bGUiOjAsIm9wYWNpdHkiOjEwMH0sImRpdmVyZ2VuY2VUZXh0Q29sb3IiOiIjRkZGRkZGRkYifSwidG90YWxWb2x1bWUiOnsic2hvdyI6ZmFsc2UsInRleHRDb2xvciI6IiNGRkI4ODYwQiIsImJhY2tncm91bmRDb2xvciI6IiNGRkY1RjVGNSIsImZvbnQiOnsiZm9udEZhbWlseSI6IkFyaWFsIiwic2l6ZSI6MTIuMCwiYm9sZCI6dHJ1ZSwiaXRhbGljIjpmYWxzZX0sImluc3RhbnRBbGVydHMiOmZhbHNlLCJiYXJDbG9zZUFsZXJ0cyI6ZmFsc2V9LCJiYXJDb250cm9sIjp7ImF1dG9zY2FsZSI6dHJ1ZSwic2hvd0Jhck91dGxpbmUiOmZhbHNlLCJzaG93TGluZXMiOmZhbHNlLCJzaG93R3JhZGllbnQiOmZhbHNlLCJ2b2x1bWVQb3NpdGl2ZUdyYWRpZW50U3RhcnQiOiIjRkZGNUZGRkEiLCJ2b2x1bWVQb3NpdGl2ZUdyYWRpZW50RW5kIjoiI0ZGOEZCQzhGIiwidm9sdW1lTmVnYXRpdmVHcmFkaWVudFN0YXJ0IjoiI0ZGRkFGMEU2Iiwidm9sdW1lTmVnYXRpdmVHcmFkaWVudEVuZCI6IiNGRkJDOEY4RiIsImJhckNvbG9yVXAiOiIjRkY4RkJDOEYiLCJiYXJDb2xvckRvd24iOiIjRkZCQzhGOEYiLCJzaG93Vm9sdW1lcyI6ZmFsc2UsInZvbHVtZUZvbnQiOnsiZm9udEZhbWlseSI6IkFyaWFsIiwic2l6ZSI6MTQuMCwiYm9sZCI6dHJ1ZSwiaXRhbGljIjpmYWxzZX0sImJhcldpZHRoRmFjdG9yIjo3MH0sInZvbHVtZUNvbnRyb2wiOnsiR3JhZGllbnRTdGFydCI6IiNGRkQzRDNEMyIsIkdyYWRpZW50RW5kIjoiI0ZGNjk2OTY5IiwiU2hvdyI6ZmFsc2UsIkdyYWRpZW50T3BhY2l0eSI6NTB9LCJDbHVzdGVyIjp7InNob3ciOnRydWUsImJvcmRlckNvbG9yIjp7ImJydXNoIjoiI0ZGRkZGRjAwIiwid2lkdGgiOjQuMCwiZGFzaFN0eWxlIjowLCJvcGFjaXR5IjoxMDB9LCJpbnN0YW50QWxlcnRzIjpmYWxzZSwiYmFyQ2xvc2VBbGVydHMiOmZhbHNlLCJkb3VibGVDbHVzdGVySW5zdGFudEFsZXJ0cyI6ZmFsc2UsImRvdWJsZUNsdXN0ZXJBbGVydHMiOnRydWUsInNob3dDbHVzdGVyTGV2ZWxzIjpmYWxzZSwiY2x1c3RlckxldmVsc0NvbG9yIjp7ImJydXNoIjoiI0ZGRkZGRjAwIiwid2lkdGgiOjEuMCwiZGFzaFN0eWxlIjowLCJvcGFjaXR5Ijo1MH0sIm1pbkNsdXN0ZXJXaWR0aFRvRXhwYW5kIjoyNSwiY2x1c3RlckxldmVsTG9va2JhY2tCYXJzIjoxMCwiY2x1c3RlckxldmVsVGlja1JhbmdlIjoyLCJjbHVzdGVyTGV2ZWxzTnVtQ2x1c3RlcnMiOjMsImNsdXN0ZXJMZXZlbHNFeHRlbmRCYXJzIjoxMH0sImJsb2NrVm9sdW1lQWNjZWxlcmF0aW9uIjp7InNob3ciOmZhbHNlLCJpY29uQmFja2dyb3VuZFBvc2l0aXZlQ29sb3IiOiIjRkY3QjY4RUUiLCJpY29uQmFja2dyb3VuZE5lZ2F0aXZlQ29sb3IiOiIjRkY3QjY4RUUiLCJpY29uQmFja2dyb3VuZERpdmVyZ2VuY2VDb2xvciI6IiNGRkZGQTUwMCIsImljb25Gb3JlQ29sb3IiOiIjRkZGRkZGRkYifSwidm9sdW1lU2NvcmUiOnsiU2hvdyI6dHJ1ZSwiVXBUZXh0Q29sb3IiOiIjRkZEM0QzRDMiLCJVcEJvcmRlciI6eyJicnVzaCI6IiMwMEZGRkZGRiIsIndpZHRoIjoxLjAsImRhc2hTdHlsZSI6MCwib3BhY2l0eSI6MTAwfSwiRG93blRleHRDb2xvciI6IiNGRkQzRDNEMyIsIkRvd25Cb3JkZXIiOnsiYnJ1c2giOiIjMDBGRkZGRkYiLCJ3aWR0aCI6MS4wLCJkYXNoU3R5bGUiOjAsIm9wYWNpdHkiOjEwMH0sIkRpdmVyZ2VudFRleHRDb2xvciI6IiNGRkZGQTUwMCIsIkRpdmVyZ2VudEJvcmRlciI6eyJicnVzaCI6IiMwMEZGRkZGRiIsIndpZHRoIjoxLjAsImRhc2hTdHlsZSI6MCwib3BhY2l0eSI6MTAwfSwiQXV0b1NjYWxlIjpmYWxzZSwiRm9udCI6eyJmb250RmFtaWx5IjoiQXJpYWwiLCJzaXplIjoxMi4wLCJib2xkIjp0cnVlLCJpdGFsaWMiOmZhbHNlfSwiVXBwZXJJbnN0YW50QWxlcnRzIjpmYWxzZSwiVXBwZXJCYXJDbG9zZUFsZXJ0cyI6ZmFsc2UsIkxvd2VySW5zdGFudEFsZXJ0cyI6ZmFsc2UsIkxvd2VyQmFyQ2xvc2VBbGVydHMiOmZhbHNlfSwib3BSZWplY3Rpb24iOnsiaW5zdGFudEFsZXJ0cyI6dHJ1ZSwiYmFyQ2xvc2VBbGVydHMiOnRydWUsInNob3dPUFJlamVjdGlvbiI6dHJ1ZSwiaWNvblVwQ29sb3IiOiIjRkZBREZGMkYiLCJpY29uRG93bkNvbG9yIjoiI0ZGRkY2MzQ3IiwidmVydGljYWxPZmZzZXQiOjAuMCwic2NhbGVPZmZzZXQiOjJ9LCJvcERpdmVyZ2VuY2UiOnsiaW5zdGFudEFsZXJ0cyI6ZmFsc2UsImJhckNsb3NlQWxlcnRzIjpmYWxzZSwic2hvd09QRGl2ZXJnZW5jZSI6ZmFsc2UsImljb25VcENvbG9yIjoiI0ZGQURGRjJGIiwiaWNvbkRvd25Db2xvciI6IiNGRkZGNjM0NyIsInZlcnRpY2FsT2Zmc2V0IjowLjAsInNjYWxlT2Zmc2V0IjoyfSwidGhpcmRCYXJTbGluZyI6eyJpbnN0YW50QWxlcnRzIjp0cnVlLCJiYXJDbG9zZUFsZXJ0cyI6dHJ1ZX0sInN0YXJMVlNaT0kiOnsiaW5zdGFudEFsZXJ0cyI6dHJ1ZSwiYmFyQ2xvc2VBbGVydHMiOnRydWV9LCJlbGV2YXRvciI6eyJpbnN0YW50QWxlcnRzIjp0cnVlLCJiYXJDbG9zZUFsZXJ0cyI6dHJ1ZX0sImRpdmVyZ2VudExvd1JldmVyc2FsR28iOnsiaW5zdGFudEFsZXJ0cyI6ZmFsc2UsImJhckNsb3NlQWxlcnRzIjpmYWxzZX0sImRvdWJsZVRYIjp7Imluc3RhbnRBbGVydHMiOnRydWUsImJhckNsb3NlQWxlcnRzIjp0cnVlfX0=</UserSettingsSerialized>
-          <MasterTickSize>0.25</MasterTickSize>
+          <SettingsSerialized>eyJ1c2VGdXR1cmVzVm9sdW1lRm9yRm9yZXgiOnRydWUsImlzSGlzdG9yaWNhbE9uQmFyQ2xvc2UiOnRydWUsIm9wQ29waWVySWQiOiIiLCJwYXciOnsic3RyZW5ndGgiOjMwLjAsImNhbGN1bGF0ZU9uQmFyQ2xvc2UiOmZhbHNlLCJvbmx5U2hvd09uV2ljayI6dHJ1ZX0sImltYmFsYW5jZSI6eyJzdHJlbmd0aCI6My4wLCJ2b2x1bWVGaWx0ZXIiOjAsIndlYWtWb2x1bWVGaWx0ZXIiOjF9LCJ6b25lT2ZJbnRlcmVzdCI6eyJ6b2lDcmFzaFRpY2tPZmZzZXQiOjEsIm1pblZvbHVtZSI6MCwibWluTGV2ZWxzIjozLCJ6b2lDcmFzaEJhck9mZnNldCI6MX0sImV4aGF1c3Rpb24iOnsic3RyZW5ndGgiOjMuMCwidm9sdW1lRmlsdGVyIjowfSwibmV0Vm9sdW1lQWNjZWxlcmF0aW9uIjp7ImNhbGNPbkJhckNsb3NlIjpmYWxzZSwicGVyaW9kIjo0LCJzdHJlbmd0aCI6Mi4wLCJ2b2x1bWVGaWx0ZXIiOjB9LCJ0b3RhbFZvbHVtZSI6eyJhbGVydFRocmVzaG9sZCI6NzAwMH0sInRvdGFsVm9sdW1lQWNjZWxlcmF0aW9uIjp7InBlcmlvZCI6NCwic3RyZW5ndGgiOjIuMH0sInRyYXBwZWRPcmRlcnMiOnsibWluVm9sdW1lIjoxMCwibWluTGV2ZWxzIjozLCJyZXZlcnNhbE9ubHlBbGVydCI6dHJ1ZX0sImxlYWRpbmdWb2x1bWVzIjp7Im1pblZvbHVtZSI6MTAsIm1pbkxldmVscyI6M30sImJsb2NrT3JkZXJTZXR0aW5ncyI6eyJibG9ja1NpemUiOjUwLCJtYXhEYXlzVG9TaG93UGFzdEJyb2tlbiI6MX0sImJsb2NrVm9sdW1lQWNjZWxlcmF0aW9uIjp7ImNhbGNPbkJhckNsb3NlIjpmYWxzZSwicGVyaW9kIjo3LCJzdHJlbmd0aCI6Mi4wLCJ2b2x1bWVGaWx0ZXIiOjB9LCJtb21lbnR1bSI6eyJzdHJlbmd0aCI6My4wLCJzaXplIjozLCJtaW5pbXVtVG90YWxWb2x1bWVUaHJlc2hvbGQiOjEwLCJsb3dWb2x1bWVTY29yZVRocmVzaG9sZCI6MTN9LCJhYnNvcnB0aW9uIjp7InN0cmVuZ3RoIjozLjAsInNpemUiOjMsIm1pbmltdW1Ub3RhbFZvbHVtZVRocmVzaG9sZCI6MTB9LCJtaW5pTWFnbmV0cyI6eyJtaW5pbXVtVm9sdW1lIjoxLCJ0aHJlc2hvbGQiOjEsIm1heERheXNUb1Nob3dQYXN0QnJva2VuIjoxLCJjYWxjdWxhdGVPbkJhckNsb3NlIjpmYWxzZSwiaWJzTGFyZ2VNaW5pbXVtIjoyNSwiaWJzU21hbGxNaW5pbXVtIjo2LCJpYnNSZXF1aXJlQ2x1c3RlciI6dHJ1ZSwiaG9sZVBhdGNoT2xkTWluQmFycyI6MTAsImhvbGVQYXRjaE5ld01heEJhcnMiOjI1LCJob2xlUGF0Y2hUaWNrT2Zmc2V0IjoyfSwiZGlzcGxheU1pc2MiOnsidm9sdW1lT2Zmc2V0IjowfSwiQ2x1c3RlciI6eyJncmVhdGVyVGhhbk11bHRpcGxpZXIiOjIuMCwicGVyaW9kIjo0LCJtaW5pbXVtVG90YWxWb2x1bWUiOjEwfSwiYnJpY2tXYWxsIjp7Im1pbkVudGl0aWVzUmVxdWlyZWQiOjMsIm1heFByb3hpbWl0eUluVGlja3MiOjMsIm1heFRpbWVCZXR3ZWVuRW50aXRpZXMiOiIwODowMDowMCJ9LCJ2b2x1bWVTY29yZSI6eyJ1cHBlckFsZXJ0VGhyZXNob2xkIjoxMDAwLCJsb3dlckFsZXJ0VGhyZXNob2xkIjoxM30sInRoaXJkQmFyU2xpbmciOnsicmVxdWlyZW1lbnRzIjozfSwic3RhckxWU1pPSSI6eyJ0cmFwcGVkT3JkZXJzQW5kRXhoYXVzdGlvbkJveFJlcXVpcmVkIjpmYWxzZX0sImVsZXZhdG9yIjp7Im1pbmlNYWduZXRQYXdSZXF1aXJlbWVudHMiOjIsImNsdXN0ZXJSZXF1aXJlbWVudHMiOjJ9LCJkb3VibGVUWCI6eyJwZXJpb2QiOjMwLCJzdHJlbmd0aCI6NX0sIm9wcmVqZWN0aW9uIjp7InNldHVwQmFyQ2FsY3VsYXRpb25zIjoxLCJQcmV2aW91c0JhckNhbGN1bGF0aW9ucyI6MSwic2V0dXBCYXJEZXB0aE1pbmludW1Wb2x1bWUiOjAsInNldHVwQmFyTXVsdGlwbGllciI6My4wLCJzZXR1cEJhckRlcHRoIjoyLCJzZXR1cEJhclRocmVzaG9sZCI6MTAsInByZXZpb3VzQmFyTXVsdGlwbGllciI6Mi41LCJwcmV2aW91c0JhckRlcHRoIjoxLCJwcmV2aW91c0JhclRocmVzaG9sZCI6MTAsInBlcmlvZCI6MywicmVxdWlyZVBBVyI6ZmFsc2UsInJlcXVpcmVUcmFwcGVkT3JkZXIiOmZhbHNlLCJyZXF1aXJlRXhoYXVzdGlvbiI6ZmFsc2V9LCJvcGRpdmVyZ2VuY2UiOnsic2V0dXBCYXJNdWx0aXBsaWVyIjoyLjAsInNldHVwQmFyRGVwdGgiOjIsInNldHVwQmFyVGhyZXNob2xkIjoxMCwicHJldmlvdXNCYXJNdWx0aXBsaWVyIjowLjAsInByZXZpb3VzQmFyRGVwdGgiOjAsInBlcmlvZCI6M30sImRpdmVyZ2VudExvd1JldmVyc2FsR28iOnsidHJhcHBlZE9yZGVyc0FuZEV4aGF1c3Rpb25Cb3hSZXF1aXJlZCI6ZmFsc2UsImluY2x1ZGVMb3dEaXZlcmdlbnRSZXZlcnNhbEdvIjpmYWxzZSwiYmFyc0JlZm9yZVNldHVwIjo0fSwic2hhcmsiOnsicmVxdWlyZVRYIjp0cnVlLCJjbHVzdGVyUmVxdWlyZW1lbnQiOjEsIm9QUlhSZXF1aXJlbWVudCI6MCwibU1QYXdSZXF1aXJlbWVudCI6MywiY2FuY2VsT25SZXZlcnNhbEJhciI6dHJ1ZSwibm9Eb3VibGVDbHVzdGVycyI6ZmFsc2UsIndpY2tSZXF1aXJlbWVudCI6MCwidGlja3NGcm9tQmFyRW5kIjowfX0=</SettingsSerialized>
+          <UserSettingsSerialized>eyJhbGVydHMiOnsidmlzdWFsIjpmYWxzZSwiYXVkaWJsZSI6dHJ1ZSwid2luZG93Rmxhc2giOmZhbHNlfSwicGF3UHJpbnRzIjp7InNob3ciOnRydWUsInNob3dSZWN0YW5nbGUiOnRydWUsInNob3dMaW5lIjp0cnVlLCJ1cHBlckxpbmUiOnsiYnJ1c2giOiIjRkZGRjhDMDAiLCJ3aWR0aCI6MS4wLCJkYXNoU3R5bGUiOjAsIm9wYWNpdHkiOjEwMH0sImxvd2VyTGluZSI6eyJicnVzaCI6IiNGRkZGOEMwMCIsIndpZHRoIjoxLjAsImRhc2hTdHlsZSI6MCwib3BhY2l0eSI6MTAwfSwiaW5zdGFudEFsZXJ0cyI6ZmFsc2UsImJhckNsb3NlQWxlcnRzIjpmYWxzZSwibWluV2lkdGgiOjE1fSwiaW1iYWxhbmNlIjp7InNob3ciOmZhbHNlLCJhc2tDb2xvciI6IiNGRjY5Njk2OSIsImJpZENvbG9yIjoiI0ZGNjk2OTY5Iiwid2Vha0NvbG9yIjoiI0ZGNjk2OTY5Iiwic2hvd1dlYWtJbWJhbGFuY2VzIjpmYWxzZX0sImJhbGFuY2VkVm9sdW1lIjp7IlNob3ciOmZhbHNlLCJGb250Q29sb3IiOiIjRkYwMDAwMDAifSwiem9uZU9mSW50ZXJlc3QiOnsic2hvdyI6dHJ1ZSwiZG93bkNvbG9yIjoiI0ZGQkE1NUQzIiwidXBDb2xvciI6IiNGRjAwQ0VEMSIsInNob3dCb3giOnRydWUsInNob3daT0lDcmFzaCI6ZmFsc2UsInpPSUNyYXNoQ29sb3IiOnsiYnJ1c2giOiIjRkY4QTJCRTIiLCJ3aWR0aCI6Mi4wLCJkYXNoU3R5bGUiOjAsIm9wYWNpdHkiOjEwMH0sImluc3RhbnRBbGVydHMiOmZhbHNlLCJiYXJDbG9zZUFsZXJ0cyI6ZmFsc2UsIm9wYWNpdHkiOjQwLCJicm9rZW5PcGFjaXR5Ijo0MCwiYm94T3BhY2l0eSI6MTAwLCJib3hNaW5XaWR0aCI6MjV9LCJleGhhdXN0aW9uIjp7InNob3ciOnRydWUsInRvcExpbmVTdHlsZSI6eyJicnVzaCI6IiNGRkIyMjIyMiIsIndpZHRoIjoyLjAsImRhc2hTdHlsZSI6MCwib3BhY2l0eSI6MTAwfSwiYm90dG9tTGluZVN0eWxlIjp7ImJydXNoIjoiI0ZGMzJDRDMyIiwid2lkdGgiOjIuMCwiZGFzaFN0eWxlIjowLCJvcGFjaXR5IjoxMDB9LCJpbnN0YW50QWxlcnRzIjpmYWxzZSwiYmFyQ2xvc2VBbGVydHMiOmZhbHNlfSwibmV3Vm9sdW1lQWNjZWxlcnRpb24iOnsic2hvdyI6ZmFsc2UsImljb25Qb3NpdGl2ZUNvbG9yIjoiI0ZGOEZCQzhGIiwiaWNvbk5lZ2F0aXZlQ29sb3IiOiIjRkZGRjAwMDAiLCJpY29uRGl2ZXJnZW5jZUNvbG9yIjoiI0ZGRkZBNTAwIiwiaWNvbkJhY2tncm91bmRDb2xvciI6IiNGRkZGRkZGRiIsImluc3RhbnRBbGVydHMiOmZhbHNlLCJiYXJDbG9zZUFsZXJ0cyI6ZmFsc2V9LCJ0b3RhbFZvbHVtZUFjY2VsZXJhdGlvbiI6eyJzaG93IjpmYWxzZSwiaWNvbkJhY2tncm91bmRQb3NpdGl2ZUNvbG9yIjoiI0ZGN0I2OEVFIiwiaWNvbkJhY2tncm91bmROZWdhdGl2ZUNvbG9yIjoiI0ZGN0I2OEVFIiwiaWNvbkZvcmVDb2xvciI6IiNGRkZGRkZGRiIsImluc3RhbnRBbGVydHMiOmZhbHNlLCJiYXJDbG9zZUFsZXJ0cyI6ZmFsc2V9LCJ0cmFwcGVkT3JkZXJzIjp7InNob3ciOnRydWUsImhpZ2hsaWdodENvbG9yIjoiI0ZGMUU5MEZGIiwiZm9udENvbG9yIjoiIzAwRkZGRkZGIiwiaW5zdGFudEFsZXJ0cyI6ZmFsc2UsImJhckNsb3NlQWxlcnRzIjpmYWxzZSwid2l0aEV4aGF1c3Rpb25JbnN0YW50QWxlcnRzIjpmYWxzZSwid2l0aEV4aGF1c3Rpb25CYXJDbG9zZUFsZXJ0cyI6ZmFsc2UsIm1pbkJsb2NrV2lkdGgiOjIwfSwiYmxvY2tPcmRlcnMiOnsic2hvdyI6dHJ1ZSwiZm9udENvbG9yIjoiI0ZGRkZGRkZGIiwiaGlnaGxpZ2h0QmxvY2tzIjp0cnVlLCJzaG93QmxvY2tMaW5lIjp0cnVlLCJleHRlbmRQYXN0QnJva2VuIjpmYWxzZSwiYmlkTGluZVN0eWxlIjp7ImJydXNoIjoiI0ZGRkYwMDAwIiwid2lkdGgiOjIuMCwiZGFzaFN0eWxlIjowLCJvcGFjaXR5IjoxMDB9LCJhc2tMaW5lU3R5bGUiOnsiYnJ1c2giOiIjRkYwMEZGMDAiLCJ3aWR0aCI6Mi4wLCJkYXNoU3R5bGUiOjAsIm9wYWNpdHkiOjEwMH0sIm1pbkJsb2NrV2lkdGgiOjEyfSwiYmxvY2tOZXRWb2x1bWUiOnsic2hvd0RpdmVyZ2VuY2UiOmZhbHNlLCJkaXZlcmdlbmNlQ29sb3IiOiIjRkZGRkE1MDAiLCJkaXZlcmdlbmNlQm9yZGVyU3R5bGUiOnsiYnJ1c2giOiIjRkZGRkE1MDAiLCJ3aWR0aCI6MS4wLCJkYXNoU3R5bGUiOjAsIm9wYWNpdHkiOjEwMH0sImRpdmVyZ2VuY2VGb250Q29sb3IiOiIjRkZGRkZGRkYiLCJzaG93QmxvY2tOZXRUb3RhbCI6ZmFsc2UsIm5ldFZvbHVtZUZvbnQiOnsiZm9udEZhbWlseSI6IkFyaWFsIiwic2l6ZSI6MTIuMCwiYm9sZCI6dHJ1ZSwiaXRhbGljIjpmYWxzZX0sIm5ldFZvbHVtZVBvc2l0aXZlRm9udENvbG9yIjoiI0ZGRkZGRkZGIiwibmV0Vm9sdW1lTmVnYXRpdmVGb250Q29sb3IiOiIjRkZGRkZGRkYiLCJwb3NpdGl2ZUJvcmRlclN0eWxlIjp7ImJydXNoIjoiI0ZGMDA4MDAwIiwid2lkdGgiOjEuMCwiZGFzaFN0eWxlIjowLCJvcGFjaXR5IjoxMDB9LCJuZWdhdGl2ZUJvcmRlclN0eWxlIjp7ImJydXNoIjoiI0ZGRkYwMDAwIiwid2lkdGgiOjEuMCwiZGFzaFN0eWxlIjowLCJvcGFjaXR5IjoxMDB9fSwibW9tZW50dW0iOnsic2hvd01vbWVudHVtIjp0cnVlLCJ1cENvbG9yIjoiI0ZGN0ZGRjAwIiwiZG93bkNvbG9yIjoiI0ZGRkYwMDAwIiwiaWNvblVwQ29sb3IiOiIjRkYwMDAwMDAiLCJpY29uRG93bkNvbG9yIjoiI0ZGRkZGRkZGIiwic2hvd0RpYW1vbmQiOmZhbHNlLCJpbnN0YW50QWxlcnRzIjpmYWxzZSwiYmFyQ2xvc2VBbGVydHMiOmZhbHNlLCJ3aXRoTG93VlNJbnN0YW50QWxlcnRzIjpmYWxzZSwid2l0aExvd1ZTQmFyQ2xvc2VBbGVydHMiOmZhbHNlLCJpY29uVmVydGljYWxPZmZzZXQiOjIuMCwiaWNvblNpemUiOjJ9LCJhYnNvcnB0aW9uIjp7IlNob3ciOnRydWUsIlVwQ29sb3IiOiIjRkY1NTZCMkYiLCJEb3duQ29sb3IiOiIjRkY4MDAwMDAiLCJJY29uVXBDb2xvciI6IiNGRjAwMDAwMCIsIkljb25Eb3duQ29sb3IiOiIjRkYwMDAwMDAiLCJJbnN0YW50QWxlcnRzIjpmYWxzZSwiQmFyQ2xvc2VBbGVydHMiOmZhbHNlLCJJY29uVmVydGljYWxPZmZzZXQiOjAuMCwiSWNvblNpemUiOjJ9LCJtaW5pTWFnbmV0cyI6eyJleHRlbmRQYXN0QnJva2VuIjpmYWxzZSwibGl2ZUJvcmRlciI6eyJicnVzaCI6IiNGRkZGNjlCNCIsIndpZHRoIjozLjAsImRhc2hTdHlsZSI6MCwib3BhY2l0eSI6MTAwfSwiY2xvc2VkQm9yZGVyIjp7ImJydXNoIjoiI0ZGRkFGQUQyIiwid2lkdGgiOjMuMCwiZGFzaFN0eWxlIjowLCJvcGFjaXR5IjoxMDB9LCJicm9rZW5Cb3JkZXIiOnsiYnJ1c2giOiIjRkZGQUYwRTYiLCJ3aWR0aCI6My4wLCJkYXNoU3R5bGUiOjAsIm9wYWNpdHkiOjEwMH0sInNob3ciOnRydWUsInNob3dJQlMiOmZhbHNlLCJpYnNCb3JkZXIiOnsiYnJ1c2giOiIjRkZCMjIyMjIiLCJ3aWR0aCI6NS4wLCJkYXNoU3R5bGUiOjAsIm9wYWNpdHkiOjEwMH0sInNob3dIb2xlUGF0Y2giOnRydWUsImhvbGVQYXRjaEJvcmRlciI6eyJicnVzaCI6IiNGRkZGMTQ5MyIsIndpZHRoIjozLjAsImRhc2hTdHlsZSI6MCwib3BhY2l0eSI6MTAwfSwiaW5zdGFudEFsZXJ0cyI6ZmFsc2UsImJhckNsb3NlQWxlcnRzIjpmYWxzZSwid2l0aFBhd0luc3RhbnRBbGVydHMiOmZhbHNlLCJ3aXRoUGF3QmFyQ2xvc2VBbGVydHMiOmZhbHNlLCJ3aXRoSUJTSW5zdGFudEFsZXJ0cyI6ZmFsc2UsIndpdGhIb2xlUGF0Y2hJbnN0YW50QWxlcnRzIjpmYWxzZSwid2l0aEhvbGVQYXRjaEJhckNsb3NlQWxlcnRzIjpmYWxzZX0sImxlYWRpbmdWb2x1bWUiOnsic2hvdyI6dHJ1ZSwiY29sb3IiOiIjRkZEQzE0M0MiLCJmb250Q29sb3IiOiIjRkZEQzE0M0MiLCJpbnN0YW50QWxlcnRzIjpmYWxzZSwiYmFyQ2xvc2VBbGVydHMiOmZhbHNlfSwibmV0Vm9sdW1lIjp7InNob3ciOmZhbHNlLCJwb3NpdGl2ZUJvcmRlclN0eWxlIjp7ImJydXNoIjoiI0ZGOEZCQzhGIiwid2lkdGgiOjEuMCwiZGFzaFN0eWxlIjowLCJvcGFjaXR5IjoxMDB9LCJuZWdhdGl2ZUJvcmRlclN0eWxlIjp7ImJydXNoIjoiI0ZGQjIyMjIyIiwid2lkdGgiOjEuMCwiZGFzaFN0eWxlIjowLCJvcGFjaXR5IjoxMDB9LCJwb3NpdGl2ZVRleHRDb2xvciI6IiNGRkZGRkZGRiIsIm5lZ2F0aXZlVGV4dENvbG9yIjoiI0ZGRkZGRkZGIiwiZm9udCI6eyJmb250RmFtaWx5IjoiQXJpYWwiLCJzaXplIjoxMi4wLCJib2xkIjp0cnVlLCJpdGFsaWMiOmZhbHNlfSwic2hvd0RpdmVyZ2VuY2UiOnRydWUsImRpdmVyZ2VuY2VCb3JkZXJTdHlsZSI6eyJicnVzaCI6IiNGRkZGQTUwMCIsIndpZHRoIjoxLjAsImRhc2hTdHlsZSI6MCwib3BhY2l0eSI6MTAwfSwiZGl2ZXJnZW5jZVRleHRDb2xvciI6IiNGRkZGRkZGRiJ9LCJ0b3RhbFZvbHVtZSI6eyJzaG93IjpmYWxzZSwidGV4dENvbG9yIjoiI0ZGQjg4NjBCIiwiYmFja2dyb3VuZENvbG9yIjoiI0ZGRjVGNUY1IiwiZm9udCI6eyJmb250RmFtaWx5IjoiQXJpYWwiLCJzaXplIjoxMi4wLCJib2xkIjp0cnVlLCJpdGFsaWMiOmZhbHNlfSwiaW5zdGFudEFsZXJ0cyI6ZmFsc2UsImJhckNsb3NlQWxlcnRzIjpmYWxzZX0sImJhckNvbnRyb2wiOnsiYXV0b3NjYWxlIjp0cnVlLCJzaG93QmFyT3V0bGluZSI6ZmFsc2UsInNob3dMaW5lcyI6ZmFsc2UsInNob3dHcmFkaWVudCI6ZmFsc2UsInZvbHVtZVBvc2l0aXZlR3JhZGllbnRTdGFydCI6IiNGRkY1RkZGQSIsInZvbHVtZVBvc2l0aXZlR3JhZGllbnRFbmQiOiIjRkY4RkJDOEYiLCJ2b2x1bWVOZWdhdGl2ZUdyYWRpZW50U3RhcnQiOiIjRkZGQUYwRTYiLCJ2b2x1bWVOZWdhdGl2ZUdyYWRpZW50RW5kIjoiI0ZGQkM4RjhGIiwiYmFyQ29sb3JVcCI6IiNGRjhGQkM4RiIsImJhckNvbG9yRG93biI6IiNGRkJDOEY4RiIsInNob3dWb2x1bWVzIjpmYWxzZSwidm9sdW1lRm9udCI6eyJmb250RmFtaWx5IjoiQXJpYWwiLCJzaXplIjoxNC4wLCJib2xkIjp0cnVlLCJpdGFsaWMiOmZhbHNlfSwiYmFyV2lkdGhGYWN0b3IiOjcwfSwidm9sdW1lQ29udHJvbCI6eyJHcmFkaWVudFN0YXJ0IjoiI0ZGRDNEM0QzIiwiR3JhZGllbnRFbmQiOiIjRkY2OTY5NjkiLCJTaG93IjpmYWxzZSwiR3JhZGllbnRPcGFjaXR5Ijo1MH0sIkNsdXN0ZXIiOnsic2hvdyI6dHJ1ZSwiYm9yZGVyQ29sb3IiOnsiYnJ1c2giOiIjRkZGRkZGMDAiLCJ3aWR0aCI6NC4wLCJkYXNoU3R5bGUiOjAsIm9wYWNpdHkiOjEwMH0sImluc3RhbnRBbGVydHMiOmZhbHNlLCJiYXJDbG9zZUFsZXJ0cyI6ZmFsc2UsImRvdWJsZUNsdXN0ZXJJbnN0YW50QWxlcnRzIjpmYWxzZSwiZG91YmxlQ2x1c3RlckFsZXJ0cyI6ZmFsc2UsInNob3dDbHVzdGVyTGV2ZWxzIjpmYWxzZSwiY2x1c3RlckxldmVsc0NvbG9yIjp7ImJydXNoIjoiI0ZGRkZGRjAwIiwid2lkdGgiOjEuMCwiZGFzaFN0eWxlIjowLCJvcGFjaXR5Ijo1MH0sIm1pbkNsdXN0ZXJXaWR0aFRvRXhwYW5kIjoyNSwiY2x1c3RlckxldmVsTG9va2JhY2tCYXJzIjoxMCwiY2x1c3RlckxldmVsVGlja1JhbmdlIjoyLCJjbHVzdGVyTGV2ZWxzTnVtQ2x1c3RlcnMiOjMsImNsdXN0ZXJMZXZlbHNFeHRlbmRCYXJzIjoxMH0sImJsb2NrVm9sdW1lQWNjZWxlcmF0aW9uIjp7InNob3ciOmZhbHNlLCJpY29uQmFja2dyb3VuZFBvc2l0aXZlQ29sb3IiOiIjRkY3QjY4RUUiLCJpY29uQmFja2dyb3VuZE5lZ2F0aXZlQ29sb3IiOiIjRkY3QjY4RUUiLCJpY29uQmFja2dyb3VuZERpdmVyZ2VuY2VDb2xvciI6IiNGRkZGQTUwMCIsImljb25Gb3JlQ29sb3IiOiIjRkZGRkZGRkYifSwidm9sdW1lU2NvcmUiOnsiU2hvdyI6dHJ1ZSwiVXBUZXh0Q29sb3IiOiIjRkZEM0QzRDMiLCJVcEJvcmRlciI6eyJicnVzaCI6IiMwMEZGRkZGRiIsIndpZHRoIjoxLjAsImRhc2hTdHlsZSI6MCwib3BhY2l0eSI6MTAwfSwiRG93blRleHRDb2xvciI6IiNGRkQzRDNEMyIsIkRvd25Cb3JkZXIiOnsiYnJ1c2giOiIjMDBGRkZGRkYiLCJ3aWR0aCI6MS4wLCJkYXNoU3R5bGUiOjAsIm9wYWNpdHkiOjEwMH0sIkRpdmVyZ2VudFRleHRDb2xvciI6IiNGRkZGQTUwMCIsIkRpdmVyZ2VudEJvcmRlciI6eyJicnVzaCI6IiMwMEZGRkZGRiIsIndpZHRoIjoxLjAsImRhc2hTdHlsZSI6MCwib3BhY2l0eSI6MTAwfSwiQXV0b1NjYWxlIjpmYWxzZSwiRm9udCI6eyJmb250RmFtaWx5IjoiQXJpYWwiLCJzaXplIjoxMi4wLCJib2xkIjp0cnVlLCJpdGFsaWMiOmZhbHNlfSwiVXBwZXJJbnN0YW50QWxlcnRzIjpmYWxzZSwiVXBwZXJCYXJDbG9zZUFsZXJ0cyI6ZmFsc2UsIkxvd2VySW5zdGFudEFsZXJ0cyI6ZmFsc2UsIkxvd2VyQmFyQ2xvc2VBbGVydHMiOmZhbHNlfSwib3BSZWplY3Rpb24iOnsiaW5zdGFudEFsZXJ0cyI6ZmFsc2UsImJhckNsb3NlQWxlcnRzIjpmYWxzZSwic2hvd09QUmVqZWN0aW9uIjp0cnVlLCJpY29uVXBDb2xvciI6IiNGRkFERkYyRiIsImljb25Eb3duQ29sb3IiOiIjRkZGRjYzNDciLCJ2ZXJ0aWNhbE9mZnNldCI6MC4wLCJzY2FsZU9mZnNldCI6Mn0sIm9wRGl2ZXJnZW5jZSI6eyJpbnN0YW50QWxlcnRzIjpmYWxzZSwiYmFyQ2xvc2VBbGVydHMiOmZhbHNlLCJzaG93T1BEaXZlcmdlbmNlIjpmYWxzZSwiaWNvblVwQ29sb3IiOiIjRkZBREZGMkYiLCJpY29uRG93bkNvbG9yIjoiI0ZGRkY2MzQ3IiwidmVydGljYWxPZmZzZXQiOjAuMCwic2NhbGVPZmZzZXQiOjJ9LCJ0aGlyZEJhclNsaW5nIjp7Imluc3RhbnRBbGVydHMiOmZhbHNlLCJiYXJDbG9zZUFsZXJ0cyI6ZmFsc2V9LCJzdGFyTFZTWk9JIjp7Imluc3RhbnRBbGVydHMiOmZhbHNlLCJiYXJDbG9zZUFsZXJ0cyI6ZmFsc2V9LCJlbGV2YXRvciI6eyJpbnN0YW50QWxlcnRzIjpmYWxzZSwiYmFyQ2xvc2VBbGVydHMiOmZhbHNlfSwiZGl2ZXJnZW50TG93UmV2ZXJzYWxHbyI6eyJpbnN0YW50QWxlcnRzIjpmYWxzZSwiYmFyQ2xvc2VBbGVydHMiOmZhbHNlfSwiZG91YmxlVFgiOnsiaW5zdGFudEFsZXJ0cyI6ZmFsc2UsImJhckNsb3NlQWxlcnRzIjpmYWxzZX0sInNoYXJrIjp7Imluc3RhbnRBbGVydHMiOmZhbHNlLCJiYXJDbG9zZUFsZXJ0cyI6ZmFsc2V9fQ==</UserSettingsSerialized>
+          <MasterTickSize>1</MasterTickSize>
         </ApexOrderPrints>
         <Input>
           <PriceType>Close</PriceType>
         </Input>
       </Indicator>
-      <Indicator BarsIndex="0" Instrument="NQ 06-24 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexDeviationReversal" Panel="1" DisplayName="_APEX Deviation Reversal">
+      <Indicator BarsIndex="0" Instrument="YM 09-24 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexDeviationReversal" Panel="1" DisplayName="_APEX Deviation Reversal">
         <ApexDeviationReversal xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
           <IsVisible>true</IsVisible>
           <AreLinesConfigurable>true</AreLinesConfigurable>
@@ -154,11 +154,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2024-05-01T00:00:00</From>
+          <From>2024-08-11T00:00:00</From>
           <Panel>1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2024-05-02T00:00:00</To>
+          <To>2024-08-12T00:00:00</To>
           <Calculate>OnEachTick</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -226,8 +226,8 @@
           <DrawOnPricePanel>false</DrawOnPricePanel>
           <PaintPriceMarkers>true</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>6084</IndicatorId>
-          <InstrumentDeserialized>NQ 06-24 Globex</InstrumentDeserialized>
+          <IndicatorId>8098</IndicatorId>
+          <InstrumentDeserialized>YM 09-24 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
           <ZOrder>10006</ZOrder>
@@ -238,7 +238,7 @@
           <PriceType>Close</PriceType>
         </Input>
       </Indicator>
-      <Indicator BarsIndex="0" Instrument="NQ 06-24 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexHiddenDivergence" Panel="-1" DisplayName="_APEX Early Hidden Divergence Signal Detector">
+      <Indicator BarsIndex="0" Instrument="YM 09-24 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexHiddenDivergence" Panel="-1" DisplayName="_APEX Early Hidden Divergence Signal Detector">
         <ApexHiddenDivergence xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
           <IsVisible>true</IsVisible>
           <AreLinesConfigurable>true</AreLinesConfigurable>
@@ -256,11 +256,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>false</DisplayInDataBox>
-          <From>2024-05-01T00:00:00</From>
+          <From>2024-08-11T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2024-05-02T00:00:00</To>
+          <To>2024-08-12T00:00:00</To>
           <Calculate>OnBarClose</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -278,8 +278,8 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>6087</IndicatorId>
-          <InstrumentDeserialized>NQ 06-24 Globex</InstrumentDeserialized>
+          <IndicatorId>8101</IndicatorId>
+          <InstrumentDeserialized>YM 09-24 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
           <ZOrder>10004</ZOrder>
@@ -290,7 +290,7 @@
           <PriceType>Close</PriceType>
         </Input>
       </Indicator>
-      <Indicator BarsIndex="0" Instrument="NQ 06-24 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexHiddenDivergence" Panel="-1" DisplayName="_APEX Early Hidden Divergence Signal Detector">
+      <Indicator BarsIndex="0" Instrument="YM 09-24 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexHiddenDivergence" Panel="-1" DisplayName="_APEX Early Hidden Divergence Signal Detector">
         <ApexHiddenDivergence xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
           <IsVisible>true</IsVisible>
           <AreLinesConfigurable>true</AreLinesConfigurable>
@@ -308,11 +308,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>false</DisplayInDataBox>
-          <From>2024-05-01T00:00:00</From>
+          <From>2024-08-11T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2024-05-02T00:00:00</To>
+          <To>2024-08-12T00:00:00</To>
           <Calculate>OnBarClose</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -330,8 +330,8 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>6090</IndicatorId>
-          <InstrumentDeserialized>NQ 06-24 Globex</InstrumentDeserialized>
+          <IndicatorId>8104</IndicatorId>
+          <InstrumentDeserialized>YM 09-24 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
           <ZOrder>10005</ZOrder>
@@ -342,7 +342,7 @@
           <PriceType>Close</PriceType>
         </Input>
       </Indicator>
-      <Indicator BarsIndex="0" Instrument="NQ 06-24 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexDivergenceWarningIcons" Panel="-1" DisplayName="_APEX Divergence Warning Icons">
+      <Indicator BarsIndex="0" Instrument="YM 09-24 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexDivergenceWarningIcons" Panel="-1" DisplayName="_APEX Divergence Warning Icons">
         <ApexDivergenceWarningIcons xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
           <IsVisible>true</IsVisible>
           <AreLinesConfigurable>true</AreLinesConfigurable>
@@ -360,11 +360,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2024-05-01T00:00:00</From>
+          <From>2024-08-11T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2024-05-02T00:00:00</To>
+          <To>2024-08-12T00:00:00</To>
           <Calculate>OnBarClose</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -382,8 +382,8 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>true</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>6093</IndicatorId>
-          <InstrumentDeserialized>NQ 06-24 Globex</InstrumentDeserialized>
+          <IndicatorId>8107</IndicatorId>
+          <InstrumentDeserialized>YM 09-24 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
           <ZOrder>10006</ZOrder>
@@ -394,7 +394,7 @@
           <PriceType>Close</PriceType>
         </Input>
       </Indicator>
-      <Indicator BarsIndex="0" Instrument="NQ 06-24 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexBarRange" Panel="-1" DisplayName="_APEX Bar Range">
+      <Indicator BarsIndex="0" Instrument="YM 09-24 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexBarRange" Panel="-1" DisplayName="_APEX Bar Range">
         <ApexBarRange xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
           <IsVisible>true</IsVisible>
           <AreLinesConfigurable>true</AreLinesConfigurable>
@@ -412,11 +412,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>false</DisplayInDataBox>
-          <From>2024-05-01T00:00:00</From>
+          <From>2024-08-11T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2024-05-02T00:00:00</To>
+          <To>2024-08-12T00:00:00</To>
           <Calculate>OnPriceChange</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>false</IsAutoScale>
@@ -459,8 +459,8 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>6096</IndicatorId>
-          <InstrumentDeserialized>NQ 06-24 Globex</InstrumentDeserialized>
+          <IndicatorId>8110</IndicatorId>
+          <InstrumentDeserialized>YM 09-24 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
           <ZOrder>10007</ZOrder>
@@ -471,7 +471,7 @@
           <PriceType>Close</PriceType>
         </Input>
       </Indicator>
-      <Indicator BarsIndex="0" Instrument="NQ 06-24 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexBarRange" Panel="-1" DisplayName="_APEX Bar Range">
+      <Indicator BarsIndex="0" Instrument="YM 09-24 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexBarRange" Panel="-1" DisplayName="_APEX Bar Range">
         <ApexBarRange xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
           <IsVisible>true</IsVisible>
           <AreLinesConfigurable>true</AreLinesConfigurable>
@@ -489,11 +489,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>false</DisplayInDataBox>
-          <From>2024-05-01T00:00:00</From>
+          <From>2024-08-11T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2024-05-02T00:00:00</To>
+          <To>2024-08-12T00:00:00</To>
           <Calculate>OnPriceChange</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>false</IsAutoScale>
@@ -536,8 +536,8 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>6099</IndicatorId>
-          <InstrumentDeserialized>NQ 06-24 Globex</InstrumentDeserialized>
+          <IndicatorId>8113</IndicatorId>
+          <InstrumentDeserialized>YM 09-24 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
           <ZOrder>10008</ZOrder>
@@ -548,7 +548,7 @@
           <PriceType>Close</PriceType>
         </Input>
       </Indicator>
-      <Indicator BarsIndex="0" Instrument="NQ 06-24 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexBarRange" Panel="-1" DisplayName="_APEX Bar Range">
+      <Indicator BarsIndex="0" Instrument="YM 09-24 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexBarRange" Panel="-1" DisplayName="_APEX Bar Range">
         <ApexBarRange xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
           <IsVisible>true</IsVisible>
           <AreLinesConfigurable>true</AreLinesConfigurable>
@@ -566,11 +566,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>false</DisplayInDataBox>
-          <From>2024-05-01T00:00:00</From>
+          <From>2024-08-11T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2024-05-02T00:00:00</To>
+          <To>2024-08-12T00:00:00</To>
           <Calculate>OnPriceChange</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>false</IsAutoScale>
@@ -613,8 +613,8 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>6102</IndicatorId>
-          <InstrumentDeserialized>NQ 06-24 Globex</InstrumentDeserialized>
+          <IndicatorId>8116</IndicatorId>
+          <InstrumentDeserialized>YM 09-24 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
           <ZOrder>10009</ZOrder>
@@ -625,7 +625,7 @@
           <PriceType>Close</PriceType>
         </Input>
       </Indicator>
-      <Indicator BarsIndex="0" Instrument="NQ 06-24 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexOscillationDetector" Panel="-1" DisplayName="_APEX Oscillation Detector">
+      <Indicator BarsIndex="0" Instrument="YM 09-24 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexOscillationDetector" Panel="-1" DisplayName="_APEX Oscillation Detector">
         <ApexOscillationDetector xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
           <IsVisible>true</IsVisible>
           <AreLinesConfigurable>true</AreLinesConfigurable>
@@ -643,11 +643,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2024-05-01T00:00:00</From>
+          <From>2024-08-11T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2024-05-02T00:00:00</To>
+          <To>2024-08-12T00:00:00</To>
           <Calculate>OnEachTick</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>false</IsAutoScale>
@@ -678,8 +678,8 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>6105</IndicatorId>
-          <InstrumentDeserialized>NQ 06-24 Globex</InstrumentDeserialized>
+          <IndicatorId>8119</IndicatorId>
+          <InstrumentDeserialized>YM 09-24 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
           <ZOrder>10010</ZOrder>
@@ -690,7 +690,7 @@
           <PriceType>Close</PriceType>
         </Input>
       </Indicator>
-      <Indicator BarsIndex="0" Instrument="NQ 06-24 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexDeviationLevels" Panel="-1" DisplayName="_APEX Deviation Levels">
+      <Indicator BarsIndex="0" Instrument="YM 09-24 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexDeviationLevels" Panel="-1" DisplayName="_APEX Deviation Levels">
         <ApexDeviationLevels xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
           <IsVisible>true</IsVisible>
           <AreLinesConfigurable>true</AreLinesConfigurable>
@@ -708,11 +708,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>false</DisplayInDataBox>
-          <From>2024-05-01T00:00:00</From>
+          <From>2024-08-11T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2024-05-02T00:00:00</To>
+          <To>2024-08-12T00:00:00</To>
           <Calculate>OnPriceChange</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>false</IsAutoScale>
@@ -730,8 +730,8 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>6108</IndicatorId>
-          <InstrumentDeserialized>NQ 06-24 Globex</InstrumentDeserialized>
+          <IndicatorId>8122</IndicatorId>
+          <InstrumentDeserialized>YM 09-24 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
           <ZOrder>10011</ZOrder>
@@ -742,7 +742,7 @@
           <PriceType>Close</PriceType>
         </Input>
       </Indicator>
-      <Indicator BarsIndex="0" Instrument="NQ 06-24 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexICE" Panel="-1" DisplayName="_APEX ICE Volume Zones">
+      <Indicator BarsIndex="0" Instrument="YM 09-24 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexICE" Panel="-1" DisplayName="_APEX ICE Volume Zones">
         <ApexICE xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
           <IsVisible>true</IsVisible>
           <AreLinesConfigurable>true</AreLinesConfigurable>
@@ -760,11 +760,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2024-05-01T00:00:00</From>
+          <From>2024-08-11T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2024-05-02T00:00:00</To>
+          <To>2024-08-12T00:00:00</To>
           <Calculate>OnPriceChange</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>false</IsAutoScale>
@@ -819,19 +819,19 @@
           <DrawOnPricePanel>false</DrawOnPricePanel>
           <PaintPriceMarkers>true</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>6111</IndicatorId>
-          <InstrumentDeserialized>NQ 06-24 Globex</InstrumentDeserialized>
+          <IndicatorId>8125</IndicatorId>
+          <InstrumentDeserialized>YM 09-24 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
           <ZOrder>10012</ZOrder>
-          <SettingsSerialized>eyJWb2x1bWVab25lIjo3MCwiTWF4RGF5c0RhdGEiOjV9</SettingsSerialized>
-          <UserSettingsSerialized>eyJTaG93SGlzdG9ncmFtIjp0cnVlLCJIaXN0b2dyYW1Db2xvciI6IiNGRjFFOTBGRiIsIkhpc3RvZ3JhbU9wYWNpdHkiOjEwfQ==</UserSettingsSerialized>
+          <SettingsSerialized>eyJWb2x1bWVab25lIjo3MCwiTWF4RGF5c0RhdGEiOjUsIlRpbWVvdXQiOjYwMDB9</SettingsSerialized>
+          <UserSettingsSerialized>eyJTaG93SGlzdG9ncmFtIjp0cnVlLCJTaG93U3RhdHVzIjp0cnVlLCJTdGF0dXNQb3NpdGlvbiI6MCwiU3RhdHVzWU9mZnNldCI6MjAsIkhpc3RvZ3JhbUNvbG9yIjoiI0ZGMUU5MEZGIiwiSGlzdG9ncmFtT3BhY2l0eSI6MTB9</UserSettingsSerialized>
         </ApexICE>
         <Input>
           <PriceType>Close</PriceType>
         </Input>
       </Indicator>
-      <Indicator BarsIndex="0" Instrument="NQ 06-24 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexCurrentPrice" Panel="-1" DisplayName="_APEX Current Price">
+      <Indicator BarsIndex="0" Instrument="YM 09-24 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexCurrentPrice" Panel="-1" DisplayName="_APEX Current Price">
         <ApexCurrentPrice xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
           <IsVisible>true</IsVisible>
           <AreLinesConfigurable>true</AreLinesConfigurable>
@@ -849,11 +849,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>false</DisplayInDataBox>
-          <From>2024-05-01T00:00:00</From>
+          <From>2024-08-11T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2024-05-02T00:00:00</To>
+          <To>2024-08-12T00:00:00</To>
           <Calculate>OnPriceChange</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -884,8 +884,8 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>true</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>6114</IndicatorId>
-          <InstrumentDeserialized>NQ 06-24 Globex</InstrumentDeserialized>
+          <IndicatorId>8128</IndicatorId>
+          <InstrumentDeserialized>YM 09-24 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
           <ZOrder>10013</ZOrder>
@@ -896,7 +896,7 @@
           <PriceType>Close</PriceType>
         </Input>
       </Indicator>
-      <Indicator BarsIndex="0" Instrument="NQ 06-24 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexDiagnosticEconomicNews" Panel="-1" DisplayName="_APEX News">
+      <Indicator BarsIndex="0" Instrument="YM 09-24 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexDiagnosticEconomicNews" Panel="-1" DisplayName="_APEX News">
         <ApexDiagnosticEconomicNews xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
           <IsVisible>true</IsVisible>
           <AreLinesConfigurable>true</AreLinesConfigurable>
@@ -914,11 +914,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>false</DisplayInDataBox>
-          <From>2024-05-01T00:00:00</From>
+          <From>2024-08-11T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2024-05-02T00:00:00</To>
+          <To>2024-08-12T00:00:00</To>
           <Calculate>OnPriceChange</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>false</IsAutoScale>
@@ -936,8 +936,8 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>true</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>6117</IndicatorId>
-          <InstrumentDeserialized>NQ 06-24 Globex</InstrumentDeserialized>
+          <IndicatorId>8131</IndicatorId>
+          <InstrumentDeserialized>YM 09-24 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
           <ZOrder>10007</ZOrder>
@@ -948,7 +948,7 @@
           <PriceType>Close</PriceType>
         </Input>
       </Indicator>
-      <Indicator BarsIndex="0" Instrument="NQ 06-24 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexOrderPrintsDetector_StarLVSZOI" Panel="2" DisplayName="SLZ">
+      <Indicator BarsIndex="0" Instrument="YM 09-24 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexOrderPrintsDetector_StarLVSZOI" Panel="2" DisplayName="SLZ">
         <ApexOrderPrintsDetector_StarLVSZOI xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
           <IsVisible>true</IsVisible>
           <AreLinesConfigurable>true</AreLinesConfigurable>
@@ -966,12 +966,12 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2024-05-01T00:00:00</From>
+          <From>2024-08-11T00:00:00</From>
           <Panel>2</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2024-05-02T00:00:00</To>
-          <Calculate>OnEachTick</Calculate>
+          <To>2024-08-12T00:00:00</To>
+          <Calculate>OnPriceChange</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
           <IsDataSeriesRequired>true</IsDataSeriesRequired>
@@ -999,7 +999,7 @@
               <AutoWidth>false</AutoWidth>
               <Max>1.7976931348623157E+308</Max>
               <Min>-1.7976931348623157E+308</Min>
-              <Name />
+              <Name>S L Z</Name>
               <PlotStyle>Bar</PlotStyle>
             </Plot>
           </Plots>
@@ -1011,13 +1011,13 @@
           <DrawOnPricePanel>false</DrawOnPricePanel>
           <PaintPriceMarkers>true</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>6120</IndicatorId>
-          <InstrumentDeserialized>NQ 06-24 Globex</InstrumentDeserialized>
+          <IndicatorId>8134</IndicatorId>
+          <InstrumentDeserialized>YM 09-24 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
           <ZOrder>10004</ZOrder>
           <SettingsSerialized>eyJJc0hpc3RvcmljYWxPbkJhckNsb3NlIjp0cnVlLCJJc1VwQ2xvc2VCYXIiOnRydWUsIklzRG93bkNsb3NlQmFyIjp0cnVlLCJSZXF1aXJlUmV2ZXJzYWxCYXIiOnRydWUsIklnbm9yZVJldmVyc2FsQmFyIjpmYWxzZSwiSXNOb3RTaWduYWxlZCI6ZmFsc2UsIklzTm90U2lnbmFsZWRQbG90Q29udGludWF0aW9uQmFycyI6ZmFsc2UsIlVzZVByaWNlVmFsdWUiOmZhbHNlLCJNYWludGFpbkxpdmVWYWx1ZSI6ZmFsc2UsIkRldGVjdG9yQ29waWVySWQiOiIiLCJPUENvcGllcklkIjoiIiwiRGV0ZWN0b3JHcm91cHMiOiIiLCJBbmRDb25kaXRpb25Hcm91cHMiOiIiLCJPckNvbmRpdGlvbkdyb3VwcyI6IiIsIlRpY2tPZmZzZXQiOjAsIlVwQ2xvc2VWYWx1ZSI6MS4wLCJVcENsb3NlTGl2ZVZhbHVlIjotMS4wLCJEb3duQ2xvc2VWYWx1ZSI6MS4wLCJEb3duQ2xvc2VMaXZlVmFsdWUiOi0xLjAsIldhaXRUaW1lb3V0Ijo2MDAwMDB9</SettingsSerialized>
-          <UserSettingsSerialized>eyJIaWRlUGxvdHMiOmZhbHNlLCJIaWRlRXh0cmFMaW5lcyI6ZmFsc2UsIkFsZXJ0TmFtZSI6IiIsIlBvdGVudGlhbEFsZXJ0cyI6eyJ2aXN1YWwiOmZhbHNlLCJhdWRpYmxlIjpmYWxzZSwid2luZG93Rmxhc2giOmZhbHNlfSwiQ29uZmlybWVkQWxlcnRzIjp7InZpc3VhbCI6ZmFsc2UsImF1ZGlibGUiOmZhbHNlLCJ3aW5kb3dGbGFzaCI6ZmFsc2V9fQ==</UserSettingsSerialized>
+          <UserSettingsSerialized>eyJIaWRlUGxvdHMiOmZhbHNlLCJIaWRlRXh0cmFMaW5lcyI6ZmFsc2UsIkFsZXJ0TmFtZSI6IlMgTCBaIiwiUG90ZW50aWFsQWxlcnRzIjp7InZpc3VhbCI6ZmFsc2UsImF1ZGlibGUiOnRydWUsIndpbmRvd0ZsYXNoIjpmYWxzZX0sIkNvbmZpcm1lZEFsZXJ0cyI6eyJ2aXN1YWwiOmZhbHNlLCJhdWRpYmxlIjp0cnVlLCJ3aW5kb3dGbGFzaCI6ZmFsc2V9fQ==</UserSettingsSerialized>
           <OPFunctions>
             <OrderPrintsFunctions>SLZ</OrderPrintsFunctions>
           </OPFunctions>
@@ -1026,7 +1026,7 @@
           <PriceType>Close</PriceType>
         </Input>
       </Indicator>
-      <Indicator BarsIndex="0" Instrument="NQ 06-24 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexOrderPrintsDetector_ThirdBarSling" Panel="2" DisplayName="TBS">
+      <Indicator BarsIndex="0" Instrument="YM 09-24 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexOrderPrintsDetector_ThirdBarSling" Panel="2" DisplayName="TBS">
         <ApexOrderPrintsDetector_ThirdBarSling xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
           <IsVisible>true</IsVisible>
           <AreLinesConfigurable>true</AreLinesConfigurable>
@@ -1044,12 +1044,12 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2024-05-01T00:00:00</From>
+          <From>2024-08-11T00:00:00</From>
           <Panel>2</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2024-05-02T00:00:00</To>
-          <Calculate>OnEachTick</Calculate>
+          <To>2024-08-12T00:00:00</To>
+          <Calculate>OnPriceChange</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
           <IsDataSeriesRequired>true</IsDataSeriesRequired>
@@ -1077,7 +1077,7 @@
               <AutoWidth>false</AutoWidth>
               <Max>1.7976931348623157E+308</Max>
               <Min>-1.7976931348623157E+308</Min>
-              <Name />
+              <Name>T B S</Name>
               <PlotStyle>Bar</PlotStyle>
             </Plot>
           </Plots>
@@ -1089,13 +1089,13 @@
           <DrawOnPricePanel>false</DrawOnPricePanel>
           <PaintPriceMarkers>true</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>6123</IndicatorId>
-          <InstrumentDeserialized>NQ 06-24 Globex</InstrumentDeserialized>
+          <IndicatorId>8137</IndicatorId>
+          <InstrumentDeserialized>YM 09-24 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
           <ZOrder>10004</ZOrder>
-          <SettingsSerialized>eyJJc0hpc3RvcmljYWxPbkJhckNsb3NlIjp0cnVlLCJJc1VwQ2xvc2VCYXIiOnRydWUsIklzRG93bkNsb3NlQmFyIjp0cnVlLCJSZXF1aXJlUmV2ZXJzYWxCYXIiOnRydWUsIklnbm9yZVJldmVyc2FsQmFyIjpmYWxzZSwiSXNOb3RTaWduYWxlZCI6ZmFsc2UsIklzTm90U2lnbmFsZWRQbG90Q29udGludWF0aW9uQmFycyI6ZmFsc2UsIlVzZVByaWNlVmFsdWUiOmZhbHNlLCJNYWludGFpbkxpdmVWYWx1ZSI6ZmFsc2UsIkRldGVjdG9yQ29waWVySWQiOiIiLCJPUENvcGllcklkIjoiIiwiRGV0ZWN0b3JHcm91cHMiOiIiLCJBbmRDb25kaXRpb25Hcm91cHMiOiIiLCJPckNvbmRpdGlvbkdyb3VwcyI6IiIsIlRpY2tPZmZzZXQiOjAsIlVwQ2xvc2VWYWx1ZSI6MS4wLCJVcENsb3NlTGl2ZVZhbHVlIjotMS4wLCJEb3duQ2xvc2VWYWx1ZSI6MS4wLCJEb3duQ2xvc2VMaXZlVmFsdWUiOi0xLjAsIldhaXRUaW1lb3V0Ijo2MDAwMDB9</SettingsSerialized>
-          <UserSettingsSerialized>eyJIaWRlUGxvdHMiOmZhbHNlLCJIaWRlRXh0cmFMaW5lcyI6ZmFsc2UsIkFsZXJ0TmFtZSI6IiIsIlBvdGVudGlhbEFsZXJ0cyI6eyJ2aXN1YWwiOmZhbHNlLCJhdWRpYmxlIjpmYWxzZSwid2luZG93Rmxhc2giOmZhbHNlfSwiQ29uZmlybWVkQWxlcnRzIjp7InZpc3VhbCI6ZmFsc2UsImF1ZGlibGUiOmZhbHNlLCJ3aW5kb3dGbGFzaCI6ZmFsc2V9fQ==</UserSettingsSerialized>
+          <SettingsSerialized>eyJJc0hpc3RvcmljYWxPbkJhckNsb3NlIjp0cnVlLCJJc1VwQ2xvc2VCYXIiOnRydWUsIklzRG93bkNsb3NlQmFyIjp0cnVlLCJSZXF1aXJlUmV2ZXJzYWxCYXIiOmZhbHNlLCJJZ25vcmVSZXZlcnNhbEJhciI6ZmFsc2UsIklzTm90U2lnbmFsZWQiOmZhbHNlLCJJc05vdFNpZ25hbGVkUGxvdENvbnRpbnVhdGlvbkJhcnMiOmZhbHNlLCJVc2VQcmljZVZhbHVlIjpmYWxzZSwiTWFpbnRhaW5MaXZlVmFsdWUiOmZhbHNlLCJEZXRlY3RvckNvcGllcklkIjoiIiwiT1BDb3BpZXJJZCI6IiIsIkRldGVjdG9yR3JvdXBzIjoiIiwiQW5kQ29uZGl0aW9uR3JvdXBzIjoiIiwiT3JDb25kaXRpb25Hcm91cHMiOiIiLCJUaWNrT2Zmc2V0IjowLCJVcENsb3NlVmFsdWUiOjEuMCwiVXBDbG9zZUxpdmVWYWx1ZSI6LTEuMCwiRG93bkNsb3NlVmFsdWUiOjEuMCwiRG93bkNsb3NlTGl2ZVZhbHVlIjotMS4wLCJXYWl0VGltZW91dCI6NjAwMDAwfQ==</SettingsSerialized>
+          <UserSettingsSerialized>eyJIaWRlUGxvdHMiOmZhbHNlLCJIaWRlRXh0cmFMaW5lcyI6ZmFsc2UsIkFsZXJ0TmFtZSI6IlQgQiBTIiwiUG90ZW50aWFsQWxlcnRzIjp7InZpc3VhbCI6ZmFsc2UsImF1ZGlibGUiOnRydWUsIndpbmRvd0ZsYXNoIjpmYWxzZX0sIkNvbmZpcm1lZEFsZXJ0cyI6eyJ2aXN1YWwiOmZhbHNlLCJhdWRpYmxlIjp0cnVlLCJ3aW5kb3dGbGFzaCI6ZmFsc2V9fQ==</UserSettingsSerialized>
           <OPFunctions>
             <OrderPrintsFunctions>ThirdBarSling</OrderPrintsFunctions>
           </OPFunctions>
@@ -1104,7 +1104,7 @@
           <PriceType>Close</PriceType>
         </Input>
       </Indicator>
-      <Indicator BarsIndex="0" Instrument="NQ 06-24 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexOrderPrintsDetector_Elevator" Panel="2" DisplayName="ELEV">
+      <Indicator BarsIndex="0" Instrument="YM 09-24 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexOrderPrintsDetector_Elevator" Panel="2" DisplayName="ELEV">
         <ApexOrderPrintsDetector_Elevator xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
           <IsVisible>true</IsVisible>
           <AreLinesConfigurable>true</AreLinesConfigurable>
@@ -1122,12 +1122,12 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2024-05-01T00:00:00</From>
+          <From>2024-08-11T00:00:00</From>
           <Panel>2</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2024-05-02T00:00:00</To>
-          <Calculate>OnEachTick</Calculate>
+          <To>2024-08-12T00:00:00</To>
+          <Calculate>OnPriceChange</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
           <IsDataSeriesRequired>true</IsDataSeriesRequired>
@@ -1155,7 +1155,7 @@
               <AutoWidth>false</AutoWidth>
               <Max>1.7976931348623157E+308</Max>
               <Min>-1.7976931348623157E+308</Min>
-              <Name />
+              <Name>Elevator</Name>
               <PlotStyle>Bar</PlotStyle>
             </Plot>
           </Plots>
@@ -1167,13 +1167,13 @@
           <DrawOnPricePanel>false</DrawOnPricePanel>
           <PaintPriceMarkers>true</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>6126</IndicatorId>
-          <InstrumentDeserialized>NQ 06-24 Globex</InstrumentDeserialized>
+          <IndicatorId>8140</IndicatorId>
+          <InstrumentDeserialized>YM 09-24 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
           <ZOrder>10004</ZOrder>
           <SettingsSerialized>eyJJc0hpc3RvcmljYWxPbkJhckNsb3NlIjp0cnVlLCJJc1VwQ2xvc2VCYXIiOnRydWUsIklzRG93bkNsb3NlQmFyIjp0cnVlLCJSZXF1aXJlUmV2ZXJzYWxCYXIiOnRydWUsIklnbm9yZVJldmVyc2FsQmFyIjpmYWxzZSwiSXNOb3RTaWduYWxlZCI6ZmFsc2UsIklzTm90U2lnbmFsZWRQbG90Q29udGludWF0aW9uQmFycyI6ZmFsc2UsIlVzZVByaWNlVmFsdWUiOmZhbHNlLCJNYWludGFpbkxpdmVWYWx1ZSI6ZmFsc2UsIkRldGVjdG9yQ29waWVySWQiOiIiLCJPUENvcGllcklkIjoiIiwiRGV0ZWN0b3JHcm91cHMiOiIiLCJBbmRDb25kaXRpb25Hcm91cHMiOiIiLCJPckNvbmRpdGlvbkdyb3VwcyI6IiIsIlRpY2tPZmZzZXQiOjAsIlVwQ2xvc2VWYWx1ZSI6MS4wLCJVcENsb3NlTGl2ZVZhbHVlIjotMS4wLCJEb3duQ2xvc2VWYWx1ZSI6MS4wLCJEb3duQ2xvc2VMaXZlVmFsdWUiOi0xLjAsIldhaXRUaW1lb3V0Ijo2MDAwMDB9</SettingsSerialized>
-          <UserSettingsSerialized>eyJIaWRlUGxvdHMiOmZhbHNlLCJIaWRlRXh0cmFMaW5lcyI6ZmFsc2UsIkFsZXJ0TmFtZSI6IiIsIlBvdGVudGlhbEFsZXJ0cyI6eyJ2aXN1YWwiOmZhbHNlLCJhdWRpYmxlIjpmYWxzZSwid2luZG93Rmxhc2giOmZhbHNlfSwiQ29uZmlybWVkQWxlcnRzIjp7InZpc3VhbCI6ZmFsc2UsImF1ZGlibGUiOmZhbHNlLCJ3aW5kb3dGbGFzaCI6ZmFsc2V9fQ==</UserSettingsSerialized>
+          <UserSettingsSerialized>eyJIaWRlUGxvdHMiOmZhbHNlLCJIaWRlRXh0cmFMaW5lcyI6ZmFsc2UsIkFsZXJ0TmFtZSI6IkVsZXZhdG9yIiwiUG90ZW50aWFsQWxlcnRzIjp7InZpc3VhbCI6ZmFsc2UsImF1ZGlibGUiOnRydWUsIndpbmRvd0ZsYXNoIjpmYWxzZX0sIkNvbmZpcm1lZEFsZXJ0cyI6eyJ2aXN1YWwiOmZhbHNlLCJhdWRpYmxlIjp0cnVlLCJ3aW5kb3dGbGFzaCI6ZmFsc2V9fQ==</UserSettingsSerialized>
           <OPFunctions>
             <OrderPrintsFunctions>Elevator</OrderPrintsFunctions>
           </OPFunctions>
@@ -1182,7 +1182,7 @@
           <PriceType>Close</PriceType>
         </Input>
       </Indicator>
-      <Indicator BarsIndex="0" Instrument="NQ 06-24 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexOrderPrintsDetector_DoubleTX" Panel="2" DisplayName="DTX">
+      <Indicator BarsIndex="0" Instrument="YM 09-24 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexOrderPrintsDetector_DoubleTX" Panel="2" DisplayName="DTX">
         <ApexOrderPrintsDetector_DoubleTX xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
           <IsVisible>true</IsVisible>
           <AreLinesConfigurable>true</AreLinesConfigurable>
@@ -1200,12 +1200,12 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2024-05-01T00:00:00</From>
+          <From>2024-08-11T00:00:00</From>
           <Panel>2</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2024-05-02T00:00:00</To>
-          <Calculate>OnEachTick</Calculate>
+          <To>2024-08-12T00:00:00</To>
+          <Calculate>OnPriceChange</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
           <IsDataSeriesRequired>true</IsDataSeriesRequired>
@@ -1233,7 +1233,7 @@
               <AutoWidth>false</AutoWidth>
               <Max>1.7976931348623157E+308</Max>
               <Min>-1.7976931348623157E+308</Min>
-              <Name />
+              <Name>D TX</Name>
               <PlotStyle>Bar</PlotStyle>
             </Plot>
           </Plots>
@@ -1245,13 +1245,13 @@
           <DrawOnPricePanel>false</DrawOnPricePanel>
           <PaintPriceMarkers>true</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>6129</IndicatorId>
-          <InstrumentDeserialized>NQ 06-24 Globex</InstrumentDeserialized>
+          <IndicatorId>8143</IndicatorId>
+          <InstrumentDeserialized>YM 09-24 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
           <ZOrder>10004</ZOrder>
           <SettingsSerialized>eyJJc0hpc3RvcmljYWxPbkJhckNsb3NlIjp0cnVlLCJJc1VwQ2xvc2VCYXIiOnRydWUsIklzRG93bkNsb3NlQmFyIjp0cnVlLCJSZXF1aXJlUmV2ZXJzYWxCYXIiOnRydWUsIklnbm9yZVJldmVyc2FsQmFyIjpmYWxzZSwiSXNOb3RTaWduYWxlZCI6ZmFsc2UsIklzTm90U2lnbmFsZWRQbG90Q29udGludWF0aW9uQmFycyI6ZmFsc2UsIlVzZVByaWNlVmFsdWUiOmZhbHNlLCJNYWludGFpbkxpdmVWYWx1ZSI6ZmFsc2UsIkRldGVjdG9yQ29waWVySWQiOiIiLCJPUENvcGllcklkIjoiIiwiRGV0ZWN0b3JHcm91cHMiOiIiLCJBbmRDb25kaXRpb25Hcm91cHMiOiIiLCJPckNvbmRpdGlvbkdyb3VwcyI6IiIsIlRpY2tPZmZzZXQiOjAsIlVwQ2xvc2VWYWx1ZSI6MS4wLCJVcENsb3NlTGl2ZVZhbHVlIjotMS4wLCJEb3duQ2xvc2VWYWx1ZSI6MS4wLCJEb3duQ2xvc2VMaXZlVmFsdWUiOi0xLjAsIldhaXRUaW1lb3V0Ijo2MDAwMDB9</SettingsSerialized>
-          <UserSettingsSerialized>eyJIaWRlUGxvdHMiOmZhbHNlLCJIaWRlRXh0cmFMaW5lcyI6ZmFsc2UsIkFsZXJ0TmFtZSI6IiIsIlBvdGVudGlhbEFsZXJ0cyI6eyJ2aXN1YWwiOmZhbHNlLCJhdWRpYmxlIjpmYWxzZSwid2luZG93Rmxhc2giOmZhbHNlfSwiQ29uZmlybWVkQWxlcnRzIjp7InZpc3VhbCI6ZmFsc2UsImF1ZGlibGUiOmZhbHNlLCJ3aW5kb3dGbGFzaCI6ZmFsc2V9fQ==</UserSettingsSerialized>
+          <UserSettingsSerialized>eyJIaWRlUGxvdHMiOmZhbHNlLCJIaWRlRXh0cmFMaW5lcyI6ZmFsc2UsIkFsZXJ0TmFtZSI6IkQgVFgiLCJQb3RlbnRpYWxBbGVydHMiOnsidmlzdWFsIjpmYWxzZSwiYXVkaWJsZSI6dHJ1ZSwid2luZG93Rmxhc2giOmZhbHNlfSwiQ29uZmlybWVkQWxlcnRzIjp7InZpc3VhbCI6ZmFsc2UsImF1ZGlibGUiOnRydWUsIndpbmRvd0ZsYXNoIjpmYWxzZX19</UserSettingsSerialized>
           <OPFunctions>
             <OrderPrintsFunctions>DoubleTX</OrderPrintsFunctions>
           </OPFunctions>
@@ -1261,7 +1261,7 @@
           <PriceType>Close</PriceType>
         </Input>
       </Indicator>
-      <Indicator BarsIndex="0" Instrument="NQ 06-24 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexOrderPrintsDetector_TrappedOrdersWithExauhstionBox" Panel="2" DisplayName="TX">
+      <Indicator BarsIndex="0" Instrument="YM 09-24 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexOrderPrintsDetector_TrappedOrdersWithExauhstionBox" Panel="2" DisplayName="TX">
         <ApexOrderPrintsDetector_TrappedOrdersWithExauhstionBox xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
           <IsVisible>true</IsVisible>
           <AreLinesConfigurable>true</AreLinesConfigurable>
@@ -1279,12 +1279,12 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2024-05-01T00:00:00</From>
+          <From>2024-08-11T00:00:00</From>
           <Panel>2</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2024-05-02T00:00:00</To>
-          <Calculate>OnEachTick</Calculate>
+          <To>2024-08-12T00:00:00</To>
+          <Calculate>OnPriceChange</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
           <IsDataSeriesRequired>true</IsDataSeriesRequired>
@@ -1312,7 +1312,7 @@
               <AutoWidth>false</AutoWidth>
               <Max>1.7976931348623157E+308</Max>
               <Min>-1.7976931348623157E+308</Min>
-              <Name />
+              <Name>TX</Name>
               <PlotStyle>Bar</PlotStyle>
             </Plot>
           </Plots>
@@ -1324,13 +1324,13 @@
           <DrawOnPricePanel>false</DrawOnPricePanel>
           <PaintPriceMarkers>true</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>6132</IndicatorId>
-          <InstrumentDeserialized>NQ 06-24 Globex</InstrumentDeserialized>
+          <IndicatorId>8146</IndicatorId>
+          <InstrumentDeserialized>YM 09-24 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
           <ZOrder>10005</ZOrder>
           <SettingsSerialized>eyJJc0hpc3RvcmljYWxPbkJhckNsb3NlIjp0cnVlLCJJc1VwQ2xvc2VCYXIiOnRydWUsIklzRG93bkNsb3NlQmFyIjp0cnVlLCJSZXF1aXJlUmV2ZXJzYWxCYXIiOnRydWUsIklnbm9yZVJldmVyc2FsQmFyIjpmYWxzZSwiSXNOb3RTaWduYWxlZCI6ZmFsc2UsIklzTm90U2lnbmFsZWRQbG90Q29udGludWF0aW9uQmFycyI6ZmFsc2UsIlVzZVByaWNlVmFsdWUiOmZhbHNlLCJNYWludGFpbkxpdmVWYWx1ZSI6ZmFsc2UsIkRldGVjdG9yQ29waWVySWQiOiIiLCJPUENvcGllcklkIjoiIiwiRGV0ZWN0b3JHcm91cHMiOiIiLCJBbmRDb25kaXRpb25Hcm91cHMiOiIiLCJPckNvbmRpdGlvbkdyb3VwcyI6IiIsIlRpY2tPZmZzZXQiOjAsIlVwQ2xvc2VWYWx1ZSI6MS4wLCJVcENsb3NlTGl2ZVZhbHVlIjotMS4wLCJEb3duQ2xvc2VWYWx1ZSI6MS4wLCJEb3duQ2xvc2VMaXZlVmFsdWUiOi0xLjAsIldhaXRUaW1lb3V0Ijo2MDAwMDB9</SettingsSerialized>
-          <UserSettingsSerialized>eyJIaWRlUGxvdHMiOmZhbHNlLCJIaWRlRXh0cmFMaW5lcyI6ZmFsc2UsIkFsZXJ0TmFtZSI6IiIsIlBvdGVudGlhbEFsZXJ0cyI6eyJ2aXN1YWwiOmZhbHNlLCJhdWRpYmxlIjpmYWxzZSwid2luZG93Rmxhc2giOmZhbHNlfSwiQ29uZmlybWVkQWxlcnRzIjp7InZpc3VhbCI6ZmFsc2UsImF1ZGlibGUiOmZhbHNlLCJ3aW5kb3dGbGFzaCI6ZmFsc2V9fQ==</UserSettingsSerialized>
+          <UserSettingsSerialized>eyJIaWRlUGxvdHMiOmZhbHNlLCJIaWRlRXh0cmFMaW5lcyI6ZmFsc2UsIkFsZXJ0TmFtZSI6IlRYIiwiUG90ZW50aWFsQWxlcnRzIjp7InZpc3VhbCI6ZmFsc2UsImF1ZGlibGUiOnRydWUsIndpbmRvd0ZsYXNoIjpmYWxzZX0sIkNvbmZpcm1lZEFsZXJ0cyI6eyJ2aXN1YWwiOmZhbHNlLCJhdWRpYmxlIjp0cnVlLCJ3aW5kb3dGbGFzaCI6ZmFsc2V9fQ==</UserSettingsSerialized>
           <OPFunctions>
             <OrderPrintsFunctions>TX</OrderPrintsFunctions>
             <OrderPrintsFunctions>DoubleClusters</OrderPrintsFunctions>
@@ -1341,7 +1341,7 @@
           <PriceType>Close</PriceType>
         </Input>
       </Indicator>
-      <Indicator BarsIndex="0" Instrument="NQ 06-24 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexOrderPrintsDetector_TrappedOrdersWithExauhstionBox" Panel="2" DisplayName="TXF">
+      <Indicator BarsIndex="0" Instrument="YM 09-24 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexOrderPrintsDetector_TrappedOrdersWithExauhstionBox" Panel="2" DisplayName="TXF">
         <ApexOrderPrintsDetector_TrappedOrdersWithExauhstionBox xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
           <IsVisible>true</IsVisible>
           <AreLinesConfigurable>true</AreLinesConfigurable>
@@ -1359,12 +1359,12 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2024-05-01T00:00:00</From>
+          <From>2024-08-11T00:00:00</From>
           <Panel>2</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2024-05-02T00:00:00</To>
-          <Calculate>OnBarClose</Calculate>
+          <To>2024-08-12T00:00:00</To>
+          <Calculate>OnPriceChange</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
           <IsDataSeriesRequired>true</IsDataSeriesRequired>
@@ -1392,7 +1392,7 @@
               <AutoWidth>false</AutoWidth>
               <Max>1.7976931348623157E+308</Max>
               <Min>-1.7976931348623157E+308</Min>
-              <Name />
+              <Name>TX F</Name>
               <PlotStyle>Bar</PlotStyle>
             </Plot>
           </Plots>
@@ -1404,24 +1404,24 @@
           <DrawOnPricePanel>false</DrawOnPricePanel>
           <PaintPriceMarkers>true</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>6135</IndicatorId>
-          <InstrumentDeserialized>NQ 06-24 Globex</InstrumentDeserialized>
+          <IndicatorId>8149</IndicatorId>
+          <InstrumentDeserialized>YM 09-24 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
           <ZOrder>10006</ZOrder>
           <SettingsSerialized>eyJJc0hpc3RvcmljYWxPbkJhckNsb3NlIjp0cnVlLCJJc1VwQ2xvc2VCYXIiOnRydWUsIklzRG93bkNsb3NlQmFyIjp0cnVlLCJSZXF1aXJlUmV2ZXJzYWxCYXIiOnRydWUsIklnbm9yZVJldmVyc2FsQmFyIjpmYWxzZSwiSXNOb3RTaWduYWxlZCI6ZmFsc2UsIklzTm90U2lnbmFsZWRQbG90Q29udGludWF0aW9uQmFycyI6ZmFsc2UsIlVzZVByaWNlVmFsdWUiOmZhbHNlLCJNYWludGFpbkxpdmVWYWx1ZSI6ZmFsc2UsIkRldGVjdG9yQ29waWVySWQiOiIiLCJPUENvcGllcklkIjoiIiwiRGV0ZWN0b3JHcm91cHMiOiIiLCJBbmRDb25kaXRpb25Hcm91cHMiOiIiLCJPckNvbmRpdGlvbkdyb3VwcyI6IiIsIlRpY2tPZmZzZXQiOjAsIlVwQ2xvc2VWYWx1ZSI6MS4wLCJVcENsb3NlTGl2ZVZhbHVlIjotMS4wLCJEb3duQ2xvc2VWYWx1ZSI6MS4wLCJEb3duQ2xvc2VMaXZlVmFsdWUiOi0xLjAsIldhaXRUaW1lb3V0Ijo2MDAwMDB9</SettingsSerialized>
-          <UserSettingsSerialized>eyJIaWRlUGxvdHMiOmZhbHNlLCJIaWRlRXh0cmFMaW5lcyI6ZmFsc2UsIkFsZXJ0TmFtZSI6IiIsIlBvdGVudGlhbEFsZXJ0cyI6eyJ2aXN1YWwiOmZhbHNlLCJhdWRpYmxlIjpmYWxzZSwid2luZG93Rmxhc2giOmZhbHNlfSwiQ29uZmlybWVkQWxlcnRzIjp7InZpc3VhbCI6ZmFsc2UsImF1ZGlibGUiOmZhbHNlLCJ3aW5kb3dGbGFzaCI6ZmFsc2V9fQ==</UserSettingsSerialized>
+          <UserSettingsSerialized>eyJIaWRlUGxvdHMiOmZhbHNlLCJIaWRlRXh0cmFMaW5lcyI6ZmFsc2UsIkFsZXJ0TmFtZSI6IlRYIEYiLCJQb3RlbnRpYWxBbGVydHMiOnsidmlzdWFsIjpmYWxzZSwiYXVkaWJsZSI6dHJ1ZSwid2luZG93Rmxhc2giOmZhbHNlfSwiQ29uZmlybWVkQWxlcnRzIjp7InZpc3VhbCI6ZmFsc2UsImF1ZGlibGUiOnRydWUsIndpbmRvd0ZsYXNoIjpmYWxzZX19</UserSettingsSerialized>
           <OPFunctions>
             <OrderPrintsFunctions>TX</OrderPrintsFunctions>
             <OrderPrintsFunctions>DoubleClusters</OrderPrintsFunctions>
           </OPFunctions>
-          <DetectorSettingsSerialized>eyJSZXF1aXJlRFJDb25maXJtYXRpb24iOmZhbHNlLCJFeGNsdWRlQ2hvcCI6ZmFsc2UsIkV4Y2x1ZGVEb3VibGVDbHVzdGVycyI6ZmFsc2UsIkRldmlhdGlvblJldmVyc2FsU3RyZW5ndGgiOjIyLCJEZXZpYXRpb25SZXZlcnNhbE51bUJhcnMiOjJ9</DetectorSettingsSerialized>
+          <DetectorSettingsSerialized>eyJSZXF1aXJlRFJDb25maXJtYXRpb24iOnRydWUsIkV4Y2x1ZGVDaG9wIjpmYWxzZSwiRXhjbHVkZURvdWJsZUNsdXN0ZXJzIjpmYWxzZSwiRGV2aWF0aW9uUmV2ZXJzYWxTdHJlbmd0aCI6MjIsIkRldmlhdGlvblJldmVyc2FsTnVtQmFycyI6Mn0=</DetectorSettingsSerialized>
         </ApexOrderPrintsDetector_TrappedOrdersWithExauhstionBox>
         <Input>
           <PriceType>Close</PriceType>
         </Input>
       </Indicator>
-      <Indicator BarsIndex="0" Instrument="NQ 06-24 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexOrderPrintsDetector_OPRejection" Panel="2" DisplayName="OPR">
+      <Indicator BarsIndex="0" Instrument="YM 09-24 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexOrderPrintsDetector_OPRejection" Panel="2" DisplayName="OPR">
         <ApexOrderPrintsDetector_OPRejection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
           <IsVisible>true</IsVisible>
           <AreLinesConfigurable>true</AreLinesConfigurable>
@@ -1439,12 +1439,12 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2024-05-01T00:00:00</From>
+          <From>2024-08-11T00:00:00</From>
           <Panel>2</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2024-05-02T00:00:00</To>
-          <Calculate>OnBarClose</Calculate>
+          <To>2024-08-12T00:00:00</To>
+          <Calculate>OnEachTick</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
           <IsDataSeriesRequired>true</IsDataSeriesRequired>
@@ -1472,7 +1472,7 @@
               <AutoWidth>false</AutoWidth>
               <Max>1.7976931348623157E+308</Max>
               <Min>-1.7976931348623157E+308</Min>
-              <Name />
+              <Name>OPR</Name>
               <PlotStyle>TriangleRight</PlotStyle>
             </Plot>
           </Plots>
@@ -1484,13 +1484,13 @@
           <DrawOnPricePanel>false</DrawOnPricePanel>
           <PaintPriceMarkers>true</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>6138</IndicatorId>
-          <InstrumentDeserialized>NQ 06-24 Globex</InstrumentDeserialized>
+          <IndicatorId>8152</IndicatorId>
+          <InstrumentDeserialized>YM 09-24 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
           <ZOrder>10007</ZOrder>
           <SettingsSerialized>eyJJc0hpc3RvcmljYWxPbkJhckNsb3NlIjp0cnVlLCJJc1VwQ2xvc2VCYXIiOnRydWUsIklzRG93bkNsb3NlQmFyIjp0cnVlLCJSZXF1aXJlUmV2ZXJzYWxCYXIiOnRydWUsIklnbm9yZVJldmVyc2FsQmFyIjpmYWxzZSwiSXNOb3RTaWduYWxlZCI6ZmFsc2UsIklzTm90U2lnbmFsZWRQbG90Q29udGludWF0aW9uQmFycyI6ZmFsc2UsIlVzZVByaWNlVmFsdWUiOmZhbHNlLCJNYWludGFpbkxpdmVWYWx1ZSI6ZmFsc2UsIkRldGVjdG9yQ29waWVySWQiOiIiLCJPUENvcGllcklkIjoiIiwiRGV0ZWN0b3JHcm91cHMiOiIiLCJBbmRDb25kaXRpb25Hcm91cHMiOiIiLCJPckNvbmRpdGlvbkdyb3VwcyI6IiIsIlRpY2tPZmZzZXQiOjAsIlVwQ2xvc2VWYWx1ZSI6MS4wLCJVcENsb3NlTGl2ZVZhbHVlIjotMS4wLCJEb3duQ2xvc2VWYWx1ZSI6MS4wLCJEb3duQ2xvc2VMaXZlVmFsdWUiOi0xLjAsIldhaXRUaW1lb3V0Ijo2MDAwMDB9</SettingsSerialized>
-          <UserSettingsSerialized>eyJIaWRlUGxvdHMiOmZhbHNlLCJIaWRlRXh0cmFMaW5lcyI6ZmFsc2UsIkFsZXJ0TmFtZSI6IiIsIlBvdGVudGlhbEFsZXJ0cyI6eyJ2aXN1YWwiOmZhbHNlLCJhdWRpYmxlIjpmYWxzZSwid2luZG93Rmxhc2giOmZhbHNlfSwiQ29uZmlybWVkQWxlcnRzIjp7InZpc3VhbCI6ZmFsc2UsImF1ZGlibGUiOmZhbHNlLCJ3aW5kb3dGbGFzaCI6ZmFsc2V9fQ==</UserSettingsSerialized>
+          <UserSettingsSerialized>eyJIaWRlUGxvdHMiOmZhbHNlLCJIaWRlRXh0cmFMaW5lcyI6ZmFsc2UsIkFsZXJ0TmFtZSI6Ik9QUiIsIlBvdGVudGlhbEFsZXJ0cyI6eyJ2aXN1YWwiOmZhbHNlLCJhdWRpYmxlIjpmYWxzZSwid2luZG93Rmxhc2giOmZhbHNlfSwiQ29uZmlybWVkQWxlcnRzIjp7InZpc3VhbCI6ZmFsc2UsImF1ZGlibGUiOmZhbHNlLCJ3aW5kb3dGbGFzaCI6ZmFsc2V9fQ==</UserSettingsSerialized>
           <OPFunctions>
             <OrderPrintsFunctions>OPR</OrderPrintsFunctions>
           </OPFunctions>
@@ -1499,7 +1499,7 @@
           <PriceType>Close</PriceType>
         </Input>
       </Indicator>
-      <Indicator BarsIndex="0" Instrument="NQ 06-24 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexOrderPrintsDetector_OPDivergence" Panel="2" DisplayName="OPAR">
+      <Indicator BarsIndex="0" Instrument="YM 09-24 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexOrderPrintsDetector_OPDivergence" Panel="2" DisplayName="OPAR">
         <ApexOrderPrintsDetector_OPDivergence xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
           <IsVisible>true</IsVisible>
           <AreLinesConfigurable>true</AreLinesConfigurable>
@@ -1517,11 +1517,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2024-05-01T00:00:00</From>
+          <From>2024-08-11T00:00:00</From>
           <Panel>2</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2024-05-02T00:00:00</To>
+          <To>2024-08-12T00:00:00</To>
           <Calculate>OnEachTick</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>true</IsAutoScale>
@@ -1550,7 +1550,7 @@
               <AutoWidth>false</AutoWidth>
               <Max>1.7976931348623157E+308</Max>
               <Min>-1.7976931348623157E+308</Min>
-              <Name />
+              <Name>OPAR</Name>
               <PlotStyle>TriangleLeft</PlotStyle>
             </Plot>
           </Plots>
@@ -1562,13 +1562,13 @@
           <DrawOnPricePanel>false</DrawOnPricePanel>
           <PaintPriceMarkers>true</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>6141</IndicatorId>
-          <InstrumentDeserialized>NQ 06-24 Globex</InstrumentDeserialized>
+          <IndicatorId>8155</IndicatorId>
+          <InstrumentDeserialized>YM 09-24 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
           <ZOrder>10008</ZOrder>
           <SettingsSerialized>eyJJc0hpc3RvcmljYWxPbkJhckNsb3NlIjp0cnVlLCJJc1VwQ2xvc2VCYXIiOnRydWUsIklzRG93bkNsb3NlQmFyIjp0cnVlLCJSZXF1aXJlUmV2ZXJzYWxCYXIiOnRydWUsIklnbm9yZVJldmVyc2FsQmFyIjpmYWxzZSwiSXNOb3RTaWduYWxlZCI6ZmFsc2UsIklzTm90U2lnbmFsZWRQbG90Q29udGludWF0aW9uQmFycyI6ZmFsc2UsIlVzZVByaWNlVmFsdWUiOmZhbHNlLCJNYWludGFpbkxpdmVWYWx1ZSI6ZmFsc2UsIkRldGVjdG9yQ29waWVySWQiOiIiLCJPUENvcGllcklkIjoiIiwiRGV0ZWN0b3JHcm91cHMiOiIiLCJBbmRDb25kaXRpb25Hcm91cHMiOiIiLCJPckNvbmRpdGlvbkdyb3VwcyI6IiIsIlRpY2tPZmZzZXQiOjAsIlVwQ2xvc2VWYWx1ZSI6MS4wLCJVcENsb3NlTGl2ZVZhbHVlIjotMS4wLCJEb3duQ2xvc2VWYWx1ZSI6MS4wLCJEb3duQ2xvc2VMaXZlVmFsdWUiOi0xLjAsIldhaXRUaW1lb3V0Ijo2MDAwMDB9</SettingsSerialized>
-          <UserSettingsSerialized>eyJIaWRlUGxvdHMiOmZhbHNlLCJIaWRlRXh0cmFMaW5lcyI6ZmFsc2UsIkFsZXJ0TmFtZSI6IiIsIlBvdGVudGlhbEFsZXJ0cyI6eyJ2aXN1YWwiOmZhbHNlLCJhdWRpYmxlIjpmYWxzZSwid2luZG93Rmxhc2giOmZhbHNlfSwiQ29uZmlybWVkQWxlcnRzIjp7InZpc3VhbCI6ZmFsc2UsImF1ZGlibGUiOmZhbHNlLCJ3aW5kb3dGbGFzaCI6ZmFsc2V9fQ==</UserSettingsSerialized>
+          <UserSettingsSerialized>eyJIaWRlUGxvdHMiOmZhbHNlLCJIaWRlRXh0cmFMaW5lcyI6ZmFsc2UsIkFsZXJ0TmFtZSI6Ik9QQVIiLCJQb3RlbnRpYWxBbGVydHMiOnsidmlzdWFsIjpmYWxzZSwiYXVkaWJsZSI6ZmFsc2UsIndpbmRvd0ZsYXNoIjpmYWxzZX0sIkNvbmZpcm1lZEFsZXJ0cyI6eyJ2aXN1YWwiOmZhbHNlLCJhdWRpYmxlIjpmYWxzZSwid2luZG93Rmxhc2giOmZhbHNlfX0=</UserSettingsSerialized>
           <OPFunctions>
             <OrderPrintsFunctions>OPAR</OrderPrintsFunctions>
           </OPFunctions>
@@ -1577,7 +1577,7 @@
           <PriceType>Close</PriceType>
         </Input>
       </Indicator>
-      <Indicator BarsIndex="0" Instrument="NQ 06-24 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexWalls" Panel="-1" DisplayName="_APEX Walls - NQ ES YM RTY CL">
+      <Indicator BarsIndex="0" Instrument="YM 09-24 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexWalls" Panel="-1" DisplayName="_APEX Walls - NQ ES YM RTY CL">
         <ApexWalls xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
           <IsVisible>true</IsVisible>
           <AreLinesConfigurable>true</AreLinesConfigurable>
@@ -1595,11 +1595,11 @@
           </BarsPeriodSerializable>
           <BarsToLoad>0</BarsToLoad>
           <DisplayInDataBox>true</DisplayInDataBox>
-          <From>2024-05-01T00:00:00</From>
+          <From>2024-08-11T00:00:00</From>
           <Panel>-1</Panel>
           <ScaleJustification>Right</ScaleJustification>
           <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
-          <To>2024-05-02T00:00:00</To>
+          <To>2024-08-12T00:00:00</To>
           <Calculate>OnBarClose</Calculate>
           <Displacement>0</Displacement>
           <IsAutoScale>false</IsAutoScale>
@@ -1617,14 +1617,97 @@
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <PaintPriceMarkers>true</PaintPriceMarkers>
           <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
-          <IndicatorId>6144</IndicatorId>
-          <InstrumentDeserialized>NQ 06-24 Globex</InstrumentDeserialized>
+          <IndicatorId>8158</IndicatorId>
+          <InstrumentDeserialized>YM 09-24 Globex</InstrumentDeserialized>
           <MaxSerialized>0</MaxSerialized>
           <MinSerialized>0</MinSerialized>
           <ZOrder>10014</ZOrder>
           <SettingsSerialized>e30=</SettingsSerialized>
           <UserSettingsSerialized>eyJTaG93UmVndWxhcldhbGxzIjp0cnVlLCJTaG93QWxwaGFXYWxscyI6ZmFsc2UsIldhbGxPcGFjaXR5IjoxMDAsIkFscGhhV2FsbE9wYWNpdHkiOjEwMH0=</UserSettingsSerialized>
         </ApexWalls>
+        <Input>
+          <PriceType>Close</PriceType>
+        </Input>
+      </Indicator>
+      <Indicator BarsIndex="0" Instrument="YM 09-24 Globex" Name="NinjaTrader.NinjaScript.Indicators.ApexOrderPrintsDetector_ETX" Panel="2" DisplayName="_APEX Order Prints Detector - ETX">
+        <ApexOrderPrintsDetector_ETX xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+          <IsVisible>true</IsVisible>
+          <AreLinesConfigurable>true</AreLinesConfigurable>
+          <ArePlotsConfigurable>true</ArePlotsConfigurable>
+          <BarsPeriodSerializable>
+            <BarsPeriodTypeSerialize>5132</BarsPeriodTypeSerialize>
+            <BaseBarsPeriodType>Tick</BaseBarsPeriodType>
+            <BaseBarsPeriodValue>100</BaseBarsPeriodValue>
+            <VolumetricDeltaType>BidAsk</VolumetricDeltaType>
+            <MarketDataType>Last</MarketDataType>
+            <PointAndFigurePriceType>Close</PointAndFigurePriceType>
+            <ReversalType>Tick</ReversalType>
+            <Value>10</Value>
+            <Value2>50</Value2>
+          </BarsPeriodSerializable>
+          <BarsToLoad>0</BarsToLoad>
+          <DisplayInDataBox>true</DisplayInDataBox>
+          <From>2024-08-11T00:00:00</From>
+          <Panel>2</Panel>
+          <ScaleJustification>Right</ScaleJustification>
+          <ShowTransparentPlotsInDataBox>false</ShowTransparentPlotsInDataBox>
+          <To>2024-08-12T00:00:00</To>
+          <Calculate>OnPriceChange</Calculate>
+          <Displacement>0</Displacement>
+          <IsAutoScale>true</IsAutoScale>
+          <IsDataSeriesRequired>true</IsDataSeriesRequired>
+          <IsOverlay>false</IsOverlay>
+          <Lines>
+            <Line>
+              <IsOpacityVisible>false</IsOpacityVisible>
+              <BrushSerialize>&lt;SolidColorBrush xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;#FF000000&lt;/SolidColorBrush&gt;</BrushSerialize>
+              <DashStyleHelper>Solid</DashStyleHelper>
+              <Opacity>100</Opacity>
+              <Width>1</Width>
+              <Name>Zero</Name>
+              <Value>0</Value>
+            </Line>
+          </Lines>
+          <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
+          <Name>_APEX Order Prints Detector - ETX</Name>
+          <Plots>
+            <Plot>
+              <IsOpacityVisible>false</IsOpacityVisible>
+              <BrushSerialize>&lt;SolidColorBrush xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;#FF00FFFF&lt;/SolidColorBrush&gt;</BrushSerialize>
+              <DashStyleHelper>Solid</DashStyleHelper>
+              <Opacity>100</Opacity>
+              <Width>4</Width>
+              <AutoWidth>false</AutoWidth>
+              <Max>1.7976931348623157E+308</Max>
+              <Min>-1.7976931348623157E+308</Min>
+              <Name>E TX</Name>
+              <PlotStyle>Bar</PlotStyle>
+            </Plot>
+          </Plots>
+          <SelectedValueSeries>0</SelectedValueSeries>
+          <InputPlot>0</InputPlot>
+          <IsTradingHoursBreakLineVisible>true</IsTradingHoursBreakLineVisible>
+          <DrawHorizontalGridLines>true</DrawHorizontalGridLines>
+          <DrawVerticalGridLines>true</DrawVerticalGridLines>
+          <DrawOnPricePanel>false</DrawOnPricePanel>
+          <PaintPriceMarkers>false</PaintPriceMarkers>
+          <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
+          <IndicatorId>8161</IndicatorId>
+          <InstrumentDeserialized>YM 09-24 Globex</InstrumentDeserialized>
+          <MaxSerialized>0</MaxSerialized>
+          <MinSerialized>0</MinSerialized>
+          <ZOrder>10009</ZOrder>
+          <SettingsSerialized>eyJJc0hpc3RvcmljYWxPbkJhckNsb3NlIjp0cnVlLCJJc1VwQ2xvc2VCYXIiOnRydWUsIklzRG93bkNsb3NlQmFyIjp0cnVlLCJSZXF1aXJlUmV2ZXJzYWxCYXIiOnRydWUsIklnbm9yZVJldmVyc2FsQmFyIjpmYWxzZSwiSXNOb3RTaWduYWxlZCI6ZmFsc2UsIklzTm90U2lnbmFsZWRQbG90Q29udGludWF0aW9uQmFycyI6ZmFsc2UsIlVzZVByaWNlVmFsdWUiOmZhbHNlLCJNYWludGFpbkxpdmVWYWx1ZSI6ZmFsc2UsIkRldGVjdG9yQ29waWVySWQiOiIiLCJPUENvcGllcklkIjoiIiwiRGV0ZWN0b3JHcm91cHMiOiIiLCJBbmRDb25kaXRpb25Hcm91cHMiOiIiLCJPckNvbmRpdGlvbkdyb3VwcyI6IiIsIlRpY2tPZmZzZXQiOjAsIlVwQ2xvc2VWYWx1ZSI6MS4wLCJVcENsb3NlTGl2ZVZhbHVlIjotMS4wLCJEb3duQ2xvc2VWYWx1ZSI6MS4wLCJEb3duQ2xvc2VMaXZlVmFsdWUiOi0xLjAsIldhaXRUaW1lb3V0Ijo2MDAwMDB9</SettingsSerialized>
+          <UserSettingsSerialized>eyJIaWRlUGxvdHMiOmZhbHNlLCJIaWRlRXh0cmFMaW5lcyI6ZmFsc2UsIkFsZXJ0TmFtZSI6IkUgVFgiLCJQb3RlbnRpYWxBbGVydHMiOnsidmlzdWFsIjpmYWxzZSwiYXVkaWJsZSI6dHJ1ZSwid2luZG93Rmxhc2giOmZhbHNlfSwiQ29uZmlybWVkQWxlcnRzIjp7InZpc3VhbCI6ZmFsc2UsImF1ZGlibGUiOnRydWUsIndpbmRvd0ZsYXNoIjpmYWxzZX19</UserSettingsSerialized>
+          <OPFunctions>
+            <OrderPrintsFunctions>BlockOrder</OrderPrintsFunctions>
+            <OrderPrintsFunctions>MiniMagnet</OrderPrintsFunctions>
+            <OrderPrintsFunctions>PawPrint</OrderPrintsFunctions>
+            <OrderPrintsFunctions>TX</OrderPrintsFunctions>
+            <OrderPrintsFunctions>ZoneOfInterest</OrderPrintsFunctions>
+          </OPFunctions>
+          <DetectorSettingsSerialized>eyJMZXZlbE9mZnNldCI6MiwiRW5hYmxlTWluaU1hZ25ldHMiOnRydWUsIkVuYWJsZVBhd1ByaW50cyI6dHJ1ZSwiRW5hYmxlWk9JcyI6dHJ1ZSwiRW5hYmxlSUJPcyI6dHJ1ZSwiUmVxdWlyZVRYIjp0cnVlLCJSZXF1aXJlTU0iOmZhbHNlLCJSZXF1aXJlUGF3IjpmYWxzZSwiUmVxdWlyZU1Nb3JQYXciOnRydWV9</DetectorSettingsSerialized>
+        </ApexOrderPrintsDetector_ETX>
         <Input>
           <PriceType>Close</PriceType>
         </Input>
@@ -1697,7 +1780,7 @@
     </Properties>
     <ChartPanels>
       <ChartPanel>
-        <Height>1171</Height>
+        <Height>600</Height>
         <HoldChartTraderOrders>false</HoldChartTraderOrders>
         <IsMaximized>false</IsMaximized>
         <Right>
@@ -1711,8 +1794,8 @@
             <AutoScaleMarginLower>40</AutoScaleMarginLower>
             <AutoScaleMarginUpper>40</AutoScaleMarginUpper>
             <YAxisScalingType>Linear</YAxisScalingType>
-            <FixedScaleMaxSerialize>17787</FixedScaleMaxSerialize>
-            <FixedScaleMinSerialize>17737.5</FixedScaleMinSerialize>
+            <FixedScaleMaxSerialize>39565</FixedScaleMaxSerialize>
+            <FixedScaleMinSerialize>39409</FixedScaleMinSerialize>
           </ChartScaleProperties>
         </Right>
         <Left>
@@ -1747,7 +1830,7 @@
         </Overlay>
       </ChartPanel>
       <ChartPanel>
-        <Height>115</Height>
+        <Height>59</Height>
         <HoldChartTraderOrders>false</HoldChartTraderOrders>
         <IsMaximized>false</IsMaximized>
         <Right>
@@ -1761,7 +1844,7 @@
             <AutoScaleMarginLower>6</AutoScaleMarginLower>
             <AutoScaleMarginUpper>6</AutoScaleMarginUpper>
             <YAxisScalingType>Linear</YAxisScalingType>
-            <FixedScaleMaxSerialize>2.0759193357054171</FixedScaleMaxSerialize>
+            <FixedScaleMaxSerialize>2.0942184154171373</FixedScaleMaxSerialize>
             <FixedScaleMinSerialize>0</FixedScaleMinSerialize>
           </ChartScaleProperties>
         </Right>
@@ -1797,7 +1880,7 @@
         </Overlay>
       </ChartPanel>
       <ChartPanel>
-        <Height>98</Height>
+        <Height>50</Height>
         <HoldChartTraderOrders>false</HoldChartTraderOrders>
         <IsMaximized>false</IsMaximized>
         <Right>
@@ -1904,7 +1987,7 @@
     </Properties>
     <Account>Sim101</Account>
     <ATM>1_9_21</ATM>
-    <Instrument>NQ 06-24</Instrument>
+    <Instrument>YM 09-24</Instrument>
     <Quantity>1</Quantity>
     <TIF>Gtc</TIF>
   </ChartTrader>
